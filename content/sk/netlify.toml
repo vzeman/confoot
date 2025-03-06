@@ -1,7 +1,7 @@
 # Language-specific netlify.toml for sk
 [build]
   publish = "public"
-  command = "hugo --gc --minify --buildFuture --contentDir content/sk"
+  command = "hugo --gc --minify --buildFuture --contentDir content/sk --baseURL https://www.confoot.sk"
   ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF content/sk/ hugo.yaml themes/ layouts/ static/ assets/"
 
 # Redirect apex domain to www version

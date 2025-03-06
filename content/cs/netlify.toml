@@ -1,7 +1,7 @@
 # Language-specific netlify.toml for cs
 [build]
   publish = "public"
-  command = "hugo --gc --minify --buildFuture --contentDir content/cs"
+  command = "hugo --gc --minify --buildFuture --contentDir content/cs --baseURL https://www.confoot.cz"
   ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF content/cs/ hugo.yaml themes/ layouts/ static/ assets/"
 
 # Redirect apex domain to www version
