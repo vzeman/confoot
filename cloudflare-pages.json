@@ -1,0 +1,10 @@
+{
+  "build": {
+    "command": "hugo --gc --minify --cleanDestinationDir --enableGitInfo",
+    "output_directory": "public",
+    "environment_variables": {
+      "HUGO_VERSION": "0.125.4",
+      "HUGO_ENABLEGITINFO": "true"
+    }
+  }
+}
