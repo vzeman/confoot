@@ -123,10 +123,24 @@
   force = true
   conditions = {host = ["www.confoot.cz"]}
 
+[[redirects]]
+  from = "/"
+  to = "/cs/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.cz"]}
+
 # Slovak domain
 [[redirects]]
   from = "/*"
   to = "/sk/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.sk"]}
+
+[[redirects]]
+  from = "/"
+  to = "/sk/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.sk"]}
@@ -139,10 +153,24 @@
   force = true
   conditions = {host = ["www.confoot.de"]}
 
+[[redirects]]
+  from = "/"
+  to = "/de/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.de"]}
+
 # Greek domain
 [[redirects]]
   from = "/*"
   to = "/gr/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.gr"]}
+
+[[redirects]]
+  from = "/"
+  to = "/gr/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.gr"]}
@@ -155,10 +183,24 @@
   force = true
   conditions = {host = ["www.confoot.hr"]}
 
+[[redirects]]
+  from = "/"
+  to = "/hr/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.hr"]}
+
 # Lithuanian domain
 [[redirects]]
   from = "/*"
   to = "/lt/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lt"]}
+
+[[redirects]]
+  from = "/"
+  to = "/lt/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.lt"]}
@@ -171,10 +213,24 @@
   force = true
   conditions = {host = ["www.confoot.lv"]}
 
+[[redirects]]
+  from = "/"
+  to = "/lv/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lv"]}
+
 # Russian domain
 [[redirects]]
   from = "/*"
   to = "/ru/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ru"]}
+
+[[redirects]]
+  from = "/"
+  to = "/ru/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.ru"]}
@@ -187,10 +243,24 @@
   force = true
   conditions = {host = ["www.confoot.si"]}
 
+[[redirects]]
+  from = "/"
+  to = "/sl/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.si"]}
+
 # Romanian domain
 [[redirects]]
   from = "/*"
   to = "/ro/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ro"]}
+
+[[redirects]]
+  from = "/"
+  to = "/ro/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.ro"]}
@@ -203,10 +273,24 @@
   force = true
   conditions = {host = ["www.confoot.li"]}
 
+[[redirects]]
+  from = "/"
+  to = "/li/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.li"]}
+
 # Austrian domain
 [[redirects]]
   from = "/*"
   to = "/at/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.at"]}
+
+[[redirects]]
+  from = "/"
+  to = "/at/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.at"]}
@@ -219,6 +303,13 @@
   force = true
   conditions = {host = ["www.confoot.ch"]}
 
+[[redirects]]
+  from = "/"
+  to = "/ch/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ch"]}
+
 # Portuguese domain
 [[redirects]]
   from = "/*"
@@ -227,10 +318,24 @@
   force = true
   conditions = {host = ["www.confoot.pt"]}
 
+[[redirects]]
+  from = "/"
+  to = "/pt/index.html"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.pt"]}
+
 # English domain (default)
 [[redirects]]
   from = "/*"
   to = "/en/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.eu"]}
+
+[[redirects]]
+  from = "/"
+  to = "/en/index.html"
   status = 200
   force = true
   conditions = {host = ["www.confoot.eu"]}
