@@ -14,7 +14,7 @@
 # Domain-based language selection
 [[redirects]]
   from = "/*"
-  to = "/:splat"
+  to = "/ru/:splat"
   status = 200
   conditions = {host = ["www.confoot.ru"]}
 
