@@ -1,46 +1,48 @@
 // Cloudflare Pages Functions - Domain-based language routing
 export async function onRequest(context) {
-  const request = context.request;
-  const url = new URL(request.url);
-  const hostname = url.hostname;
-  let languagePrefix = '';
-
-  // Map domains to language prefixes
-  const domainLanguageMap = {
-    'www.confoot.eu': 'en',
-    'www.confoot.cz': 'cs',
-    'www.confoot.sk': 'sk',
-    'www.confoot.de': 'de',
-    'www.confoot.gr': 'gr',
-    'www.confoot.hr': 'hr',
-    'www.confoot.lt': 'lt',
-    'www.confoot.lv': 'lv',
-    'www.confoot.ru': 'ru',
-    'www.confoot.si': 'sl',
-    'www.confoot.ro': 'ro',
-    'www.confoot.li': 'li',
-    'www.confoot.at': 'at',
-    'www.confoot.ch': 'ch',
-    'www.confoot.pt': 'pt'
-  };
-
-  // Get language prefix based on hostname
-  if (domainLanguageMap[hostname]) {
-    languagePrefix = domainLanguageMap[hostname];
-  } else {
-    // Default to English for unknown domains
-    languagePrefix = 'en';
-  }
-
-  // Create new URL with language prefix
-  const newUrl = new URL(url);
-  newUrl.pathname = `/${languagePrefix}${url.pathname}`;
-
-  // Return modified request
-  return context.next({
-    request: {
-      ...request,
-      url: newUrl.toString()
+  try {
+    const request = context.request;
+    const url = new URL(request.url);
+    const hostname = url.hostname;
+    let languagePrefix = 'en'; // Default to English
+    
+    // Simple domain-to-language mapping with fallbacks
+    if (hostname.includes('confoot.cz')) languagePrefix = 'cs';
+    else if (hostname.includes('confoot.sk')) languagePrefix = 'sk';
+    else if (hostname.includes('confoot.de')) languagePrefix = 'de';
+    else if (hostname.includes('confoot.gr')) languagePrefix = 'gr';
+    else if (hostname.includes('confoot.hr')) languagePrefix = 'hr';
+    else if (hostname.includes('confoot.lt')) languagePrefix = 'lt';
+    else if (hostname.includes('confoot.lv')) languagePrefix = 'lv';
+    else if (hostname.includes('confoot.ru')) languagePrefix = 'ru';
+    else if (hostname.includes('confoot.si')) languagePrefix = 'sl';
+    else if (hostname.includes('confoot.ro')) languagePrefix = 'ro';
+    else if (hostname.includes('confoot.li')) languagePrefix = 'li';
+    else if (hostname.includes('confoot.at')) languagePrefix = 'at';
+    else if (hostname.includes('confoot.ch')) languagePrefix = 'ch';
+    else if (hostname.includes('confoot.pt')) languagePrefix = 'pt';
+    // Default is already set to 'en'
+    
+    // Skip rewriting if already accessing a language path
+    const pathParts = url.pathname.split('/').filter(Boolean);
+    if (pathParts[0] === languagePrefix) {
+      return context.next();
     }
-  });
+    
+    // Create new URL with language prefix
+    const newUrl = new URL(url);
+    newUrl.pathname = `/${languagePrefix}${url.pathname}`;
+    
+    // Return modified request
+    return context.next({
+      request: {
+        ...request,
+        url: newUrl.toString()
+      }
+    });
+  } catch (error) {
+    // If anything fails, just continue without modification
+    console.error('Error in middleware:', error);
+    return context.next();
+  }
 }
