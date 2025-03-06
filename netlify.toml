@@ -1,10 +1,9 @@
 [build]
+  command = "hugo --gc --minify --enableGitInfo --templateMetrics --templateMetricsHints --path-warnings -D -v"
   publish = "public"
-  command = "hugo --gc --minify --buildFuture --buildDrafts --buildExpired --buildFuture"
 
 [build.environment]
-  HUGO_VERSION = "0.120.4"
-  HUGO_ENV = "production"
+  HUGO_VERSION = "0.125.4"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -115,110 +114,96 @@
   force = true
 
 # Domain-based language selection with rewrites to language directories
-# Czech domain - serve content from /cs/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/:lang/:splat"
+  status = 200
+  force = false
+  conditions = {Host = ["www.confoot.eu"]}
+
 [[redirects]]
   from = "/*"
   to = "/cs/:splat"
   status = 200
-  conditions = {host = ["www.confoot.cz"]}
+  conditions = {Host = ["www.confoot.cz"]}
 
-# Slovak domain - serve content from /sk/ subfolder
 [[redirects]]
   from = "/*"
   to = "/sk/:splat"
   status = 200
-  conditions = {host = ["www.confoot.sk"]}
+  conditions = {Host = ["www.confoot.sk"]}
 
-# German domain - serve content from /de/ subfolder
 [[redirects]]
   from = "/*"
   to = "/de/:splat"
   status = 200
-  conditions = {host = ["www.confoot.de"]}
+  conditions = {Host = ["www.confoot.de"]}
 
-# Greek domain - serve content from /gr/ subfolder
 [[redirects]]
   from = "/*"
   to = "/gr/:splat"
   status = 200
-  conditions = {host = ["www.confoot.gr"]}
+  conditions = {Host = ["www.confoot.gr"]}
 
-# Croatian domain - serve content from /hr/ subfolder
 [[redirects]]
   from = "/*"
   to = "/hr/:splat"
   status = 200
-  conditions = {host = ["www.confoot.hr"]}
+  conditions = {Host = ["www.confoot.hr"]}
 
-# Lithuanian domain - serve content from /lt/ subfolder
 [[redirects]]
   from = "/*"
   to = "/lt/:splat"
   status = 200
-  conditions = {host = ["www.confoot.lt"]}
+  conditions = {Host = ["www.confoot.lt"]}
 
-# Latvian domain - serve content from /lv/ subfolder
 [[redirects]]
   from = "/*"
   to = "/lv/:splat"
   status = 200
-  conditions = {host = ["www.confoot.lv"]}
+  conditions = {Host = ["www.confoot.lv"]}
 
-# Russian domain - serve content from /ru/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ru/:splat"
   status = 200
-  conditions = {host = ["www.confoot.ru"]}
+  conditions = {Host = ["www.confoot.ru"]}
 
-# Slovenian domain - serve content from /sl/ subfolder
 [[redirects]]
   from = "/*"
   to = "/sl/:splat"
   status = 200
-  conditions = {host = ["www.confoot.si"]}
+  conditions = {Host = ["www.confoot.si"]}
 
-# Romanian domain - serve content from /ro/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ro/:splat"
   status = 200
-  conditions = {host = ["www.confoot.ro"]}
+  conditions = {Host = ["www.confoot.ro"]}
 
-# Liechtenstein domain - serve content from /li/ subfolder
 [[redirects]]
   from = "/*"
   to = "/li/:splat"
   status = 200
-  conditions = {host = ["www.confoot.li"]}
+  conditions = {Host = ["www.confoot.li"]}
 
-# Austrian domain - serve content from /at/ subfolder
 [[redirects]]
   from = "/*"
   to = "/at/:splat"
   status = 200
-  conditions = {host = ["www.confoot.at"]}
+  conditions = {Host = ["www.confoot.at"]}
 
-# Swiss domain - serve content from /ch/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ch/:splat"
   status = 200
-  conditions = {host = ["www.confoot.ch"]}
+  conditions = {Host = ["www.confoot.ch"]}
 
-# Portuguese domain - serve content from /pt/ subfolder
 [[redirects]]
   from = "/*"
   to = "/pt/:splat"
   status = 200
-  conditions = {host = ["www.confoot.pt"]}
-
-# English domain (primary) - serve content from /en/ subfolder
-[[redirects]]
-  from = "/*"
-  to = "/en/:splat"
-  status = 200
-  conditions = {host = ["www.confoot.eu"]}
+  conditions = {Host = ["www.confoot.pt"]}
 
 # Security headers
 [[headers]]

@@ -2,106 +2,20 @@ baseURL: https://www.confoot.eu
 languageCode: en
 title: ConFoot
 theme: confoot
-defaultContentLanguage: cs
+defaultContentLanguage: en
 
-# Add language code to URLs to generate proper directories
-languageCodeInURL: true
+# Disable automatic language code in URLs
+languageCodeInURL: false
 
-# Don't pluralize URLs
 pluralizeListTitles: false
-
-# Domain-based language selection
 disableLanguages: []
 disablePathToLower: false
-
-# Ensure proper language handling
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
-  cs:
-    languageName: Čeština
-    weight: 1
-    contentDir: content/cs
-    title: Confoot - Zjednodušte logistiku přepravních kontejnerů
-    baseURL: https://www.confoot.cz
-    params:
-      description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
-      flag: "🇨🇿"
-    menu:
-      main:
-        - identifier: home
-          name: ConFoot
-          url: /
-          weight: 1
-        - identifier: products
-          name: Produkty
-          url: /products
-          weight: 2
-        - identifier: about
-          name: O nás
-          url: /about
-          weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
-  sk:
-    languageName: Slovenčina
-    weight: 2
-    contentDir: content/sk
-    title: Confoot - Zjednodušte logistiku prepravných kontajnerov
-    baseURL: https://www.confoot.sk
-    params:
-      description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
-      flag: "🇸🇰"
-    menu:
-      main:
-        - identifier: home
-          name: ConFoot
-          url: /
-          weight: 1
-        - identifier: products
-          name: Produkty
-          url: /products
-          weight: 2
-        - identifier: about
-          name: O nás
-          url: /about
-          weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
-  de:
-    languageName: Deutsch
-    weight: 3
-    contentDir: content/de
-    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.de
-    params:
-      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
-      flag: "🇩🇪"
-    menu:
-      main:
-        - identifier: home
-          name: ConFoot
-          url: /
-          weight: 1
-        - identifier: products
-          name: Produkte
-          url: /products
-          weight: 2
-        - identifier: about
-          name: Über uns
-          url: /about
-          weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
   en:
     languageName: English
-    weight: 4
+    weight: 1
     contentDir: content/en
     title: Confoot - Simplify shipping container logistics
     baseURL: https://www.confoot.eu
@@ -126,15 +40,16 @@ languages:
           name: Contact
           url: /contact
           weight: 4
-  en-GB:
-    languageName: English (UK)
-    weight: 5
-    contentDir: content/en
-    title: Confoot - Simplify shipping container logistics
-    baseURL: https://www.confoot.eu
+
+  cs:
+    languageName: Čeština
+    weight: 2
+    contentDir: content/cs
+    title: Confoot - Zjednodušte logistiku přepravních kontejnerů
+    baseURL: https://www.confoot.cz
     params:
-      description: "Simplify shipping container logistics with Confoot"
-      flag: "🇬🇧"
+      description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
+      flag: "🇨🇿"
     menu:
       main:
         - identifier: home
@@ -142,20 +57,77 @@ languages:
           url: /
           weight: 1
         - identifier: products
-          name: Products
+          name: Produkty
           url: /products
           weight: 2
         - identifier: about
-          name: About
+          name: O nás
           url: /about
           weight: 3
         - identifier: contact
-          name: Contact
+          name: Kontakt
           url: /contact
           weight: 4
+
+  sk:
+    languageName: Slovenčina
+    weight: 3
+    contentDir: content/sk
+    title: Confoot - Zjednodušte logistiku prepravných kontajnerov
+    baseURL: https://www.confoot.sk
+    params:
+      description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
+      flag: "🇸🇰"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkty
+          url: /products
+          weight: 2
+        - identifier: about
+          name: O nás
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+
+  de:
+    languageName: Deutsch
+    weight: 4
+    contentDir: content/de
+    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    baseURL: https://www.confoot.de
+    params:
+      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
+      flag: "🇩🇪"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+
   gr:
     languageName: Ελληνικά
-    weight: 6
+    weight: 5
     contentDir: content/gr
     title: Confoot - Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων
     baseURL: https://www.confoot.gr
@@ -180,9 +152,10 @@ languages:
           name: Επικοινωνία
           url: /contact
           weight: 4
+
   hr:
     languageName: Hrvatski
-    weight: 7
+    weight: 6
     contentDir: content/hr
     title: Confoot - Pojednostavite logistiku kontejnera za prijevoz
     baseURL: https://www.confoot.hr
@@ -207,9 +180,10 @@ languages:
           name: Kontakt
           url: /contact
           weight: 4
+
   lt:
     languageName: Lietuvių
-    weight: 8
+    weight: 7
     contentDir: content/lt
     title: Confoot - Supaprastinkite konteinerių logistiką
     baseURL: https://www.confoot.lt
@@ -234,9 +208,10 @@ languages:
           name: Kontaktai
           url: /contact
           weight: 4
+
   ru:
     languageName: Русский
-    weight: 9
+    weight: 8
     contentDir: content/ru
     title: Confoot - Упростите логистику транспортных контейнеров
     baseURL: https://www.confoot.ru
@@ -261,9 +236,10 @@ languages:
           name: Контакты
           url: /contact
           weight: 4
+
   lv:
     languageName: Latviešu
-    weight: 10
+    weight: 9
     contentDir: content/lv
     title: Confoot - Vienkāršojiet konteineru loģistiku
     baseURL: https://www.confoot.lv
@@ -288,9 +264,10 @@ languages:
           name: Kontakti
           url: /contact
           weight: 4
+
   sl:
     languageName: Slovenščina
-    weight: 11
+    weight: 10
     contentDir: content/sl
     title: Confoot - Poenostavite logistiko transportnih zabojnikov
     baseURL: https://www.confoot.si
@@ -315,9 +292,10 @@ languages:
           name: Kontakt
           url: /contact
           weight: 4
+
   ro:
     languageName: Română
-    weight: 12
+    weight: 11
     contentDir: content/ro
     title: Confoot - Simplificați logistica containerelor de transport
     baseURL: https://www.confoot.ro
@@ -342,9 +320,10 @@ languages:
           name: Contact
           url: /contact
           weight: 4
+
   li:
     languageName: Deutsch (Liechtenstein)
-    weight: 13
+    weight: 12
     contentDir: content/li
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
     baseURL: https://www.confoot.li
@@ -369,9 +348,10 @@ languages:
           name: Kontakt
           url: /contact
           weight: 4
+
   at:
     languageName: Deutsch (Österreich)
-    weight: 14
+    weight: 13
     contentDir: content/at
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
     baseURL: https://www.confoot.at
@@ -396,9 +376,10 @@ languages:
           name: Kontakt
           url: /contact
           weight: 4
+
   ch:
     languageName: Deutsch (Schweiz)
-    weight: 15
+    weight: 14
     contentDir: content/ch
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
     baseURL: https://www.confoot.ch
@@ -423,9 +404,10 @@ languages:
           name: Kontakt
           url: /contact
           weight: 4
+
   pt:
     languageName: Português
-    weight: 16
+    weight: 15
     contentDir: content/pt
     title: Confoot - Simplifique a logística de contentores de transporte
     baseURL: https://www.confoot.pt
