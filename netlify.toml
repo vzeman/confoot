@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify --enableGitInfo --templateMetrics --templateMetricsHints --path-warnings -D -v"
+  command = "hugo --gc --minify --enableGitInfo --templateMetrics --templateMetricsHints -D -v"
   publish = "public"
 
 [build.environment]
