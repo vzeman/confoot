@@ -114,6 +114,127 @@
   status = 301
   force = true
 
+# Domain-based language selection with rewrites to language directories
+# Czech domain - serve content from /cs/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/cs/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.cz"]}
+
+# Slovak domain - serve content from /sk/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/sk/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.sk"]}
+
+# German domain - serve content from /de/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/de/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.de"]}
+
+# Greek domain - serve content from /gr/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/gr/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.gr"]}
+
+# Croatian domain - serve content from /hr/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/hr/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.hr"]}
+
+# Lithuanian domain - serve content from /lt/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/lt/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lt"]}
+
+# Latvian domain - serve content from /lv/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/lv/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lv"]}
+
+# Russian domain - serve content from /ru/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/ru/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ru"]}
+
+# Slovenian domain - serve content from /sl/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/sl/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.si"]}
+
+# Romanian domain - serve content from /ro/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/ro/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ro"]}
+
+# Liechtenstein domain - serve content from /li/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/li/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.li"]}
+
+# Austrian domain - serve content from /at/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/at/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.at"]}
+
+# Swiss domain - serve content from /ch/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/ch/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ch"]}
+
+# Portuguese domain - serve content from /pt/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/pt/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.pt"]}
+
+# Default to English for EU domain - serve content from /en/ subfolder
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.eu"]}
+
 # Security headers
 [[headers]]
   for = "/*"
