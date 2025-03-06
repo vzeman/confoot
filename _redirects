@@ -1,60 +1,45 @@
 # Domain-based language selection with rewrites to language directories
 # Czech domain - serve content from /cs/ subfolder
-https://www.confoot.cz/ /cs/ 200
 https://www.confoot.cz/* /cs/:splat 200
 
 # Slovak domain - serve content from /sk/ subfolder
-https://www.confoot.sk/ /sk/ 200
 https://www.confoot.sk/* /sk/:splat 200
 
 # German domain - serve content from /de/ subfolder
-https://www.confoot.de/ /de/ 200
 https://www.confoot.de/* /de/:splat 200
 
-# Greek domain - serve content from /en/ subfolder (temporarily until Greek content is created)
-https://www.confoot.gr/ /en/ 200
-https://www.confoot.gr/* /en/:splat 200
+# Greek domain - serve content from /gr/ subfolder
+https://www.confoot.gr/* /gr/:splat 200
 
-# Croatian domain - serve content from /en/ subfolder (temporarily until Croatian content is created)
-https://www.confoot.hr/ /en/ 200
-https://www.confoot.hr/* /en/:splat 200
+# Croatian domain - serve content from /hr/ subfolder
+https://www.confoot.hr/* /hr/:splat 200
 
-# Lithuanian domain - serve content from /en/ subfolder (temporarily until Lithuanian content is created)
-https://www.confoot.lt/ /en/ 200
-https://www.confoot.lt/* /en/:splat 200
+# Lithuanian domain - serve content from /lt/ subfolder
+https://www.confoot.lt/* /lt/:splat 200
 
-# Latvian domain - serve content from /en/ subfolder (temporarily until Latvian content is created)
-https://www.confoot.lv/ /en/ 200
-https://www.confoot.lv/* /en/:splat 200
+# Latvian domain - serve content from /lv/ subfolder
+https://www.confoot.lv/* /lv/:splat 200
 
-# Russian domain - serve content from /en/ subfolder (temporarily until Russian content is created)
-https://www.confoot.ru/ /en/ 200
-https://www.confoot.ru/* /en/:splat 200
+# Russian domain - serve content from /ru/ subfolder
+https://www.confoot.ru/* /ru/:splat 200
 
-# Slovenian domain - serve content from /en/ subfolder (temporarily until Slovenian content is created)
-https://www.confoot.si/ /en/ 200
-https://www.confoot.si/* /en/:splat 200
+# Slovenian domain - serve content from /sl/ subfolder
+https://www.confoot.si/* /sl/:splat 200
 
-# Romanian domain - serve content from /en/ subfolder (temporarily until Romanian content is created)
-https://www.confoot.ro/ /en/ 200
-https://www.confoot.ro/* /en/:splat 200
+# Romanian domain - serve content from /ro/ subfolder
+https://www.confoot.ro/* /ro/:splat 200
 
-# Liechtenstein domain - serve content from /de/ subfolder (temporarily until Liechtenstein content is created)
-https://www.confoot.li/ /de/ 200
-https://www.confoot.li/* /de/:splat 200
+# Liechtenstein domain - serve content from /li/ subfolder
+https://www.confoot.li/* /li/:splat 200
 
-# Austrian domain - serve content from /de/ subfolder (temporarily until Austrian content is created)
-https://www.confoot.at/ /de/ 200
-https://www.confoot.at/* /de/:splat 200
+# Austrian domain - serve content from /at/ subfolder
+https://www.confoot.at/* /at/:splat 200
 
-# Swiss domain - serve content from /de/ subfolder (temporarily until Swiss content is created)
-https://www.confoot.ch/ /de/ 200
-https://www.confoot.ch/* /de/:splat 200
+# Swiss domain - serve content from /ch/ subfolder
+https://www.confoot.ch/* /ch/:splat 200
 
-# Portuguese domain - serve content from /en/ subfolder (temporarily until Portuguese content is created)
-https://www.confoot.pt/ /en/ 200
-https://www.confoot.pt/* /en/:splat 200
+# Portuguese domain - serve content from /pt/ subfolder
+https://www.confoot.pt/* /pt/:splat 200
 
 # Default to English for EU domain - serve content from /en/ subfolder
-https://www.confoot.eu/ /en/ 200
 https://www.confoot.eu/* /en/:splat 200
