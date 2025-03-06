@@ -114,96 +114,102 @@
   status = 301
   force = true
 
-# Domain-based language redirects
+# Language path handling
 [[redirects]]
-  from = "https://www.confoot.cz/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/cs/*"
+  to = "https://www.confoot.cz/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.sk/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/sk/*"
+  to = "https://www.confoot.sk/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.de/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/de/*"
+  to = "https://www.confoot.de/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.gr/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/gr/*"
+  to = "https://www.confoot.gr/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.hr/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/hr/*"
+  to = "https://www.confoot.hr/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.lt/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/lt/*"
+  to = "https://www.confoot.lt/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.lv/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/lv/*"
+  to = "https://www.confoot.lv/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.ru/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/ru/*"
+  to = "https://www.confoot.ru/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.si/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/si/*"
+  to = "https://www.confoot.si/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.ro/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/ro/*"
+  to = "https://www.confoot.ro/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.li/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/li/*"
+  to = "https://www.confoot.li/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.at/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/at/*"
+  to = "https://www.confoot.at/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.ch/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/ch/*"
+  to = "https://www.confoot.ch/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.pt/*"
-  to = ":splat"
-  status = 200
-  force = false
+  from = "/pt/*"
+  to = "https://www.confoot.pt/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
-  from = "https://www.confoot.eu/en/*"
+  from = "/en/*"
   to = "https://www.confoot.eu/:splat"
   status = 301
   force = true
+
+# Fallback redirect for root path
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
 
 [[headers]]
   for = "/*"
