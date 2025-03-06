@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Script to update language-specific netlify.toml files for monorepo setup
-# Based on Netlify's recommended monorepo setup
+# Script to update language-specific netlify.toml files
+# This ensures each language has its own netlify.toml file with the correct configurations
 
 # Template file
 TEMPLATE_FILE="language-netlify-template.toml"

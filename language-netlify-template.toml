@@ -1,8 +1,8 @@
 # Language-specific netlify.toml for LANG_CODE
 [build]
-  publish = "public/LANG_CODE"
-  command = "cd .. && hugo --gc --minify --buildFuture -d public/LANG_CODE --contentDir content/LANG_CODE"
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF . ../hugo.yaml ../themes/ ../layouts/ ../static/ ../assets/"
+  publish = "public"
+  command = "hugo --gc --minify --buildFuture --contentDir content/LANG_CODE"
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF content/LANG_CODE/ hugo.yaml themes/ layouts/ static/ assets/"
 
 # Redirect apex domain to www version
 [[redirects]]
@@ -14,7 +14,7 @@
 # Domain-based language selection
 [[redirects]]
   from = "/*"
-  to = "/LANG_CODE/:splat"
+  to = "/:splat"
   status = 200
   conditions = {host = ["www.confoot.DOMAIN_TLD"]}
 
