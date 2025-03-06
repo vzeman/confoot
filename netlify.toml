@@ -116,7 +116,7 @@
 # Domain-based language selection with rewrites to language directories
 [[redirects]]
   from = "/*"
-  to = "/:lang/:splat"
+  to = "/en/:splat"
   status = 200
   force = false
   conditions = {Host = ["www.confoot.eu"]}
