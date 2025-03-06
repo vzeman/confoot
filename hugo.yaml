@@ -1,0 +1,450 @@
+baseURL: https://confoot.cz/
+title: Confoot
+theme: confoot
+
+# Language settings
+defaultContentLanguage: cs
+defaultContentLanguageInSubdir: false
+
+languages:
+  cs:
+    languageName: Čeština
+    weight: 1
+    contentDir: content/cs
+    title: Confoot - Zjednodušte logistiku přepravních kontejnerů
+    baseURL: https://www.confoot.cz/
+    params:
+      description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
+      flag: "🇨🇿"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkty
+          url: /products
+          weight: 2
+        - identifier: about
+          name: O nás
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  en:
+    languageName: English
+    weight: 2
+    contentDir: content/en
+    title: Confoot - Simplify shipping container logistics
+    baseURL: https://www.confoot.eu/
+    params:
+      description: "Simplify shipping container logistics with Confoot"
+      flag: "🇪🇺"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Products
+          url: /products
+          weight: 2
+        - identifier: about
+          name: About
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Contact
+          url: /contact
+          weight: 4
+  sk:
+    languageName: Slovenčina
+    weight: 3
+    contentDir: content/sk
+    title: Confoot - Zjednodušte logistiku prepravných kontajnerov
+    baseURL: https://www.confoot.sk/
+    params:
+      description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
+      flag: "🇸🇰"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkty
+          url: /products
+          weight: 2
+        - identifier: about
+          name: O nás
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  de:
+    languageName: Deutsch
+    weight: 4
+    contentDir: content/de
+    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    baseURL: https://www.confoot.de/
+    params:
+      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
+      flag: "🇩🇪"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  gr:
+    languageName: Ελληνικά
+    weight: 5
+    contentDir: content/gr
+    title: Confoot - Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων
+    baseURL: https://www.confoot.gr/
+    params:
+      description: "Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων με την Confoot"
+      flag: "🇬🇷"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Προϊόντα
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Σχετικά με εμάς
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Επικοινωνία
+          url: /contact
+          weight: 4
+  en-GB:
+    languageName: English (UK)
+    weight: 6
+    contentDir: content/en-GB
+    title: Confoot - Simplify shipping container logistics
+    baseURL: https://www.confoot.co.uk/
+    params:
+      description: "Simplify shipping container logistics with Confoot"
+      flag: "🇬🇧"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Products
+          url: /products
+          weight: 2
+        - identifier: about
+          name: About
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Contact
+          url: /contact
+          weight: 4
+  hr:
+    languageName: Hrvatski
+    weight: 7
+    contentDir: content/hr
+    title: Confoot - Pojednostavite logistiku kontejnera za prijevoz
+    baseURL: https://www.confoot.hr/
+    params:
+      description: "Pojednostavite logistiku kontejnera za prijevoz s Confoot"
+      flag: "🇭🇷"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Proizvodi
+          url: /products
+          weight: 2
+        - identifier: about
+          name: O nama
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  lt:
+    languageName: Lietuvių
+    weight: 8
+    contentDir: content/lt
+    title: Confoot - Supaprastinkite konteinerių logistiką
+    baseURL: https://www.confoot.lt/
+    params:
+      description: "Supaprastinkite konteinerių logistiką su Confoot"
+      flag: "🇱🇹"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produktai
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Apie mus
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontaktai
+          url: /contact
+          weight: 4
+  ru:
+    languageName: Русский
+    weight: 9
+    contentDir: content/ru
+    title: Confoot - Упростите логистику транспортных контейнеров
+    baseURL: https://www.confoot.ru/
+    params:
+      description: "Упростите логистику транспортных контейнеров с Confoot"
+      flag: "🇷🇺"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Продукты
+          url: /products
+          weight: 2
+        - identifier: about
+          name: О нас
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Контакты
+          url: /contact
+          weight: 4
+  lv:
+    languageName: Latviešu
+    weight: 10
+    contentDir: content/lv
+    title: Confoot - Vienkāršojiet konteineru loģistiku
+    baseURL: https://www.confoot.lv/
+    params:
+      description: "Vienkāršojiet konteineru loģistiku ar Confoot"
+      flag: "🇱🇻"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkti
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Par mums
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakti
+          url: /contact
+          weight: 4
+  sl:
+    languageName: Slovenščina
+    weight: 11
+    contentDir: content/sl
+    title: Confoot - Poenostavite logistiko transportnih zabojnikov
+    baseURL: https://www.confoot.si/
+    params:
+      description: "Poenostavite logistiko transportnih zabojnikov s Confoot"
+      flag: "🇸🇮"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Izdelki
+          url: /products
+          weight: 2
+        - identifier: about
+          name: O nas
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  ro:
+    languageName: Română
+    weight: 12
+    contentDir: content/ro
+    title: Confoot - Simplificați logistica containerelor de transport
+    baseURL: https://www.confoot.ro/
+    params:
+      description: "Simplificați logistica containerelor de transport cu Confoot"
+      flag: "🇷🇴"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produse
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Despre noi
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Contact
+          url: /contact
+          weight: 4
+  li:
+    languageName: Deutsch (Liechtenstein)
+    weight: 13
+    contentDir: content/li
+    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    baseURL: https://www.confoot.li/
+    params:
+      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
+      flag: "🇱🇮"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  at:
+    languageName: Deutsch (Österreich)
+    weight: 14
+    contentDir: content/at
+    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    baseURL: https://www.confoot.at/
+    params:
+      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
+      flag: "🇦🇹"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  ch:
+    languageName: Deutsch (Schweiz)
+    weight: 15
+    contentDir: content/ch
+    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    baseURL: https://www.confoot.ch/
+    params:
+      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
+      flag: "🇨🇭"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Kontakt
+          url: /contact
+          weight: 4
+  pt:
+    languageName: Português
+    weight: 16
+    contentDir: content/pt
+    title: Confoot - Simplifique a logística de contentores de transporte
+    baseURL: https://www.confoot.pt/
+    params:
+      description: "Simplifique a logística de contentores de transporte com Confoot"
+      flag: "🇵🇹"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produtos
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Sobre nós
+          url: /about
+          weight: 3
+        - identifier: contact
+          name: Contacto
+          url: /contact
+          weight: 4
+
+params:
+  contact:
+    email: info@confoot.cz
+    phone: "+420 123 456 789"
+    address: "Prague, Czech Republic"
+  social:
+    facebook: "https://facebook.com/confoot"
+    linkedin: "https://linkedin.com/company/confoot"

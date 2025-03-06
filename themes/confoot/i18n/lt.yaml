@@ -1,0 +1,42 @@
+# Lithuanian translations
+contact_us: "Susisiekite su mumis"
+view_products: "Peržiūrėti produktus"
+view_all_products: "Peržiūrėti visus produktus"
+learn_more: "Sužinoti daugiau"
+how_it_works: "Kaip tai veikia"
+key_features: "Pagrindinės savybės"
+our_products: "Mūsų produktai"
+quick_links: "Greitos nuorodos"
+all_rights_reserved: "Visos teisės saugomos"
+ready_to_simplify: "Pasiruošę supaprastinti konteinerių logistiką?"
+cta_description: "Susisiekite su mumis šiandien ir sužinokite, kaip Confoot gali pagerinti jūsų konteinerių tvarkymo operacijas."
+get_in_touch: "Susisiekite"
+banner_text: "Nešvaistykite laiko pakrovimo dokuose, siųskite savo vilkiką nedelsiant kitam darbui."
+language: "Kalba"
+
+# Menu items
+menu_home: "Pradžia"
+menu_products: "Produktai"
+menu_about: "Apie mus"
+menu_contact: "Kontaktai"
+
+# Steps
+step_1_title: "Pasirinkite produktą"
+step_1_description: "Pasirinkite Confoot produktą, kuris geriausiai atitinka jūsų konteinerių tvarkymo poreikius."
+step_2_title: "Lengvas montavimas"
+step_2_description: "Greitas ir paprastas montavimo procesas, kuriam reikia minimalaus apmokymo."
+step_3_title: "Mėgaukitės privalumais"
+step_3_description: "Patirkite didesnį saugumą, efektyvumą ir išlaidų taupymą savo konteinerių operacijose."
+
+# Features
+feature_1_title: "Padidintas saugumas"
+feature_1_description: "Pagerintas stabilumas ir saugumas konteinerių tvarkymo operacijoms."
+feature_2_title: "Išlaidų efektyvumas"
+feature_2_description: "Sumažinkite veiklos išlaidas ir padidinkite efektyvumą savo logistikoje."
+feature_3_title: "Paprasta naudoti"
+feature_3_description: "Paprastas montavimas ir naudojimas su minimaliais apmokymo reikalavimais."
+
+# Products
+product_1_description: "Transportavimo konteineriai"
+product_2_description: "Transportavimo konteineriai"
+product_3_description: "Transportavimo konteineriai"

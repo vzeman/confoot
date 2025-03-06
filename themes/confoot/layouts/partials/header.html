@@ -1,0 +1,62 @@
+<div class="container mx-auto px-4 py-3">
+  <div class="flex justify-between items-center">
+    <!-- Logo -->
+    <a href="{{ .Site.Home.RelPermalink }}" class="flex items-center">
+      <img src="{{ "images/confoot-logo.jpg" | relURL }}" alt="{{ .Site.Title }}" class="h-10">
+    </a>
+
+    <!-- Main Navigation -->
+    <nav class="hidden md:flex space-x-6">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+        {{ $translationKey := printf "menu_%s" .Identifier }}
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-bold {{ if $currentPage.IsMenuCurrent "main" . }}text-yellow-500{{ end }}">
+          {{ i18n $translationKey }}
+        </a>
+      {{ end }}
+    </nav>
+
+    <!-- Language Switcher -->
+    <div class="flex items-center space-x-4">
+      <div class="relative group">
+        <button class="flex items-center space-x-1 text-sm font-bold">
+          <span>{{ i18n "language" }}: {{ .Site.Language.LanguageName }}</span>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+        <div class="absolute right-0 mt-2 w-40 bg-yellow-500 rounded-md shadow-lg py-1 z-10 hidden group-hover:block">
+          {{ range .Site.Home.AllTranslations }}
+            <a href="{{ .RelPermalink }}" class="block px-4 py-2 text-sm text-white hover:bg-yellow-600 font-bold">
+              {{ .Language.LanguageName }}
+            </a>
+          {{ end }}
+        </div>
+      </div>
+
+      <!-- Contact Button -->
+      <a href="{{ "contact" | relLangURL }}" class="bg-yellow-500 text-white px-4 py-2 rounded-md text-sm font-bold hover:bg-yellow-600 transition-colors">
+        {{ i18n "contact_us" | default "Contact Us" }}
+      </a>
+
+      <!-- Mobile Menu Button -->
+      <button id="mobile-menu-button" class="md:hidden flex items-center font-bold">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="md:hidden hidden mt-4 pb-4">
+    <nav class="flex flex-col space-y-4">
+      {{ range .Site.Menus.main }}
+        {{ $translationKey := printf "menu_%s" .Identifier }}
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-bold">
+          {{ i18n $translationKey }}
+        </a>
+      {{ end }}
+    </nav>
+  </div>
+</div>

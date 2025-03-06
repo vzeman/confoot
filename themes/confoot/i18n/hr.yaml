@@ -1,0 +1,42 @@
+# Croatian translations
+contact_us: "Kontaktirajte nas"
+view_products: "Pogledajte proizvode"
+view_all_products: "Pogledajte sve proizvode"
+learn_more: "Saznajte više"
+how_it_works: "Kako to funkcionira"
+key_features: "Ključne značajke"
+our_products: "Naši proizvodi"
+quick_links: "Brzi linkovi"
+all_rights_reserved: "Sva prava pridržana"
+ready_to_simplify: "Spremni pojednostaviti logistiku kontejnera?"
+cta_description: "Kontaktirajte nas danas da saznate kako Confoot može poboljšati vaše operacije s kontejnerima."
+get_in_touch: "Stupite u kontakt"
+banner_text: "Ne gubite vrijeme na utovarnim rampama, pošaljite svoj traktor odmah na sljedeći posao."
+language: "Jezik"
+
+# Menu items
+menu_home: "Početna"
+menu_products: "Proizvodi"
+menu_about: "O nama"
+menu_contact: "Kontakt"
+
+# Steps
+step_1_title: "Odaberite svoj proizvod"
+step_1_description: "Odaberite Confoot proizvod koji najbolje odgovara vašim potrebama rukovanja kontejnerima."
+step_2_title: "Jednostavna instalacija"
+step_2_description: "Brz i jednostavan proces instalacije koji zahtijeva minimalnu obuku."
+step_3_title: "Uživajte u prednostima"
+step_3_description: "Doživite poboljšanu sigurnost, učinkovitost i uštede troškova u vašim operacijama s kontejnerima."
+
+# Features
+feature_1_title: "Poboljšana sigurnost"
+feature_1_description: "Poboljšana stabilnost i sigurnost za operacije rukovanja kontejnerima."
+feature_2_title: "Troškovna učinkovitost"
+feature_2_description: "Smanjite operativne troškove i povećajte učinkovitost u vašoj logistici."
+feature_3_title: "Jednostavno za korištenje"
+feature_3_description: "Jednostavna instalacija i rad s minimalnim zahtjevima za obukom."
+
+# Products
+product_1_description: "Transportni kontejneri"
+product_2_description: "Transportni kontejneri"
+product_3_description: "Transportni kontejneri"

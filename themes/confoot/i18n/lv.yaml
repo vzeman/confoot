@@ -1,0 +1,42 @@
+# Latvian translations
+contact_us: "Sazinieties ar mums"
+view_products: "Skatīt produktus"
+view_all_products: "Skatīt visus produktus"
+learn_more: "Uzzināt vairāk"
+how_it_works: "Kā tas darbojas"
+key_features: "Galvenās iezīmes"
+our_products: "Mūsu produkti"
+quick_links: "Ātrās saites"
+all_rights_reserved: "Visas tiesības aizsargātas"
+ready_to_simplify: "Gatavi vienkāršot konteineru loģistiku?"
+cta_description: "Sazinieties ar mums šodien, lai uzzinātu, kā Confoot var uzlabot jūsu konteineru apstrādes darbības."
+get_in_touch: "Sazināties"
+banner_text: "Netērējiet laiku iekraušanas dokos, sūtiet savu traktoru nekavējoties uz nākamo darbu."
+language: "Valoda"
+
+# Menu items
+menu_home: "Sākums"
+menu_products: "Produkti"
+menu_about: "Par mums"
+menu_contact: "Kontakti"
+
+# Steps
+step_1_title: "Izvēlieties savu produktu"
+step_1_description: "Izvēlieties Confoot produktu, kas vislabāk atbilst jūsu konteineru apstrādes vajadzībām."
+step_2_title: "Vienkārša uzstādīšana"
+step_2_description: "Ātrs un vienkāršs uzstādīšanas process, kas prasa minimālu apmācību."
+step_3_title: "Baudiet priekšrocības"
+step_3_description: "Piedzīvojiet uzlabotu drošību, efektivitāti un izmaksu ietaupījumus savās konteineru darbībās."
+
+# Features
+feature_1_title: "Uzlabota drošība"
+feature_1_description: "Uzlabota stabilitāte un drošība konteineru apstrādes darbībām."
+feature_2_title: "Izmaksu efektivitāte"
+feature_2_description: "Samaziniet darbības izmaksas un palieliniet efektivitāti savā loģistikā."
+feature_3_title: "Vienkārši lietojams"
+feature_3_description: "Vienkārša uzstādīšana un darbība ar minimālām apmācības prasībām."
+
+# Products
+product_1_description: "Transporta konteineri"
+product_2_description: "Transporta konteineri"
+product_3_description: "Transporta konteineri"

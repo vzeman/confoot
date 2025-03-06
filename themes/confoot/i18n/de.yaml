@@ -1,0 +1,42 @@
+# German translations
+contact_us: "Kontaktieren Sie uns"
+view_products: "Produkte anzeigen"
+view_all_products: "Alle Produkte anzeigen"
+learn_more: "Mehr erfahren"
+how_it_works: "Wie es funktioniert"
+key_features: "Hauptmerkmale"
+our_products: "Unsere Produkte"
+quick_links: "Schnellzugriff"
+all_rights_reserved: "Alle Rechte vorbehalten"
+ready_to_simplify: "Bereit, Ihre Container-Logistik zu vereinfachen?"
+cta_description: "Kontaktieren Sie uns noch heute, um zu erfahren, wie Confoot Ihre Container-Handhabung verbessern kann."
+get_in_touch: "Kontakt aufnehmen"
+banner_text: "Verschwenden Sie keine Zeit an Laderampen, schicken Sie Ihren Traktor sofort zum nächsten Auftrag."
+language: "Sprache"
+
+# Menu items
+menu_home: "Startseite"
+menu_products: "Produkte"
+menu_about: "Über uns"
+menu_contact: "Kontakt"
+
+# Steps
+step_1_title: "Wählen Sie Ihr Produkt"
+step_1_description: "Wählen Sie das Confoot-Produkt, das am besten zu Ihren Anforderungen an die Container-Handhabung passt."
+step_2_title: "Einfache Installation"
+step_2_description: "Schneller und einfacher Installationsprozess, der minimale Schulung erfordert."
+step_3_title: "Genießen Sie die Vorteile"
+step_3_description: "Erleben Sie verbesserte Sicherheit, Effizienz und Kosteneinsparungen bei Ihren Container-Operationen."
+
+# Features
+feature_1_title: "Erhöhte Sicherheit"
+feature_1_description: "Verbesserte Stabilität und Sicherheit für Container-Handling-Operationen."
+feature_2_title: "Kosteneffizienz"
+feature_2_description: "Senken Sie die Betriebskosten und erhöhen Sie die Effizienz Ihrer Logistik."
+feature_3_title: "Einfach zu bedienen"
+feature_3_description: "Einfache Installation und Bedienung mit minimalem Schulungsbedarf."
+
+# Products
+product_1_description: "Frachtcontainer"
+product_2_description: "Frachtcontainer"
+product_3_description: "Frachtcontainer"

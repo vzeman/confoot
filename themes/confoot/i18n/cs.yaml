@@ -1,0 +1,42 @@
+# Czech translations
+contact_us: "Kontaktujte nás"
+view_products: "Zobrazit produkty"
+view_all_products: "Zobrazit všechny produkty"
+learn_more: "Zjistit více"
+how_it_works: "Jak to funguje"
+key_features: "Klíčové vlastnosti"
+our_products: "Naše produkty"
+quick_links: "Rychlé odkazy"
+all_rights_reserved: "Všechna práva vyhrazena"
+ready_to_simplify: "Připraveni zjednodušit logistiku kontejnerů?"
+cta_description: "Kontaktujte nás ještě dnes a zjistěte, jak může Confoot zlepšit vaše operace s kontejnery."
+get_in_touch: "Kontaktujte nás"
+banner_text: "Neztrácejte čas na nákladových rampách, pošlete svůj tahač okamžitě za další zakázkou."
+language: "Jazyk"
+
+# Menu items
+menu_home: "Domů"
+menu_products: "Produkty"
+menu_about: "O nás"
+menu_contact: "Kontakt"
+
+# Steps
+step_1_title: "Vyberte si produkt"
+step_1_description: "Vyberte si produkt Confoot, který nejlépe vyhovuje vašim potřebám manipulace s kontejnery."
+step_2_title: "Snadná instalace"
+step_2_description: "Rychlý a jednoduchý proces instalace, který vyžaduje minimální školení."
+step_3_title: "Užijte si výhody"
+step_3_description: "Zažijte zvýšenou bezpečnost, efektivitu a úsporu nákladů při vašich operacích s kontejnery."
+
+# Features
+feature_1_title: "Zvýšená bezpečnost"
+feature_1_description: "Zlepšená stabilita a bezpečnost pro manipulaci s kontejnery."
+feature_2_title: "Cenová efektivita"
+feature_2_description: "Snižte provozní náklady a zvyšte efektivitu vaší logistiky."
+feature_3_title: "Snadné použití"
+feature_3_description: "Jednoduchá instalace a provoz s minimálními požadavky na školení."
+
+# Products
+product_1_description: "Přepravní kontejnery"
+product_2_description: "Přepravní kontejnery"
+product_3_description: "Přepravní kontejnery"

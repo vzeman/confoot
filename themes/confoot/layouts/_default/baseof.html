@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  {{ partial "head.html" . }}
+</head>
+<body class="flex flex-col min-h-screen">
+  <header class="bg-white shadow-sm">
+    {{ partial "header.html" . }}
+  </header>
+  
+  <main class="flex-grow">
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  <footer class="bg-gray-100">
+    {{ partial "footer.html" . }}
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="{{ "js/main.js" | relURL }}"></script>
+</body>
+</html>

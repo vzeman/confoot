@@ -1,0 +1,42 @@
+# English (UK) translations
+contact_us: "Contact Us"
+view_products: "View Products"
+view_all_products: "View All Products"
+learn_more: "Learn More"
+how_it_works: "How It Works"
+key_features: "Key Features"
+our_products: "Our Products"
+quick_links: "Quick Links"
+all_rights_reserved: "All Rights Reserved"
+ready_to_simplify: "Ready to simplify your shipping container logistics?"
+cta_description: "Contact us today to learn how Confoot can improve your container handling operations."
+get_in_touch: "Get in Touch"
+banner_text: "Don't waste time at loading docks, send your tractor immediately for the next job."
+language: "Language"
+
+# Menu items
+menu_home: "Home"
+menu_products: "Products"
+menu_about: "About"
+menu_contact: "Contact"
+
+# Steps
+step_1_title: "Choose Your Product"
+step_1_description: "Select the Confoot product that best suits your container handling needs."
+step_2_title: "Easy Installation"
+step_2_description: "Quick and simple installation process requiring minimal training."
+step_3_title: "Enjoy the Benefits"
+step_3_description: "Experience enhanced safety, efficiency, and cost savings in your container operations."
+
+# Features
+feature_1_title: "Enhanced Safety"
+feature_1_description: "Improved stability and safety for container handling operations."
+feature_2_title: "Cost Efficiency"
+feature_2_description: "Reduce operational costs and increase efficiency in your logistics."
+feature_3_title: "Easy to Use"
+feature_3_description: "Simple installation and operation with minimal training requirements."
+
+# Products
+product_1_description: "Shipping containers"
+product_2_description: "Shipping containers"
+product_3_description: "Shipping containers"
