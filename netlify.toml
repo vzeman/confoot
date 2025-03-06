@@ -114,6 +114,127 @@
   status = 301
   force = true
 
+# Domain-to-language directory mappings
+# Czech domain
+[[redirects]]
+  from = "/*"
+  to = "/cs/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.cz"]}
+
+# Slovak domain
+[[redirects]]
+  from = "/*"
+  to = "/sk/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.sk"]}
+
+# German domain
+[[redirects]]
+  from = "/*"
+  to = "/de/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.de"]}
+
+# Greek domain
+[[redirects]]
+  from = "/*"
+  to = "/gr/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.gr"]}
+
+# Croatian domain
+[[redirects]]
+  from = "/*"
+  to = "/hr/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.hr"]}
+
+# Lithuanian domain
+[[redirects]]
+  from = "/*"
+  to = "/lt/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lt"]}
+
+# Latvian domain
+[[redirects]]
+  from = "/*"
+  to = "/lv/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.lv"]}
+
+# Russian domain
+[[redirects]]
+  from = "/*"
+  to = "/ru/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ru"]}
+
+# Slovenian domain
+[[redirects]]
+  from = "/*"
+  to = "/sl/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.si"]}
+
+# Romanian domain
+[[redirects]]
+  from = "/*"
+  to = "/ro/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ro"]}
+
+# Liechtenstein domain
+[[redirects]]
+  from = "/*"
+  to = "/li/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.li"]}
+
+# Austrian domain
+[[redirects]]
+  from = "/*"
+  to = "/at/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.at"]}
+
+# Swiss domain
+[[redirects]]
+  from = "/*"
+  to = "/ch/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.ch"]}
+
+# Portuguese domain
+[[redirects]]
+  from = "/*"
+  to = "/pt/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.pt"]}
+
+# English domain (default)
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 200
+  force = true
+  conditions = {host = ["www.confoot.eu"]}
+
 [[headers]]
   for = "/*"
   [headers.values]

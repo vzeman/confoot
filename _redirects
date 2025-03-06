@@ -1,31 +1,31 @@
-# Domain-based language selection
+# Domain-based language selection with rewrites to language directories
 # Czech domain
-https://www.confoot.cz/* /:splat 200 Language=cs
+https://www.confoot.cz/* /cs/:splat 200
 # Slovak domain
-https://www.confoot.sk/* /:splat 200 Language=sk
+https://www.confoot.sk/* /sk/:splat 200
 # German domain
-https://www.confoot.de/* /:splat 200 Language=de
+https://www.confoot.de/* /de/:splat 200
 # Greek domain
-https://www.confoot.gr/* /:splat 200 Language=gr
+https://www.confoot.gr/* /gr/:splat 200
 # Croatian domain
-https://www.confoot.hr/* /:splat 200 Language=hr
+https://www.confoot.hr/* /hr/:splat 200
 # Lithuanian domain
-https://www.confoot.lt/* /:splat 200 Language=lt
+https://www.confoot.lt/* /lt/:splat 200
 # Latvian domain
-https://www.confoot.lv/* /:splat 200 Language=lv
+https://www.confoot.lv/* /lv/:splat 200
 # Russian domain
-https://www.confoot.ru/* /:splat 200 Language=ru
+https://www.confoot.ru/* /ru/:splat 200
 # Slovenian domain
-https://www.confoot.si/* /:splat 200 Language=sl
+https://www.confoot.si/* /sl/:splat 200
 # Romanian domain
-https://www.confoot.ro/* /:splat 200 Language=ro
+https://www.confoot.ro/* /ro/:splat 200
 # Liechtenstein domain
-https://www.confoot.li/* /:splat 200 Language=li
+https://www.confoot.li/* /li/:splat 200
 # Austrian domain
-https://www.confoot.at/* /:splat 200 Language=at
+https://www.confoot.at/* /at/:splat 200
 # Swiss domain
-https://www.confoot.ch/* /:splat 200 Language=ch
+https://www.confoot.ch/* /ch/:splat 200
 # Portuguese domain
-https://www.confoot.pt/* /:splat 200 Language=pt
+https://www.confoot.pt/* /pt/:splat 200
 # Default to English for EU domain
-https://www.confoot.eu/* /:splat 200 Language=en
+https://www.confoot.eu/* /en/:splat 200
