@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Confoot - Vereinfachen Sie die Logistik von Frachtcontainern</title>
-    <link>//localhost:65463///de/tags/</link>
+    <link>http://localhost:1315/tags/</link>
     <description>Recent content in Tags on Confoot - Vereinfachen Sie die Logistik von Frachtcontainern</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <atom:link href="//localhost:65463///de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1315/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

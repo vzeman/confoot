@@ -23,23 +23,29 @@
   status = 301
   force = true
 
-# Handle language-specific domains
+# Domain-based language redirects
 [[redirects]]
   from = "https://www.confoot.cz/*"
-  to = "https://www.confoot.eu/cs/:splat"
+  to = ":splat"
   status = 200
-  force = true
+  force = false
 
 [[redirects]]
   from = "https://www.confoot.sk/*"
-  to = "https://www.confoot.eu/sk/:splat"
+  to = ":splat"
   status = 200
-  force = true
+  force = false
 
 [[redirects]]
   from = "https://www.confoot.de/*"
-  to = "https://www.confoot.eu/de/:splat"
+  to = ":splat"
   status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.eu/en/*"
+  to = "https://www.confoot.eu/:splat"
+  status = 301
   force = true
 
 [[headers]]
