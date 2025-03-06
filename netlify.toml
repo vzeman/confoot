@@ -23,6 +23,97 @@
   status = 301
   force = true
 
+# Redirect apex domains to www versions
+[[redirects]]
+  from = "https://confoot.eu/*"
+  to = "https://www.confoot.eu/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.cz/*"
+  to = "https://www.confoot.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.sk/*"
+  to = "https://www.confoot.sk/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.de/*"
+  to = "https://www.confoot.de/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.gr/*"
+  to = "https://www.confoot.gr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.hr/*"
+  to = "https://www.confoot.hr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.lt/*"
+  to = "https://www.confoot.lt/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.lv/*"
+  to = "https://www.confoot.lv/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.ru/*"
+  to = "https://www.confoot.ru/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.si/*"
+  to = "https://www.confoot.si/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.ro/*"
+  to = "https://www.confoot.ro/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.li/*"
+  to = "https://www.confoot.li/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.at/*"
+  to = "https://www.confoot.at/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.ch/*"
+  to = "https://www.confoot.ch/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://confoot.pt/*"
+  to = "https://www.confoot.pt/:splat"
+  status = 301
+  force = true
+
 # Domain-based language redirects
 [[redirects]]
   from = "https://www.confoot.cz/*"
