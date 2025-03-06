@@ -163,14 +163,14 @@
 # Greek domain - Root path
 [[redirects]]
   from = "/"
-  to = "/gr/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.gr"]}
 
 # Greek domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/gr/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.gr"]}
@@ -178,14 +178,14 @@
 # Croatian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/hr/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.hr"]}
 
 # Croatian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/hr/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.hr"]}
@@ -193,14 +193,14 @@
 # Lithuanian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/lt/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.lt"]}
 
 # Lithuanian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/lt/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.lt"]}
@@ -208,14 +208,14 @@
 # Latvian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/lv/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.lv"]}
 
 # Latvian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/lv/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.lv"]}
@@ -223,14 +223,14 @@
 # Russian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/ru/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.ru"]}
 
 # Russian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/ru/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.ru"]}
@@ -238,14 +238,14 @@
 # Slovenian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/sl/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.si"]}
 
 # Slovenian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/sl/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.si"]}
@@ -253,14 +253,14 @@
 # Romanian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/ro/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.ro"]}
 
 # Romanian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/ro/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.ro"]}
@@ -268,14 +268,14 @@
 # Liechtenstein domain - Root path
 [[redirects]]
   from = "/"
-  to = "/li/"
+  to = "/de/"
   status = 200
   conditions = {host = ["www.confoot.li"]}
 
 # Liechtenstein domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/li/:splat"
+  to = "/de/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.li"]}
@@ -283,14 +283,14 @@
 # Austrian domain - Root path
 [[redirects]]
   from = "/"
-  to = "/at/"
+  to = "/de/"
   status = 200
   conditions = {host = ["www.confoot.at"]}
 
 # Austrian domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/at/:splat"
+  to = "/de/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.at"]}
@@ -298,14 +298,14 @@
 # Swiss domain - Root path
 [[redirects]]
   from = "/"
-  to = "/ch/"
+  to = "/de/"
   status = 200
   conditions = {host = ["www.confoot.ch"]}
 
 # Swiss domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/ch/:splat"
+  to = "/de/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.ch"]}
@@ -313,14 +313,14 @@
 # Portuguese domain - Root path
 [[redirects]]
   from = "/"
-  to = "/pt/"
+  to = "/en/"
   status = 200
   conditions = {host = ["www.confoot.pt"]}
 
 # Portuguese domain - All other paths
 [[redirects]]
   from = "/*"
-  to = "/pt/:splat"
+  to = "/en/:splat"
   status = 200
   force = true
   conditions = {host = ["www.confoot.pt"]}
