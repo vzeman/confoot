@@ -43,6 +43,72 @@
   force = false
 
 [[redirects]]
+  from = "https://www.confoot.gr/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.hr/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.lt/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.lv/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.ru/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.si/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.ro/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.li/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.at/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.ch/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "https://www.confoot.pt/*"
+  to = ":splat"
+  status = 200
+  force = false
+
+[[redirects]]
   from = "https://www.confoot.eu/en/*"
   to = "https://www.confoot.eu/:splat"
   status = 301
