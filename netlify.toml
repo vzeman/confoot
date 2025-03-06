@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify --buildFuture"
+  command = "hugo --gc --minify --buildFuture --buildDrafts --buildExpired --buildFuture"
 
 [build.environment]
   HUGO_VERSION = "0.120.4"
@@ -213,7 +213,7 @@
   status = 200
   conditions = {host = ["www.confoot.pt"]}
 
-# Default to English for EU domain - serve content from /en/ subfolder
+# English domain (primary) - serve content from /en/ subfolder
 [[redirects]]
   from = "/*"
   to = "/en/:splat"
@@ -228,4 +228,4 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; frame-src 'none'; worker-src 'self'; frame-ancestors 'none'; form-action 'self'; base-uri 'self'; manifest-src 'self'"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com; font-src 'self'; base-uri 'self'; form-action 'self'"
