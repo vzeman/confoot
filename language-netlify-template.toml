@@ -14,7 +14,7 @@
 # Domain-based language selection
 [[redirects]]
   from = "/*"
-  to = "/:splat"
+  to = "/LANG_CODE/:splat"
   status = 200
   conditions = {host = ["www.confoot.DOMAIN_TLD"]}
 
