@@ -3,7 +3,7 @@
     <!-- Company Info -->
     <div>
       <a href="{{ .Site.Home.RelPermalink }}" class="flex items-center mb-4">
-        <img src="{{ "images/confoot-logo.jpg" | relURL }}" alt="{{ .Site.Title }}" class="h-10">
+        <img src="{{ "images/confoot-logo.jpg" | absURL }}" alt="{{ .Site.Title }}" class="h-10">
       </a>
       <p class="text-gray-600 mb-4">{{ .Site.Params.description }}</p>
       <div class="flex space-x-4">

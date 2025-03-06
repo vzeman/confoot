@@ -7,10 +7,10 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}">
+  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
   
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
   
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,6 +33,6 @@
   </footer>
 
   <!-- JavaScript -->
-  <script src="{{ "js/main.js" | relURL }}"></script>
+  <script src="{{ "js/main.js" | absURL }}"></script>
 </body>
 </html>
