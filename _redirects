@@ -1,0 +1,31 @@
+# Domain-based language selection
+# Czech domain
+https://www.confoot.cz/* /:splat 200 Language=cs
+# Slovak domain
+https://www.confoot.sk/* /:splat 200 Language=sk
+# German domain
+https://www.confoot.de/* /:splat 200 Language=de
+# Greek domain
+https://www.confoot.gr/* /:splat 200 Language=gr
+# Croatian domain
+https://www.confoot.hr/* /:splat 200 Language=hr
+# Lithuanian domain
+https://www.confoot.lt/* /:splat 200 Language=lt
+# Latvian domain
+https://www.confoot.lv/* /:splat 200 Language=lv
+# Russian domain
+https://www.confoot.ru/* /:splat 200 Language=ru
+# Slovenian domain
+https://www.confoot.si/* /:splat 200 Language=sl
+# Romanian domain
+https://www.confoot.ro/* /:splat 200 Language=ro
+# Liechtenstein domain
+https://www.confoot.li/* /:splat 200 Language=li
+# Austrian domain
+https://www.confoot.at/* /:splat 200 Language=at
+# Swiss domain
+https://www.confoot.ch/* /:splat 200 Language=ch
+# Portuguese domain
+https://www.confoot.pt/* /:splat 200 Language=pt
+# Default to English for EU domain
+https://www.confoot.eu/* /:splat 200 Language=en

@@ -4,11 +4,15 @@ title: ConFoot
 theme: confoot
 defaultContentLanguage: cs
 
-# Add language code to URLs
-languageCodeInURL: true
+# Remove language code from URLs
+languageCodeInURL: false
 
 # Don't pluralize URLs
 pluralizeListTitles: false
+
+# Use domain-based language selection
+disableLanguages: []
+disablePathToLower: false
 
 languages:
   cs:
