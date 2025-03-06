@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:65462/</loc>
+    <loc>http://localhost:65464/</loc>
     <lastmod>2025-03-06T12:26:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,21 +12,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:65463/"
+                href="http://localhost:65462/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:65464/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gr"
-                href="http://localhost:65465/"
+                href="http://localhost:65463/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="http://localhost:65465/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
                 href="http://localhost:65466/"
                 />
     <xhtml:link
@@ -82,10 +82,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65462/"
+                href="http://localhost:65464/"
                 />
   </url><url>
-    <loc>http://localhost:65462/categories/</loc>
+    <loc>http://localhost:65464/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -94,21 +94,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:65463/categories/"
+                href="http://localhost:65462/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:65464/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gr"
-                href="http://localhost:65465/categories/"
+                href="http://localhost:65463/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="http://localhost:65465/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
                 href="http://localhost:65466/categories/"
                 />
     <xhtml:link
@@ -164,10 +164,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65462/categories/"
+                href="http://localhost:65464/categories/"
                 />
   </url><url>
-    <loc>http://localhost:65462/tags/</loc>
+    <loc>http://localhost:65464/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -176,21 +176,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:65463/tags/"
+                href="http://localhost:65462/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:65464/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gr"
-                href="http://localhost:65465/tags/"
+                href="http://localhost:65463/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
+                href="http://localhost:65465/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
                 href="http://localhost:65466/tags/"
                 />
     <xhtml:link
@@ -246,7 +246,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:65462/tags/"
+                href="http://localhost:65464/tags/"
                 />
   </url>
 </urlset>
