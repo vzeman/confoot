@@ -1,0 +1,26 @@
+{
+  "name": "confoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "netlify": "netlify",
+    "deploy": "netlify deploy",
+    "deploy:prod": "netlify deploy --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzeman/confoot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzeman/confoot/issues"
+  },
+  "homepage": "https://github.com/vzeman/confoot#readme",
+  "devDependencies": {
+    "netlify-cli": "^19.0.2"
+  }
+}
