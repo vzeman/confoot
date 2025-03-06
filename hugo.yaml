@@ -4,6 +4,12 @@ title: ConFoot
 theme: confoot
 defaultContentLanguage: cs
 
+# Add language code to URLs
+languageCodeInURL: true
+
+# Don't pluralize URLs
+pluralizeListTitles: false
+
 languages:
   cs:
     languageName: Čeština

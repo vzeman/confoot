@@ -23,6 +23,34 @@
   status = 301
   force = true
 
+# Handle the root domain properly
+[[redirects]]
+  from = "/"
+  to = "/cs/"
+  status = 302
+  force = true
+  conditions = {Language = ["cs"], Country = ["CZ"]}
+
+[[redirects]]
+  from = "/"
+  to = "/sk/"
+  status = 302
+  force = true
+  conditions = {Language = ["sk"], Country = ["SK"]}
+
+[[redirects]]
+  from = "/"
+  to = "/de/"
+  status = 302
+  force = true
+  conditions = {Language = ["de"], Country = ["DE", "AT", "CH", "LI"]}
+
+[[redirects]]
+  from = "/"
+  to = "/en/"
+  status = 302
+  force = true
+
 # Redirect apex domains to www versions
 [[redirects]]
   from = "https://confoot.eu/*"
