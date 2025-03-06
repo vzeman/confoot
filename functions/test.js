@@ -1,6 +1,6 @@
-// Simple test function to check if Functions are working
-export async function onRequest(context) {
-  return new Response("Functions are working!", {
+// Absolute minimal test function
+export async function onRequest() {
+  return new Response("OK", {
     headers: { "Content-Type": "text/plain" }
   });
 }
