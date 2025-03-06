@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Confoot - Pojednostavite logistiku kontejnera za prijevoz</title>
-    <link>http://localhost:1319/categories/</link>
+    <link>//localhost:65467///hr/categories/</link>
     <description>Recent content in Categories on Confoot - Pojednostavite logistiku kontejnera za prijevoz</description>
     <generator>Hugo</generator>
     <language>hr</language>
-    <atom:link href="http://localhost:1319/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:65467///hr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

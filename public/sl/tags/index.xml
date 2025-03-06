@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Confoot - Poenostavite logistiko transportnih zabojnikov</title>
-    <link>http://localhost:1323/tags/</link>
+    <link>//localhost:65471///sl/tags/</link>
     <description>Recent content in Tags on Confoot - Poenostavite logistiko transportnih zabojnikov</description>
     <generator>Hugo</generator>
     <language>sl</language>
-    <atom:link href="http://localhost:1323/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:65471///sl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Container legs on Confoot - Simplify shipping container logistics</title>
-    <link>http://localhost:1317/</link>
+    <link>//localhost:65465///en-GB/</link>
     <description>Recent content in Container legs on Confoot - Simplify shipping container logistics</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1317/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:65465///en-GB/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

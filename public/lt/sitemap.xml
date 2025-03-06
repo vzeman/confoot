@@ -2,250 +2,250 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1320/categories/</loc>
+    <loc>//localhost:65468///lt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:1313/categories/"
+                href="//localhost:65461///cs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:1314/categories/"
+                href="//localhost:65462///sk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1315/categories/"
+                href="//localhost:65463///de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1316/categories/"
+                href="//localhost:65464///en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1317/categories/"
+                href="//localhost:65465///en-GB/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1318/categories/"
+                href="//localhost:65466///gr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1319/categories/"
+                href="//localhost:65467///hr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1321/categories/"
+                href="//localhost:65469///ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://localhost:1322/categories/"
+                href="//localhost:65470///lv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:1323/categories/"
+                href="//localhost:65471///sl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="http://localhost:1324/categories/"
+                href="//localhost:65472///ro/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="li"
-                href="http://localhost:1325/categories/"
+                href="//localhost:65473///li/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="at"
-                href="http://localhost:1326/categories/"
+                href="//localhost:65474///at/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://localhost:1327/categories/"
+                href="//localhost:65475///ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1328/categories/"
+                href="//localhost:65476///pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lt"
-                href="http://localhost:1320/categories/"
+                href="//localhost:65468///lt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1320/</loc>
+    <loc>//localhost:65468///lt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:1313/"
+                href="//localhost:65461///cs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:1314/"
+                href="//localhost:65462///sk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1315/"
+                href="//localhost:65463///de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1316/"
+                href="//localhost:65464///en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1317/"
+                href="//localhost:65465///en-GB/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1318/"
+                href="//localhost:65466///gr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1319/"
+                href="//localhost:65467///hr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1321/"
+                href="//localhost:65469///ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://localhost:1322/"
+                href="//localhost:65470///lv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:1323/"
+                href="//localhost:65471///sl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="http://localhost:1324/"
+                href="//localhost:65472///ro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="li"
-                href="http://localhost:1325/"
+                href="//localhost:65473///li/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="at"
-                href="http://localhost:1326/"
+                href="//localhost:65474///at/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://localhost:1327/"
+                href="//localhost:65475///ch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1328/"
+                href="//localhost:65476///pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lt"
-                href="http://localhost:1320/"
+                href="//localhost:65468///lt/"
                 />
   </url><url>
-    <loc>http://localhost:1320/tags/</loc>
+    <loc>//localhost:65468///lt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:1313/tags/"
+                href="//localhost:65461///cs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="http://localhost:1314/tags/"
+                href="//localhost:65462///sk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1315/tags/"
+                href="//localhost:65463///de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1316/tags/"
+                href="//localhost:65464///en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="http://localhost:1317/tags/"
+                href="//localhost:65465///en-GB/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1318/tags/"
+                href="//localhost:65466///gr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="http://localhost:1319/tags/"
+                href="//localhost:65467///hr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1321/tags/"
+                href="//localhost:65469///ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://localhost:1322/tags/"
+                href="//localhost:65470///lv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sl"
-                href="http://localhost:1323/tags/"
+                href="//localhost:65471///sl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="http://localhost:1324/tags/"
+                href="//localhost:65472///ro/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="li"
-                href="http://localhost:1325/tags/"
+                href="//localhost:65473///li/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="at"
-                href="http://localhost:1326/tags/"
+                href="//localhost:65474///at/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://localhost:1327/tags/"
+                href="//localhost:65475///ch/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1328/tags/"
+                href="//localhost:65476///pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lt"
-                href="http://localhost:1320/tags/"
+                href="//localhost:65468///lt/tags/"
                 />
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL: https://www.confoot.eu/
+baseURL: /
 languageCode: en
 title: ConFoot
 theme: confoot
@@ -11,7 +11,7 @@ languages:
     weight: 1
     contentDir: content/cs
     title: Confoot - Zjednodušte logistiku přepravních kontejnerů
-    baseURL: https://www.confoot.cz/
+    baseURL: /cs/
     params:
       description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
       flag: "🇨🇿"
@@ -38,7 +38,7 @@ languages:
     weight: 2
     contentDir: content/sk
     title: Confoot - Zjednodušte logistiku prepravných kontajnerov
-    baseURL: https://www.confoot.sk/
+    baseURL: /sk/
     params:
       description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
       flag: "🇸🇰"
@@ -65,7 +65,7 @@ languages:
     weight: 3
     contentDir: content/de
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.de/
+    baseURL: /de/
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇩🇪"
@@ -92,7 +92,7 @@ languages:
     weight: 4
     contentDir: content/en
     title: Confoot - Simplify shipping container logistics
-    baseURL: https://www.confoot.eu/
+    baseURL: /en/
     params:
       description: "Simplify shipping container logistics with Confoot"
       flag: "🇪🇺"
@@ -119,7 +119,7 @@ languages:
     weight: 5
     contentDir: content/en
     title: Confoot - Simplify shipping container logistics
-    baseURL: https://www.confoot.co.uk/
+    baseURL: /en-GB/
     params:
       description: "Simplify shipping container logistics with Confoot"
       flag: "🇬🇧"
@@ -146,7 +146,7 @@ languages:
     weight: 6
     contentDir: content/gr
     title: Confoot - Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων
-    baseURL: https://www.confoot.gr/
+    baseURL: /gr/
     params:
       description: "Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων με την Confoot"
       flag: "🇬🇷"
@@ -173,7 +173,7 @@ languages:
     weight: 7
     contentDir: content/hr
     title: Confoot - Pojednostavite logistiku kontejnera za prijevoz
-    baseURL: https://www.confoot.hr/
+    baseURL: /hr/
     params:
       description: "Pojednostavite logistiku kontejnera za prijevoz s Confoot"
       flag: "🇭🇷"
@@ -200,7 +200,7 @@ languages:
     weight: 8
     contentDir: content/lt
     title: Confoot - Supaprastinkite konteinerių logistiką
-    baseURL: https://www.confoot.lt/
+    baseURL: /lt/
     params:
       description: "Supaprastinkite konteinerių logistiką su Confoot"
       flag: "🇱🇹"
@@ -227,7 +227,7 @@ languages:
     weight: 9
     contentDir: content/ru
     title: Confoot - Упростите логистику транспортных контейнеров
-    baseURL: https://www.confoot.ru/
+    baseURL: /ru/
     params:
       description: "Упростите логистику транспортных контейнеров с Confoot"
       flag: "🇷🇺"
@@ -254,7 +254,7 @@ languages:
     weight: 10
     contentDir: content/lv
     title: Confoot - Vienkāršojiet konteineru loģistiku
-    baseURL: https://www.confoot.lv/
+    baseURL: /lv/
     params:
       description: "Vienkāršojiet konteineru loģistiku ar Confoot"
       flag: "🇱🇻"
@@ -281,7 +281,7 @@ languages:
     weight: 11
     contentDir: content/sl
     title: Confoot - Poenostavite logistiko transportnih zabojnikov
-    baseURL: https://www.confoot.si/
+    baseURL: /sl/
     params:
       description: "Poenostavite logistiko transportnih zabojnikov s Confoot"
       flag: "🇸🇮"
@@ -308,7 +308,7 @@ languages:
     weight: 12
     contentDir: content/ro
     title: Confoot - Simplificați logistica containerelor de transport
-    baseURL: https://www.confoot.ro/
+    baseURL: /ro/
     params:
       description: "Simplificați logistica containerelor de transport cu Confoot"
       flag: "🇷🇴"
@@ -335,7 +335,7 @@ languages:
     weight: 13
     contentDir: content/li
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.li/
+    baseURL: /li/
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇱🇮"
@@ -362,7 +362,7 @@ languages:
     weight: 14
     contentDir: content/at
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.at/
+    baseURL: /at/
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇦🇹"
@@ -389,7 +389,7 @@ languages:
     weight: 15
     contentDir: content/ch
     title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.ch/
+    baseURL: /ch/
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇨🇭"
@@ -416,7 +416,7 @@ languages:
     weight: 16
     contentDir: content/pt
     title: Confoot - Simplifique a logística de contentores de transporte
-    baseURL: https://www.confoot.pt/
+    baseURL: /pt/
     params:
       description: "Simplifique a logística de contentores de transporte com Confoot"
       flag: "🇵🇹"

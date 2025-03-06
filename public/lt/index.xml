@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confoot - Supaprastinkite konteinerių logistiką</title>
-    <link>http://localhost:1320/</link>
+    <link>//localhost:65468///lt/</link>
     <description>Recent content on Confoot - Supaprastinkite konteinerių logistiką</description>
     <generator>Hugo</generator>
     <language>lt</language>
-    <atom:link href="http://localhost:1320/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:65468///lt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

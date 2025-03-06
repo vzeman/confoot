@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo --gc --minify"
 
 [build.environment]
   HUGO_VERSION = "0.120.4"
@@ -16,10 +16,30 @@
 [context.branch-deploy]
   command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
 
+# Redirect default Netlify subdomain to primary domain
 [[redirects]]
   from = "https://confoot.netlify.app/*"
   to = "https://www.confoot.eu/:splat"
   status = 301
+  force = true
+
+# Handle language-specific domains
+[[redirects]]
+  from = "https://www.confoot.cz/*"
+  to = "https://www.confoot.eu/cs/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://www.confoot.sk/*"
+  to = "https://www.confoot.eu/sk/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://www.confoot.de/*"
+  to = "https://www.confoot.eu/de/:splat"
+  status = 200
   force = true
 
 [[headers]]
