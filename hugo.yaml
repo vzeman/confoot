@@ -3,7 +3,6 @@ languageCode: en
 title: ConFoot
 theme: confoot
 defaultContentLanguage: cs
-defaultContentLanguageInSubdir: true
 
 languages:
   cs:
