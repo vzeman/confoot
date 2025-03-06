@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify -b https://www.confoot.eu/"
+  command = "hugo --gc --minify"
 
 [build.environment]
   HUGO_VERSION = "0.120.4"
