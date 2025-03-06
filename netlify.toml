@@ -115,14 +115,7 @@
   force = true
 
 # Domain-to-language directory mappings
-# Czech domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/cs/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.cz"]}
-
+# Czech domain - Serve from /cs/ subfolder
 [[redirects]]
   from = "/*"
   to = "/cs/:splat"
@@ -130,14 +123,7 @@
   force = true
   conditions = {host = ["www.confoot.cz"]}
 
-# Slovak domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/sk/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.sk"]}
-
+# Slovak domain - Serve from /sk/ subfolder
 [[redirects]]
   from = "/*"
   to = "/sk/:splat"
@@ -145,14 +131,7 @@
   force = true
   conditions = {host = ["www.confoot.sk"]}
 
-# German domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/de/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.de"]}
-
+# German domain - Serve from /de/ subfolder
 [[redirects]]
   from = "/*"
   to = "/de/:splat"
@@ -160,14 +139,7 @@
   force = true
   conditions = {host = ["www.confoot.de"]}
 
-# Greek domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/gr/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.gr"]}
-
+# Greek domain - Serve from /gr/ subfolder
 [[redirects]]
   from = "/*"
   to = "/gr/:splat"
@@ -175,14 +147,7 @@
   force = true
   conditions = {host = ["www.confoot.gr"]}
 
-# Croatian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/hr/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.hr"]}
-
+# Croatian domain - Serve from /hr/ subfolder
 [[redirects]]
   from = "/*"
   to = "/hr/:splat"
@@ -190,14 +155,7 @@
   force = true
   conditions = {host = ["www.confoot.hr"]}
 
-# Lithuanian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/lt/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.lt"]}
-
+# Lithuanian domain - Serve from /lt/ subfolder
 [[redirects]]
   from = "/*"
   to = "/lt/:splat"
@@ -205,14 +163,7 @@
   force = true
   conditions = {host = ["www.confoot.lt"]}
 
-# Latvian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/lv/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.lv"]}
-
+# Latvian domain - Serve from /lv/ subfolder
 [[redirects]]
   from = "/*"
   to = "/lv/:splat"
@@ -220,14 +171,7 @@
   force = true
   conditions = {host = ["www.confoot.lv"]}
 
-# Russian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/ru/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.ru"]}
-
+# Russian domain - Serve from /ru/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ru/:splat"
@@ -235,14 +179,7 @@
   force = true
   conditions = {host = ["www.confoot.ru"]}
 
-# Slovenian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/sl/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.si"]}
-
+# Slovenian domain - Serve from /sl/ subfolder
 [[redirects]]
   from = "/*"
   to = "/sl/:splat"
@@ -250,14 +187,7 @@
   force = true
   conditions = {host = ["www.confoot.si"]}
 
-# Romanian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/ro/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.ro"]}
-
+# Romanian domain - Serve from /ro/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ro/:splat"
@@ -265,14 +195,7 @@
   force = true
   conditions = {host = ["www.confoot.ro"]}
 
-# Liechtenstein domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/li/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.li"]}
-
+# Liechtenstein domain - Serve from /li/ subfolder
 [[redirects]]
   from = "/*"
   to = "/li/:splat"
@@ -280,14 +203,7 @@
   force = true
   conditions = {host = ["www.confoot.li"]}
 
-# Austrian domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/at/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.at"]}
-
+# Austrian domain - Serve from /at/ subfolder
 [[redirects]]
   from = "/*"
   to = "/at/:splat"
@@ -295,14 +211,7 @@
   force = true
   conditions = {host = ["www.confoot.at"]}
 
-# Swiss domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/ch/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.ch"]}
-
+# Swiss domain - Serve from /ch/ subfolder
 [[redirects]]
   from = "/*"
   to = "/ch/:splat"
@@ -310,14 +219,7 @@
   force = true
   conditions = {host = ["www.confoot.ch"]}
 
-# Portuguese domain - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/pt/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.pt"]}
-
+# Portuguese domain - Serve from /pt/ subfolder
 [[redirects]]
   from = "/*"
   to = "/pt/:splat"
@@ -325,14 +227,7 @@
   force = true
   conditions = {host = ["www.confoot.pt"]}
 
-# English domain (default) - Root path must come first
-[[redirects]]
-  from = "/"
-  to = "/en/index.html"
-  status = 200
-  force = true
-  conditions = {host = ["www.confoot.eu"]}
-
+# English domain (default) - Serve from /en/ subfolder
 [[redirects]]
   from = "/*"
   to = "/en/:splat"
