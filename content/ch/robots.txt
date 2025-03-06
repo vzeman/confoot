@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for ch
+Sitemap: https://www.confoot.ch/sitemap.xml

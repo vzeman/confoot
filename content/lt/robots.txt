@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for lt
+Sitemap: https://www.confoot.lt/sitemap.xml

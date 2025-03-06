@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for DOMAIN_TLD
+Sitemap: https://www.confoot.DOMAIN_TLD/sitemap.xml

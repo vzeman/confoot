@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for de
+Sitemap: https://www.confoot.de/sitemap.xml

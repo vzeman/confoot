@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for hr
+Sitemap: https://www.confoot.hr/sitemap.xml

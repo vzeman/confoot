@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for ro
+Sitemap: https://www.confoot.ro/sitemap.xml
