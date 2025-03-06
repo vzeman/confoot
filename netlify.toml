@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify --enableGitInfo --templateMetrics --templateMetricsHints -D -v"
+  command = "hugo --gc --minify --cleanDestinationDir --enableGitInfo --templateMetrics --templateMetricsHints -D --verbose"
   publish = "public"
 
 [build.environment]
@@ -202,6 +202,97 @@
 [[redirects]]
   from = "/*"
   to = "/pt/:splat"
+  status = 200
+  conditions = {Host = ["www.confoot.pt"]}
+
+# Sitemap redirects
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/:lang/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.eu"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/cs/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.cz"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sk/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.sk"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/de/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.de"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/gr/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.gr"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/hr/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.hr"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/lt/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.lt"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/lv/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.lv"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/ru/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.ru"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sl/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.si"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/ro/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.ro"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/li/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.li"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/at/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.at"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/ch/sitemap.xml"
+  status = 200
+  conditions = {Host = ["www.confoot.ch"]}
+
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/pt/sitemap.xml"
   status = 200
   conditions = {Host = ["www.confoot.pt"]}
 
