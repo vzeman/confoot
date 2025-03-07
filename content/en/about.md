@@ -236,4 +236,4 @@ Overall, Oy Confoot Ltd stands out in the logistics sector with its innovative, 
 3. **Economic Fluctuations:** The shipping industry is sensitive to economic downturns, which can affect demand for container legs and impact revenue.  
 4. **Supply Chain Disruptions:** Global supply chain disruptions, such as those caused by geopolitical tensions or pandemics, could hinder production and delivery schedules, affecting customer satisfaction and financial performance.
 
-In summary, Oy Confoot Ltd has significant potential for global scalability and a defensible business model. However, the company must remain vigilant and proactive in managing the key risks associated with its operations.
+Oy Confoot Ltd has significant potential for global scalability and a defensible business model. However, the company must remain vigilant and proactive in managing the key risks associated with its operations.
