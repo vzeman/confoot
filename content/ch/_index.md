@@ -1,6 +1,6 @@
 ---
-title: "Container-Füße"
-description: "Confoot - Vereinfachen Sie die Logistik von Frachtcontainern"
-date: 2025-03-06T18:27:30+01:00
+title: "集装箱腿"
+description: "Confoot - 简化运输集装箱物流"
+date: 2025-03-06T12:26:40+01:00
 draft: false
 ---

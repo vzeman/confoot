@@ -8,7 +8,7 @@ gallery:
   - "/images/products/confoot-cfu-3.jpg"
 shortDescription: "ConFoot CFU is a universal container foot designed for versatile container handling in various environments."
 technicalDescription: "The ConFoot CFU is engineered with high-grade steel and features our patented locking mechanism for secure attachment to container corner castings."
-videoID: ""
+videoID: "HDhFIRA-oZU"
 specifications:
   - name: "Weight"
     value: "24 kg"

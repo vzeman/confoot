@@ -1,0 +1,32 @@
+{{/* 
+  OpenStreetMap shortcode (named googlemap for backward compatibility)
+  
+  Parameters:
+  - address: The address to display on the map
+  - height: The height of the map (default: 400px)
+  - zoom: The zoom level (default: 15)
+*/}}
+
+{{ $address := .Get "address" }}
+{{ $height := default "400px" (.Get "height") }}
+{{ $zoom := default "15" (.Get "zoom") }}
+
+{{ $encodedAddress := $address | urlquery }}
+
+<div class="map-container" style="width: 100%; height: {{ $height }}; margin-bottom: 20px;">
+  <iframe 
+    width="100%" 
+    height="100%" 
+    frameborder="0" 
+    scrolling="no" 
+    marginheight="0" 
+    marginwidth="0" 
+    src="https://www.openstreetmap.org/export/embed.html?bbox=15.853%2C49.095%2C15.862%2C49.099&amp;layer=mapnik&amp;marker=49.097367%2C15.857385" 
+    style="border: 1px solid #ccc;">
+  </iframe>
+  <small>
+    <a href="https://www.openstreetmap.org/?mlat=49.097367&amp;mlon=15.857385#map=17/49.097367/15.857385" target="_blank">
+      View larger map
+    </a>
+  </small>
+</div>

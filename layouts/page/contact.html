@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container">
+  <div class="contact-page">
+    <div class="contact-header">
+      <h1 class="page-title section-title">{{ .Title }}</h1>
+      <div class="page-description">
+        {{ .Description }}
+      </div>
+    </div>
+
+    <div class="contact-content">
+      <div class="contact-info-row">
+        <div class="contact-info">
+          <div class="contact-details">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,6 +1,6 @@
 ---
-title: "Pés para contentores"
-description: "Confoot - Simplifique a logística de contentores de transporte"
-date: 2025-03-06T18:28:00+01:00
+title: "Pernas de contêiner"
+description: "Confoot - Simplifique a logística de contêineres"
+date: 2025-03-06T12:26:40+01:00
 draft: false
 ---

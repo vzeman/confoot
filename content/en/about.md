@@ -32,10 +32,13 @@ Průmyslová 154
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha
 zapsaná v o. r., pod sp.zn.: C 240707, vedeném u Městského soudu v Praze
 
-{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" height="400px" zoom="15" >}}
 
 ID: 03975177
 VAT: CZ03975177
+
+
+{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" height="400px" zoom="15" >}}
+
 
 
 ## Analysis of the Oy Confoot Ltd \- The container legs company

@@ -1,243 +1,228 @@
 ---
-title: "Über Uns"
+title: "关于我们"
 date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Über HZ-Containers
+# 关于 HZ-Containers
 
-HZ KONTEJNERY s.r.o. isch de Zulieferer vo de finnische Firma ConFoot Ltd für d’Tschechischi und Slowakischi Republikk worde, und d’Zämäarbeit hät spöter uf mehri europäischi Länder usgweitet. Dr finnische Hersteller ConFoot hät das Produkt patenteiert und zeigt sini Produkt i ganz Europa. S’Überfüehre vo Containern isch no nie so eifach gsi wie mit de ConFoot-Produkt. Jede Set vo 4 Stück cha vo nur eme Maa bedient werde. D’ConFoot-Produkte wärde für s’Überfüehre vo Frachtscontainern bruucht. Mir biete zur Ziit drei Produktvariante aa. S’CF-Set ghört zu de Bestseller uf em Markt. S’CFP-Set wird vor allem bruucht, um Frachtscontainer grad am Ramp platz z’setze, wo mer de Container sicher stehend überlah cha. D’Lastkapazität vo eme Set vo 4 Stück beträgt 30 Tonne. Neui Modelle hend en Lastkapazität vo 34 Tonne.
+HZ KONTEJNERY s.r.o. 已成为芬兰 ConFoot Ltd. 公司在捷克和斯洛伐克的供应商，之后合作范围扩展到了多个欧洲国家。芬兰制造商 ConFoot 拥有该产品的专利，并在全欧洲销售其产品。有了 ConFoot 的产品，搬运集装箱从未如此简单。任意一组四件套仅需一个人操作。ConFoot 的产品专用于搬运集装箱。我们目前提供三种产品类型。其中 CF 套装是市场上的畅销产品。CFP 套装主要用于在装卸坡道上安置集装箱，在那里可以让集装箱安全地保持直立。四件套的额定载重为 30 吨，新型号的载重可达 34 吨。
 
-Frachtscontainer sind e wesentliche Bestandtteil vom maritime Transport. Vom Hafen reist dr Container grad zu Ihne, woni umgleade werde muess. Wenn Sie s’patentiert Produkt vo ConFoot für s’Überfüehre vo Containern bruucht, spart mer e chli Zit, wo ja heit nöd umegeit. Isch es nöd bessr, d’gspart Zit für anderi Arbeite oder d’Familie z’verwände? D’Entscheidig lieg i Ihre Händ...
+集装箱是海运运输的重要组成部分。从港口出发，集装箱会直接运送到您那里，需要进行搬运。当您使用 ConFoot 获得专利的集装箱搬运产品时，您将节省大量时间，而如今每个人的时间都非常宝贵。难道您不希望将这节省下来的时间用在其他工作或与家人共度时光吗？决定权在您手中……
 
-Mir froie üs uf mögliche Zämmearbet!
+我们期待与您的潜在合作！
 
-Ds Team vo HZ KONTEJNERY s.r.o.
+HZ KONTEJNERY s.r.o. 团队
 
-## Kontakt
+## 联系方式
 
-**mail:** info@confoot.cz  
-**Tel:** +420 608 830 863
+**邮箱：** info@confoot.cz  
+**电话：** +420 608 830 863
 
-**Öffnigsziite:**  
-Morig - Friitig: 9.00 - 17.00
+**工作时间：**  
+周一至周五：9:00 - 17:00
 
-**Adress:**  
+**地址：**  
 Průmyslová 154  
 674 01 Třebíč
 
 {{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
 
-**Firmenadresse:**  
+**公司地址：**  
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha  
-eingetragen im o. r., unter sp.zn.: C 240707, verbucht bi de Stadtgericht in Prag
+zapsaná v o. r., pod sp.zn.: C 240707, vedeném u Městského soudu v Praze
 
 {{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" height="400px" zoom="15" >}}
 
 ID: 03975177  
-USt-ID: CZ03975177
+VAT: CZ03975177
 
 
-## Analyse vo de Oy Confoot Ltd – D’Containerfüessli-Firma
+## Oy Confoot Ltd——集装箱腿公司 分析
 
-**Überblick über Oy Confoot Ltd:** Oy Confoot Ltd isch e finnischi Firma, wo sich uf d’Entwicklig und Produktion vo innovative, abnehmbare Containerfüessli für Frachtscontainer spezialisiert hät. Ihre Produkte sind drum usegmacht, s’Wuchtuhandle und de Transport vo Containern z’verbessere, was sie zu eme wichtige Element in de Logistik und Supply-Chain-Betrieb macht.
+**Oy Confoot Ltd 概述：**  
+Oy Confoot Ltd 是一家芬兰公司，专注于设计和制造创新型、可拆卸的集装箱支腿，用于货运集装箱。其产品旨在简化集装箱的搬运和运输，是物流和供应链运营中的一项宝贵资产。
 
-HZ Containers vertritt de Vertrieb und Marketing in mehrere europäischi Länder, um s’Vertriebsnetz vo de Marke Confoot z’verstärke. Bevor mir mit em Verkauf vo de Confoot-Produkt aafange hend, hend mir alli verfiegbarer Produkte uf em Markt vo Containerfüessli gründlich teste, damit mir nur Top-Qualitätsprodukte an üsi Chunde liefere. Mir hend nöd nume s’Produkt analysiert, sondern au dr Hintergrund und d’Geschicht vo de Oy Confoot Ltd.
+HZ Containers 负责在多个欧洲国家代表 ConFoot 品牌开展销售和市场推广，以加强 ConFoot 品牌的销售和分销网络。在开始销售 ConFoot 产品之前，我们仔细测试了市场上所有可用的集装箱支腿产品，以确保向我们的客户提供的都是顶级质量的产品。我们分析的不仅仅是产品本身，还有 Oy Confoot Ltd 的背景和历史。
 
-**Kurzi Geschicht vo Oy Confoot Ltd:**
+**Oy Confoot Ltd 简史：**
 
-- **2011:** Oy Confoot Ltd isch i Finnland gründet worde.  
-- **2013:** D’Firma het nach umfangreiche Forschung und Entwicklung, wo über es Jahrzehnt dauert hät, de Start vom kommerziälle Betrieb gmacht.  
-- **2013-2024:** Confoot het es Sortiment vo patenteierte Produkte entwicklet, wo in dr Logistikindustrie sehr beliebt worde sind und unter anderi au d’Finnische Verteidigigsstreitkräfte und IKEA bedient.  
-- **2024:** D’Firma isch verkauft worde, was s’Wachstum und d’Interesse vo grössere Unternehmen in dr Logistikbranche zeigt.
+- **2011年：** Oy Confoot Ltd 在芬兰成立。  
+- **2013年：** 公司经过十多年的广泛研发后开始商业运营。  
+- **2013-2024年：** Confoot 开发了一系列获得专利的产品，这些产品在物流行业中广受欢迎，其客户包括芬兰国防军和宜家。  
+- **2024年：** 公司被出售，这标志着增长，并引起了物流行业大型企业的兴趣。
 
-**Wesentliche Erfolge:**
+**主要成就：**
 
-- **Innovatives Produkt:** D’Confoot-Füessli sind so konstruiert, dass sie vo nur eme Maa bedient werde chönd und erlaube, en 30-Tonnen-Container in Minutä frei stehend z’setze.  
-- **Patentierti Technologii:** Ds einzigartige Design vo de Confoot-Füessli isch patenteiert, was den Schutz vor Imitatione sicherstellt und ihri Innovation unterstreicht.  
-- **Kundenstamm:** D’Firma het e vielfältige Kundschaft i verschidene Branchen ufbaut, unter anderi im Transportation, Einzelhandel und humanitäre Hilf, mit namhafte Kunde wie Lear Corporation und Orion Engineered Carbons.  
-- **Europäischi Sicherheitsnormen:** D’Produkte erfülle d’europäische Maschinenrichtlinie 2006/42/EC für d'Sicherheit.  
-- **Nachhaltigkeit:** S’leichte Design vo de Füessli trägt zu tieferä Transportkosten und ere reduzierte Umweltauswirkig bi, weils d’Logistik optimiert und d’Anzahl vo nöitige Transporte reduziert.
+- **创新产品：** Confoot 支腿的设计使得一人即可操作，能够在几分钟内将一个 30 吨的集装箱独立稳固地放置。  
+- **专利技术：** Confoot 支腿的独特设计已获得专利，确保了产品不会被模仿，也突显了其创新性。  
+- **客户群：** 公司在运输、零售和人道主义援助等各个行业建立了多元化的客户群，知名客户包括 Lear Corporation 和 Orion Engineered Carbons。  
+- **符合欧洲安全标准：** 产品符合欧洲 2006/42/EC 机械指令中的安全要求。  
+- **可持续性：** 支腿轻量化的设计有助于降低运输成本和环境影响，因为它们可以优化物流流程，减少搬运集装箱所需的运输次数。
 
-Die umfassendi Übersicht git e detaillierti Ibersicht über Oy Confoot Ltd, zeigt ihre Impact in dr Logistikindustrie und hebt ihri Erfolge im Laufe vo de Jahr uuf.
+这份全面的概述详细介绍了 Oy Confoot Ltd 的情况，突显了其在物流行业中的影响力以及多年来所取得的成就。
 
-## Problem & Lüsig
+## 问题与解决方案
 
-**Firmenname:** Oy Confoot Ltd
+**公司名称：** Oy Confoot ltd
 
-**Problem:** Oy Confoot Ltd erkennt es erheblichs Problem i dr Schifffahrt und Logistikbranche bezüglich dr Stabilität und Sicherheit vo Frachtscontainern während Transport und Lagerig. Ds Hauptrisiko isch, dass Container umchalle chönd, wen sie ohne adäquati Containerlifte umgange, was zu gefährliche Unfälle, möglicherwiis Verletzig und erhebliche finanzielle Verluscht wegen beschädigte Fracht und Betribsverzögerige führt. Die Instabilität wird oft durch ungenüegendi Unterstützungssystem im Umgang, Staple und Transport verstärkt.
+**问题：** Oy Confoot ltd 认识到在航运和物流行业中，集装箱在运输和储存过程中存在稳定性与安全性的问题。主要问题是，缺乏合适的集装箱升降设备在操作时增加了集装箱倾覆的风险，这可能导致危险事故、人员伤害以及因货物损坏和运营延误而带来的巨大经济损失。这种不稳定性常常因搬运、堆放和运输过程中缺乏充分的支撑系统而加剧。
 
-**Lüsig:** Zur Bewältigung vo dem Problem het Oy Confoot Ltd innovative Containerfüessli-Lösige entwicklet, wo dr Container meh stabil und sicheri mache. Ihr Ansatz basiert uf robuste und fortschrittlichi Designs der Containerfüessli, wo überlegeni Unterstützung biete, sodass s’Umchalle minimiert wird und de Container sicher ghoblet werden cha. Ds patenteerti Design vereinfacht s’Hobe und Positioniere vo Containern enorm, indem es d’Notwendigkeit für sperrigi Maschine eliminiert und so dr Betriebsablauf effizienter macht. Die Lüsig verbessert nöd nume d’Sicherheit, sondern trägt au zu Kosteneffizienz i Logistikprozesse bi, was sie zu ere wertvolle Innovation in dr Branche macht.
+**解决方案：** 为了解决上述问题，Oy Confoot Ltd 开发了创新的集装箱支腿解决方案，旨在增强货运集装箱的支撑和稳定性。他们的方案涉及设计出坚固且先进的集装箱支腿，大大降低了翻倒的风险并确保安全操作。其专利设计的集装箱支腿简化了集装箱的升降和定位过程，消除了对重型机械的依赖，从而提高了运营效率。这一解决方案不仅提高了安全性，还在物流运营中实现了成本效益，是行业内的一项重要进步。
 
-## Markt
+## 市场
 
-**Firmenanalyse: Oy Confoot Ltd**
+**公司分析： Oy Confoot Ltd**
 
-1. **Segment und Schwerpunkt:**  
+1. **市场细分与重点：**  
      
-   - **Segment:** Oy Confoot Ltd isch im Logistik- und Transportsektor täti, wo de Schwerpunkt uf d’Entwicklig vo Containerfüessli ligt.  
-   - **Zielchunde:** D’primäre Zielgruppe vo Oy Confoot Ltd sind Schifffahrtsunternehmen, Logistikanbieter und Distributionszentren, wo robuste und zuverlässigi Containerlösige uf ihre Betriebe benötige.
+   - **细分市场：** Oy Confoot Ltd 在物流和运输领域运营，主要专注于开发集装箱支腿。  
+   - **目标客户：** Oy Confoot Ltd 的主要客户包括需要耐用且可靠集装箱解决方案的航运公司、物流供应商以及分销中心。
 
-   
-
-2. **Zielmarkt:**  
+2. **目标市场：**  
      
-   - Dr Zielmarkt für Oy Confoot Ltd besteht us Unternehmen, wo im Transport und in dr Logistik täti sind und Container für d’Frachtlieferig verwände. Das umfaasst maritime Schifffahrtsunternehmen, Spediteure und Firmen, wo im internationale Handel aktiv sind.
+   - Oy Confoot Ltd 的目标市场包括使用集装箱进行货物运输的各类企业。这其中包括海运公司、货运代理以及从事国际贸易的公司。
 
-   
-
-3. **Markthintergrund:**  
+3. **市场背景：**  
      
-   - D’Container-Schifffahrtsindustrie het aufgrund vo Globalisierig und dem starkä Wachstum im internationale Handel en signifikante Aufschwung erlebe. Ds Bedürfnis nach effiziente Logistiklösige het z’Innovationen im Bereich vo Containertechnologie gfüehrt, wo au d’Notwendigkeit robuste und flexible Containerfüessli betont.
+   - 由于全球化以及国际贸易的增长，集装箱运输行业获得了显著的发展。对高效物流解决方案的需求推动了集装箱技术的创新，其中包括对坚固且多功能的集装箱支腿的需求。
 
-   
-
-4. **Marktgrösse:**  
+4. **市场规模：**  
      
-   - Dr weltwitige Markt für Container-Schifffahrt isch uf mehrere hundert Milliarden Dollar geschätzt worde, mit Prognose, dass s’Wachstum wiitergeit, agetrieben dur de Zunahm im E-Commerce und globali Lieferkette. D’spezifischi Marktgrösse für Containerfüessli isch en Unterbereich davon, wird aber wahrscheinlech witer wachse, wen ds allgemeine Bedürfnis nach Containerlösige steigt.
+   - 全球集装箱运输市场的规模估计价值数千亿美元，并预计将持续增长，推动力包括电子商务和全球供应链的扩张。专门针对集装箱支腿的市场虽然是整体市场的一个子集，但随着集装箱使用需求的增加，该领域也预计将有所增长。
 
-   
-
-5. **Marktmöglichkeiten:**  
+5. **市场机遇：**  
      
-   - Möglichkeitä für Oy Confoot Ltd beinhalte d’Erweiterig vom Produktsortiment um fortschrittligi Materialie, wo d’Haltbarkeit erhöhe und s’Gewicht reduzieren, d’Entwicklig vo smart Containerfüessli mit integrierte Tracking-Technologie sowie de Markteintritt in aufstrebendi Märkt, wo d’Nutzung vo Containern zunehmt.
+   - 对于 Oy Confoot Ltd 来说，市场机遇包括扩展产品种类（例如采用新型材料以提高耐用性和减轻重量）、研发搭载追踪技术的智能集装箱支腿以及开拓集装箱使用日益增多的新兴市场。
 
-## Team
+## 团队
 
-1. **Mia Pietarinen** – Eigentümerin und Unternehmerin: Mia Pietarinen isch d’neui Eigentümerin vo ConFoot und het d’Firma übernimmt, um d’Geschäftstätigkeit und s’Produktsortiment uszbaue.  
+1. **Mia Pietarinen** – 所有者与企业家：Mia Pietarinen 是 ConFoot 的新所有者，接管公司后致力于扩展业务和产品种类。  
      
-2. **Timo Akela** – Gründer: Timo Akela wird als dr Gründer vo ConFoot anerkannt und wird kreditieret mit dr Erfindig vo de ConFoot-Füessli in Zämmearbeit mit Ingenieure vo dr Metropolia Universität in Helsinki.  
+2. **Timo Akela** – 创始人：Timo Akela 被认可为 ConFoot 的创始人，他与来自赫尔辛基 Metropolia 大学的工程师合作发明了 ConFoot 支腿。  
      
-3. **Heikki Lehmuskoski** – Verwaltungsratsmitglied: Heikki Lehmuskoski isch Mitglied im Verwaltungsrat und bringt strategischi Richtig und Governanz i d’Firma ii.  
+3. **Heikki Lehmuskoski** – 董事会成员：Heikki Lehmuskoski 是董事会成员，为公司的战略方向和治理提供支持。  
      
-4. **Lauri Lehtoviita** – Finanzchef: Lauri Lehtoviita übernimmt d’Rolle vo Chief Financial Officer und spielt e zentrali Rolle i dr Finanzverwaltung und strategische Planung vo dr Firma.  
+4. **Lauri Lehtoviita** – 首席财务官：Lauri Lehtoviita 担任首席财务官，在管理公司财务和战略规划方面发挥了关键作用。  
      
-5. **Robert Latvala** – Internationaler Marketing Manager: Robert Latvala verantwortet d’internationale Marketingstrategie vo ConFoot und konzentriert sich uf den globale Marktausbau.
+5. **Robert Latvala** – 国际市场经理：Robert Latvala 负责 ConFoot 的国际市场策略，专注于扩大全球市场影响力。
 
-Für wiiteri Detail chönd Sie ihre LinkedIn-Profile und Firmanamaachige uf Plattformä wie WorldCargo News aaluege.
+如需了解更多详情，您可以查看他们在 LinkedIn 上的个人资料以及在 WorldCargo News 等平台上的公司公告。
 
-## Produkte und Dienstleistungen
+## 产品与服务
 
-**Firmenname:** Oy Confoot Ltd (ConFoot)
+**公司名称：** Oy Confoot Ltd (ConFoot)
 
-**Hauptprodukt oder Dienstleistung:** Oy Confoot Ltd isch spezialisiert uf d’Entwicklig vo innovative Containerfüessli, wo für d’Stabilität und Unterstützig vo Frachtscontainern während Transport und Lagerig unverzichtbar sind. Ihre Hauptprodukte umfasse verschideni Modelle vo Containerfüessli, wo je nach Bedarf verwendet werde chönd. Die wichtigste Produkt im Überblick:
+**主要产品或服务：**  
+Oy Confoot Ltd 专注于开发创新的集装箱支腿，这些支腿对于在运输和储存过程中稳定与支持集装箱至关重要。他们的主要产品包括针对不同应用场景设计的多种型号集装箱支腿。以下是 ConFoot 提供的关键产品：
 
-1. **CF – Standardmodell**  
+1. **CF – 标准型号**  
      
-   - Lastkapazität: 34 Tonne  
-   - Gewicht: 24 kg  
-   - Verstellbarer Bereich: 1.043 mm bis 1.448 mm
+   - 载重能力：34 吨  
+   - 重量：24 公斤  
+   - 调整范围：1,043 毫米至 1,448 毫米
 
-   
-
-2. **CFP – Lösung für Verladebucht**  
+2. **CFP – 装卸坡专用解决方案**  
      
-   - Lastkapazität: 30 Tonne  
-   - Gewicht: 24 kg  
-   - Verstellbarer Bereich: Wie bim Standardmodell
+   - 载重能力：30 吨  
+   - 重量：24 公斤  
+   - 调整范围：与标准型号相同
 
-   
-
-3. **CFU – Höhensteuerungsmodus**  
+3. **CFU – 高度控制模式**  
      
-   - Lastkapazität: 20 Tonne  
-   - Gesamtgewicht: 46 kg
+   - 载重能力：20 吨  
+   - 总重量：46 公斤
 
-   
-
-4. **CFL – Modell für gerahmte Container**  
+4. **CFL – 针对框架集装箱的型号**  
      
-   - Lastkapazität: 30 Tonne  
-   - Verstellbarer Bereich: Wie bim Standardmodell
+   - 载重能力：30 吨  
+   - 调整范围：与标准型号相同
 
-De Vorteil vom Einsatz vo de ConFoot-Füessli sind erhöhteri Effizienz, Sicherheit und Mobilität. Sie ermögliche schnälls und eifachs Umhande vo Containern, ohni de Notwendigkeit für Krän oder schweri Maschine, was d’Kosten senkt und Logistikprozesse optimiert.
+使用 ConFoot 支腿的好处包括提高效率、安全性和灵活性。它们使集装箱的快速搬运成为可能，无需依赖起重机或其他重型机械，从而降低成本并提升物流运营的效率。
 
-**Produktalternativen und Wettbewerber:** ConFoot steht in Konkurrenz zu verschiedene Firmen, wo ebenfalls Containerhandlingslösige aabiete. E paar wichtige Wettbewerber sind:
+**产品替代方案与竞争对手：**  
+ConFoot 面临来自于其他提供集装箱搬运解决方案的公司的竞争。一些值得注意的竞争对手包括：
 
-- **HZ Containers:** Bietet ähnliche Containerhandlingssystem, inklusiv Hydrauliksysteme, wo s’Hebe und Absenke vo Containern erleichtere, mit em Fokus uf Effizienz und Sicherheit. HZ Containers isch en globaler Wiederverkäufer vo Frachtscontainern und Produkt für alternative Nutzig vo Containern. HZ Containers zählt nöd als e direkte Konkurrenz, da es au en Wiederverkäufer vo Confoot-Produkte in mehrere europäischi Ländern isch.
+- **HZ Containers：** 提供类似的集装箱搬运系统，包括用于更方便提升和下降集装箱的液压系统，强调效率和安全。HZ Containers 是全球集装箱及相关产品的经销商，同时在多个欧洲国家也代理 ConFoot 产品，因此不构成直接竞争。  
     
-- **Kalmar und Liebherr:** Diese Firmen biete Ausrüstig für Containerhandling a, jedoch oft mit schwerere Maschine und potenziell höhere Kosten.
+- **Kalmar 和 Liebherr：** 这些公司提供集装箱搬运设备，但通常涉及更重型的机械设备且成本可能更高。
 
-**Vorteil vor de Wettbewerber:** ConFoot het mehrere Vorteile:
+**相较竞争对手的优势：**  
+ConFoot 具有以下几大优势：
 
-- **Eifache Bedienig:** D’ConFoot-Füessli chönd vo einere einzelne Person in wenige Minute montiert werde, was die Bedienig enorm vereinfacht und abhängig vo schwerer Maschine reduziert.
+- **操作简便：** ConFoot 支腿只需一个人即可在几分钟内安装，操作便捷，减少对重型机械的依赖。  
     
-- **Portabilität und leichts Design:** Mit nur 24 kg pro Füessli sind die ConFoot-Füessli wesentlich leichter als viele alternative, was sie eifacher z'transportiere und zu handhabe macht.
+- **便携与轻量化设计：** 每只支腿仅重 24 公斤，相较于许多竞争产品要轻得多，使其运输和操作更加方便。  
     
-- **Kosteneffizienz:** D’Notwendigkeit für Krän und andere schwere Equipment wird eliminiert, was d’Betriebskoste reduziert und d’Profitabilität für Logistik- und Transportunternehmä steigert.
+- **成本效益：** 通过消除对起重机和其他重型设备的需求，ConFoot 支腿降低了运营成本，并提高了物流和运输公司的整体盈利能力。  
     
-- **Vielfältigi Einsätz:** D’ConFoot-Füessli chönd in unterschiedlichste Szenarien bruucht werde – vo Logistik über Baufirmen bis zu humanitäre Hilfsprojekte – und erweitere so dr Einsatzbereich beträchtlich.
+- **应用广泛：** ConFoot 支腿可应用于物流、建筑以及人道主义援助等多种场景，扩大了市场适用性。
 
-Zämegefasst stellt d’innovativi Vorgehenswiis vo ConFoot zum Containerhandling, kombiniert mit em Fokus uf Effizienz, Sicherheit und Kostenreduktion, es überzeugende Angebot dar, wo sie im Wettbewerb hervorhebt. Ihr robustes Produktsortiment und di einzigartige Vorteile mache sie zur erschte Wahl für Unternehmen, wo ihre Containertransporte und Lagerprozesse optimieren wend.
+总之，ConFoot 对集装箱搬运的创新方法，再加上其在效率、安全性和降低成本方面的优势，使其在市场上相较竞争对手更具竞争力。其稳健的产品线和独特优势，使其成为希望简化集装箱运输和储存操作的公司的首选。
 
-## Go To Market
+## 市场推广策略
 
-**Firmenüberblick: Oy Confoot Ltd**
+**公司概况： Oy Confoot Ltd**
 
-Oy Confoot Ltd isch e finnischi Firma, wo sich uf d’Entwicklig vo innovative Containerfüessli spezialisiert hät, die für d’Stabilität und Sicherheit vo Frachtscontainern unerlässlich sind. Ihre Produkte adressiere unterschiedlichi logistici Herausforderung, vor allem im Kontext vom weltweite Wachstume im Versand.
+Oy Confoot Ltd 是一家芬兰公司，专注于开发创新的集装箱支腿，这些支腿对于保障货运集装箱的稳定性和安全性至关重要。其产品解决了日益增长的全球航运产业中的各种物流挑战。
 
-### 1. Technologie-Readiness-Level (TRL)
+### 1. 技术成熟度水平 (TRL)
 
-D’Confoot-Containerfüessli, insbesondere s’CFU-Modell, hend es TRL erreichet, wo uf en fortschrittlige Entwicklungsstatus hiweist. S’CFU-Modell isch CE-zertifiziert, was heisst, dass es d’europäische Sicherheitsnormen erfüllt und für de kommerziälle Einsatz parat isch. Das Modell cha Container mit bis zu 20 Tonne hebe und sie sicher uf de Boden absetze oder uf Trailer transportiere, mithilf en manuelle Hydrauliksystäm. S’robuste Design legt e starke Betonig uf s’leichte Material, ohni d’Stärke z’vernächlässige, und ermöglicht so de Einsatz vo nur eme Bediener. Dr Fokus vo dr Firma uf portable und zuverlässigi Lösige unterstreicht ihri technologische Reife und setzt sie im Markt i e vorteilhafte Position.
+Confoot 的集装箱支腿，尤其是 CFU 型号，已达到反映其先进研发水平的技术成熟度等级。CFU 型号通过了 CE 认证，符合欧洲安全标准并具备商业应用资格。该型号能够提升重达 20 吨的集装箱，并可通过手动液压系统将其安全地降至地面或提升至拖车上。其坚固设计在保证强度的前提下实现了轻量化，使其能够由单人操作。公司专注于打造便携且可靠的解决方案，正是其技术成熟度和市场竞争力的重要体现。
 
-### 2. Go to Market / Distribution-Strategie
+### 2. 市场进入与分销策略
 
-Confoot het es Vertriebspartnernetz in über 20 Länder ufbaut, wo d’Marktdurchdringig i verschidene Regionä – unter anderem in Europa, Südamerika und Afrika – fördert. Ihr Ansatz besteht darin, Industrien z’anspreche, wo portable Lösungen für s’Containerhandling benötigen, wie Logistik, Bau und humanitäri Hilf. Besonders s’CFU-Modell geht eigetlich uf operative Herausforderung i Regionen, wo infrastructurell weniger entwickelt sind, und eröffnet so neue Absatzmöglichkeite. Die Strategie betont au d’Bedeutig vo schnelle Lieferziite, dank Lagerbestände bi dr Fabrik und de Händler. Das gewährleistet, dass mer rasch uf Marktnachfrage reagiere cha.
+Confoot 已在超过 20 个国家建立了分销网络，从而促进在包括欧洲、南美和非洲在内的多个地区的市场渗透。其策略包括瞄准需要便携集装箱搬运解决方案的行业，如物流、建筑以及人道主义援助机构。尤其是 CFU 型号，能够应对那些基础设施欠缺地区的运营挑战，进一步扩展了其市场吸引力。公司还强调快速交付的重要性，通过在工厂和经销商库存中保持充足的产品库存，确保能够迅速响应市场需求。
 
-### 3. Geschäftsmodell
+### 3. 商业模式
 
-Ds Geschäftsmodell vo Confoot basiert uf em Angebot vo hochwertige, kosteneffiziente Containerhandlinglösige. Ihr Produktsortiment umfasst verschideni Modelle – wie s’CF (34t Kapazität), s’CFP (30t Kapazität) und s’CFL-Modell – je nach den operativen Bedürfnis. D’Preisstrategie isch wettbewerbsfähig und legt d’Betonig uf de Mehrwert, den d’Kostensenkig und Optimierung vo de Lieferkette bringet. Zusätzlich bietet d’Firma Anpassigsoptionen für ihre Füessli aa, was es ermöglicht, spezifische Kundenwünsche zu erfülle und so ne zusätzliche Service als au Möglichkeit zur Zusatzumsatzgenerierung z’schaffe.
+Confoot 的商业模式围绕提供高品质且具成本效益的集装箱搬运解决方案展开。其产品系列涵盖不同型号，如 CF（载重 34 吨）、CFP（载重 30 吨）和 CFL 型号，以满足不同的运营需求。其定价策略具有竞争力，并侧重于降低客户供应链成本和优化物流流程的价值。此外，公司还提供支腿的定制服务，以满足特定客户需求，从而增加了服务层次和潜在收入来源。
 
-### 4. Timing
+### 4. 时机
 
-Ds Timing für de Markteinstieg und d’Expansion vo Confoot zeigt sich als günstig. D’globali Schifffahrtsindustrie wächst kontinuierlich, agetrieben vo steigende Handelsvolumä und komplexeri logistische Prozesse. Wenn Unternehmen nach effiziente und portable Lösungen für s’Containerhandling sueche, passen Confoot-Produkte ideal zu dem Bedüfnis. Ihre Lösige sind besonders relevant in Regionen mit infrastrukturelle Herausforderungen, was zusätzlich Chancen eröffnet für Partnerschafte mit humanitären Organisatione und andere Branchen, wo flexible Logistikkonzepte benötige.
+Confoot 进军市场和扩张的时机看起来十分有利。全球航运业正稳步增长，贸易量增加和物流复杂性提升为高效、便携的搬运解决方案提供了市场需求。随着各组织对管理集装箱搬运提出更高要求，Confoot 的创新产品恰好契合市场需求。其解决方案在面临基础设施挑战的地区尤为适用，从而为与人道主义组织及其它需要灵活物流解决方案的行业建立合作关系创造了机会。
 
-Zusammengefasst isch Oy Confoot Ltd strategisch im wachsend Markt positioniert – unterstützt dur en soliden technologische Fundament, en effektive Vertriebsstrategi und es kundenorientiertes Geschäftsmodell. Ihr Fokus uf Innovation und d’Adressierung vo realen logistische Problematik hebt sie als e Schlüsselfirma im Containerhandling-Sektor hervor.
+总体来看，Oy Confoot Ltd 基于坚实的技术基础、有效的分销战略和以客户为中心的商业模式，已在成长中的市场中占据了战略有利位置。其专注于创新和解决现实物流问题使其在集装箱搬运领域成为重要的参与者。
 
-## Economics
+## 经济学分析
 
-Oy Confoot Ltd spezialisiert sich uf d’Entwicklig vo Containerfüessli für Logistikbetriebe und bietet portable sowie kosteneffiziente Lösungen für s’Containerhandling. Nachfolgend e detaillierti Ibersicht über d’Unit Economics, d’Umsatzsituation und d’Marktgeschicht:
+Oy Confoot Ltd 专注于开发用于物流操作的集装箱支腿，提供便携且具成本效益的集装箱搬运解决方案。以下是公司单位经济学、收入及市场牵引力的详细分析：
 
-1. **Unit Economics und Kostenaufgliederig:**  
+1. **单位经济学及成本构成：**  
      
-   - D’hauptkostenfaktore für d’Produkte vo Oy Confoot Ltd sind Material (hochfester Stahl), Herstelligsprozess und Logistik für d’Distribution. S’Standardmodell, CF, het e Kapazität vo 34 Tonne und wiegt nur 24 kg pro Füessli, was im Vergleich zu de schwerere Konkurrenzprodukte zu niedrigere Versandkoschte führt.  
-   - Mit em Skalewachstum in de nöchste 3-5 Jahr wird erwarte, dass d’Skaleneffekte d’Kosten pro Einheit senke, vor allem bi de Materialbeschaffung und verbesserti Produktionsprozesse. Wettbewerber mit schwerere und unhandlichere Alternativen müend oft in spezialisierti Hebemaschine investiere, was zu höhere Logistikkoste führt. D’leichte Konstruktion vo Confoot verschafft so e wettbewerbsfähige Preisposition.
+   - Oy Confoot Ltd 产品的主要成本驱动因素包括原材料（高强度钢材）、制造工艺以及分销物流。标准型号 CF 虽能承载 34 吨的载荷，但每只支腿仅重 24 公斤，这使得其比竞争对手那些重量更大的产品具有更低的运输成本。  
+   - 随着公司在未来 3-5 年内的扩展，规模经济效应预计将降低单件成本，尤其在原料采购和制造效率上更为明显。相比之下，竞争对手的产品通常更重、更笨重，因此需要依赖专用的起重设备，这无形中增加了物流成本，从而使 Confoot 在定价上更具竞争优势。  
+   - 与竞争对手的比较显示，虽然其他产品可能在载重能力上相似，但它们更高的重量往往需要专用的提升设备，增加了整体物流成本。而 Confoot 的轻量化设计使得单人即可操作，降低了对重型机械的依赖。
+
+2. **收入：**  
      
-   - E Verglich mit andere Anbieter zeigt, dass trotz ähnlicher Kapazität de Mehrkosten durch das höhere Gewicht – und d’Notwendigkeit für spezielle Hebemusik – entstoh, was Confoot e Wettbewerbsvorteil verschafft.
+   - Oy Confoot Ltd 目前通过销售其集装箱支腿产品获得收入，预计未来 3-5 年内将显著增长。新型号（如载重 20 吨的 CFU）的推出预计将扩展市场覆盖面，带动销售增长。公司正处于积极渗透欧洲、南美和非洲市场的战略布局中，这些地区对便携集装箱搬运解决方案的需求正在增加。  
+   - 虽然关键的收入数据和未来预测未对外披露，但市场需求上升和客户采纳率的提升预示着公司收入有望大幅增长。
 
-   
-
-2. **Umsatz:**  
+3. **市场牵引：**  
      
-   - Oy Confoot Ltd erzielt derzeit Umsatz durch de Verkauf vo ihre Containerfüessli, mit Aussichte uf en signifikante Umsatzwachstum in de nöchste 3-5 Jahr. D’Einführung vo neue Modelle wie s’CFU-Modell (mit 20t Kapazität) wird erwarte, d’Marktreichwiti zu vergrössern und d’Verkäufe zu steige. D’Firma isch strategisch positioniert, um Märkte in Europa, Südamerika und Afrika – wo s’Bedürfnis nach portable Containerlösige wächst – erfolgreich z’erschliiche.
-     
-   - Konkret Umsatz- und Prognosezeichä sind nöd offezil veröffentlicht, aber d’steigend Nachfrage und d’Breitfiirig wiiter Partnerschafte de Umsatz in dr Zuekunft wahrschinlich fördere.
+   - Oy Confoot Ltd 已取得多个重要里程碑，比如成功推出包括 CFU 在内的多条产品线，该产品因其在包括人道主义援助在内的不同行业中的广泛应用而获得了积极反馈。  
+   - 公司在超过 20 个国家建立了分销网络，并持续就潜在合作展开洽谈，使 Confoot 成为解决集装箱物流操作挑战的重要参与者。  
+   - 最近，公司被出售的消息表明了其战略转型的信号，这可能带来更多投资，并促进其创新解决方案的进一步发展。
 
-   
+总体而言，Oy Confoot Ltd 以其创新、具成本效益的集装箱搬运解决方案，在物流行业中脱颖而出，未来在收入和市场影响力方面均有望实现增长。
 
-3. **Marktdurchbruch:**  
-     
-   - Wichtigi Meilensteine für Oy Confoot Ltd sind d erfolgreiche Produkteinführung vo unterschiedliche Linien, inklusive s’CFU-Modell, wo positive Rückmeldige in verschiednene Industriezweige – unter anderem au im humanitäre Hilfsbereich – erhalte het.
-     
-   - D’Firma het es globala Vertriebspartnernetz i über 20 Länder ufbaut und isch ständig in Kontakt mit potenzielle Partner. Das positioniert Confoot als e bedeutende Akteur zur Bewältigung vo logistische Herausforderungen.
-     
-   - Neiste Entwicklungen weisen, dass d’Firma verkauft worde isch – e strategischi Veränderig, wo erwarte lässt, dass zukünftig meh Investition und Entwicklung in ihre innovative Produkte fließt.
+## 可扩展性、风险与防御力
 
-Zusammenfassend zeichnet sich Oy Confoot Ltd durch innovative, kosteneffiziente Lösungen im Containerhandling aus und isch gut positioniert für Umsatzwachstum und verstärkte Marktpräsenz in de nöchste Jahr.
+**公司名称： Oy Confoot Ltd**
 
-## Skalierbarkeit, Risiken, Verteidigig
+**可扩展性：**  
+Oy Confoot Ltd 在全球市场上具有良好的扩展潜力。公司专注于开发集装箱支腿，作为航运和物流行业中不可或缺的组成部分，在全球贸易持续增长及对集装箱化运输依赖不断增加的背景下，Oy Confoot Ltd 有望实现国际业务的扩展。不过，不同国家的法规要求、来自成熟竞争对手的挑战以及在生产和分销能力上所需的大量投资可能会带来一些挑战。总体而言，Oy Confoot Ltd 的扩展前景十分可观，但需要谨慎规划和资源配置以应对各项挑战。
 
-**Firmenname: Oy Confoot Ltd**
+**防御力：**  
+Oy Confoot Ltd 的商业模式被认为具有较高的防御能力，原因有以下几点。首先，公司在一个技术专业性较强的细分市场中运营，其产品既需要技术专长也需要创新能力。这种专业化为新进入者设置了壁垒，使其难以匹敌 Oy Confoot Ltd 产品的质量与可靠性。其次，公司与航运行业的关键企业已建立了稳固的合作关系，有助于巩固其市场地位并阻止竞争对手的介入。最后，持续的研发投入确保了 Oy Confoot Ltd 始终走在行业前沿，不断改进产品，从而进一步增强了其竞争防御能力。
 
-**Skalierbarkeit:** Oy Confoot Ltd zeigt e grosse Potenzial für globale Skalierbarkeit. D’Firma isch spezialisiert uf d’Entwicklung vo Containerfüessli, wo essenziell für d’Schifffahrt und Logistik sind. Mit em ständige Wachstum im internationale Handel und de steigenden Bedarf an containerbasierten Transportlösige, cha Oy Confoot Ltd ihre Aktivitäten international usbaue. Herausforderungen chönd dennoch entstoh durch unterschiidligi regulatorische Ufnahme, Wettbewerb mit etablierten Akteure und d’Notwendigkeit vo erhebliche Investition in Produktion und Distribution, um de globali Nachfrage erfülle z’könne. Insgesamt zeigt sich d’Skalierbarkeit sehr vielverspräche, wenngleich e sorgfältigi Planung und Ressourceneinteilung unabdingbar sind.
+**主要风险：**  
+Oy Confoot Ltd 面临几项可能影响其运营和市场地位的关键风险，包括：
 
-**Verteidigig:** Das Geschäftsmodell vo Oy Confoot Ltd gilt als gut verteidbar aufgrund mehri Faktoren. Zerscht, die Firma operiert inere Nischenmarkt, wo spezialisierti Produkte benötigt, wo technisches Know-how und Innovation voraussetze. Diese Spezialisierig schafft en Eintrittsbarriere für Neuanwärter, wo es schwierig ha chönd, d’Qualität und Zuverlässigkeit vo Oy Confoot Ltd z’imiteriere. Zusätzlich het die Firma langjährige Beziehungen zu wichtige Akteure in dr Schifffahrtsindustrie ufbaut, was ihri Marktposition sichert und Wettbewerber abschreckt. Weiter investiert Oy Confoot Ltd laufend in Forschung und Entwicklung, was sicherstellt, dass sie stets mit de neuste Innovatione und Branchentrends Schritt halte und so ihri Verteidigig stärkt.
+1. **市场竞争：** 集装箱支腿市场日益竞争激烈，新进入者和成熟企业均在争夺市场份额，这可能引发价格战，进而压缩利润。  
+2. **法规挑战：** 向国际市场扩展可能使公司面临各国不同的法规和合规要求，这可能增加运营复杂性和成本。  
+3. **经济波动：** 航运行业对经济周期较为敏感，经济低迷可能导致对集装箱支腿需求下降，从而影响收入。  
+4. **供应链中断：** 全球供应链中断（如地缘政治紧张局势或疫情等因素）可能影响生产和交付进度，从而影响客户满意度及公司财务表现。
 
-**Wichtigsti Risiken:** Oy Confoot Ltd isch verschiednene Risiken usgsetzt, wo ihre Operatione und Marktposition beeinträchtige chönd. Darunter:
-
-1. **Marktwettbewerb:** Ds Segment vo Containerfüessli wird immer wettbewerbsfähiger, da immer meh Firmen und Neumitglieder versueche, in dem Markt Spass z’habe. Das chönnt zu Preiskämpf und schrumpfende Margen führe.  
-2. **Regulatorischi Herausforderungen:** Dr Intraus in internationale Märkt bringt unterschiedliche Regulierige und Zulassigsanforderige mit sich, was d’Betriebsabläufe komplizierter mache und z’höchere Kosten führe chönnt.  
-3. **Wirtschaftlichi Schwankige:** D’Schifffahrtsindustrie isch empfindlich uf wirtschaftlichi Abschwung, was s’Bedürfnis vo Containerlösige beeinträchtigen und sich negativ us uf d’Umsatzentwicklung uswirke cha.  
-4. **Lieferkettenstörung:** Unvorhergsehni globale Lieferkettenstörungen – bedingt dur geopolitischi Spannige oder Pandemies – chönd d’Produktion und Auslieferig verzögere, was zu Unzufriedenheit bi de Kunde und finanzielle Konsequenze führe cha.
-
-Zusammengefasst bietet Oy Confoot Ltd erheblich Potenzial für globale Expansion und het e robustes, verteidigungsfähigs Geschäftsmodell. Gleichwohl isch es wichtig, dass d’Firma aktiv und vorausschauend de Risiken managet, um ihre Position im dynamische Markt langfristig z’sichere.
+总之，Oy Confoot Ltd 在全球市场中具备显著扩展潜力和坚实的防御性商业模式，但必须密切关注并积极管理与运营相关的各种风险。

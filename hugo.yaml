@@ -32,10 +32,14 @@ languages:
           name: Products
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: About
           url: /about
-          weight: 3
+          weight: 4
 
   cs:
     languageName: Čeština

@@ -8,7 +8,7 @@ gallery:
   - "/images/products/confoot-leg-cfp-3.jpg"
 shortDescription: "ConFoot-leg CFP is our premium container leg solution, featuring enhanced capabilities for specialized container operations."
 technicalDescription: "The ConFoot-leg CFP incorporates advanced materials and design features for superior performance in challenging environments and specialized applications."
-videoID: ""
+videoID: "da7h7VgJHgs"
 specifications:
   - name: "Weight"
     value: "26 kg"

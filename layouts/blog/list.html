@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-4">{{ .Title }}</h1>
+    <div class="prose max-w-none mb-8">
+      {{ .Content }}
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ range .Pages }}
+        <div class="border rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300">
+          {{ if .Params.image }}
+            <a href="{{ .RelPermalink }}">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-48 object-cover">
+            </a>
+          {{ end }}
+          <div class="p-4">
+            <h2 class="text-xl font-semibold mb-2">
+              <a href="{{ .RelPermalink }}" class="text-gray-800 hover:text-yellow-500">{{ .Title }}</a>
+            </h2>
+            <div class="text-sm text-gray-500 mb-2">{{ .Date.Format "January 2, 2006" }}</div>
+            <div class="text-gray-700 mb-4">{{ .Params.summary }}</div>
+            <a href="{{ .RelPermalink }}" class="inline-block text-yellow-500 font-bold hover:text-yellow-600">{{ i18n "read_more" | default "Read more" }} →</a>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
