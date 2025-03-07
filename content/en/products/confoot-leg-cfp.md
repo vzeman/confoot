@@ -22,7 +22,7 @@ specifications:
     value: "1,043 mm to 1,448 mm"
 price: "€1,450"
 pricingNotes: "Premium service package available. Contact our sales team for details."
-buyLink: "/en/contact"
+buyLink: "/contact"
 howToUse: |
   1. Position the CFP leg at the container corner casting
   2. Engage the advanced locking mechanism

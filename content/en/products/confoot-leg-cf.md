@@ -22,7 +22,7 @@ specifications:
     value: "1,043 mm to 1,448 mm"
 price: "€1,150"
 pricingNotes: "Bulk pricing available for fleet operators. Contact us for details."
-buyLink: "/en/contact"
+buyLink: "/contact"
 howToUse: |
   1. Attach the CF leg to the container corner casting
   2. Secure the locking mechanism

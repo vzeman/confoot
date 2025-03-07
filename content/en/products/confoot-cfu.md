@@ -20,7 +20,7 @@ specifications:
     value: "High-grade steel"
 price: "€1,250"
 pricingNotes: "Volume discounts available. Contact us for custom quotes."
-buyLink: "/en/contact"
+buyLink: "/contact"
 howToUse: |
   1. Position the CFU under the container corner
   2. Engage the locking mechanism
