@@ -42,9 +42,22 @@ product_2_description: "Štandardná verzia s nosnosťou až 34 ton, patentovan�
 product_3_description: "Vytvorené pre použitie na vykladacích rampách, umožňuje plné otvorenie kontajnerových dverí"
 
 # Container Legs
+container_legs_title: "Ako fungujú podpery kontajnerov"
+container_legs_subtitle: "Proces montáže za menej ako 5 minút"
+container_legs_step1_title: "Krok 1"
+container_legs_step1_description: "Zdvihnite hydraulický náves do najvyššej polohy"
+container_legs_step2_title: "Krok 2"
+container_legs_step2_description: "Nainštalujte podpery Confoot a spustite náves"
+container_legs_step3_title: "Krok 3"
+container_legs_step3_description: "Odíďte s vašim ťahačom za ďalšou zákazkou!"
+container_legs_weight_title: "Hmotnosť jednej podpery"
+container_legs_weight_value: "iba 24 kg"
 container_legs_capacity_title: "Celková nosnosť"
 container_legs_capacity_value: "až 34 ton"
 container_legs_numbers_speak: "Čísla hovoria jasne"
+
+# Video Section
+watch_installation_videos: "Pozrite si, ako nainštalovať podpery kontajnerov"
 
 # Container Legs Explanation Section
 container_legs_explanation_title: "Zdvíhacie zariadenia pre prepravné kontajnery"

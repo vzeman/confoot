@@ -42,6 +42,18 @@ product_2_description: "Standardversion mit einer Tragfähigkeit von bis zu 34 T
 product_3_description: "Entwickelt für den Einsatz an Laderampen, ermöglicht vollständiges Öffnen der Containertüren"
 
 # Container Legs
+container_legs_title: "Wie Container-Stützen funktionieren"
+container_legs_subtitle: "Montageprozess in weniger als 5 Minuten"
+container_legs_step1_title: "Schritt 1"
+container_legs_step1_description: "Heben Sie den hydraulischen Anhänger in seine höchste Position"
+container_legs_step2_title: "Schritt 2"
+container_legs_step2_description: "Installieren Sie Confoot-Stützen und senken Sie den Anhänger"
+container_legs_step3_title: "Schritt 3"
+container_legs_step3_description: "Fahren Sie mit Ihrem LKW zum nächsten Auftrag!"
+container_legs_weight_title: "Gewicht einer Stütze"
+container_legs_weight_value: "nur 24 kg"
+container_legs_height_title: "Höhenbereich"
+container_legs_height_value: "1.043 mm bis 1.448 mm"
 container_legs_capacity_title: "Gesamttragfähigkeit"
 container_legs_capacity_value: "bis zu 34 Tonnen"
 container_legs_numbers_speak: "Die Zahlen sprechen für sich"
@@ -64,3 +76,6 @@ container_legs_explanation_part13: "#### **3\\. Sichern Sie den Container**\n\nS
 container_legs_explanation_part14: "**4. Heben Sie schrittweise an**\n\nFolgen Sie den Anweisungen des Herstellers für die Bedienung des Hebers. Heben Sie den Container langsam und gleichmäßig an und stellen Sie sicher, dass alle Seiten mit der gleichen Rate angehoben werden. Vermeiden Sie plötzliche oder ruckartige Bewegungen, um das Risiko des Kippens oder der Überlastung des Hebers zu minimieren."
 container_legs_explanation_part15: "**5. Überwachen Sie den Prozess**\n\nBehalten Sie sowohl den Heber als auch den Container während des Hebens genau im Auge. Achten Sie auf Anzeichen von Instabilität oder Belastung der Ausrüstung. Wenn Sie ein Problem bemerken, senken Sie den Container sicher ab und überprüfen Sie Ihre Einrichtung erneut."
 container_legs_explanation_part16: "**6. Senken Sie den Container sicher ab**\n\nWenn es Zeit ist, den Container abzusenken, tun Sie dies langsam und vorsichtig. Verwenden Sie kontrollierte Bewegungen, um ihn sanft auf den Boden oder seine vorgesehene Position zu platzieren. Räumen Sie den Bereich von Hindernissen und prüfen Sie, dass der Container stabil ist, bevor Sie den Heber entfernen.\n\nDie Befolgung dieser Schritte gewährleistet eine sichere und effiziente Nutzung von Hebehilfen und hilft Ihnen, Versandcontainer reibungslos und effektiv zu handhaben."
+
+# Video Section
+watch_installation_videos: "Sehen Sie, wie man Container-Stützen installiert"

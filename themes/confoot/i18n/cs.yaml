@@ -42,6 +42,18 @@ product_2_description: "Standardní verze s nosností až 34 tun, patentovaný d
 product_3_description: "Vytvořeno pro použití na vykládkových rampách, umožňuje plné otevření kontejnerových dveří"
 
 # Container Legs
+container_legs_title: "Jak fungují podpěry kontejnerů"
+container_legs_subtitle: "Proces montáže za méně než 5 minut"
+container_legs_step1_title: "Krok 1"
+container_legs_step1_description: "Zvedněte hydraulický návěs do nejvyšší polohy"
+container_legs_step2_title: "Krok 2"
+container_legs_step2_description: "Nainstalujte podpěry Confoot a spusťte návěs"
+container_legs_step3_title: "Krok 3"
+container_legs_step3_description: "Odjeďte s vaším tahačem za další zakázkou!"
+container_legs_weight_title: "Hmotnost jedné podpěry"
+container_legs_weight_value: "pouze 24 kg"
+container_legs_height_title: "Rozsah výšky"
+container_legs_height_value: "1 043 mm až 1 448 mm"
 container_legs_capacity_title: "Celková nosnost"
 container_legs_capacity_value: "až 34 tun"
 container_legs_numbers_speak: "Čísla mluví jasně"
@@ -71,7 +83,7 @@ container_legs_explanation_part3: |
 container_legs_explanation_part4: |
   #### **Aplikace a výhody**
 
-  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je přeprava, stavebnictví a reakce na katastrofy.
+  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je přeprava, logistika a reakce na katastrofy.
 
   Efektivním využíváním zvedacích zařízení mohou podniky zlepšit procesy manipulace s kontejnery a zajistit, že jejich operace jsou bezpečné, efektivní a nákladově úsporné.
 container_legs_explanation_part5: |
@@ -113,7 +125,7 @@ container_legs_explanation_part13: |
 container_legs_explanation_part14: |
   #### **4\. Zvedejte postupně**
 
-  Postupujte podle pokynů výrobce pro ovládání zvedáku. Zvedejte kontejner pomalu a rovnoměrně, ujistěte se, že všechny strany jsou zvedány stejnou rychlostí. Vyhněte se náhlým nebo trhavým pohybům, abyste minimalizovali riziko převrácení nebo přetížení zvedáku.
+  Postupujte podle pokynů výrobce pro ovládání zvedáku. Zvedejte kontejner pomalu a rovnoměrně, ujistěte se, že všechna strany jsou zvedány stejnou rychlostí. Vyhněte se náhlým nebo trhavým pohybům, abyste minimalizovali riziko převrácení nebo přetížení zvedáku.
 container_legs_explanation_part15: |
   #### **5\. Sledujte proces**
 
@@ -124,3 +136,6 @@ container_legs_explanation_part16: |
   Když je čas kontejner spustit, dělejte to pomalu a opatrně. Použijte kontrolované pohyby k jemnému umístění na zem nebo na určenou pozici. Vykliďte oblast od jakýchkoli překážek a zkontrolujte, že kontejner je stabilní před odstraněním zvedáku.
 
   Dodržování těchto kroků zajišťuje bezpečné a efektivní použití zvedacích zařízení, pomáhající vám manipulovat s přepravními kontejnery hladce a efektivně.
+
+# Video Section
+watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"
