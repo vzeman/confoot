@@ -76,8 +76,19 @@
     </div>
   </div>
 
-  <!-- Copyright -->
+  <!-- Legal Links -->
   <div class="border-t border-gray-200 mt-10 pt-6 text-center">
+    <div class="flex justify-center space-x-4">
+      <a href="{{ "/privacy-policy/" | relLangURL }}" class="text-gray-600 hover:text-yellow-500 font-bold">{{ i18n "privacy_policy" }}</a>
+      <span class="text-gray-400">|</span>
+      <a href="{{ "/terms-of-service/" | relLangURL }}" class="text-gray-600 hover:text-yellow-500 font-bold">{{ i18n "terms_of_service" }}</a>
+      <span class="text-gray-400">|</span>
+      <a href="{{ "/data-protection/" | relLangURL }}" class="text-gray-600 hover:text-yellow-500 font-bold">{{ i18n "data_protection" }}</a>
+    </div>
+  </div>
+  
+  <!-- Copyright -->
+  <div class="border-t border-gray-200 mt-6 pt-6 text-center">
     <p class="text-gray-600 text-sm font-bold">
       &copy; {{ now.Year }} {{ .Site.Title }}. {{ i18n "all_rights_reserved" }}
     </p>

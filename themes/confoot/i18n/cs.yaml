@@ -20,6 +20,12 @@ menu_home: "Domů"
 menu_products: "Produkty"
 menu_about: "O nás"
 menu_contact: "Kontakt"
+menu_privacy: "Zásady ochrany osobních údajů"
+
+# Footer links
+privacy_policy: "Zásady ochrany osobních údajů"
+terms_of_service: "Obchodní podmínky"
+data_protection: "Ochrana dat"
 
 # Steps
 step_1_title: "Vyberte si produkt"
@@ -29,128 +35,85 @@ step_2_description: "Rychlý a jednoduchý proces instalace, který vyžaduje mi
 step_3_title: "Užijte si výhody"
 step_3_description: "Zažijte zvýšenou bezpečnost, efektivitu a úsporu nákladů při vašich operacích s kontejnery."
 
-# Features
-feature_1_title: "Zvýšená bezpečnost"
-feature_1_description: "Zlepšená stabilita a bezpečnost pro manipulaci s kontejnery."
-feature_2_title: "Cenová efektivita"
-feature_2_description: "Snižte provozní náklady a zvyšte efektivitu vaší logistiky."
-feature_3_title: "Snadné použití"
-feature_3_description: "Jednoduchá instalace a provoz s minimálními požadavky na školení."
+# Home page translations
+hero_title: "Zjednodušte logistiku přepravních kontejnerů"
+hero_subtitle: "Inovativní řešení pro bezpečnou a efektivní manipulaci s kontejnery"
+hero_cta: "Prohlédnout produkty"
 
-# Products
-product_1_description: "Hydraulická sada umožňující zvedání kontejnerů z přívěsů s nosností až 20 tun"
-product_2_description: "Standardní verze s nosností až 34 tun, patentovaný design s inovativním magnetickým spojením"
-product_3_description: "Navrženo pro použití na nákladových rampách, umožňuje úplné otevření dveří kontejneru"
+# Product descriptions
+cf_classic_title: "ConFoot Classic"
+cf_classic_description: "Univerzální nohy pro kontejnery, ideální pro standardní manipulaci s kontejnery."
 
-# Container Legs
-container_legs_title: "Jak fungují podpěry kontejnerů"
-container_legs_subtitle: "Proces montáže za méně než 5 minut"
-container_legs_step1_title: "Krok 1"
-container_legs_step1_description: "Zvedněte hydraulický návěs do nejvyšší polohy"
-container_legs_step2_title: "Krok 2"
-container_legs_step2_description: "Nainstalujte podpěry Confoot a spusťte návěs"
-container_legs_step3_title: "Krok 3"
-container_legs_step3_description: "Odjeďte s vaším tahačem za další zakázkou!"
-container_legs_weight_title: "Hmotnost jedné podpěry"
-container_legs_weight_value: "pouze 24 kg"
-container_legs_height_title: "Rozsah výšky"
-container_legs_height_value: "1 043 mm až 1 448 mm"
-container_legs_capacity_title: "Celková nosnost"
-container_legs_capacity_value: "až 34 tun"
-container_legs_numbers_speak: "Čísla mluví jasně"
+cf_light_title: "ConFoot Light"
+cf_light_description: "Lehké a přenosné nohy pro kontejnery, perfektní pro mobilní použití."
 
-# Container Legs Explanation Section
-container_legs_explanation_title: "Porozumění zvedacím zařízením pro přepravní kontejnery"
+cf_foldable_title: "ConFoot Foldable"
+cf_foldable_description: "Skládací nohy pro kontejnery, které šetří místo při skladování a přepravě."
+
+cf_heavy_title: "ConFoot Heavy"
+cf_heavy_description: "Robustní nohy pro kontejnery navržené pro těžké náklady a náročné podmínky."
+
+# About page translations
+about_title: "O společnosti ConFoot"
+about_subtitle: "Inovativní řešení pro manipulaci s kontejnery"
+mission_title: "Naše mise"
+mission_description: "V ConFoot se zaměřujeme na vývoj inovativních řešení, která zjednodušují logistiku přepravních kontejnerů, zvyšují bezpečnost a snižují náklady."
+vision_title: "Naše vize"
+vision_description: "Naší vizí je stát se globálním lídrem v oblasti řešení pro manipulaci s kontejnery, která umožňují efektivnější a udržitelnější logistické operace."
+values_title: "Naše hodnoty"
+values_description: "Naše hodnoty zahrnují inovaci, kvalitu, bezpečnost a spokojenost zákazníků. Tyto hodnoty řídí vše, co děláme."
+
+# Container legs explanation
+container_legs_title: "Co jsou nohy pro kontejnery?"
+container_legs_subtitle: "Průvodce nohami pro kontejnery a jejich výhodami"
 container_legs_explanation_part1: |
-  Zvedací zařízení jsou mechanické nástroje navržené pro zjednodušení manipulace a zvedání přepravních kontejnerů. Tyto nástroje transformovaly logistiku a stavebnictví tím, že poskytují přesné, bezpečné a efektivní způsoby správy kontejnerů.
+  #### **Přehled**
 
-  #### **Co jsou zvedací zařízení?**
-
-  Zvedací zařízení jsou nástroje používané ke zvedání přepravních kontejnerů ze země. Vytvářejí stabilní platformu pro úkoly jako je přemísťování, údržba nebo přeprava. Na rozdíl od velkých strojů, jako jsou vysokozdvižné vozíky nebo jeřáby, jsou zvedací zařízení menší, snáze přemístitelná a cenově dostupnější. Jsou konstruována tak, aby zvládla těžkou váhu naložených kontejnerů, což je činí nezbytným v mnoha průmyslových odvětvích.
+  Nohy pro kontejnery jsou specializované zvedací zařízení navržené pro podporu a zvedání přepravních kontejnerů. Tyto nástroje umožňují nakládku a vykládku kontejnerů bez potřeby jeřábů nebo vysokozdvižných vozíků, což zjednodušuje logistické operace a snižuje náklady.
 container_legs_explanation_part2: |
-  #### **Typy zvedacích zařízení**
+  #### **Jak fungují**
 
-  Různé typy zvedacích zařízení jsou navrženy pro specifické účely:
-
-  - **Hydraulické zvedáky:** Využívají tlakovou kapalinu ke zvedání těžkých předmětů plynule a efektivně. Jsou ideální pro úkoly s vysokou kapacitou a těžkými náklady.  
-  - **Šroubové zvedáky:** Spoléhají na mechanickou sílu pro přesné nastavení, což je činí užitečnými pro úkoly, které vyžadují pečlivé a kontrolované zvedání.  
-  - **Lahvové zvedáky:** Jsou malé, přenosné a silné, což je činí vhodnými pro menší práce nebo práci v odlehlých oblastech.
+  Nohy pro kontejnery se připevňují ke spodním rohům kontejneru. Jakmile jsou bezpečně připevněny, lze je použít k zvednutí kontejneru do výšky, která umožňuje nákladnímu vozidlu zajet pod něj nebo z pod něj vyjet. Tento proces eliminuje potřebu specializovaného zvedacího zařízení a umožňuje efektivnější manipulaci s kontejnery.
 container_legs_explanation_part3: |
   #### **Základní vlastnosti**
 
   - **Vysoká nosnost:** Konstruovány pro zvedání standardních velikostí kontejnerů, jako jsou 20stopé a 40stopé jednotky, s bezpečností.  
   - **Přenosnost:** Lehké a snadno přemístitelné, tyto zvedáky fungují dobře jak pro stálá pracoviště, tak pro projekty mimo pracoviště.  
-  - **Stabilita a bezpečnost:** Navrženy pro poskytnutí stabilní základny během zvedání, snižují pravděpodobnost nehod nebo poškození kontejnerů.
+  - **Univerzálnost:** Kompatibilní s různými typy kontejnerů a lze je použít v různých prostředích.  
+  - **Bezpečnost:** Vybaveny bezpečnostními funkcemi, jako jsou zámky a stabilizátory, pro zajištění bezpečné manipulace.
 container_legs_explanation_part4: |
-  #### **Aplikace a výhody**
+  #### **Použití a výhody**
 
-  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je přeprava, logistika a reakce na katastrofy.
+  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je lodní doprava, stavebnictví a reakce na katastrofy.
 
-  Efektivním využíváním zvedacích zařízení mohou podniky zlepšit procesy manipulace s kontejnery a zajistit, že jejich operace jsou bezpečné, efektivní a nákladově úsporné.
-container_legs_explanation_part5: |
-  ### **Proč zvolit zvedací zařízení pro přepravní kontejnery?**
-
-  Zvedací zařízení jsou nezbytné nástroje pro správu přepravních kontejnerů, nabízející několik výhod, které zlepšují efektivitu, bezpečnost a úsporu nákladů. Níže jsou hlavní důvody, proč zvolit zvedací zařízení:
-container_legs_explanation_part6: |
-  #### **1\. Zlepšená bezpečnost a ochrana pracovníků**
-
-  Zvedací zařízení poskytují stabilní a bezpečný způsob zvedání těžkých přepravních kontejnerů, snižujících pravděpodobnost nehod během manipulace. Tyto nástroje odstraňují potřebu manuálního zvedání, chránící pracovníky před zraněními souvisejícím s námahou a snižujícím riziko nehod způsobených nestabilním vybavením. Funkce jako protiskluzové základny a kontrolované zvedací mechanismy je činí ještě spolehlivějšími.
-container_legs_explanation_part7: |
-  #### **2\. Zvýšená efektivita a řízení času**
-
-  Použití zvedacích zařízení výrazně zkracuje čas potřebný k manipulaci s kontejnery. Tradiční metody často vyžadují více pracovníků a dlouhé hodiny k přesunu těžkých kontejnerů. Zvedací zařízení zjednodušují proces, umožňujícím menším týmům dokončit úkoly rychleji. Jejich přenosnost a snadné nastavení je činí ideálními pro použití v odlehlých oblastech nebo místech s nízkými objemy kontejnerů.
-container_legs_explanation_part8: |
-  #### **3\. Nákladově efektivní operace**
-
-  Se zvedacími zařízeními mohou podniky snížit svou závislost na těžké technice jako jsou jeřáby a snížit náklady na pracovní sílu. Tyto nástroje jsou postaveny tak, aby vydržely, nabízející dlouhou životnost a vynikající návratnost investic. Navíc jejich použití pomáhá předcházet poškození kontejnerů nebo vybavení, šetřící peníze na potenciálních opravách.
-container_legs_explanation_part9: |
-  #### **4\. Všestrannost napříč aplikacemi**
-
-  Zvedací zařízení mohou manipulovat s kontejnery různých velikostí a hmotností, což je činí užitečnými v odvětvích přepravy, logistiky a stavebnictví. Jejich schopnost fungovat v různých prostředích zajišťuje, že zůstávají spolehlivým řešením pro řadu provozních potřeb.
-container_legs_explanation_part10: |
-  ### **Krok za krokem návod k použití zvedacích zařízení**
-
-  Bezpečné a efektivní používání zvedacích zařízení zajišťuje plynulou manipulaci s přepravními kontejnery. Následujte tento podrobný návod pro jasné instrukce o správném použití.
+# Safety tips
+safety_tips_title: "Bezpečnostní tipy pro používání noh pro kontejnery"
+safety_tips_subtitle: "Zajistěte bezpečnou manipulaci s kontejnery pomocí těchto důležitých tipů"
 container_legs_explanation_part11: |
-  #### **1\. Připravte pracovní prostor**
+  #### **1\. Zkontrolujte vybavení před použitím**
 
-  Ujistěte se, že oblast kolem přepravního kontejneru je rovná a bez jakýchkoli nečistot. Čistý a rovný povrch zabraňuje nestabilitě nebo naklánění během zvedání. Potvrďte, že zvedací zařízení odpovídá požadavkům na hmotnost a velikost kontejneru. Před použitím zkontrolujte zvedák na jakékoli známky opotřebení nebo poškození.
+  Před každým použitím zkontrolujte nohy pro kontejnery, zda nejsou poškozené nebo opotřebované. Hledejte praskliny, ohnuté části nebo známky únavy materiálu. Nikdy nepoužívejte poškozené zvedací zařízení, protože to může vést k selhání a potenciálně vážným nehodám.
 container_legs_explanation_part12: |
-  #### **2\. Správně umístěte zvedák**
+  #### **2\. Porozumějte kapacitě zatížení**
 
-  Najděte určené zvedací body na kontejneru, které se obvykle nacházejí v rohových odlitcích. Umístěte zvedák bezpečně na tyto body, abyste předešli poškození kontejneru nebo způsobení nerovnováhy. Zkontrolujte, že zvedák je stabilní a správně zarovnaný s kontejnerem.
+  Každé zvedací zařízení má specifickou kapacitu zatížení. Ujistěte se, že znáte hmotnost kontejneru a že zvedací zařízení může bezpečně tuto hmotnost zvládnout. Přetížení zvedacího zařízení může způsobit selhání a je extrémně nebezpečné.
 container_legs_explanation_part13: |
-  #### **3\. Zajistěte kontejner**
+  #### **3\. Zajistěte stabilní povrch**
 
-  Před zvedáním se ujistěte, že obsah kontejneru je stabilní a během procesu se nebude posouvat. Zamkněte dveře kontejneru a zajistěte obsah, abyste udrželi rovnováhu po celou dobu operace.
+  Vždy používejte nohy pro kontejnery na pevném, rovném povrchu. Nestabilní nebo nerovný terén může způsobit naklonění nebo převrácení kontejneru během zvedání. Pokud je to nutné, použijte desky nebo podložky pro vytvoření stabilní základny.
 container_legs_explanation_part14: |
   #### **4\. Zvedejte postupně**
 
   Postupujte podle pokynů výrobce pro ovládání zvedáku. Zvedejte kontejner pomalu a rovnoměrně, ujistěte se, že všechna strany jsou zvedány stejnou rychlostí. Vyhněte se náhlým nebo trhavým pohybům, abyste minimalizovali riziko převrácení nebo přetížení zvedáku.
 container_legs_explanation_part15: |
-  #### **5\. Sledujte proces**
+  #### **5\. Používejte osobní ochranné prostředky**
 
-  Pozorně sledujte jak zvedák, tak kontejner během zvedání. Hledejte jakékoli známky nestability nebo napětí na zařízení. Pokud zaznamenáte problém, bezpečně spusťte kontejner a překontrolujte vaše nastavení.
-container_legs_explanation_part16: |
-  #### **6\. Bezpečně spusťte kontejner**
-
-  Když je čas kontejner spustit, dělejte to pomalu a opatrně. Použijte kontrolované pohyby k jemnému umístění na zem nebo na určenou pozici. Vykliďte oblast od jakýchkoli překážek a zkontrolujte, že kontejner je stabilní před odstraněním zvedáku.
-
-  Dodržování těchto kroků zajišťuje bezpečné a efektivní použití zvedacích zařízení, pomáhající vám manipulovat s přepravními kontejnery hladce a efektivně.
-
-# Video Section
-watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"
-
-# Menu items
-menu_home: "Domů"
-menu_products: "Produkty"
-menu_about: 
-  other: "O nás"
-menu_contact: "Kontakt"
+  Vždy noste vhodné osobní ochranné prostředky, včetně helmy, bezpečnostní obuvi a rukavic. Toto vybavení pomáhá chránit před zraněními v případě nehody nebo selhání zařízení.
 
 # Product page translations
 technical_specifications: "Technické specifikace"
-pricing: "Ceny"
-buy_now: "Koupit"
-how_to_use: "Jak používat"
-benefits: "Výhody"
+product_features: "Vlastnosti produktu"
+related_products: "Související produkty"
+
+# Video Section
+watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"

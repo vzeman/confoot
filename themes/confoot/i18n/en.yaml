@@ -20,7 +20,13 @@ menu_home: "Home"
 menu_products: "Products"
 menu_about: 
   other: "About Us"
-menu_contact: "Contact"
+menu_contact: "Contact Us"
+menu_privacy: "Privacy Policy"
+
+# Footer links
+privacy_policy: "Privacy Policy"
+terms_of_service: "Terms of Service"
+data_protection: "Data Protection"
 
 # Steps
 step_1_title: "Choose Your Product"

@@ -1325,3 +1325,137 @@ h4, h5, h6 {
     grid-template-columns: 1fr;
   }
 }
+
+/* Contact Page Styles */
+.contact-page {
+  padding: 2rem 0 4rem;
+}
+
+.contact-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.contact-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.contact-info-row {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.contact-info {
+  flex: 1;
+}
+
+.contact-map {
+  flex: 1;
+}
+
+.contact-details {
+  line-height: 1.6;
+}
+
+.contact-details h2 {
+  color: var(--color-heading);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.contact-details p, 
+.contact-details ul, 
+.contact-details ol {
+  margin-bottom: 1rem;
+}
+
+.contact-details a {
+  color: var(--color-primary-dark);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-details a:hover {
+  color: var(--color-heading);
+}
+
+.map-container {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  height: 100%;
+  min-height: 300px;
+}
+
+.contact-form-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.contact-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group:nth-child(3),
+.form-group:nth-child(4) {
+  grid-column: span 2;
+}
+
+.form-group label {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px rgba(234, 179, 8, 0.2);
+}
+
+.contact-form .btn {
+  grid-column: span 2;
+  justify-self: start;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .contact-info-row {
+    flex-direction: column;
+  }
+  
+  .contact-form {
+    grid-template-columns: 1fr;
+  }
+  
+  .form-group:nth-child(3),
+  .form-group:nth-child(4) {
+    grid-column: span 1;
+  }
+  
+  .contact-form .btn {
+    grid-column: span 1;
+  }
+}

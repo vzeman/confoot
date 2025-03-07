@@ -11,8 +11,8 @@ Neztrácejte čas na nákladových rampách, pošlete svůj tahač okamžitě za
 
 {{< rawhtml >}}
 <div class="cta-button">
-    <a href="https://www.hz-containers.com/cs" class="btn btn-primary">Potřebujete kontejner?</a>
-    <a href="https://www.hz-containers.com/cs" class="btn btn-secondary">Navštivte náš prodejní web</a>
+    <a href="https://www.hz-containers.com/" class="btn btn-primary">Potřebujete kontejner?</a>
+    <a href="https://www.hz-containers.com/" class="btn btn-secondary">Navštivte náš prodejní web</a>
 </div>
 {{< /rawhtml >}}
 
@@ -119,7 +119,7 @@ Kolektiv firmy HZ KONTEJNERY s.r.o.
     <p><a href="/wp-content/uploads/2021/05/confoot_zpracovani-osobnich_udaju.pdf">Informace o zpracování osobních údajů</a></p>
     <div>
         <p>Spolehlivý dovozce použitých lodních kontejnerů</p>
-        <a href="https://www.hz-containers.com/cs" class="btn btn-primary">Koupit kontejner</a>
+        <a href="https://www.hz-containers.com/" class="btn btn-primary">Koupit kontejner</a>
     </div>
     <p>® HZ KONTEJNERY s.r.o. 2021</p>
     <p>
