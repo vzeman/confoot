@@ -11,6 +11,7 @@ all_rights_reserved: "Všechna práva vyhrazena"
 ready_to_simplify: "Připraveni zjednodušit logistiku kontejnerů?"
 cta_description: "Kontaktujte nás ještě dnes a zjistěte, jak může Confoot zlepšit vaše operace s kontejnery."
 get_in_touch: "Kontaktujte nás"
+order_now: "Objednat nyní"
 banner_text: "Neztrácejte čas na nákladových rampách, pošlete svůj tahač okamžitě za další zakázkou."
 language: "Jazyk"
 
@@ -37,9 +38,9 @@ feature_3_title: "Snadné použití"
 feature_3_description: "Jednoduchá instalace a provoz s minimálními požadavky na školení."
 
 # Products
-product_1_description: "Hydraulická sada umožňující zvednout kontejner z návěsu a spustit ho na zem s nosností až 20 tun"
-product_2_description: "Standardní verze s nosností až 34 tun, patentovaný design s inovativní magnetickou spojkou"
-product_3_description: "Vytvořeno pro použití na vykládkových rampách, umožňuje plné otevření kontejnerových dveří"
+product_1_description: "Hydraulická sada umožňující zvedání kontejnerů z přívěsů s nosností až 20 tun"
+product_2_description: "Standardní verze s nosností až 34 tun, patentovaný design s inovativním magnetickým spojením"
+product_3_description: "Navrženo pro použití na nákladových rampách, umožňuje úplné otevření dveří kontejneru"
 
 # Container Legs
 container_legs_title: "Jak fungují podpěry kontejnerů"

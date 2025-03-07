@@ -11,6 +11,7 @@ all_rights_reserved: "Visas tiesības aizsargātas"
 ready_to_simplify: "Gatavi vienkāršot konteineru loģistiku?"
 cta_description: "Sazinieties ar mums šodien, lai uzzinātu, kā Confoot var uzlabot jūsu konteineru apstrādes darbības."
 get_in_touch: "Sazināties"
+order_now: "Pasūtīt tagad"
 banner_text: "Netērējiet laiku iekraušanas dokos, sūtiet savu traktoru nekavējoties uz nākamo darbu."
 language: "Valoda"
 
@@ -37,6 +38,6 @@ feature_3_title: "Vienkārši lietojams"
 feature_3_description: "Vienkārša uzstādīšana un darbība ar minimālām apmācības prasībām."
 
 # Products
-product_1_description: "Transporta konteineri"
-product_2_description: "Transporta konteineri"
-product_3_description: "Transporta konteineri"
+product_1_description: "Hidrauliskais komplekts, kas ļauj pacelt konteinerus no piekabēm ar kravnesību līdz 20 tonnām"
+product_2_description: "Standarta versija ar kravnesību līdz 34 tonnām, patentēts dizains ar inovatīvu magnētisko savienojumu"
+product_3_description: "Paredzēts izmantošanai uz iekraušanas dokām, ļauj pilnībā atvērt konteinera durvis"

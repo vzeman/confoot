@@ -11,6 +11,7 @@ all_rights_reserved: "Toate drepturile rezervate"
 ready_to_simplify: "Sunteți gata să simplificați logistica containerelor de transport?"
 cta_description: "Contactați-ne astăzi pentru a afla cum Confoot poate îmbunătăți operațiunile dvs. cu containere."
 get_in_touch: "Luați legătura"
+order_now: "Comandați acum"
 banner_text: "Nu pierdeți timpul la docurile de încărcare, trimiteți camionul dvs. imediat pentru următoarea sarcină."
 language: "Limbă"
 
@@ -37,6 +38,6 @@ feature_3_title: "Ușor de utilizat"
 feature_3_description: "Instalare și operare simplă cu cerințe minime de instruire."
 
 # Products
-product_1_description: "Containere de transport"
-product_2_description: "Containere de transport"
-product_3_description: "Containere de transport"
+product_1_description: "Set hidraulic care permite ridicarea containerelor de pe remorci cu capacitate de până la 20 de tone"
+product_2_description: "Versiune standard cu capacitate de până la 34 de tone, design patentat cu cuplaj magnetic inovator"
+product_3_description: "Conceput pentru utilizare pe docurile de încărcare, permite deschiderea completă a ușilor containerului"

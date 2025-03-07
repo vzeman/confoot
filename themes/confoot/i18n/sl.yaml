@@ -11,6 +11,7 @@ all_rights_reserved: "Vse pravice pridržane"
 ready_to_simplify: "Ste pripravljeni poenostaviti logistiko transportnih zabojnikov?"
 cta_description: "Kontaktirajte nas danes, da izveste, kako lahko Confoot izboljša vaše operacije s transportnimi zabojniki."
 get_in_touch: "Stopite v stik"
+order_now: "Naročite zdaj"
 banner_text: "Ne izgubljajte časa na nakladalnih rampah, pošljite svoj traktor takoj na naslednjo nalogo."
 language: "Jezik"
 
@@ -37,6 +38,6 @@ feature_3_title: "Enostavna uporaba"
 feature_3_description: "Enostavna namestitev in delovanje z minimalnimi zahtevami za usposabljanje."
 
 # Products
-product_1_description: "Transportni zabojniki"
-product_2_description: "Transportni zabojniki"
-product_3_description: "Transportni zabojniki"
+product_1_description: "Hidravlični komplet, ki omogoča dviganje zabojnikov s prikolic z nosilnostjo do 20 ton"
+product_2_description: "Standardna različica z nosilnostjo do 34 ton, patentirana zasnova z inovativno magnetno spojko"
+product_3_description: "Zasnovano za uporabo na nakladalnih rampah, omogoča popolno odpiranje vrat zabojnika"
