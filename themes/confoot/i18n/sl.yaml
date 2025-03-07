@@ -41,3 +41,10 @@ feature_3_description: "Enostavna namestitev in delovanje z minimalnimi zahtevam
 product_1_description: "Hidravlični komplet, ki omogoča dviganje zabojnikov s prikolic z nosilnostjo do 20 ton"
 product_2_description: "Standardna različica z nosilnostjo do 34 ton, patentirana zasnova z inovativno magnetno spojko"
 product_3_description: "Zasnovano za uporabo na nakladalnih rampah, omogoča popolno odpiranje vrat zabojnika"
+
+# Product page translations
+technical_specifications: "Tehnične specifikacije"
+pricing: "Cenik"
+buy_now: "Kupite zdaj"
+how_to_use: "Navodila za uporabo"
+benefits: "Prednosti"

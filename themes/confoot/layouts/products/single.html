@@ -1,0 +1,179 @@
+{{ define "main" }}
+<div class="product-page">
+  <div class="container">
+    <!-- Top Product Section - Split into two boxes -->
+    <div class="product-top-container">
+      <!-- Left Box - Product Info -->
+      <div class="product-info-column">
+        <div class="product-info-box">
+          <h1 class="product-title">{{ .Title }}</h1>
+          <div class="product-subtitle">{{ .Params.subtitle }}</div>
+          <div class="product-short-description">
+            {{ .Params.shortDescription | markdownify }}
+          </div>
+          <div class="product-price-section">
+            <div class="price-tag">{{ .Params.price }}</div>
+            <div class="pricing-notes">{{ .Params.pricingNotes | markdownify }}</div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Right Box - Main Image -->
+      <div class="product-image-column">
+        <div class="product-main-image-box">
+          <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}" id="main-product-image">
+        </div>
+      </div>
+    </div>
+
+    <!-- Gallery Section - Small boxes in one row -->
+    <div class="product-gallery-section">
+      <div class="gallery-thumbnail active" data-image="{{ .Params.mainImage | relURL }}">
+        <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }} - main">
+      </div>
+      {{ range .Params.gallery }}
+        <div class="gallery-thumbnail" data-image="{{ . | relURL }}">
+          <img src="{{ . | relURL }}" alt="{{ $.Title }} - gallery image">
+        </div>
+      {{ end }}
+    </div>
+
+    <!-- Product Actions -->
+    <div class="product-actions-section">
+      <div class="product-actions">
+        <a href="{{ .Params.buyLink | relURL }}" class="btn btn-primary btn-buy">{{ i18n "buy_now" }}</a>
+        <a href="#technical-specs" class="btn btn-secondary">{{ i18n "technical_specifications" }}</a>
+      </div>
+    </div>
+
+    <!-- Key Features Section -->
+    <div class="product-highlights-section">
+      <h3>{{ i18n "key_features" }}</h3>
+      <ul>
+        {{ range .Params.benefits }}
+          <li>
+            <strong>{{ .title }}:</strong> {{ .description | truncate 80 }}
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- Product Video Section -->
+    <div class="product-section" id="product-video">
+      <h2 class="section-title">{{ .Title }} {{ i18n "in_action" | default "in action" }}</h2>
+      <div class="section-content">
+        <div class="product-video-container">
+          {{ if .Params.videoID }}
+            <iframe class="product-video" src="https://www.youtube.com/embed/{{ .Params.videoID }}" title="{{ .Title }} in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ else }}
+            <div class="video-placeholder">
+              <p>{{ i18n "video_coming_soon" | default "Video demonstration coming soon" }}</p>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Technical Specifications Section -->
+    <div class="product-section" id="technical-specs">
+      <h2 class="section-title">{{ i18n "technical_specifications" }}</h2>
+      <div class="section-content">
+        <div class="technical-content">
+          {{ .Params.technicalDescription | markdownify }}
+        </div>
+        <div class="technical-specs">
+          <table>
+            <tbody>
+              {{ range .Params.specifications }}
+                <tr>
+                  <th>{{ .name }}</th>
+                  <td>{{ .value }}</td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- How To Use Section -->
+    <div class="product-section" id="how-to-use">
+      <h2 class="section-title">{{ i18n "how_to_use" }}</h2>
+      <div class="section-content">
+        <div class="usage-content">
+          {{ .Params.howToUse | markdownify }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Benefits Section -->
+    <div class="product-section" id="benefits">
+      <h2 class="section-title">{{ i18n "benefits" }}</h2>
+      <div class="section-content">
+        <div class="benefits-list">
+          {{ range .Params.benefits }}
+            <div class="benefit-item">
+              <h3>{{ .title }}</h3>
+              <p>{{ .description }}</p>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Product Article Section -->
+    <div class="product-section" id="product-article">
+      <h2 class="section-title">{{ i18n "about_product" | default "About" }} {{ .Title }}</h2>
+      <div class="section-content">
+        <div class="product-article-content">
+          {{ .Params.articleContent | markdownify }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Related Products -->
+    <div class="related-products">
+      <h2>{{ i18n "related_products" }}</h2>
+      <div class="related-products-grid">
+        {{ $currentPage := . }}
+        {{ $pages := where .Site.RegularPages "Type" "products" }}
+        {{ range first 4 (where $pages "Permalink" "ne" $currentPage.Permalink) }}
+          <div class="related-product-box">
+            <div class="related-product-image">
+              <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}">
+            </div>
+            <div class="related-product-content">
+              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <p>{{ .Params.shortDescription | truncate 100 }}</p>
+              <a href="{{ .Permalink }}" class="btn btn-outline btn-sm">{{ i18n "learn_more" }}</a>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript for gallery image switcher -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Gallery image switcher
+    const thumbnails = document.querySelectorAll('.gallery-thumbnail');
+    const mainImage = document.getElementById('main-product-image');
+    
+    thumbnails.forEach(thumbnail => {
+      thumbnail.addEventListener('click', function() {
+        // Remove active class from all thumbnails
+        thumbnails.forEach(thumb => thumb.classList.remove('active'));
+        
+        // Add active class to clicked thumbnail
+        this.classList.add('active');
+        
+        // Update main image
+        const imageUrl = this.getAttribute('data-image');
+        mainImage.src = imageUrl;
+      });
+    });
+  });
+</script>
+{{ end }}

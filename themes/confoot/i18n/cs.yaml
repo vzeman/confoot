@@ -147,3 +147,10 @@ menu_products: "Produkty"
 menu_about: 
   other: "O nás"
 menu_contact: "Kontakt"
+
+# Product page translations
+technical_specifications: "Technické specifikace"
+pricing: "Ceny"
+buy_now: "Koupit"
+how_to_use: "Jak používat"
+benefits: "Výhody"

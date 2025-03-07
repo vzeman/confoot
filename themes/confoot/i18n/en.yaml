@@ -43,6 +43,15 @@ product_1_description: "Hydraulic set that allows lifting containers from traile
 product_2_description: "Standard version with up to 34-ton capacity, patented design with innovative magnetic coupling"
 product_3_description: "Designed for use on loading docks, allows full opening of container doors"
 
+# Product page translations
+technical_specifications: "Technical Specifications"
+pricing: "Pricing"
+buy_now: "Buy Now"
+how_to_use: "How To Use"
+benefits: "Benefits"
+related_products: "Related Products"
+learn_more: "Learn More"
+
 # Container Legs Section
 container_legs_title: "How Container Legs Work"
 container_legs_subtitle: "Assembly process in less than 5 minutes"
