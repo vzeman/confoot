@@ -30,42 +30,145 @@
   </div>
 </section>
 
-<section class="how-it-works py-16 bg-white">
+<section class="products py-16 bg-white">
   <div class="container mx-auto px-4">
-    <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "how_it_works" | default "How It Works" }}</h2>
+    <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "our_products" | default "Our Products" }}</h2>
     
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Product 1 -->
+      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
+        <div class="h-64 overflow-hidden">
+          <img src="{{ "wp-content/uploads/2022/02/DSC00728-1200x818.jpg" | relURL }}" alt="Confoot CFU" class="w-full h-64 object-cover">
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-semibold mb-2">Confoot CFU</h3>
+          <p class="text-gray-800 mb-4">{{ i18n "product_1_description" }}</p>
+          <a href="{{ "products/cfu" | relLangURL }}" style="color: #000000; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} Confoot CFU →</a>
+        </div>
+      </div>
+      
+      <!-- Product 2 -->
+      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
+        <div class="h-64 overflow-hidden">
+          <img src="{{ "wp-content/uploads/2021/05/confoot_CF_1.jpg" | relURL }}" alt="Confoot-leg CF" class="w-full h-64 object-cover">
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-semibold mb-2">Confoot-leg CF</h3>
+          <p class="text-gray-800 mb-4">{{ i18n "product_2_description" }}</p>
+          <a href="{{ "products/cf" | relLangURL }}" style="color: #000000; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} Confoot-leg CF →</a>
+        </div>
+      </div>
+      
+      <!-- Product 3 -->
+      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
+        <div class="h-64 overflow-hidden">
+          <img src="{{ "wp-content/uploads/2021/05/confoot_CFP_1.jpg" | relURL }}" alt="Confoot CFP" class="w-full h-64 object-cover">
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-semibold mb-2">Confoot CFP</h3>
+          <p class="text-gray-800 mb-4">{{ i18n "product_3_description" }}</p>
+          <a href="{{ "products/ofp" | relLangURL }}" style="color: #000000; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} Confoot CFP →</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="text-center mt-10">
+      <a href="{{ "products" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-6 py-3 rounded-md font-bold hover:bg-[#e6d675] transition-colors inline-flex items-center justify-center">
+        {{ i18n "view_all_products" | default "View All Products" }}
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="container-legs py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-4">{{ i18n "container_legs_title" | default "How Container Legs Work" }}</h2>
+    <h3 class="text-xl text-center text-red-600 font-bold mb-12">{{ i18n "container_legs_subtitle" | default "Assembly process in less than 5 minutes" }}</h3>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
       <!-- Step 1 -->
       <div class="text-center">
-        <div class="bg-yellow-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-          <span class="text-2xl font-bold text-yellow-500">1</span>
+        <div class="relative">
+          <div class="border-2 border-gray-200 rounded-full w-24 h-24 flex items-center justify-center mx-auto mb-6">
+            <span class="text-4xl font-bold text-gray-400">1.</span>
+          </div>
         </div>
-        <h3 class="text-xl font-semibold mb-2">{{ i18n "step_1_title" | default "Choose Your Product" }}</h3>
-        <p class="text-gray-600">{{ i18n "step_1_description" | default "Select the Confoot product that best suits your container handling needs." }}</p>
+        <p class="text-gray-800 mb-4">{{ i18n "container_legs_step1_description" | default "Raise the hydraulic trailer to its highest position" }}</p>
+        <div class="mt-8">
+          <div class="p-2 rounded-lg mx-auto" style="max-width: 220px; height: 180px; overflow: hidden;">
+            <img src="{{ "images/step1.jpg" | relURL }}" alt="Raise hydraulic trailer" class="w-full h-full object-cover rounded-md">
+          </div>
+        </div>
       </div>
       
       <!-- Step 2 -->
       <div class="text-center">
-        <div class="bg-yellow-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-          <span class="text-2xl font-bold text-yellow-500">2</span>
+        <div class="relative">
+          <div class="border-2 border-gray-200 rounded-full w-24 h-24 flex items-center justify-center mx-auto mb-6">
+            <span class="text-4xl font-bold text-gray-400">2.</span>
+          </div>
         </div>
-        <h3 class="text-xl font-semibold mb-2">{{ i18n "step_2_title" | default "Easy Installation" }}</h3>
-        <p class="text-gray-600">{{ i18n "step_2_description" | default "Quick and simple installation process that requires minimal training." }}</p>
+        <p class="text-gray-800 mb-4">{{ i18n "container_legs_step2_description" | default "Install Confoot supports and lower the trailer" }}</p>
+        <div class="mt-8">
+          <div class="p-2 rounded-lg mx-auto" style="max-width: 220px; height: 180px; overflow: hidden;">
+            <img src="{{ "images/step2.jpg" | relURL }}" alt="Install Confoot supports" class="w-full h-full object-cover rounded-md">
+          </div>
+        </div>
       </div>
       
       <!-- Step 3 -->
       <div class="text-center">
-        <div class="bg-yellow-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-          <span class="text-2xl font-bold text-yellow-500">3</span>
+        <div class="relative">
+          <div class="border-2 border-gray-200 rounded-full w-24 h-24 flex items-center justify-center mx-auto mb-6">
+            <span class="text-4xl font-bold text-gray-400">3.</span>
+          </div>
         </div>
-        <h3 class="text-xl font-semibold mb-2">{{ i18n "step_3_title" | default "Enjoy the Benefits" }}</h3>
-        <p class="text-gray-600">{{ i18n "step_3_description" | default "Experience improved safety, efficiency, and cost savings in your container operations." }}</p>
+        <p class="text-gray-800 mb-4">{{ i18n "container_legs_step3_description" | default "Drive away with your truck for the next job!" }}</p>
+        <div class="mt-8">
+          <div class="p-2 rounded-lg mx-auto" style="max-width: 220px; height: 180px; overflow: hidden;">
+            <img src="{{ "images/confoot_CFP_1-240x164.jpg" | relURL }}" alt="Drive away with truck" class="w-full h-full object-cover rounded-md">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <h3 class="text-2xl font-bold text-center text-red-600 mb-10">{{ i18n "container_legs_numbers_speak" | default "The numbers speak for themselves" }}</h3>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Weight -->
+      <div class="text-center">
+        <div class="mb-4 flex items-center justify-center" style="height: 60px;">
+          <img src="{{ "images/weight-icon.svg" | relURL }}" alt="Weight" class="h-12 w-auto">
+        </div>
+        <h4 class="font-semibold mb-2">{{ i18n "container_legs_weight_title" | default "Weight of one support" }}</h4>
+        <p class="text-lg font-bold">{{ i18n "container_legs_weight_value" | default "only 24 kg" }}</p>
+      </div>
+      
+      <!-- Height Range -->
+      <div class="text-center">
+        <div class="mb-4 flex items-center justify-center" style="height: 60px;">
+          <img src="{{ "images/height-icon.svg" | relURL }}" alt="Height range" class="h-12 w-auto">
+        </div>
+        <h4 class="font-semibold mb-2">{{ i18n "container_legs_height_title" | default "Height range" }}</h4>
+        <p class="text-lg font-bold">{{ i18n "container_legs_height_value" | default "1,043 mm to 1,448 mm" }}</p>
+      </div>
+      
+      <!-- Capacity -->
+      <div class="text-center">
+        <div class="mb-4 flex items-center justify-center" style="height: 60px;">
+          <img src="{{ "images/capacity-icon.svg" | relURL }}" alt="Total capacity" class="h-12 w-auto">
+        </div>
+        <h4 class="font-semibold mb-2">{{ i18n "container_legs_capacity_title" | default "Total capacity" }}</h4>
+        <p class="text-lg font-bold">{{ i18n "container_legs_capacity_value" | default "up to 34 tons" }}</p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="features py-16 bg-gray-50">
+<section class="features py-16 bg-white">
   <div class="container mx-auto px-4">
     <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "key_features" | default "Key Features" }}</h2>
     
@@ -106,63 +209,61 @@
   </div>
 </section>
 
-<section class="products py-16 bg-white">
-  <div class="container mx-auto px-4">
-    <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "our_products" | default "Our Products" }}</h2>
-    
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      <!-- Product 1 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
-        <img src="{{ "images/confoot-cfu.jpg" | relURL }}" alt="Confoot CFU" class="w-full h-64 object-cover">
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">Confoot CFU</h3>
-          <p class="text-gray-600 mb-4">{{ i18n "product_1_description" | default "Přepravní kontejnery" }}</p>
-          <a href="{{ "products/cfu" | relLangURL }}" style="color: #ffde15; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} →</a>
-        </div>
-      </div>
-      
-      <!-- Product 2 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
-        <img src="{{ "images/confoot-leg.jpg" | relURL }}" alt="Confoot-leg CF" class="w-full h-64 object-cover">
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">Confoot-leg CF</h3>
-          <p class="text-gray-600 mb-4">{{ i18n "product_2_description" | default "Přepravní kontejnery" }}</p>
-          <a href="{{ "products/cf" | relLangURL }}" style="color: #ffde15; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} →</a>
-        </div>
-      </div>
-      
-      <!-- Product 3 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md">
-        <img src="{{ "images/confoot-ofp.jpg" | relURL }}" alt="Confoot-leg OFP" class="w-full h-64 object-cover">
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">Confoot-leg OFP</h3>
-          <p class="text-gray-600 mb-4">{{ i18n "product_3_description" | default "Přepravní kontejnery" }}</p>
-          <a href="{{ "products/ofp" | relLangURL }}" style="color: #ffde15; text-decoration: none;" class="font-bold">{{ i18n "learn_more" | default "Learn More" }} →</a>
-        </div>
-      </div>
-    </div>
-    
-    <div class="text-center mt-10">
-      <a href="{{ "products" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-6 py-3 rounded-md font-bold hover:bg-[#e6d675] transition-colors inline-flex items-center justify-center">
-        {{ i18n "view_all_products" | default "View All Products" }}
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-        </svg>
-      </a>
-    </div>
-  </div>
-</section>
-
-<section class="cta py-16" style="background-color: #ffde15;">
+<section class="cta py-16" style="background-color: #f5f5f5;">
   <div class="container mx-auto px-4 text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-6">{{ i18n "ready_to_simplify" | default "Ready to Simplify Your Container Logistics?" }}</h2>
     <p class="text-gray-800 text-lg mb-8 max-w-3xl mx-auto">{{ i18n "cta_description" | default "Contact us today to learn how Confoot products can improve your container handling operations." }}</p>
-    <a href="{{ "contact" | relLangURL }}" style="text-decoration: none;" class="bg-gray-800 text-[#ffde15] px-8 py-4 rounded-md font-bold hover:bg-gray-900 transition-colors inline-flex items-center justify-center">
-      {{ i18n "get_in_touch" | default "Get in Touch" }}
+    <a href="{{ "order" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-6 py-3 rounded-md font-bold hover:bg-[#e6d675] transition-colors inline-flex items-center justify-center">
+      {{ i18n "order_now" | default "Order Now" }}
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
       </svg>
     </a>
   </div>
 </section>
+
+<section class="container-legs-explanation py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-8">{{ i18n "container_legs_explanation_title" | default "Understanding Lifting Jacks for Shipping Containers" }}</h2>
+    <div class="max-w-4xl mx-auto">
+      <div class="prose prose-lg mx-auto">
+        <style>
+          .prose h3 {
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+            font-weight: 700;
+          }
+          .prose h4 {
+            margin-top: 2rem;
+            margin-bottom: 1.25rem;
+            font-weight: 600;
+          }
+          .prose ul {
+            margin-bottom: 1.5rem;
+          }
+          .prose p {
+            margin-bottom: 1.25rem;
+          }
+        </style>
+        {{ with (i18n "container_legs_explanation_part1") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part2") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part3") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part4") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part5") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part6") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part7") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part8") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part9") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part10") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part11") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part12") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part13") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part14") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part15") }}{{ . | markdownify | safeHTML }}{{ end }}
+        {{ with (i18n "container_legs_explanation_part16") }}{{ . | markdownify | safeHTML }}{{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}

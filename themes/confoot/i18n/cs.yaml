@@ -37,6 +37,90 @@ feature_3_title: "Snadné použití"
 feature_3_description: "Jednoduchá instalace a provoz s minimálními požadavky na školení."
 
 # Products
-product_1_description: "Přepravní kontejnery"
-product_2_description: "Přepravní kontejnery"
-product_3_description: "Přepravní kontejnery"
+product_1_description: "Hydraulická sada umožňující zvednout kontejner z návěsu a spustit ho na zem s nosností až 20 tun"
+product_2_description: "Standardní verze s nosností až 34 tun, patentovaný design s inovativní magnetickou spojkou"
+product_3_description: "Vytvořeno pro použití na vykládkových rampách, umožňuje plné otevření kontejnerových dveří"
+
+# Container Legs
+container_legs_capacity_title: "Celková nosnost"
+container_legs_capacity_value: "až 34 tun"
+container_legs_numbers_speak: "Čísla mluví jasně"
+
+# Container Legs Explanation Section
+container_legs_explanation_title: "Porozumění zvedacím zařízením pro přepravní kontejnery"
+container_legs_explanation_part1: |
+  Zvedací zařízení jsou mechanické nástroje navržené pro zjednodušení manipulace a zvedání přepravních kontejnerů. Tyto nástroje transformovaly logistiku a stavebnictví tím, že poskytují přesné, bezpečné a efektivní způsoby správy kontejnerů.
+
+  #### **Co jsou zvedací zařízení?**
+
+  Zvedací zařízení jsou nástroje používané ke zvedání přepravních kontejnerů ze země. Vytvářejí stabilní platformu pro úkoly jako je přemísťování, údržba nebo přeprava. Na rozdíl od velkých strojů, jako jsou vysokozdvižné vozíky nebo jeřáby, jsou zvedací zařízení menší, snáze přemístitelná a cenově dostupnější. Jsou konstruována tak, aby zvládla těžkou váhu naložených kontejnerů, což je činí nezbytným v mnoha průmyslových odvětvích.
+container_legs_explanation_part2: |
+  #### **Typy zvedacích zařízení**
+
+  Různé typy zvedacích zařízení jsou navrženy pro specifické účely:
+
+  - **Hydraulické zvedáky:** Využívají tlakovou kapalinu ke zvedání těžkých předmětů plynule a efektivně. Jsou ideální pro úkoly s vysokou kapacitou a těžkými náklady.  
+  - **Šroubové zvedáky:** Spoléhají na mechanickou sílu pro přesné nastavení, což je činí užitečnými pro úkoly, které vyžadují pečlivé a kontrolované zvedání.  
+  - **Lahvové zvedáky:** Jsou malé, přenosné a silné, což je činí vhodnými pro menší práce nebo práci v odlehlých oblastech.
+container_legs_explanation_part3: |
+  #### **Základní vlastnosti**
+
+  - **Vysoká nosnost:** Konstruovány pro zvedání standardních velikostí kontejnerů, jako jsou 20stopé a 40stopé jednotky, s bezpečností.  
+  - **Přenosnost:** Lehké a snadno přemístitelné, tyto zvedáky fungují dobře jak pro stálá pracoviště, tak pro projekty mimo pracoviště.  
+  - **Stabilita a bezpečnost:** Navrženy pro poskytnutí stabilní základny během zvedání, snižují pravděpodobnost nehod nebo poškození kontejnerů.
+container_legs_explanation_part4: |
+  #### **Aplikace a výhody**
+
+  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je přeprava, stavebnictví a reakce na katastrofy.
+
+  Efektivním využíváním zvedacích zařízení mohou podniky zlepšit procesy manipulace s kontejnery a zajistit, že jejich operace jsou bezpečné, efektivní a nákladově úsporné.
+container_legs_explanation_part5: |
+  ### **Proč zvolit zvedací zařízení pro přepravní kontejnery?**
+
+  Zvedací zařízení jsou nezbytné nástroje pro správu přepravních kontejnerů, nabízející několik výhod, které zlepšují efektivitu, bezpečnost a úsporu nákladů. Níže jsou hlavní důvody, proč zvolit zvedací zařízení:
+container_legs_explanation_part6: |
+  #### **1\. Zlepšená bezpečnost a ochrana pracovníků**
+
+  Zvedací zařízení poskytují stabilní a bezpečný způsob zvedání těžkých přepravních kontejnerů, snižujících pravděpodobnost nehod během manipulace. Tyto nástroje odstraňují potřebu manuálního zvedání, chránící pracovníky před zraněními souvisejícím s námahou a snižujícím riziko nehod způsobených nestabilním vybavením. Funkce jako protiskluzové základny a kontrolované zvedací mechanismy je činí ještě spolehlivějšími.
+container_legs_explanation_part7: |
+  #### **2\. Zvýšená efektivita a řízení času**
+
+  Použití zvedacích zařízení výrazně zkracuje čas potřebný k manipulaci s kontejnery. Tradiční metody často vyžadují více pracovníků a dlouhé hodiny k přesunu těžkých kontejnerů. Zvedací zařízení zjednodušují proces, umožňujícím menším týmům dokončit úkoly rychleji. Jejich přenosnost a snadné nastavení je činí ideálními pro použití v odlehlých oblastech nebo místech s nízkými objemy kontejnerů.
+container_legs_explanation_part8: |
+  #### **3\. Nákladově efektivní operace**
+
+  Se zvedacími zařízeními mohou podniky snížit svou závislost na těžké technice jako jsou jeřáby a snížit náklady na pracovní sílu. Tyto nástroje jsou postaveny tak, aby vydržely, nabízející dlouhou životnost a vynikající návratnost investic. Navíc jejich použití pomáhá předcházet poškození kontejnerů nebo vybavení, šetřící peníze na potenciálních opravách.
+container_legs_explanation_part9: |
+  #### **4\. Všestrannost napříč aplikacemi**
+
+  Zvedací zařízení mohou manipulovat s kontejnery různých velikostí a hmotností, což je činí užitečnými v odvětvích přepravy, logistiky a stavebnictví. Jejich schopnost fungovat v různých prostředích zajišťuje, že zůstávají spolehlivým řešením pro řadu provozních potřeb.
+container_legs_explanation_part10: |
+  ### **Krok za krokem návod k použití zvedacích zařízení**
+
+  Bezpečné a efektivní používání zvedacích zařízení zajišťuje plynulou manipulaci s přepravními kontejnery. Následujte tento podrobný návod pro jasné instrukce o správném použití.
+container_legs_explanation_part11: |
+  #### **1\. Připravte pracovní prostor**
+
+  Ujistěte se, že oblast kolem přepravního kontejneru je rovná a bez jakýchkoli nečistot. Čistý a rovný povrch zabraňuje nestabilitě nebo naklánění během zvedání. Potvrďte, že zvedací zařízení odpovídá požadavkům na hmotnost a velikost kontejneru. Před použitím zkontrolujte zvedák na jakékoli známky opotřebení nebo poškození.
+container_legs_explanation_part12: |
+  #### **2\. Správně umístěte zvedák**
+
+  Najděte určené zvedací body na kontejneru, které se obvykle nacházejí v rohových odlitcích. Umístěte zvedák bezpečně na tyto body, abyste předešli poškození kontejneru nebo způsobení nerovnováhy. Zkontrolujte, že zvedák je stabilní a správně zarovnaný s kontejnerem.
+container_legs_explanation_part13: |
+  #### **3\. Zajistěte kontejner**
+
+  Před zvedáním se ujistěte, že obsah kontejneru je stabilní a během procesu se nebude posouvat. Zamkněte dveře kontejneru a zajistěte obsah, abyste udrželi rovnováhu po celou dobu operace.
+container_legs_explanation_part14: |
+  #### **4\. Zvedejte postupně**
+
+  Postupujte podle pokynů výrobce pro ovládání zvedáku. Zvedejte kontejner pomalu a rovnoměrně, ujistěte se, že všechny strany jsou zvedány stejnou rychlostí. Vyhněte se náhlým nebo trhavým pohybům, abyste minimalizovali riziko převrácení nebo přetížení zvedáku.
+container_legs_explanation_part15: |
+  #### **5\. Sledujte proces**
+
+  Pozorně sledujte jak zvedák, tak kontejner během zvedání. Hledejte jakékoli známky nestability nebo napětí na zařízení. Pokud zaznamenáte problém, bezpečně spusťte kontejner a překontrolujte vaše nastavení.
+container_legs_explanation_part16: |
+  #### **6\. Bezpečně spusťte kontejner**
+
+  Když je čas kontejner spustit, dělejte to pomalu a opatrně. Použijte kontrolované pohyby k jemnému umístění na zem nebo na určenou pozici. Vykliďte oblast od jakýchkoli překážek a zkontrolujte, že kontejner je stabilní před odstraněním zvedáku.
+
+  Dodržování těchto kroků zajišťuje bezpečné a efektivní použití zvedacích zařízení, pomáhající vám manipulovat s přepravními kontejnery hladce a efektivně.

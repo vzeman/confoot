@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="80" viewBox="0 0 100 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Container outline -->
+  <rect x="10" y="10" width="80" height="40" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  
+  <!-- Hydraulic trailer base -->
+  <rect x="20" y="50" width="60" height="5" fill="#ffde15" stroke="#333" stroke-width="1"/>
+  
+  <!-- Hydraulic lift (raised position) -->
+  <rect x="30" y="55" width="40" height="15" fill="#ffde15" stroke="#333" stroke-width="1"/>
+  
+  <!-- Up arrow -->
+  <path d="M50,40 L40,50 L60,50 Z" fill="#ffde15" stroke="#333" stroke-width="1"/>
+  <line x1="50" y1="30" x2="50" y2="45" stroke="#333" stroke-width="2"/>
+</svg>

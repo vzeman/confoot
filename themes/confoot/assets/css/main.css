@@ -190,6 +190,11 @@ body {
   text-align: center;
 }
 
+/* Heading colors */
+h1, h2, h3, h4, h5, h6 {
+  color: #cf2027;
+}
+
 .text-sm {
   font-size: 0.875rem;
 }

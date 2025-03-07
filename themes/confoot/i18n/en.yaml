@@ -11,7 +11,8 @@ all_rights_reserved: "All rights reserved"
 ready_to_simplify: "Ready to Simplify Your Container Logistics?"
 cta_description: "Contact us today to learn how Confoot can improve your container handling operations."
 get_in_touch: "Get in Touch"
-banner_text: "Don't waste time at loading docks, send your tractor immediately for the next job."
+order_now: "Order Now"
+banner_text: "Don't waste time at loading docks, send your truck immediately for the next job."
 language: "Language"
 
 # Menu items
@@ -37,6 +38,102 @@ feature_3_title: "Easy to Use"
 feature_3_description: "Simple installation and operation with minimal training required."
 
 # Products
-product_1_description: "Shipping containers"
-product_2_description: "Shipping containers"
-product_3_description: "Shipping containers"
+product_1_description: "Hydraulic set that allows lifting containers from trailers with up to 20-ton capacity"
+product_2_description: "Standard version with up to 34-ton capacity, patented design with innovative magnetic coupling"
+product_3_description: "Designed for use on loading docks, allows full opening of container doors"
+
+# Container Legs Section
+container_legs_title: "How Container Legs Work"
+container_legs_subtitle: "Assembly process in less than 5 minutes"
+container_legs_step1_title: "Step 1"
+container_legs_step1_description: "Raise the hydraulic trailer to its highest position"
+container_legs_step2_title: "Step 2"
+container_legs_step2_description: "Install Confoot supports and lower the trailer"
+container_legs_step3_title: "Step 3"
+container_legs_step3_description: "Drive away with your truck for the next job!"
+container_legs_weight_title: "Weight of one support"
+container_legs_weight_value: "only 24 kg"
+container_legs_height_title: "Height range"
+container_legs_height_value: "1,043 mm to 1,448 mm"
+container_legs_capacity_title: "Total capacity"
+container_legs_capacity_value: "up to 34 tons"
+container_legs_numbers_speak: "The numbers speak for themselves"
+
+# Container Legs Explanation Section
+container_legs_explanation_title: "Lifting Jacks for Shipping Containers"
+container_legs_explanation_part1: |
+  Lifting jacks are mechanical devices designed to simplify the handling and lifting of shipping containers. These tools have transformed logistics and construction by providing precise, safe, and efficient ways to manage containers.
+
+  #### **What Are Lifting Jacks?**
+
+  Lifting jacks are tools used to lift shipping containers off the ground. They create a stable platform for tasks like repositioning, maintenance, or transport. Unlike large machinery such as forklifts or cranes, lifting jacks are smaller, easier to move, and more affordable. They are built to handle the heavy weight of loaded containers, making them essential in many industries.
+container_legs_explanation_part2: |
+  #### **Types of Lifting Jacks**
+
+  Different types of lifting jacks are designed for specific purposes:
+
+  - **Hydraulic Jacks:** These use pressurized fluid to lift heavy objects smoothly and efficiently. They are ideal for high-capacity tasks and heavy loads.  
+  - **Screw Jacks:** These rely on mechanical force for precise adjustments, making them useful for tasks that require careful and controlled lifting.  
+  - **Bottle Jacks:** These are small, portable, and strong, making them suitable for smaller jobs or work in remote areas.
+container_legs_explanation_part3: |
+  #### **Core Features**
+
+  - **Heavy Load Capacity:** Built to lift standard container sizes, such as 20-foot and 40-foot units, with safety.  
+  - **Portability:** Lightweight and easy to move, these jacks work well for both permanent sites and offsite projects.  
+  - **Stability and Safety:** Designed to provide a stable base during lifting, they lower the chances of accidents or damage to containers.
+container_legs_explanation_part4: |
+  #### **Applications and Benefits**
+
+  Lifting jacks reduce the need for manual labor, lower risks during operations, and speed up container handling. Their flexibility makes them useful in industries like shipping, construction, and disaster response.
+
+  By using lifting jacks effectively, businesses can improve container handling processes, ensuring their operations are safe, efficient, and cost-effective.
+container_legs_explanation_part5: |
+  ### Why Choose Lifting Jacks for Shipping Containers?
+
+  Lifting jacks are essential tools for managing shipping containers, offering several advantages that improve efficiency, safety, and cost savings. Below are the main reasons to opt for lifting jacks:
+container_legs_explanation_part6: |
+  #### **1\. Improved Safety and Worker Protection**
+
+  Lifting jacks provide a stable and secure method to lift heavy shipping containers, reducing the chance of accidents during handling. These tools remove the need for manual lifting, protecting workers from strain-related injuries and decreasing the risk of accidents caused by unstable equipment. Features such as anti-slip bases and controlled lifting mechanisms make them even more dependable.
+container_legs_explanation_part7: |
+  #### **2\. Enhanced Efficiency and Time Management**
+
+  Using lifting jacks significantly cuts down the time needed to handle containers. Traditional methods often require multiple workers and long hours to move heavy containers. Lifting jacks simplify the process, allowing smaller teams to finish tasks quicker. Their portability and easy setup make them perfect for use in remote areas or locations with low container volumes.
+container_legs_explanation_part8: |
+  #### **3\. Cost-Effective Operations**
+
+  With lifting jacks, businesses can reduce their reliance on heavy machinery like cranes and lower labor costs. These tools are built to last, offering a long lifespan and excellent return on investment. Additionally, their use helps prevent damage to containers or equipment, saving money on potential repairs.
+container_legs_explanation_part9: |
+  #### **4\. Versatility Across Applications**
+
+  Lifting jacks can handle containers of various sizes and weights, making them useful in shipping, logistics, and construction industries. Their ability to function in different environments ensures they remain a reliable solution for a range of operational needs.
+container_legs_explanation_part10: |
+  ### **Step-by-Step Guide to Using Lifting Jacks**
+
+  Using lifting jacks safely and effectively ensures smooth handling of shipping containers. Follow this step-by-step guide for clear instructions on proper usage.
+container_legs_explanation_part11: |
+  #### **1\. Prepare the Workspace**
+
+  Make sure the area around the shipping container is level and clear of any debris. A clean and even surface prevents instability or tilting during lifting. Confirm that the lifting jack matches the weight and size requirements of the container. Inspect the jack for any signs of wear or damage before use.
+container_legs_explanation_part12: |
+  #### **2\. Position the Jack Correctly**
+
+  Find the designated lifting points on the container, which are usually located at the corner castings. Place the jack securely at these points to avoid damaging the container or causing an imbalance. Check that the jack is stable and properly aligned with the container.
+container_legs_explanation_part13: |
+  #### **3\. Secure the Container**
+
+  Before lifting, make sure the contents of the container are stable and won't shift during the process. Lock the container doors and secure the contents to maintain balance throughout the operation.
+container_legs_explanation_part14: |
+  #### **4\. Lift Gradually**
+
+  Follow the manufacturer's instructions for operating the jack. Lift the container slowly and evenly, making sure all sides are raised at the same rate. Avoid sudden or jerky movements to minimize the risk of tipping or overloading the jack.
+container_legs_explanation_part15: |
+  #### **5\. Monitor the Process**
+
+  Keep a close watch on both the jack and the container as you lift. Look for any signs of instability or strain on the equipment. If you notice a problem, lower the container safely and recheck your setup.
+container_legs_explanation_part16: |
+  #### **6\. Lower the Container Safely**
+
+  When it's time to lower the container, do so slowly and carefully. Use controlled movements to place it gently on the ground or its designated position. Clear the area of any obstructions, and check that the container is stable before removing the jack.
+
+  Following these steps ensures safe and efficient use of lifting jacks, helping you handle shipping containers smoothly and effectively.

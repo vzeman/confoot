@@ -37,6 +37,90 @@ feature_3_title: "Jednoduché použitie"
 feature_3_description: "Jednoduchá inštalácia a prevádzka s minimálnymi požiadavkami na školenie."
 
 # Products
-product_1_description: "Prepravné kontajnery"
-product_2_description: "Prepravné kontajnery"
-product_3_description: "Prepravné kontajnery"
+product_1_description: "Hydraulická sada umožňujúca zdvihnúť kontajner z návesu a spustiť ho na zem s nosnosťou až 20 ton"
+product_2_description: "Štandardná verzia s nosnosťou až 34 ton, patentovaný dizajn s inovatívnou magnetickou spojkou"
+product_3_description: "Vytvorené pre použitie na vykladacích rampách, umožňuje plné otvorenie kontajnerových dverí"
+
+# Container Legs
+container_legs_capacity_title: "Celková nosnosť"
+container_legs_capacity_value: "až 34 ton"
+container_legs_numbers_speak: "Čísla hovoria jasne"
+
+# Container Legs Explanation Section
+container_legs_explanation_title: "Zdvíhacie zariadenia pre prepravné kontajnery"
+container_legs_explanation_part1: |
+  Zdvíhacie zariadenia sú mechanické nástroje navrhnuté na zjednodušenie manipulácie a zdvíhania prepravných kontajnerov. Tieto nástroje transformovali logistiku a stavebníctvo tým, že poskytujú presné, bezpečné a efektívne spôsoby správy kontajnerov.
+
+  #### **Čo sú zdvíhacie zariadenia?**
+
+  Zdvíhacie zariadenia sú nástroje používané na zdvíhanie prepravných kontajnerov zo zeme. Vytvárajú stabilnú platformu pre úlohy ako je premiestňovanie, údržba alebo preprava. Na rozdiel od veľkých strojov, ako sú vysokozdvižné vozíky alebo žeriavy, sú zdvíhacie zariadenia menšie, ľahšie premiestniteľné a cenovo dostupnejšie. Sú konštruované tak, aby zvládli ťažkú váhu naložených kontajnerov, čo ich robí nevyhnutnými v mnohých priemyselných odvetviach.
+container_legs_explanation_part2: |
+  #### **Typy zdvíhacích zariadení**
+
+  Rôzne typy zdvíhacích zariadení sú navrhnuté pre špecifické účely:
+
+  - **Hydraulické zdviháky:** Využívajú tlakovú kvapalinu na zdvíhanie ťažkých predmetov plynule a efektívne. Sú ideálne pre úlohy s vysokou kapacitou a ťažkými nákladmi.  
+  - **Skrutkové zdviháky:** Spoliehajú sa na mechanickú silu pre presné nastavenie, čo ich robí užitočnými pre úlohy, ktoré vyžadujú starostlivé a kontrolované zdvíhanie.  
+  - **Fľaškové zdviháky:** Sú malé, prenosné a silné, čo ich robí vhodnými pre menšie práce alebo prácu v odľahlých oblastiach.
+container_legs_explanation_part3: |
+  #### **Základné vlastnosti**
+
+  - **Vysoká nosnosť:** Konštruované pre zdvíhanie štandardných veľkostí kontajnerov, ako sú 20-stopové a 40-stopové jednotky, s bezpečnosťou.  
+  - **Prenosnosť:** Ľahké a ľahko premiestniteľné, tieto zdviháky fungujú dobre ako pre stále pracoviská, tak pre projekty mimo pracoviska.  
+  - **Stabilita a bezpečnosť:** Navrhnuté pre poskytnutie stabilnej základne počas zdvíhania, znižujú pravdepodobnosť nehôd alebo poškodenia kontajnerov.
+container_legs_explanation_part4: |
+  #### **Aplikácie a výhody**
+
+  Zdvíhacie zariadenia znižujú potrebu manuálnej práce, znižujú riziká počas operácií a urýchľujú manipuláciu s kontajnermi. Ich flexibilita ich robí užitočnými v odvetviach ako je preprava, stavebníctvo a reakcia na katastrofy.
+
+  Efektívnym využívaním zdvíhacích zariadení môžu podniky zlepšiť procesy manipulácie s kontajnermi a zabezpečiť, že ich operácie sú bezpečné, efektívne a nákladovo úsporné.
+container_legs_explanation_part5: |
+  ### **Prečo zvoliť zdvíhacie zariadenia pre prepravné kontajnery?**
+
+  Zdvíhacie zariadenia sú nevyhnutné nástroje pre správu prepravných kontajnerov, ponúkajúce niekoľko výhod, ktoré zlepšujú efektivitu, bezpečnosť a úsporu nákladov. Nižšie sú hlavné dôvody, prečo zvoliť zdvíhacie zariadenia:
+container_legs_explanation_part6: |
+  #### **1\. Zlepšená bezpečnosť a ochrana pracovníkov**
+
+  Zdvíhacie zariadenia poskytujú stabilný a bezpečný spôsob zdvíhania ťažkých prepravných kontajnerov, znižujúci pravdepodobnosť nehôd počas manipulácie. Tieto nástroje odstraňujú potrebu manuálneho zdvíhania, chrániac pracovníkov pred zraneniami súvisiacimi s námahou a znižujúc riziko nehôd spôsobených nestabilným vybavením. Funkcie ako protišmykové základne a kontrolované zdvíhacie mechanizmy ich robia ešte spoľahlivejšími.
+container_legs_explanation_part7: |
+  #### **2\. Zvýšená efektivita a riadenie času**
+
+  Použitie zdvíhacích zariadení výrazne skracuje čas potrebný na manipuláciu s kontajnermi. Tradičné metódy často vyžadujú viac pracovníkov a dlhé hodiny na presun ťažkých kontajnerov. Zdvíhacie zariadenia zjednodušujú proces, umožňujúc menším tímom dokončiť úlohy rýchlejšie. Ich prenosnosť a jednoduché nastavenie ich robí ideálnymi pre použitie v odľahlých oblastiach alebo miestach s nízkymi objemami kontajnerov.
+container_legs_explanation_part8: |
+  #### **3\. Nákladovo efektívne operácie**
+
+  So zdvíhacími zariadeniami môžu podniky znížiť svoju závislosť na ťažkej technike ako sú žeriavy a znížiť náklady na pracovnú silu. Tieto nástroje sú postavené tak, aby vydržali, ponúkajúc dlhú životnosť a vynikajúcu návratnosť investícií. Navyše ich použitie pomáha predchádzať poškodeniu kontajnerov alebo vybavenia, šetriace peniaze na potenciálnych opravách.
+container_legs_explanation_part9: |
+  #### **4\. Všestrannosť naprieč aplikáciami**
+
+  Zdvíhacie zariadenia môžu manipulovať s kontajnermi rôznych veľkostí a hmotností, čo ich robí užitočnými v odvetviach prepravy, logistiky a stavebníctva. Ich schopnosť fungovať v rôznych prostrediach zabezpečuje, že zostávajú spoľahlivým riešením pre rad prevádzkových potrieb.
+container_legs_explanation_part10: |
+  ### **Krok za krokom návod na použitie zdvíhacích zariadení**
+
+  Bezpečné a efektívne používanie zdvíhacích zariadení zabezpečuje plynulú manipuláciu s prepravnými kontajnermi. Nasledujte tento podrobný návod pre jasné inštrukcie o správnom použití.
+container_legs_explanation_part11: |
+  #### **1\. Pripravte pracovný priestor**
+
+  Uistite sa, že oblasť okolo prepravného kontajnera je rovná a bez akýchkoľvek nečistôt. Čistý a rovný povrch zabraňuje nestabilite alebo nakláňaniu počas zdvíhania. Potvrďte, že zdvíhacie zariadenie zodpovedá požiadavkám na hmotnosť a veľkosť kontajnera. Pred použitím skontrolujte zdvihák na akékoľvek známky opotrebenia alebo poškodenia.
+container_legs_explanation_part12: |
+  #### **2\. Správne umiestnite zdvihák**
+
+  Nájdite určené zdvíhacie body na kontajneri, ktoré sa zvyčajne nachádzajú v rohových odliatkoch. Umiestnite zdvihák bezpečne na tieto body, aby ste predišli poškodeniu kontajnera alebo spôsobeniu nerovnováhy. Skontrolujte, že zdvihák je stabilný a správne zarovnaný s kontajnerom.
+container_legs_explanation_part13: |
+  #### **3\. Zaistite kontajner**
+
+  Pred zdvíhaním sa uistite, že obsah kontajnera je stabilný a počas procesu sa nebude posúvať. Zamknite dvere kontajnera a zaistite obsah, aby ste udržali rovnováhu počas celej operácie.
+container_legs_explanation_part14: |
+  #### **4\. Zdvíhajte postupne**
+
+  Postupujte podľa pokynov výrobcu pre ovládanie zdviháka. Zdvíhajte kontajner pomaly a rovnomerne, uistite sa, že všetky strany sú zdvíhané rovnakou rýchlosťou. Vyhnite sa náhlym alebo trhavým pohybom, aby ste minimalizovali riziko prevrátenia alebo preťaženia zdviháka.
+container_legs_explanation_part15: |
+  #### **5\. Sledujte proces**
+
+  Pozorne sledujte ako zdvihák, tak kontajner počas zdvíhania. Hľadajte akékoľvek známky nestability alebo napätia na zariadení. Ak zaznamenáte problém, bezpečne spustite kontajner a prekontrolujte vaše nastavenie.
+container_legs_explanation_part16: |
+  #### **6\. Bezpečne spustite kontajner**
+
+  Keď je čas kontajner spustiť, robte to pomaly a opatrne. Použite kontrolované pohyby na jemné umiestnenie na zem alebo na určenú pozíciu. Vyprázdnite oblasť od akýchkoľvek prekážok a skontrolujte, že kontajner je stabilný pred odstránením zdviháka.
+
+  Dodržiavanie týchto krokov zabezpečuje bezpečné a efektívne použitie zdvíhacích zariadení, pomáhajúce vám manipulovať s prepravnými kontajnermi hladko a efektívne.

@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  confoot-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    volumes:
+      - ./docker/nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./public:/usr/share/nginx/html
+    networks:
+      - confoot-network
+
+networks:
+  confoot-network:
+    driver: bridge

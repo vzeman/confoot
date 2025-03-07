@@ -60,8 +60,15 @@
     <div>
       <h3 class="text-lg font-semibold mb-4">{{ i18n "language" | default "Language" }}</h3>
       <div class="grid grid-cols-2 gap-2">
-        {{ range .Site.Home.AllTranslations }}
-        <a href="{{ .RelPermalink }}" class="flex items-center space-x-2 bg-gray-50 rounded-md p-2" style="transition: background-color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.backgroundColor='#ffde15'" onmouseout="this.style.backgroundColor=''">
+        <!-- Current language -->
+        <a href="{{ .Permalink }}" class="flex items-center space-x-2 bg-yellow-100 rounded-md p-2" style="transition: background-color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.backgroundColor='#ffde15'" onmouseout="this.style.backgroundColor='#fef3c7'">
+          <img src="{{ (printf "images/flags/%s.png" .Language.Lang) | relURL }}" alt="{{ .Language.LanguageName }}" class="w-6 h-auto rounded-sm">
+          <span class="text-sm text-gray-700">{{ .Language.LanguageName }}</span>
+        </a>
+        
+        <!-- Other languages -->
+        {{ range .Translations }}
+        <a href="{{ .Permalink }}" class="flex items-center space-x-2 bg-gray-50 rounded-md p-2" style="transition: background-color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.backgroundColor='#ffde15'" onmouseout="this.style.backgroundColor=''">
           <img src="{{ (printf "images/flags/%s.png" .Language.Lang) | relURL }}" alt="{{ .Language.LanguageName }}" class="w-6 h-auto rounded-sm">
           <span class="text-sm text-gray-700">{{ .Language.LanguageName }}</span>
         </a>
