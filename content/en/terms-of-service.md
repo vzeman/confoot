@@ -52,15 +52,25 @@ Our products and services are provided "as is" without any warranties, expressed
 
 You agree to indemnify, defend, and hold harmless ConFoot, its officers, directors, employees, and agents from any claims, liabilities, damages, losses, costs, or expenses arising from your use of our services or violation of these Terms.
 
-## 9. Governing Law
+## 9. Electronic Sales Records Information
+
+According to the Czech law on electronic sales records, the seller is obligated to issue a receipt to the buyer. At the same time, the seller is required to register the received payment with the tax administrator online; in case of technical failure, then no later than within 48 hours.
+
+## 10. Consumer Dispute Resolution
+
+The Czech Trade Inspection Authority supervises compliance with Act No. 634/1992 Coll., on Consumer Protection, as amended. Consumers may file complaints related to the conclusion and fulfillment of contracts with this supervisory body.
+
+If a dispute arises between the seller and the consumer from a concluded contract that cannot be resolved by agreement, the consumer may submit a proposal for out-of-court settlement of the dispute to the Czech Trade Inspection Authority, Central Inspectorate - ADR Department, located at Štěpánská 15, 120 00 Prague 2, email: adr@coi.cz, web: adr.coi.cz, which supervises compliance with Act No. 634/1992 Coll., on Consumer Protection, as amended.
+
+## 11. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws of the Czech Republic, without regard to its conflict of law provisions.
 
-## 10. Changes to Terms
+## 12. Changes to Terms
 
 We reserve the right to modify these Terms at any time. Changes will be effective immediately upon posting on our website. Your continued use of our services after any changes indicates your acceptance of the modified Terms.
 
-## 11. Contact Information
+## 13. Contact Information
 
 If you have any questions about these Terms, please contact us at:
 
