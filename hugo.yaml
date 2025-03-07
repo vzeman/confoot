@@ -36,10 +36,6 @@ languages:
           name: About
           url: /about
           weight: 3
-        - identifier: contact
-          name: Contact
-          url: /contact
-          weight: 4
 
   cs:
     languageName: Čeština
@@ -64,10 +60,6 @@ languages:
           name: O nás
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   sk:
     languageName: Slovenčina
@@ -92,10 +84,6 @@ languages:
           name: O nás
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   de:
     languageName: Deutsch
@@ -120,10 +108,6 @@ languages:
           name: Über uns
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   gr:
     languageName: Ελληνικά
@@ -148,10 +132,6 @@ languages:
           name: Σχετικά με εμάς
           url: /about
           weight: 3
-        - identifier: contact
-          name: Επικοινωνία
-          url: /contact
-          weight: 4
 
   hr:
     languageName: Hrvatski
@@ -176,10 +156,6 @@ languages:
           name: O nama
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   lt:
     languageName: Lietuvių
@@ -204,10 +180,6 @@ languages:
           name: Apie mus
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontaktai
-          url: /contact
-          weight: 4
 
   ru:
     languageName: Русский
@@ -232,10 +204,6 @@ languages:
           name: О нас
           url: /about
           weight: 3
-        - identifier: contact
-          name: Контакты
-          url: /contact
-          weight: 4
 
   lv:
     languageName: Latviešu
@@ -260,10 +228,6 @@ languages:
           name: Par mums
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakti
-          url: /contact
-          weight: 4
 
   sl:
     languageName: Slovenščina
@@ -288,10 +252,6 @@ languages:
           name: O nas
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   ro:
     languageName: Română
@@ -316,10 +276,6 @@ languages:
           name: Despre noi
           url: /about
           weight: 3
-        - identifier: contact
-          name: Contact
-          url: /contact
-          weight: 4
 
   li:
     languageName: Deutsch (Liechtenstein)
@@ -344,10 +300,6 @@ languages:
           name: Über uns
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   at:
     languageName: Deutsch (Österreich)
@@ -372,10 +324,6 @@ languages:
           name: Über uns
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   ch:
     languageName: Deutsch (Schweiz)
@@ -400,10 +348,6 @@ languages:
           name: Über uns
           url: /about
           weight: 3
-        - identifier: contact
-          name: Kontakt
-          url: /contact
-          weight: 4
 
   pt:
     languageName: Português
@@ -428,10 +372,6 @@ languages:
           name: Sobre nós
           url: /about
           weight: 3
-        - identifier: contact
-          name: Contacto
-          url: /contact
-          weight: 4
 
 params:
   contact:

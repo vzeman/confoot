@@ -139,3 +139,10 @@ container_legs_explanation_part16: |
 
 # Video Section
 watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"
+
+# Menu items
+menu_home: "Domů"
+menu_products: "Produkty"
+menu_about: 
+  other: "O nás"
+menu_contact: "Kontakt"

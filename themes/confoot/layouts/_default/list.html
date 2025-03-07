@@ -1,8 +1,17 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-4">{{ .Title }}</h1>
+    <div class="prose max-w-none mb-8">
+      {{ .Content }}
+    </div>
+    <div class="space-y-8">
+      {{ range .Pages }}
+        <div class="border-b pb-6">
+          <h2 class="text-2xl font-semibold mb-2"><a href="{{ .RelPermalink }}" class="text-gray-800 hover:text-yellow-500">{{ .LinkTitle }}</a></h2>
+          <div class="text-gray-700">{{ .Summary }}</div>
+          <a href="{{ .RelPermalink }}" class="mt-2 inline-block text-yellow-500 font-bold hover:text-yellow-600">{{ i18n "read_more" | default "Read more" }} →</a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
 {{ end }}

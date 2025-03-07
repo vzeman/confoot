@@ -18,7 +18,8 @@ language: "Language"
 # Menu items
 menu_home: "Home"
 menu_products: "Products"
-menu_about: "About"
+menu_about: 
+  other: "About Us"
 menu_contact: "Contact"
 
 # Steps
