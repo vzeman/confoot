@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="container">
+  <div class="products-list-header">
+    <h1 class="page-title section-title">ConFoot Container Legs</h1>
+    <div class="page-description">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <div class="products-grid">
+    {{ range .Pages }}
+      <div class="product-card">
+        <div class="product-card-image">
+          <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}">
+        </div>
+        <div class="product-card-content">
+          <h2 class="product-card-title">{{ .Title }}</h2>
+          <h3 class="product-card-subtitle">{{ .Params.subtitle }}</h3>
+          <div class="product-card-description">
+            {{ .Params.shortDescription | markdownify }}
+          </div>
+          <div class="product-card-price">{{ .Params.price }}</div>
+          <a href="{{ .RelPermalink }}" class="btn btn-primary">{{ i18n "learn_more" | default "Learn More" }}</a>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  <!-- Videos Section -->
+  <div class="videos-section">
+    <h2 class="section-title">Watch how easy and fast is to use ConFoot</h2>
+    <div class="videos-grid">
+      <div class="video-item">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/ezLa_i53gxk" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="video-item">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/d8UlScd8254" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="video-item">
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/lFIycgAhjVg" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
