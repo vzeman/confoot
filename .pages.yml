@@ -4,3 +4,6 @@ build:
   output: public
   environment:
     HUGO_VERSION: 0.123.6
+
+# Explicitly disable Wrangler
+wrangler: false
