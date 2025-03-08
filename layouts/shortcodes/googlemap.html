@@ -13,6 +13,30 @@
 
 {{ $encodedAddress := $address | urlquery }}
 
+{{/* Map coordinates for known addresses */}}
+{{ $lat := "49.097367" }}
+{{ $lon := "15.857385" }}
+{{ $bbox := "15.853%2C49.095%2C15.862%2C49.099" }}
+
+{{/* Define specific coordinates for known addresses */}}
+{{ if eq $address "Průmyslová 154, 674 01 Třebíč, Czech Republic" }}
+  {{ $lat = "49.208" }}
+  {{ $lon = "15.873" }}
+  {{ $bbox = "15.852909088134767%2C49.19881022136854%2C15.892391204833986%2C49.21732050895796" }}
+{{ else if eq $address "Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" }}
+  {{ $lat = "50.088" }}
+  {{ $lon = "14.359" }}
+  {{ $bbox = "14.339485168457033%2C50.07940769159795%2C14.378967285156252%2C50.09787361252045" }}
+{{ else if eq $address "Slavníkova 2357/9, Břevnov, 169 00 Praga 6, Czech Republic" }}
+  {{ $lat = "50.088" }}
+  {{ $lon = "14.359" }}
+  {{ $bbox = "14.339485168457033%2C50.07940769159795%2C14.378967285156252%2C50.09787361252045" }}
+{{ else if eq $address "Průmyslová 154, 674 01 Třebíč, Čekijos Respublika" }}
+  {{ $lat = "49.208" }}
+  {{ $lon = "15.873" }}
+  {{ $bbox = "15.852909088134767%2C49.19881022136854%2C15.892391204833986%2C49.21732050895796" }}
+{{ end }}
+
 <div class="map-container" style="width: 100%; height: {{ $height }}; margin-bottom: 20px;">
   <iframe 
     width="100%" 
@@ -21,11 +45,11 @@
     scrolling="no" 
     marginheight="0" 
     marginwidth="0" 
-    src="https://www.openstreetmap.org/export/embed.html?bbox=15.853%2C49.095%2C15.862%2C49.099&amp;layer=mapnik&amp;marker=49.097367%2C15.857385" 
+    src="https://www.openstreetmap.org/export/embed.html?bbox={{ $bbox }}&amp;layer=mapnik&amp;marker={{ $lat }}%2C{{ $lon }}" 
     style="border: 1px solid #ccc;">
   </iframe>
   <small>
-    <a href="https://www.openstreetmap.org/?mlat=49.097367&amp;mlon=15.857385#map=17/49.097367/15.857385" target="_blank">
+    <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&amp;mlon={{ $lon }}#map={{ $zoom }}/{{ $lat }}/{{ $lon }}" target="_blank">
       View larger map
     </a>
   </small>
