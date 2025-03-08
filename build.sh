@@ -4,6 +4,15 @@
 # Exit on error
 set -e
 
+# Print debug information
+echo "Build environment:"
+echo "Node version: $(node -v)"
+echo "NPM version: $(npm -v)"
+echo "Hugo version: $(hugo version)"
+
+# Skip npm installation since we don't need it for Hugo
+echo "Skipping npm installation as it's not required for Hugo build"
+
 # Build Hugo site
 echo "Building Hugo site..."
 hugo --minify

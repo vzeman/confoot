@@ -1,0 +1,8 @@
+# Cloudflare Pages configuration for ConFoot
+
+[build]
+command = "./build.sh"
+publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.123.6"
