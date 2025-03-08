@@ -4,11 +4,22 @@ export async function onRequest(context) {
     // Log the start of function execution
     console.log('Middleware started, URL:', context.request.url);
     
-    // Get the hostname from the request
-    const url = new URL(context.request.url);
-    const hostname = url.hostname.toLowerCase();
-    const path = url.pathname;
+    // Parse the URL manually to avoid URL object issues
+    const fullUrl = context.request.url;
+    const urlParts = fullUrl.split('//');
+    if (urlParts.length < 2) {
+      console.log('Invalid URL format, continuing without modification');
+      return context.next();
+    }
+    
+    const protocol = urlParts[0];
+    const hostAndPath = urlParts[1].split('/');
+    const hostname = hostAndPath[0].toLowerCase();
+    
     console.log('Hostname:', hostname);
+    
+    // Reconstruct the path
+    let path = '/' + hostAndPath.slice(1).join('/');
     console.log('Original path:', path);
     
     // Default to English
@@ -66,50 +77,54 @@ export async function onRequest(context) {
     console.log('Selected language:', lang);
     
     // Check if the path already starts with a language code
-    // This handles cases where URLs might still have language prefixes
-    const langPattern = /^\/(en|cs|sk|de|gr|hr|lt|ru|lv|si|ro|pt)\//;
+    const langPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})\\/`);
     const langMatch = path.match(langPattern);
     
     if (langMatch) {
-      // If the URL already has a language prefix that matches the domain language,
-      // redirect to remove the language prefix
+      // If URL already has language prefix, remove it
       if (langMatch[1] === lang) {
         const newPath = path.replace(langPattern, '/');
-        const redirectUrl = `${url.protocol}//${hostname}${newPath}${url.search}`;
+        const redirectUrl = `${protocol}//${hostname}${newPath}`;
         console.log('Removing language prefix, redirecting to:', redirectUrl);
         
         return new Response(null, {
-          status: 301, // Permanent redirect
+          status: 301,
           headers: {
             'Location': redirectUrl,
             'Cache-Control': 'max-age=3600'
           }
         });
       }
-      // If the URL has a language prefix that doesn't match the domain language,
-      // let it pass through as is (this is an edge case)
       return context.next();
     }
     
-    // Internally rewrite the URL to include the language prefix for Hugo
-    // This doesn't change the URL visible to the user
-    const internalPath = `/${lang}${path === '/' ? '/' : path}`;
+    // Create path with language prefix for internal routing
+    const internalPath = path === '/' ? `/${lang}/` : `/${lang}${path}`;
     console.log('Internal rewrite to:', internalPath);
     
-    // Create a new URL for internal routing
-    const newUrl = new URL(url);
-    newUrl.pathname = internalPath;
+    // Create a new request with the modified path
+    // Manually construct the URL string to avoid URL object issues
+    const newUrlString = `${protocol}//${hostname}${internalPath}`;
     
-    // Create a new request with the modified URL for internal routing only
-    const newRequest = new Request(newUrl.toString(), {
-      method: context.request.method,
-      headers: context.request.headers
-    });
-    
-    // Pass the modified request to the next handler
-    return context.next({
-      request: newRequest
-    });
+    try {
+      // Create a new request with the modified URL
+      const newRequest = new Request(newUrlString, {
+        method: context.request.method,
+        headers: context.request.headers,
+        body: context.request.body
+      });
+      
+      // Return the modified request
+      return context.next({
+        request: newRequest
+      });
+    } catch (urlError) {
+      console.error('Error creating request with new URL:', urlError);
+      console.error('Attempted URL:', newUrlString);
+      
+      // If we can't create a new request, just continue without modification
+      return context.next();
+    }
   } catch (error) {
     // Detailed error logging
     console.error('Error in middleware:', error);
