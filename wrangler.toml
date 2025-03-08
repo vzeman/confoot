@@ -1,7 +1,8 @@
-# This is a minimal wrangler.toml file to prevent deployment errors
+# Cloudflare Pages configuration
 name = 'confoot'
-main = "homepage.html"
 compatibility_date = "2023-12-01"
 
+# This is the key property needed for Pages
 [site]
 bucket = "./public"
+pages_build_output_dir = "public"
