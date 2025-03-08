@@ -77,13 +77,13 @@ export async function onRequest(context) {
     const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})(?:\\/|$)`);
     
     if (allLangsPattern.test(path)) {
-      // If URL already has a language prefix, check if it matches the domain language
+      // Extract the language from the path
       const pathLangMatch = path.match(allLangsPattern);
       const pathLang = pathLangMatch ? pathLangMatch[1] : null;
       
+      // If the URL has a language prefix that doesn't match the domain language,
+      // redirect to the clean URL without any language prefix
       if (pathLang && pathLang !== lang) {
-        // If URL has incorrect language prefix, redirect to the same path without language prefix
-        // This will then be internally rewritten to the correct language
         const pathWithoutLang = path.replace(allLangsPattern, '/');
         const cleanPath = pathWithoutLang === '/' ? '/' : pathWithoutLang;
         
@@ -97,12 +97,24 @@ export async function onRequest(context) {
         });
       }
       
-      // If URL has correct language prefix, just continue with normal request
-      return context.next();
+      // If the URL has the correct language prefix, redirect to the clean URL without language prefix
+      if (pathLang && pathLang === lang) {
+        const pathWithoutLang = path.replace(allLangsPattern, '/');
+        const cleanPath = pathWithoutLang === '/' ? '/' : pathWithoutLang;
+        
+        console.log('Removing language prefix to keep URL clean, redirecting to:', cleanPath);
+        return new Response(null, {
+          status: 301, // Permanent redirect
+          headers: {
+            'Location': cleanPath,
+            'Cache-Control': 'max-age=3600'
+          }
+        });
+      }
     }
     
     // At this point, we have a URL without language prefix
-    // Instead of redirecting, we'll rewrite the URL internally
+    // Rewrite the URL internally to include the language prefix
     
     // Create a new request with the language prefix added to the path
     const url = new URL(context.request.url);
