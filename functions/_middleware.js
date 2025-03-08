@@ -50,6 +50,8 @@ export async function onRequest(context) {
       'www.confoot.ch': 'ch',
       'confoot.pt': 'pt',
       'www.confoot.pt': 'pt',
+      'confoot.es': 'es',
+      'www.confoot.es': 'es',
       'confoot.co.uk': 'en',
       'www.confoot.co.uk': 'en'
     };
