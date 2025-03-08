@@ -9,9 +9,15 @@ echo "Build environment:"
 echo "Node version: $(node -v)"
 echo "NPM version: $(npm -v)"
 echo "Hugo version: $(hugo version)"
+echo "Current directory: $(pwd)"
+echo "Directory contents: $(ls -la)"
 
 # Skip npm installation since we don't need it for Hugo
 echo "Skipping npm installation as it's not required for Hugo build"
+
+# Clean up any old Workers configuration that might confuse the build
+echo "Cleaning up any old Workers configuration"
+rm -rf .cloudflare wrangler.toml
 
 # Build Hugo site
 echo "Building Hugo site..."
@@ -43,4 +49,10 @@ EOR
   echo "Created _redirects file"
 fi
 
+# Cloudflare Pages Functions directory is automatically detected
+# No need to copy it to the output directory
+echo "Cloudflare Pages Functions directory: functions/"
+ls -la functions/
+
 echo "Build completed successfully!"
+echo "Directory contents after build: $(ls -la public)"

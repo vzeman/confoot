@@ -15,8 +15,29 @@ log() {
 
 log "Starting Cloudflare Pages deployment setup"
 
-# Create necessary directories
-mkdir -p functions
+# Remove any old Workers configuration
+if [ -d ".cloudflare" ]; then
+  log "Removing old .cloudflare directory"
+  rm -rf .cloudflare
+fi
+
+if [ -f "wrangler.toml" ]; then
+  log "Removing old wrangler.toml file"
+  rm -f wrangler.toml
+fi
+
+# Create Cloudflare Pages configuration
+log "Creating Cloudflare Pages configuration"
+cat > cloudflare.toml << 'EOF'
+# Cloudflare Pages configuration for ConFoot
+
+[build]
+command = "./build.sh"
+publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.123.6"
+EOF
 
 # Ensure the functions directory exists
 if [ ! -d "functions" ]; then
@@ -146,6 +167,21 @@ cat > build.sh << 'EOF'
 # Exit on error
 set -e
 
+# Print debug information
+echo "Build environment:"
+echo "Node version: $(node -v)"
+echo "NPM version: $(npm -v)"
+echo "Hugo version: $(hugo version)"
+echo "Current directory: $(pwd)"
+echo "Directory contents: $(ls -la)"
+
+# Skip npm installation since we don't need it for Hugo
+echo "Skipping npm installation as it's not required for Hugo build"
+
+# Clean up any old Workers configuration that might confuse the build
+echo "Cleaning up any old Workers configuration"
+rm -rf .cloudflare wrangler.toml
+
 # Build Hugo site
 echo "Building Hugo site..."
 hugo --minify
@@ -176,9 +212,46 @@ EOR
   echo "Created _redirects file"
 fi
 
+# Cloudflare Pages Functions directory is automatically detected
+# No need to copy it to the output directory
+echo "Cloudflare Pages Functions directory: functions/"
+ls -la functions/
+
 echo "Build completed successfully!"
+echo "Directory contents after build: $(ls -la public)"
 EOF
 chmod +x build.sh
+
+# Create a simplified package.json
+log "Creating simplified package.json"
+cat > package.json << 'EOF'
+{
+  "name": "confoot",
+  "version": "1.0.0",
+  "description": "ConFoot website",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzeman/confoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzeman/confoot/issues"
+  },
+  "homepage": "https://github.com/vzeman/confoot#readme"
+}
+EOF
+
+# Remove package-lock.json if it exists
+if [ -f "package-lock.json" ]; then
+  log "Removing package-lock.json"
+  rm -f package-lock.json
+fi
 
 log "Cloudflare Pages deployment setup completed"
 log ""
