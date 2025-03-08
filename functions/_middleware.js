@@ -71,64 +71,55 @@ export async function onRequest(context) {
     
     console.log('Selected language:', lang);
     
-    // Check if the path already starts with the language code
-    // This prevents redirect loops
-    const langPattern = new RegExp(`^\\/${lang}(?:\\/|$)`);
-    if (langPattern.test(path)) {
-      console.log('Path already has correct language prefix, no redirect needed');
+    // Check if the path already has a language prefix
+    const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})(?:\\/|$)`);
+    
+    if (allLangsPattern.test(path)) {
+      // If URL already has a language prefix, check if it matches the domain language
+      const pathLangMatch = path.match(allLangsPattern);
+      const pathLang = pathLangMatch ? pathLangMatch[1] : null;
+      
+      if (pathLang && pathLang !== lang) {
+        // If URL has incorrect language prefix, redirect to the same path without language prefix
+        // This will then be internally rewritten to the correct language
+        const pathWithoutLang = path.replace(allLangsPattern, '/');
+        const cleanPath = pathWithoutLang === '/' ? '/' : pathWithoutLang;
+        
+        console.log('Removing incorrect language prefix, redirecting to:', cleanPath);
+        return new Response(null, {
+          status: 301, // Permanent redirect
+          headers: {
+            'Location': cleanPath,
+            'Cache-Control': 'max-age=3600'
+          }
+        });
+      }
+      
+      // If URL has correct language prefix, just continue with normal request
       return context.next();
     }
     
-    // Check if the path has any language prefix
-    const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})(?:\\/|$)`);
-    if (allLangsPattern.test(path)) {
-      // Extract the path without the language prefix
-      const pathWithoutLang = path.replace(allLangsPattern, '/');
-      // Create new path with correct language
-      const correctLangPath = `/${lang}${pathWithoutLang === '/' ? '' : pathWithoutLang}`;
-      console.log('Replacing incorrect language prefix with:', correctLangPath);
-      
-      return new Response(null, {
-        status: 301, // Permanent redirect
-        headers: {
-          'Location': correctLangPath,
-          'Cache-Control': 'max-age=3600'
-        }
-      });
-    }
+    // At this point, we have a URL without language prefix
+    // Instead of redirecting, we'll rewrite the URL internally
     
-    // Check if we're already on a language-specific domain and at the root path
-    // In this case, we don't need to add a language prefix to the URL
-    const domainLang = domainLanguageMap[hostname];
-    if (path === '/' && domainLang === lang) {
-      console.log('Already on correct language domain at root path, redirecting to language path');
-      
-      // Create the language-specific path for the root URL
-      const langPath = `/${lang}`;
-      console.log('Redirecting root path to language path:', langPath);
-      
-      // Return a redirect response
-      return new Response(null, {
-        status: 302, // Temporary redirect
-        headers: {
-          'Location': langPath,
-          'Cache-Control': 'no-cache'
-        }
-      });
-    }
+    // Create a new request with the language prefix added to the path
+    const url = new URL(context.request.url);
+    const langPath = `/${lang}${path === '/' ? '/' : path}`;
+    url.pathname = langPath;
     
-    // Create the language-specific path
-    const langPath = `/${lang}${path === '/' ? '' : path}`;
-    console.log('Redirecting to language path:', langPath);
+    console.log('Internally rewriting request to:', url.pathname);
     
-    // Return a redirect response
-    return new Response(null, {
-      status: 302, // Temporary redirect
-      headers: {
-        'Location': langPath,
-        'Cache-Control': 'no-cache'
-      }
+    // Create a new request with the modified URL
+    const newRequest = new Request(url.toString(), {
+      method: context.request.method,
+      headers: context.request.headers,
+      body: context.request.body,
+      redirect: 'manual'
     });
+    
+    // Get the response from the origin with the rewritten URL
+    return context.env.ASSETS.fetch(newRequest);
+    
   } catch (error) {
     // Detailed error logging
     console.error('Error in middleware:', error);
