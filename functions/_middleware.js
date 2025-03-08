@@ -69,14 +69,39 @@ export async function onRequest(context) {
     
     console.log('Selected language:', lang);
     
-    // Simply redirect to the language-specific URL
-    // This is a simpler approach that should work reliably
+    // Check if the path already starts with the language code
+    // This prevents redirect loops
+    const langPattern = new RegExp(`^\\/${lang}\\/`);
+    if (langPattern.test(path)) {
+      console.log('Path already has correct language prefix, no redirect needed');
+      return context.next();
+    }
+    
+    // Check if the path has any language prefix
+    const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})\\/`);
+    if (allLangsPattern.test(path)) {
+      // Extract the path without the language prefix
+      const pathWithoutLang = path.replace(allLangsPattern, '/');
+      // Create new path with correct language
+      const correctLangPath = `/${lang}${pathWithoutLang === '/' ? '/' : pathWithoutLang}`;
+      console.log('Replacing incorrect language prefix with:', correctLangPath);
+      
+      return new Response(null, {
+        status: 301, // Permanent redirect
+        headers: {
+          'Location': correctLangPath,
+          'Cache-Control': 'max-age=3600'
+        }
+      });
+    }
+    
+    // Create the language-specific path
     const langPath = `/${lang}${path === '/' ? '/' : path}`;
     console.log('Redirecting to language path:', langPath);
     
     // Return a redirect response
     return new Response(null, {
-      status: 302,
+      status: 302, // Temporary redirect
       headers: {
         'Location': langPath,
         'Cache-Control': 'no-cache'
