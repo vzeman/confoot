@@ -86,34 +86,15 @@ container_legs_explanation_part4: |
 
   Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je lodní doprava, stavebnictví a reakce na katastrofy.
 
-# Safety tips
-safety_tips_title: "Bezpečnostní tipy pro používání noh pro kontejnery"
-safety_tips_subtitle: "Zajistěte bezpečnou manipulaci s kontejnery pomocí těchto důležitých tipů"
-container_legs_explanation_part11: |
-  #### **1\. Zkontrolujte vybavení před použitím**
-
-  Před každým použitím zkontrolujte nohy pro kontejnery, zda nejsou poškozené nebo opotřebované. Hledejte praskliny, ohnuté části nebo známky únavy materiálu. Nikdy nepoužívejte poškozené zvedací zařízení, protože to může vést k selhání a potenciálně vážným nehodám.
-container_legs_explanation_part12: |
-  #### **2\. Porozumějte kapacitě zatížení**
-
-  Každé zvedací zařízení má specifickou kapacitu zatížení. Ujistěte se, že znáte hmotnost kontejneru a že zvedací zařízení může bezpečně tuto hmotnost zvládnout. Přetížení zvedacího zařízení může způsobit selhání a je extrémně nebezpečné.
-container_legs_explanation_part13: |
-  #### **3\. Zajistěte stabilní povrch**
-
-  Vždy používejte nohy pro kontejnery na pevném, rovném povrchu. Nestabilní nebo nerovný terén může způsobit naklonění nebo převrácení kontejneru během zvedání. Pokud je to nutné, použijte desky nebo podložky pro vytvoření stabilní základny.
-container_legs_explanation_part14: |
-  #### **4\. Zvedejte postupně**
-
-  Postupujte podle pokynů výrobce pro ovládání zvedáku. Zvedejte kontejner pomalu a rovnoměrně, ujistěte se, že všechna strany jsou zvedány stejnou rychlostí. Vyhněte se náhlým nebo trhavým pohybům, abyste minimalizovali riziko převrácení nebo přetížení zvedáku.
-container_legs_explanation_part15: |
-  #### **5\. Používejte osobní ochranné prostředky**
-
-  Vždy noste vhodné osobní ochranné prostředky, včetně helmy, bezpečnostní obuvi a rukavic. Toto vybavení pomáhá chránit před zraněními v případě nehody nebo selhání zařízení.
-
 # Product page translations
 technical_specifications: "Technické specifikace"
 product_features: "Vlastnosti produktu"
 related_products: "Související produkty"
+
+# Blog related translations
+read_more: "Číst více"
+back_to_blog: "Zpět na blog"
+related_posts: "Další příspěvky"
 
 # Video Section
 watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"

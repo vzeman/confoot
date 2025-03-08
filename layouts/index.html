@@ -256,48 +256,4 @@
   </div>
 </section>
 
-<section class="container-legs-explanation py-16 bg-white">
-  <div class="container mx-auto px-4">
-    <h2 class="text-3xl font-bold text-center mb-8">{{ i18n "container_legs_explanation_title" | default "Understanding Lifting Jacks for Shipping Containers" }}</h2>
-    <div class="max-w-4xl mx-auto">
-      <div class="prose prose-lg mx-auto">
-        <style>
-          .prose h3 {
-            margin-top: 2.5rem;
-            margin-bottom: 1.5rem;
-            font-weight: 700;
-          }
-          .prose h4 {
-            margin-top: 2rem;
-            margin-bottom: 1.25rem;
-            font-weight: 600;
-          }
-          .prose ul {
-            margin-bottom: 1.5rem;
-          }
-          .prose p {
-            margin-bottom: 1.25rem;
-          }
-        </style>
-        {{ with (i18n "container_legs_explanation_part1") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part2") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part3") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part4") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part5") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part6") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part7") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part8") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part9") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part10") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part11") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part12") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part13") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part14") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part15") }}{{ . | markdownify | safeHTML }}{{ end }}
-        {{ with (i18n "container_legs_explanation_part16") }}{{ . | markdownify | safeHTML }}{{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-
 {{ end }}

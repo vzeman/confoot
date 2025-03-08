@@ -3,7 +3,7 @@
 /* Base Styles */
 :root {
   --color-primary: #eab308;
-  --color-primary-light: #fef9c3;
+  --color-primary-light: #fffef2;
   --color-primary-dark: #ca8a04;
   --color-gray-50: #f9fafb;
   --color-gray-100: #f3f4f6;
@@ -375,7 +375,7 @@ h4, h5, h6 {
 }
 
 .bg-yellow-100 {
-  background-color: #fef9c3;
+  background-color: #fffef2;
 }
 
 .bg-yellow-500 {
