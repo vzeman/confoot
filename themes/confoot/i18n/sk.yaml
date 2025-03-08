@@ -2,67 +2,82 @@
 contact_us: "Kontaktujte nás"
 view_products: "Zobraziť produkty"
 view_all_products: "Zobraziť všetky produkty"
-learn_more: "Zistiť viac"
+learn_more: "Viac informácií"
 how_it_works: "Ako to funguje"
 key_features: "Kľúčové vlastnosti"
 our_products: "Naše produkty"
 quick_links: "Rýchle odkazy"
 all_rights_reserved: "Všetky práva vyhradené"
-ready_to_simplify: "Pripravení zjednodušiť logistiku kontajnerov?"
+ready_to_simplify: "Pripravení zjednodušiť svoju kontajnerovú logistiku?"
 cta_description: "Kontaktujte nás ešte dnes a zistite, ako môže Confoot zlepšiť vaše operácie s kontajnermi."
 get_in_touch: "Kontaktujte nás"
 order_now: "Objednať teraz"
-banner_text: "Nestrácajte čas na nákladových rampách, pošlite svoj ťahač okamžite za ďalšou zákazkou."
+banner_text: "Nestrácajte čas na nakladacích rampách, pošlite svoj kamión ihneď na ďalšiu prácu."
 language: "Jazyk"
 
 # Menu items
 menu_home: "Domov"
 menu_products: "Produkty"
-menu_about: "O nás"
+menu_about: 
+  other: "O nás"
 menu_contact: "Kontakt"
+menu_privacy: "Ochrana osobných údajov"
+
+# Footer links
+privacy_policy: "Ochrana osobných údajov"
+terms_of_service: "Obchodné podmienky"
+data_protection: "Ochrana údajov"
 
 # Steps
 step_1_title: "Vyberte si produkt"
-step_1_description: "Vyberte si produkt Confoot, ktorý najlepšie vyhovuje vašim potrebám manipulácie s kontajnermi."
+step_1_description: "Vyberte produkt Confoot, ktorý najlepšie vyhovuje vašim potrebám pre manipuláciu s kontajnermi."
 step_2_title: "Jednoduchá inštalácia"
 step_2_description: "Rýchly a jednoduchý proces inštalácie, ktorý vyžaduje minimálne školenie."
 step_3_title: "Užite si výhody"
-step_3_description: "Zažite zvýšenú bezpečnosť, efektivitu a úsporu nákladov pri vašich operáciách s kontajnermi."
+step_3_description: "Zažite zvýšenú bezpečnosť, efektivitu a úsporu nákladov pri vašich kontajnerových operáciách."
 
 # Features
 feature_1_title: "Zvýšená bezpečnosť"
-feature_1_description: "Zlepšená stabilita a bezpečnosť pre manipuláciu s kontajnermi."
-feature_2_title: "Cenová efektivita"
-feature_2_description: "Znížte prevádzkové náklady a zvýšte efektivitu vašej logistiky."
+feature_1_description: "Lepšia stabilita a bezpečnosť pri manipulácii s kontajnermi."
+feature_2_title: "Nákladová efektivita"
+feature_2_description: "Znížte prevádzkové náklady a zvýšte efektivitu vo vašej logistike."
 feature_3_title: "Jednoduché použitie"
 feature_3_description: "Jednoduchá inštalácia a prevádzka s minimálnymi požiadavkami na školenie."
 
 # Products
-product_1_description: "Hydraulická sada umožňujúca zdvíhanie kontajnerov z prívesov s nosnosťou až 20 ton"
-product_2_description: "Štandardná verzia s nosnosťou až 34 ton, patentovaný dizajn s inovatívnym magnetickým spojením"
-product_3_description: "Navrhnuté na použitie na nakladacích rampách, umožňuje úplné otvorenie dverí kontajnera"
-
-# Container Legs
-container_legs_title: "Ako fungujú podpery kontajnerov"
-container_legs_subtitle: "Proces montáže za menej ako 5 minút"
-container_legs_step1_title: "Krok 1"
-container_legs_step1_description: "Zdvihnite hydraulický náves do najvyššej polohy"
-container_legs_step2_title: "Krok 2"
-container_legs_step2_description: "Nainštalujte podpery Confoot a spustite náves"
-container_legs_step3_title: "Krok 3"
-container_legs_step3_description: "Odíďte s vašim ťahačom za ďalšou zákazkou!"
-container_legs_weight_title: "Hmotnosť jednej podpery"
-container_legs_weight_value: "iba 24 kg"
-container_legs_capacity_title: "Celková nosnosť"
-container_legs_capacity_value: "až 34 ton"
-container_legs_numbers_speak: "Čísla hovoria jasne"
-
-# Video Section
-watch_installation_videos: "Pozrite si, ako nainštalovať podpery kontajnerov"
+product_1_description: "Hydraulická sada, ktorá umožňuje zdvíhanie kontajnerov z prívesov s kapacitou až 20 ton"
+product_2_description: "Štandardná verzia s kapacitou až 34 ton, patentovaný dizajn s inovatívnym magnetickým spojením"
+product_3_description: "Navrhnuté pre použitie na nakladacích rampách, umožňuje úplné otvorenie dverí kontajnera"
 
 # Product page translations
 technical_specifications: "Technické špecifikácie"
-pricing: "Cenník"
-buy_now: "Kúpiť"
+pricing: "Ceny"
+buy_now: "Kúpiť teraz"
 how_to_use: "Ako používať"
 benefits: "Výhody"
+related_products: "Súvisiace produkty"
+learn_more: "Viac informácií"
+
+# Container Legs Section
+container_legs_title: "Ako fungujú podpery kontajnerov"
+container_legs_subtitle: "Proces montáže za menej ako 5 minút"
+container_legs_step1_title: "Krok 1"
+container_legs_step1_description: "Zdvihnite hydraulický príves do najvyššej polohy"
+container_legs_step2_title: "Krok 2"
+container_legs_step2_description: "Nainštalujte podpery Confoot a spustite príves"
+container_legs_step3_title: "Krok 3"
+container_legs_step3_description: "Odíďte s kamiónom na ďalšiu prácu!"
+container_legs_weight_title: "Hmotnosť jednej podpery"
+container_legs_weight_value: "iba 24 kg"
+container_legs_height_title: "Rozsah výšky"
+container_legs_height_value: "1 043 mm až 1 448 mm"
+container_legs_capacity_title: "Celková kapacita"
+container_legs_capacity_value: "až 34 ton"
+container_legs_numbers_speak: "Čísla hovoria sami za seba"
+
+# Video Section
+watch_installation_videos: "Pozrite sa, ako nainštalovať podpery kontajnerov"
+
+# Blog related translations
+read_more: "Čítať viac"
+related_posts: "Ďalšie príspevky na blogu"

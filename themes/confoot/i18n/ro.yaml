@@ -8,36 +8,76 @@ key_features: "Caracteristici principale"
 our_products: "Produsele noastre"
 quick_links: "Linkuri rapide"
 all_rights_reserved: "Toate drepturile rezervate"
-ready_to_simplify: "Sunteți gata să simplificați logistica containerelor de transport?"
-cta_description: "Contactați-ne astăzi pentru a afla cum Confoot poate îmbunătăți operațiunile dvs. cu containere."
+ready_to_simplify: "Gata să simplificați logistica containerelor dumneavoastră?"
+cta_description: "Contactați-ne astăzi pentru a afla cum Confoot poate îmbunătăți operațiunile de manipulare a containerelor."
 get_in_touch: "Luați legătura"
 order_now: "Comandați acum"
-banner_text: "Nu pierdeți timpul la docurile de încărcare, trimiteți camionul dvs. imediat pentru următoarea sarcină."
+banner_text: "Nu pierdeți timpul la docurile de încărcare, trimiteți camionul dumneavoastră imediat pentru următoarea sarcină."
 language: "Limbă"
 
 # Menu items
 menu_home: "Acasă"
 menu_products: "Produse"
-menu_about: "Despre noi"
+menu_about: 
+  other: "Despre noi"
 menu_contact: "Contact"
+menu_privacy: "Politica de confidențialitate"
+
+# Footer links
+privacy_policy: "Politica de confidențialitate"
+terms_of_service: "Termeni și condiții"
+data_protection: "Protecția datelor"
 
 # Steps
-step_1_title: "Alegeți produsul dvs."
-step_1_description: "Alegeți produsul Confoot care se potrivește cel mai bine nevoilor dvs. de manipulare a containerelor."
+step_1_title: "Alegeți produsul"
+step_1_description: "Selectați produsul Confoot care se potrivește cel mai bine nevoilor dumneavoastră de manipulare a containerelor."
 step_2_title: "Instalare ușoară"
 step_2_description: "Proces de instalare rapid și simplu care necesită instruire minimă."
 step_3_title: "Bucurați-vă de beneficii"
-step_3_description: "Experimentați siguranță îmbunătățită, eficiență și economii de costuri în operațiunile dvs. cu containere."
+step_3_description: "Experimentați siguranță îmbunătățită, eficiență și economii de costuri în operațiunile dumneavoastră cu containere."
 
 # Features
-feature_1_title: "Siguranță îmbunătățită"
+feature_1_title: "Siguranță sporită"
 feature_1_description: "Stabilitate și siguranță îmbunătățite pentru operațiunile de manipulare a containerelor."
 feature_2_title: "Eficiență a costurilor"
-feature_2_description: "Reduceți costurile operaționale și creșteți eficiența în logistica dvs."
+feature_2_description: "Reduceți costurile operaționale și creșteți eficiența în logistica dumneavoastră."
 feature_3_title: "Ușor de utilizat"
-feature_3_description: "Instalare și operare simplă cu cerințe minime de instruire."
+feature_3_description: "Instalare și operare simplă cu instruire minimă necesară."
 
 # Products
-product_1_description: "Set hidraulic care permite ridicarea containerelor de pe remorci cu capacitate de până la 20 de tone"
-product_2_description: "Versiune standard cu capacitate de până la 34 de tone, design patentat cu cuplaj magnetic inovator"
+product_1_description: "Set hidraulic care permite ridicarea containerelor de pe remorci cu o capacitate de până la 20 de tone"
+product_2_description: "Versiune standard cu o capacitate de până la 34 de tone, design patentat cu cuplaj magnetic inovator"
 product_3_description: "Conceput pentru utilizare pe docurile de încărcare, permite deschiderea completă a ușilor containerului"
+
+# Product page translations
+technical_specifications: "Specificații tehnice"
+pricing: "Prețuri"
+buy_now: "Cumpărați acum"
+how_to_use: "Cum se utilizează"
+benefits: "Beneficii"
+related_products: "Produse conexe"
+learn_more: "Aflați mai multe"
+
+# Container Legs Section
+container_legs_title: "Cum funcționează picioarele pentru containere"
+container_legs_subtitle: "Proces de asamblare în mai puțin de 5 minute"
+container_legs_step1_title: "Pasul 1"
+container_legs_step1_description: "Ridicați remorca hidraulică în poziția sa cea mai înaltă"
+container_legs_step2_title: "Pasul 2"
+container_legs_step2_description: "Instalați suporturile Confoot și coborâți remorca"
+container_legs_step3_title: "Pasul 3"
+container_legs_step3_description: "Plecați cu camionul pentru următoarea sarcină!"
+container_legs_weight_title: "Greutatea unui suport"
+container_legs_weight_value: "doar 24 kg"
+container_legs_height_title: "Interval de înălțime"
+container_legs_height_value: "de la 1.043 mm la 1.448 mm"
+container_legs_capacity_title: "Capacitate totală"
+container_legs_capacity_value: "până la 34 de tone"
+container_legs_numbers_speak: "Cifrele vorbesc de la sine"
+
+# Video Section
+watch_installation_videos: "Urmăriți cum se instalează picioarele pentru containere"
+
+# Blog related translations
+read_more: "Citiți mai mult"
+related_posts: "Mai multe articole de blog"

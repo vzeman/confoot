@@ -1,41 +1,48 @@
 # Slovenian translations
 contact_us: "Kontaktirajte nas"
-view_products: "Oglejte si izdelke"
-view_all_products: "Oglejte si vse izdelke"
+view_products: "Ogled izdelkov"
+view_all_products: "Ogled vseh izdelkov"
 learn_more: "Več informacij"
 how_it_works: "Kako deluje"
 key_features: "Ključne lastnosti"
 our_products: "Naši izdelki"
 quick_links: "Hitre povezave"
 all_rights_reserved: "Vse pravice pridržane"
-ready_to_simplify: "Ste pripravljeni poenostaviti logistiko transportnih zabojnikov?"
-cta_description: "Kontaktirajte nas danes, da izveste, kako lahko Confoot izboljša vaše operacije s transportnimi zabojniki."
+ready_to_simplify: "Pripravljeni poenostaviti vašo logistiko zabojnikov?"
+cta_description: "Kontaktirajte nas danes in izvedite, kako lahko Confoot izboljša vaše operacije z zabojniki."
 get_in_touch: "Stopite v stik"
 order_now: "Naročite zdaj"
-banner_text: "Ne izgubljajte časa na nakladalnih rampah, pošljite svoj traktor takoj na naslednjo nalogo."
+banner_text: "Ne izgubljajte časa na nakladalnih rampah, takoj pošljite svoj tovornjak na naslednjo nalogo."
 language: "Jezik"
 
 # Menu items
 menu_home: "Domov"
 menu_products: "Izdelki"
-menu_about: "O nas"
+menu_about: 
+  other: "O nas"
 menu_contact: "Kontakt"
+menu_privacy: "Politika zasebnosti"
+
+# Footer links
+privacy_policy: "Politika zasebnosti"
+terms_of_service: "Pogoji uporabe"
+data_protection: "Varstvo podatkov"
 
 # Steps
 step_1_title: "Izberite svoj izdelek"
-step_1_description: "Izberite izdelek Confoot, ki najbolje ustreza vašim potrebam za ravnanje s transportnimi zabojniki."
+step_1_description: "Izberite izdelek Confoot, ki najbolje ustreza vašim potrebam za rokovanje z zabojniki."
 step_2_title: "Enostavna namestitev"
-step_2_description: "Hiter in preprost postopek namestitve, ki zahteva minimalno usposabljanje."
+step_2_description: "Hiter in enostaven postopek namestitve, ki zahteva minimalno usposabljanje."
 step_3_title: "Uživajte v prednostih"
-step_3_description: "Doživite izboljšano varnost, učinkovitost in prihranek stroškov pri vaših operacijah s transportnimi zabojniki."
+step_3_description: "Izkusite izboljšano varnost, učinkovitost in prihranek stroškov pri vaših operacijah z zabojniki."
 
 # Features
 feature_1_title: "Izboljšana varnost"
-feature_1_description: "Izboljšana stabilnost in varnost za operacije ravnanja s transportnimi zabojniki."
+feature_1_description: "Izboljšana stabilnost in varnost pri rokovanju z zabojniki."
 feature_2_title: "Stroškovna učinkovitost"
 feature_2_description: "Zmanjšajte operativne stroške in povečajte učinkovitost v vaši logistiki."
 feature_3_title: "Enostavna uporaba"
-feature_3_description: "Enostavna namestitev in delovanje z minimalnimi zahtevami za usposabljanje."
+feature_3_description: "Enostavna namestitev in delovanje z minimalnim potrebnim usposabljanjem."
 
 # Products
 product_1_description: "Hidravlični komplet, ki omogoča dviganje zabojnikov s prikolic z nosilnostjo do 20 ton"
@@ -44,7 +51,33 @@ product_3_description: "Zasnovano za uporabo na nakladalnih rampah, omogoča pop
 
 # Product page translations
 technical_specifications: "Tehnične specifikacije"
-pricing: "Cenik"
+pricing: "Cene"
 buy_now: "Kupite zdaj"
-how_to_use: "Navodila za uporabo"
+how_to_use: "Kako uporabljati"
 benefits: "Prednosti"
+related_products: "Sorodni izdelki"
+learn_more: "Več informacij"
+
+# Container Legs Section
+container_legs_title: "Kako delujejo noge za zabojnike"
+container_legs_subtitle: "Postopek montaže v manj kot 5 minutah"
+container_legs_step1_title: "Korak 1"
+container_legs_step1_description: "Dvignite hidravlično prikolico v najvišji položaj"
+container_legs_step2_title: "Korak 2"
+container_legs_step2_description: "Namestite Confoot podpore in spustite prikolico"
+container_legs_step3_title: "Korak 3"
+container_legs_step3_description: "Odpeljite se s tovornjakom na naslednjo nalogo!"
+container_legs_weight_title: "Teža ene podpore"
+container_legs_weight_value: "samo 24 kg"
+container_legs_height_title: "Razpon višine"
+container_legs_height_value: "od 1.043 mm do 1.448 mm"
+container_legs_capacity_title: "Skupna nosilnost"
+container_legs_capacity_value: "do 34 ton"
+container_legs_numbers_speak: "Številke govorijo same zase"
+
+# Video Section
+watch_installation_videos: "Oglejte si, kako namestiti noge za zabojnike"
+
+# Blog related translations
+read_more: "Preberite več"
+related_posts: "Več objav na blogu"

@@ -1,0 +1,83 @@
+# Italian translations
+contact_us: "Contattaci"
+view_products: "Visualizza prodotti"
+view_all_products: "Visualizza tutti i prodotti"
+learn_more: "Scopri di più"
+how_it_works: "Come funziona"
+key_features: "Caratteristiche principali"
+our_products: "I nostri prodotti"
+quick_links: "Link rapidi"
+all_rights_reserved: "Tutti i diritti riservati"
+ready_to_simplify: "Pronto a semplificare la tua logistica dei container?"
+cta_description: "Contattaci oggi per scoprire come Confoot può migliorare le tue operazioni di movimentazione dei container."
+get_in_touch: "Mettiti in contatto"
+order_now: "Ordina ora"
+banner_text: "Non perdere tempo nelle banchine di carico, invia subito il tuo camion al prossimo lavoro."
+language: "Lingua"
+
+# Menu items
+menu_home: "Home"
+menu_products: "Prodotti"
+menu_about: 
+  other: "Chi siamo"
+menu_contact: "Contatti"
+menu_privacy: "Privacy"
+
+# Footer links
+privacy_policy: "Informativa sulla privacy"
+terms_of_service: "Termini di servizio"
+data_protection: "Protezione dei dati"
+
+# Steps
+step_1_title: "Scegli il tuo prodotto"
+step_1_description: "Seleziona il prodotto Confoot più adatto alle tue esigenze di movimentazione dei container."
+step_2_title: "Installazione facile"
+step_2_description: "Processo di installazione rapido e semplice che richiede una formazione minima."
+step_3_title: "Goditi i vantaggi"
+step_3_description: "Sperimenta maggiore sicurezza, efficienza e risparmio sui costi nelle tue operazioni con i container."
+
+# Features
+feature_1_title: "Sicurezza migliorata"
+feature_1_description: "Stabilità e sicurezza migliorate per le operazioni di movimentazione dei container."
+feature_2_title: "Efficienza dei costi"
+feature_2_description: "Riduci i costi operativi e aumenta l'efficienza nella tua logistica."
+feature_3_title: "Facile da usare"
+feature_3_description: "Installazione e funzionamento semplici con formazione minima richiesta."
+
+# Products
+product_1_description: "Set idraulico che consente di sollevare container da rimorchi con capacità fino a 20 tonnellate"
+product_2_description: "Versione standard con capacità fino a 34 tonnellate, design brevettato con innovativo accoppiamento magnetico"
+product_3_description: "Progettato per l'uso sulle banchine di carico, consente l'apertura completa delle porte del container"
+
+# Product page translations
+technical_specifications: "Specifiche tecniche"
+pricing: "Prezzi"
+buy_now: "Acquista ora"
+how_to_use: "Come utilizzare"
+benefits: "Vantaggi"
+related_products: "Prodotti correlati"
+learn_more: "Scopri di più"
+
+# Container Legs Section
+container_legs_title: "Come funzionano le gambe per container"
+container_legs_subtitle: "Processo di montaggio in meno di 5 minuti"
+container_legs_step1_title: "Passo 1"
+container_legs_step1_description: "Solleva il rimorchio idraulico nella sua posizione più alta"
+container_legs_step2_title: "Passo 2"
+container_legs_step2_description: "Installa i supporti Confoot e abbassa il rimorchio"
+container_legs_step3_title: "Passo 3"
+container_legs_step3_description: "Parti con il tuo camion per il prossimo lavoro!"
+container_legs_weight_title: "Peso di un supporto"
+container_legs_weight_value: "solo 24 kg"
+container_legs_height_title: "Intervallo di altezza"
+container_legs_height_value: "da 1.043 mm a 1.448 mm"
+container_legs_capacity_title: "Capacità totale"
+container_legs_capacity_value: "fino a 34 tonnellate"
+container_legs_numbers_speak: "I numeri parlano da soli"
+
+# Video Section
+watch_installation_videos: "Guarda come installare le gambe per container"
+
+# Blog related translations
+read_more: "Leggi di più"
+related_posts: "Altri articoli del blog"

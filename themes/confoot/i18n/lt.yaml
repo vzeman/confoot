@@ -8,30 +8,76 @@ key_features: "Pagrindinės savybės"
 our_products: "Mūsų produktai"
 quick_links: "Greitos nuorodos"
 all_rights_reserved: "Visos teisės saugomos"
-ready_to_simplify: "Pasiruošę supaprastinti konteinerių logistiką?"
-cta_description: "Susisiekite su mumis šiandien ir sužinokite, kaip Confoot gali pagerinti jūsų konteinerių tvarkymo operacijas."
+ready_to_simplify: "Pasiruošę supaprastinti savo konteinerių logistiką?"
+cta_description: "Susisiekite su mumis šiandien, kad sužinotumėte, kaip Confoot gali pagerinti jūsų konteinerių tvarkymo operacijas."
 get_in_touch: "Susisiekite"
-banner_text: "Nešvaistykite laiko pakrovimo dokuose, siųskite savo vilkiką nedelsiant kitam darbui."
+order_now: "Užsakyti dabar"
+banner_text: "Nešvaistykite laiko pakrovimo vietose, siųskite savo sunkvežimį nedelsiant kitam darbui."
 language: "Kalba"
 
 # Menu items
 menu_home: "Pradžia"
 menu_products: "Produktai"
-menu_about: "Apie mus"
+menu_about: 
+  other: "Apie mus"
 menu_contact: "Kontaktai"
+menu_privacy: "Privatumo politika"
+
+# Footer links
+privacy_policy: "Privatumo politika"
+terms_of_service: "Naudojimo sąlygos"
+data_protection: "Duomenų apsauga"
 
 # Steps
 step_1_title: "Pasirinkite produktą"
 step_1_description: "Pasirinkite Confoot produktą, kuris geriausiai atitinka jūsų konteinerių tvarkymo poreikius."
 step_2_title: "Lengvas montavimas"
-step_2_description: "Greitas ir paprastas montavimo procesas, kuriam reikia minimalaus apmokymo."
+step_2_description: "Greitas ir paprastas montavimo procesas, reikalaujantis minimalaus apmokymo."
 step_3_title: "Mėgaukitės privalumais"
 step_3_description: "Patirkite didesnį saugumą, efektyvumą ir išlaidų taupymą savo konteinerių operacijose."
 
 # Features
 feature_1_title: "Padidintas saugumas"
-feature_1_description: "Pagerintas stabilumas ir saugumas konteinerių tvarkymo operacijoms."
+feature_1_description: "Pagerintas stabilumas ir saugumas konteinerių tvarkymo operacijose."
 feature_2_title: "Išlaidų efektyvumas"
-feature_2_description: "Sumažinkite veiklos išlaidas ir padidinkite efektyvumą savo logistikoje."
+feature_2_description: "Sumažinkite eksploatacines išlaidas ir padidinkite efektyvumą savo logistikoje."
 feature_3_title: "Paprasta naudoti"
-feature_3_description: "Paprastas montavimas ir naudojimas su minimaliais apmokymo reikalavimais."
+feature_3_description: "Paprastas montavimas ir naudojimas su minimaliu reikalingu apmokymu."
+
+# Products
+product_1_description: "Hidraulinis rinkinys, leidžiantis kelti konteinerius nuo priekabų su iki 20 tonų keliamąja galia"
+product_2_description: "Standartinė versija su iki 34 tonų keliamąja galia, patentuotas dizainas su inovatyvia magnetine jungtimi"
+product_3_description: "Sukurta naudoti pakrovimo vietose, leidžia visiškai atidaryti konteinerio duris"
+
+# Product page translations
+technical_specifications: "Techninės specifikacijos"
+pricing: "Kainodara"
+buy_now: "Pirkti dabar"
+how_to_use: "Kaip naudoti"
+benefits: "Privalumai"
+related_products: "Susiję produktai"
+learn_more: "Sužinoti daugiau"
+
+# Container Legs Section
+container_legs_title: "Kaip veikia konteinerių kojos"
+container_legs_subtitle: "Surinkimo procesas per mažiau nei 5 minutes"
+container_legs_step1_title: "1 žingsnis"
+container_legs_step1_description: "Pakelkite hidraulinę priekabą į aukščiausią padėtį"
+container_legs_step2_title: "2 žingsnis"
+container_legs_step2_description: "Sumontuokite Confoot atramas ir nuleiskite priekabą"
+container_legs_step3_title: "3 žingsnis"
+container_legs_step3_description: "Važiuokite su sunkvežimiu į kitą darbą!"
+container_legs_weight_title: "Vienos atramos svoris"
+container_legs_weight_value: "tik 24 kg"
+container_legs_height_title: "Aukščio diapazonas"
+container_legs_height_value: "nuo 1 043 mm iki 1 448 mm"
+container_legs_capacity_title: "Bendra keliamoji galia"
+container_legs_capacity_value: "iki 34 tonų"
+container_legs_numbers_speak: "Skaičiai kalba patys už save"
+
+# Video Section
+watch_installation_videos: "Žiūrėkite, kaip sumontuoti konteinerių kojas"
+
+# Blog related translations
+read_more: "Skaityti daugiau"
+related_posts: "Daugiau tinklaraščio įrašų"

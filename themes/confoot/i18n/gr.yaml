@@ -1,5 +1,5 @@
 # Greek translations
-contact_us: "Επικοινωνία"
+contact_us: "Επικοινωνήστε μαζί μας"
 view_products: "Προβολή προϊόντων"
 view_all_products: "Προβολή όλων των προϊόντων"
 learn_more: "Μάθετε περισσότερα"
@@ -9,16 +9,24 @@ our_products: "Τα προϊόντα μας"
 quick_links: "Γρήγοροι σύνδεσμοι"
 all_rights_reserved: "Με επιφύλαξη παντός δικαιώματος"
 ready_to_simplify: "Έτοιμοι να απλοποιήσετε την εφοδιαστική αλυσίδα των εμπορευματοκιβωτίων σας;"
-cta_description: "Επικοινωνήστε μαζί μας σήμερα για να μάθετε πώς η Confoot μπορεί να βελτιώσει τις λειτουργίες διαχείρισης εμπορευματοκιβωτίων."
-get_in_touch: "Επικοινωνήστε μαζί μας"
-banner_text: "Μην σπαταλάτε χρόνο στις αποβάθρες φόρτωσης, στείλτε το τρακτέρ σας αμέσως για την επόμενη εργασία."
+cta_description: "Επικοινωνήστε μαζί μας σήμερα για να μάθετε πώς το Confoot μπορεί να βελτιώσει τις λειτουργίες διαχείρισης εμπορευματοκιβωτίων σας."
+get_in_touch: "Επικοινωνήστε"
+order_now: "Παραγγείλετε τώρα"
+banner_text: "Μη χάνετε χρόνο στις αποβάθρες φόρτωσης, στείλτε το φορτηγό σας αμέσως για την επόμενη εργασία."
 language: "Γλώσσα"
 
 # Menu items
 menu_home: "Αρχική"
 menu_products: "Προϊόντα"
-menu_about: "Σχετικά με εμάς"
+menu_about: 
+  other: "Σχετικά με εμάς"
 menu_contact: "Επικοινωνία"
+menu_privacy: "Πολιτική Απορρήτου"
+
+# Footer links
+privacy_policy: "Πολιτική Απορρήτου"
+terms_of_service: "Όροι Χρήσης"
+data_protection: "Προστασία Δεδομένων"
 
 # Steps
 step_1_title: "Επιλέξτε το προϊόν σας"
@@ -30,18 +38,27 @@ step_3_description: "Βιώστε βελτιωμένη ασφάλεια, απο�
 
 # Features
 feature_1_title: "Ενισχυμένη ασφάλεια"
-feature_1_description: "Βελτιωμένη σταθερότητα και ασφάλεια για λειτουργίες διαχείρισης εμπορευματοκιβωτίων."
+feature_1_description: "Βελτιωμένη σταθερότητα και ασφάλεια για τις λειτουργίες διαχείρισης εμπορευματοκιβωτίων."
 feature_2_title: "Οικονομική αποδοτικότητα"
 feature_2_description: "Μειώστε το λειτουργικό κόστος και αυξήστε την αποδοτικότητα στην εφοδιαστική σας αλυσίδα."
 feature_3_title: "Εύκολο στη χρήση"
-feature_3_description: "Απλή εγκατάσταση και λειτουργία με ελάχιστες απαιτήσεις εκπαίδευσης."
+feature_3_description: "Απλή εγκατάσταση και λειτουργία με ελάχιστη απαιτούμενη εκπαίδευση."
 
 # Products
 product_1_description: "Υδραυλικό σετ που επιτρέπει την ανύψωση εμπορευματοκιβωτίων από ρυμουλκούμενα με χωρητικότητα έως 20 τόνους"
-product_2_description: "Τυπική έκδοση με χωρητικότητα έως 34 τόνους, κατοχυρωμένος σχεδιασμός με καινοτόμο μαγνητική σύζευξη"
+product_2_description: "Τυπική έκδοση με χωρητικότητα έως 34 τόνους, κατοχυρωμένο σχέδιο με καινοτόμο μαγνητική σύζευξη"
 product_3_description: "Σχεδιασμένο για χρήση σε αποβάθρες φόρτωσης, επιτρέπει το πλήρες άνοιγμα των θυρών του εμπορευματοκιβωτίου"
 
-# Container Legs
+# Product page translations
+technical_specifications: "Τεχνικές προδιαγραφές"
+pricing: "Τιμολόγηση"
+buy_now: "Αγοράστε τώρα"
+how_to_use: "Πώς να το χρησιμοποιήσετε"
+benefits: "Οφέλη"
+related_products: "Σχετικά προϊόντα"
+learn_more: "Μάθετε περισσότερα"
+
+# Container Legs Section
 container_legs_title: "Πώς λειτουργούν τα πόδια εμπορευματοκιβωτίων"
 container_legs_subtitle: "Διαδικασία συναρμολόγησης σε λιγότερο από 5 λεπτά"
 container_legs_step1_title: "Βήμα 1"
@@ -49,7 +66,7 @@ container_legs_step1_description: "Ανυψώστε το υδραυλικό ρυ
 container_legs_step2_title: "Βήμα 2"
 container_legs_step2_description: "Εγκαταστήστε τα στηρίγματα Confoot και χαμηλώστε το ρυμουλκούμενο"
 container_legs_step3_title: "Βήμα 3"
-container_legs_step3_description: "Φύγετε με το τρακτέρ σας για την επόμενη εργασία!"
+container_legs_step3_description: "Φύγετε με το φορτηγό σας για την επόμενη εργασία!"
 container_legs_weight_title: "Βάρος ενός στηρίγματος"
 container_legs_weight_value: "μόνο 24 κιλά"
 container_legs_height_title: "Εύρος ύψους"
@@ -59,4 +76,8 @@ container_legs_capacity_value: "έως 34 τόνους"
 container_legs_numbers_speak: "Οι αριθμοί μιλούν από μόνοι τους"
 
 # Video Section
-watch_installation_videos: "Δείτε πώς να εγκαταστήσετε τα πόδια εμπορευματοκιβωτίων"
+watch_installation_videos: "Δείτε πώς να εγκαταστήσετε πόδια εμπορευματοκιβωτίων"
+
+# Blog related translations
+read_more: "Διαβάστε περισσότερα"
+related_posts: "Περισσότερες αναρτήσεις ιστολογίου"

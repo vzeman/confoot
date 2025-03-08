@@ -2,28 +2,35 @@
 contact_us: "Contacte-nos"
 view_products: "Ver produtos"
 view_all_products: "Ver todos os produtos"
-learn_more: "Saber mais"
+learn_more: "Saiba mais"
 how_it_works: "Como funciona"
 key_features: "Características principais"
 our_products: "Os nossos produtos"
 quick_links: "Links rápidos"
 all_rights_reserved: "Todos os direitos reservados"
-ready_to_simplify: "Pronto para simplificar a logística de contentores de transporte?"
-cta_description: "Contacte-nos hoje para saber como a Confoot pode melhorar as suas operações com contentores."
+ready_to_simplify: "Pronto para simplificar a sua logística de contentores?"
+cta_description: "Contacte-nos hoje para saber como a Confoot pode melhorar as suas operações de manuseamento de contentores."
 get_in_touch: "Entre em contacto"
 order_now: "Encomendar agora"
-banner_text: "Não perca tempo nas docas de carregamento, envie o seu trator imediatamente para o próximo trabalho."
+banner_text: "Não perca tempo nas docas de carregamento, envie o seu camião imediatamente para o próximo trabalho."
 language: "Idioma"
 
 # Menu items
 menu_home: "Início"
 menu_products: "Produtos"
-menu_about: "Sobre nós"
+menu_about: 
+  other: "Sobre nós"
 menu_contact: "Contacto"
+menu_privacy: "Política de privacidade"
+
+# Footer links
+privacy_policy: "Política de privacidade"
+terms_of_service: "Termos de serviço"
+data_protection: "Proteção de dados"
 
 # Steps
 step_1_title: "Escolha o seu produto"
-step_1_description: "Escolha o produto Confoot que melhor se adapta às suas necessidades de manuseamento de contentores."
+step_1_description: "Selecione o produto Confoot que melhor se adapta às suas necessidades de manuseamento de contentores."
 step_2_title: "Instalação fácil"
 step_2_description: "Processo de instalação rápido e simples que requer formação mínima."
 step_3_title: "Desfrute dos benefícios"
@@ -35,9 +42,42 @@ feature_1_description: "Estabilidade e segurança melhoradas para operações de
 feature_2_title: "Eficiência de custos"
 feature_2_description: "Reduza os custos operacionais e aumente a eficiência na sua logística."
 feature_3_title: "Fácil de usar"
-feature_3_description: "Instalação e operação simples com requisitos mínimos de formação."
+feature_3_description: "Instalação e operação simples com formação mínima necessária."
 
 # Products
 product_1_description: "Conjunto hidráulico que permite levantar contentores de reboques com capacidade até 20 toneladas"
 product_2_description: "Versão standard com capacidade até 34 toneladas, design patenteado com acoplamento magnético inovador"
 product_3_description: "Concebido para utilização em docas de carregamento, permite a abertura completa das portas do contentor"
+
+# Product page translations
+technical_specifications: "Especificações técnicas"
+pricing: "Preços"
+buy_now: "Comprar agora"
+how_to_use: "Como usar"
+benefits: "Benefícios"
+related_products: "Produtos relacionados"
+learn_more: "Saiba mais"
+
+# Container Legs Section
+container_legs_title: "Como funcionam as pernas de contentores"
+container_legs_subtitle: "Processo de montagem em menos de 5 minutos"
+container_legs_step1_title: "Passo 1"
+container_legs_step1_description: "Eleve o reboque hidráulico para a sua posição mais alta"
+container_legs_step2_title: "Passo 2"
+container_legs_step2_description: "Instale os suportes Confoot e baixe o reboque"
+container_legs_step3_title: "Passo 3"
+container_legs_step3_description: "Parta com o seu camião para o próximo trabalho!"
+container_legs_weight_title: "Peso de um suporte"
+container_legs_weight_value: "apenas 24 kg"
+container_legs_height_title: "Intervalo de altura"
+container_legs_height_value: "1.043 mm a 1.448 mm"
+container_legs_capacity_title: "Capacidade total"
+container_legs_capacity_value: "até 34 toneladas"
+container_legs_numbers_speak: "Os números falam por si"
+
+# Video Section
+watch_installation_videos: "Veja como instalar pernas de contentores"
+
+# Blog related translations
+read_more: "Ler mais"
+related_posts: "Mais artigos do blog"

@@ -1,0 +1,83 @@
+# Spanish translations
+contact_us: "Contáctenos"
+view_products: "Ver productos"
+view_all_products: "Ver todos los productos"
+learn_more: "Más información"
+how_it_works: "Cómo funciona"
+key_features: "Características principales"
+our_products: "Nuestros productos"
+quick_links: "Enlaces rápidos"
+all_rights_reserved: "Todos los derechos reservados"
+ready_to_simplify: "¿Listo para simplificar su logística de contenedores?"
+cta_description: "Contáctenos hoy para descubrir cómo Confoot puede mejorar sus operaciones de manejo de contenedores."
+get_in_touch: "Póngase en contacto"
+order_now: "Pedir ahora"
+banner_text: "No pierda tiempo en los muelles de carga, envíe su camión inmediatamente al siguiente trabajo."
+language: "Idioma"
+
+# Menu items
+menu_home: "Inicio"
+menu_products: "Productos"
+menu_about: 
+  other: "Sobre nosotros"
+menu_contact: "Contacto"
+menu_privacy: "Política de privacidad"
+
+# Footer links
+privacy_policy: "Política de privacidad"
+terms_of_service: "Términos de servicio"
+data_protection: "Protección de datos"
+
+# Steps
+step_1_title: "Elija su producto"
+step_1_description: "Seleccione el producto Confoot que mejor se adapte a sus necesidades de manejo de contenedores."
+step_2_title: "Instalación sencilla"
+step_2_description: "Proceso de instalación rápido y sencillo que requiere una formación mínima."
+step_3_title: "Disfrute de los beneficios"
+step_3_description: "Experimente mayor seguridad, eficiencia y ahorro de costes en sus operaciones con contenedores."
+
+# Features
+feature_1_title: "Seguridad mejorada"
+feature_1_description: "Estabilidad y seguridad mejoradas para las operaciones de manejo de contenedores."
+feature_2_title: "Rentabilidad"
+feature_2_description: "Reduzca los costes operativos y aumente la eficiencia en su logística."
+feature_3_title: "Fácil de usar"
+feature_3_description: "Instalación y operación sencillas con mínima formación necesaria."
+
+# Products
+product_1_description: "Conjunto hidráulico que permite levantar contenedores de remolques con capacidad de hasta 20 toneladas"
+product_2_description: "Versión estándar con capacidad de hasta 34 toneladas, diseño patentado con acoplamiento magnético innovador"
+product_3_description: "Diseñado para su uso en muelles de carga, permite la apertura completa de las puertas del contenedor"
+
+# Product page translations
+technical_specifications: "Especificaciones técnicas"
+pricing: "Precios"
+buy_now: "Comprar ahora"
+how_to_use: "Cómo usar"
+benefits: "Beneficios"
+related_products: "Productos relacionados"
+learn_more: "Más información"
+
+# Container Legs Section
+container_legs_title: "Cómo funcionan las patas para contenedores"
+container_legs_subtitle: "Proceso de montaje en menos de 5 minutos"
+container_legs_step1_title: "Paso 1"
+container_legs_step1_description: "Eleve el remolque hidráulico a su posición más alta"
+container_legs_step2_title: "Paso 2"
+container_legs_step2_description: "Instale los soportes Confoot y baje el remolque"
+container_legs_step3_title: "Paso 3"
+container_legs_step3_description: "¡Salga con su camión hacia el siguiente trabajo!"
+container_legs_weight_title: "Peso de un soporte"
+container_legs_weight_value: "solo 24 kg"
+container_legs_height_title: "Rango de altura"
+container_legs_height_value: "de 1.043 mm a 1.448 mm"
+container_legs_capacity_title: "Capacidad total"
+container_legs_capacity_value: "hasta 34 toneladas"
+container_legs_numbers_speak: "Los números hablan por sí mismos"
+
+# Video Section
+watch_installation_videos: "Vea cómo instalar patas para contenedores"
+
+# Blog related translations
+read_more: "Leer más"
+related_posts: "Más artículos del blog"

@@ -1,33 +1,40 @@
 # Croatian translations
 contact_us: "Kontaktirajte nas"
-view_products: "Pogledajte proizvode"
-view_all_products: "Pogledajte sve proizvode"
-learn_more: "Saznajte više"
+view_products: "Pregledaj proizvode"
+view_all_products: "Pregledaj sve proizvode"
+learn_more: "Saznaj više"
 how_it_works: "Kako to funkcionira"
 key_features: "Ključne značajke"
 our_products: "Naši proizvodi"
-quick_links: "Brzi linkovi"
+quick_links: "Brze poveznice"
 all_rights_reserved: "Sva prava pridržana"
-ready_to_simplify: "Spremni pojednostaviti logistiku kontejnera?"
-cta_description: "Kontaktirajte nas danas da saznate kako Confoot može poboljšati vaše operacije s kontejnerima."
+ready_to_simplify: "Spremni pojednostaviti vašu kontejnersku logistiku?"
+cta_description: "Kontaktirajte nas danas kako biste saznali kako Confoot može poboljšati vaše operacije rukovanja kontejnerima."
 get_in_touch: "Stupite u kontakt"
-order_now: "Naručite sada"
-banner_text: "Ne gubite vrijeme na utovarnim rampama, pošaljite svoj traktor odmah na sljedeći posao."
+order_now: "Naručite odmah"
+banner_text: "Ne gubite vrijeme na utovarnim dokovima, pošaljite svoj kamion odmah na sljedeći posao."
 language: "Jezik"
 
 # Menu items
 menu_home: "Početna"
 menu_products: "Proizvodi"
-menu_about: "O nama"
+menu_about: 
+  other: "O nama"
 menu_contact: "Kontakt"
+menu_privacy: "Politika privatnosti"
+
+# Footer links
+privacy_policy: "Politika privatnosti"
+terms_of_service: "Uvjeti korištenja"
+data_protection: "Zaštita podataka"
 
 # Steps
 step_1_title: "Odaberite svoj proizvod"
-step_1_description: "Odaberite Confoot proizvod koji najbolje odgovara vašim potrebama rukovanja kontejnerima."
+step_1_description: "Odaberite Confoot proizvod koji najbolje odgovara vašim potrebama za rukovanje kontejnerima."
 step_2_title: "Jednostavna instalacija"
-step_2_description: "Brz i jednostavan proces instalacije koji zahtijeva minimalnu obuku."
+step_2_description: "Brz i jednostavan proces instalacije koji zahtijeva minimalno osposobljavanje."
 step_3_title: "Uživajte u prednostima"
-step_3_description: "Doživite poboljšanu sigurnost, učinkovitost i uštede troškova u vašim operacijama s kontejnerima."
+step_3_description: "Doživite poboljšanu sigurnost, učinkovitost i uštede troškova u vašim kontejnerskim operacijama."
 
 # Features
 feature_1_title: "Poboljšana sigurnost"
@@ -35,9 +42,42 @@ feature_1_description: "Poboljšana stabilnost i sigurnost za operacije rukovanj
 feature_2_title: "Troškovna učinkovitost"
 feature_2_description: "Smanjite operativne troškove i povećajte učinkovitost u vašoj logistici."
 feature_3_title: "Jednostavno za korištenje"
-feature_3_description: "Jednostavna instalacija i rad s minimalnim zahtjevima za obukom."
+feature_3_description: "Jednostavna instalacija i rad s minimalnim potrebnim osposobljavanjem."
 
 # Products
-product_1_description: "Hidraulički set koji omogućuje podizanje kontejnera s prikolica nosivosti do 20 tona"
-product_2_description: "Standardna verzija s nosivošću do 34 tone, patentirani dizajn s inovativnom magnetskom spojkom"
-product_3_description: "Dizajnirano za uporabu na utovarnim rampama, omogućuje potpuno otvaranje vrata kontejnera"
+product_1_description: "Hidraulički set koji omogućuje podizanje kontejnera s prikolica s kapacitetom do 20 tona"
+product_2_description: "Standardna verzija s kapacitetom do 34 tone, patentirani dizajn s inovativnim magnetskim spajanjem"
+product_3_description: "Dizajnirano za upotrebu na utovarnim dokovima, omogućuje potpuno otvaranje vrata kontejnera"
+
+# Product page translations
+technical_specifications: "Tehničke specifikacije"
+pricing: "Cijene"
+buy_now: "Kupi odmah"
+how_to_use: "Kako koristiti"
+benefits: "Prednosti"
+related_products: "Srodni proizvodi"
+learn_more: "Saznaj više"
+
+# Container Legs Section
+container_legs_title: "Kako funkcioniraju noge za kontejnere"
+container_legs_subtitle: "Proces montaže u manje od 5 minuta"
+container_legs_step1_title: "Korak 1"
+container_legs_step1_description: "Podignite hidrauličku prikolicu u najviši položaj"
+container_legs_step2_title: "Korak 2"
+container_legs_step2_description: "Instalirajte Confoot potpore i spustite prikolicu"
+container_legs_step3_title: "Korak 3"
+container_legs_step3_description: "Odvezite se kamionom na sljedeći posao!"
+container_legs_weight_title: "Težina jedne potpore"
+container_legs_weight_value: "samo 24 kg"
+container_legs_height_title: "Raspon visine"
+container_legs_height_value: "1.043 mm do 1.448 mm"
+container_legs_capacity_title: "Ukupni kapacitet"
+container_legs_capacity_value: "do 34 tone"
+container_legs_numbers_speak: "Brojke govore same za sebe"
+
+# Video Section
+watch_installation_videos: "Pogledajte kako instalirati noge za kontejnere"
+
+# Blog related translations
+read_more: "Pročitaj više"
+related_posts: "Više objava na blogu"

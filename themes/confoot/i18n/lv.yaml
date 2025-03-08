@@ -8,36 +8,76 @@ key_features: "Galvenās iezīmes"
 our_products: "Mūsu produkti"
 quick_links: "Ātrās saites"
 all_rights_reserved: "Visas tiesības aizsargātas"
-ready_to_simplify: "Gatavi vienkāršot konteineru loģistiku?"
-cta_description: "Sazinieties ar mums šodien, lai uzzinātu, kā Confoot var uzlabot jūsu konteineru apstrādes darbības."
+ready_to_simplify: "Gatavi vienkāršot savu konteineru loģistiku?"
+cta_description: "Sazinieties ar mums jau šodien, lai uzzinātu, kā Confoot var uzlabot jūsu konteineru apstrādes operācijas."
 get_in_touch: "Sazināties"
 order_now: "Pasūtīt tagad"
-banner_text: "Netērējiet laiku iekraušanas dokos, sūtiet savu traktoru nekavējoties uz nākamo darbu."
+banner_text: "Netērējiet laiku iekraušanas dokos, sūtiet savu kravas auto uzreiz uz nākamo darbu."
 language: "Valoda"
 
 # Menu items
 menu_home: "Sākums"
 menu_products: "Produkti"
-menu_about: "Par mums"
+menu_about: 
+  other: "Par mums"
 menu_contact: "Kontakti"
+menu_privacy: "Privātuma politika"
+
+# Footer links
+privacy_policy: "Privātuma politika"
+terms_of_service: "Pakalpojumu noteikumi"
+data_protection: "Datu aizsardzība"
 
 # Steps
 step_1_title: "Izvēlieties savu produktu"
 step_1_description: "Izvēlieties Confoot produktu, kas vislabāk atbilst jūsu konteineru apstrādes vajadzībām."
 step_2_title: "Vienkārša uzstādīšana"
 step_2_description: "Ātrs un vienkāršs uzstādīšanas process, kas prasa minimālu apmācību."
-step_3_title: "Baudiet priekšrocības"
-step_3_description: "Piedzīvojiet uzlabotu drošību, efektivitāti un izmaksu ietaupījumus savās konteineru darbībās."
+step_3_title: "Izbaudiet priekšrocības"
+step_3_description: "Piedzīvojiet uzlabotu drošību, efektivitāti un izmaksu ietaupījumus savās konteineru operācijās."
 
 # Features
 feature_1_title: "Uzlabota drošība"
-feature_1_description: "Uzlabota stabilitāte un drošība konteineru apstrādes darbībām."
+feature_1_description: "Uzlabota stabilitāte un drošība konteineru apstrādes operācijās."
 feature_2_title: "Izmaksu efektivitāte"
-feature_2_description: "Samaziniet darbības izmaksas un palieliniet efektivitāti savā loģistikā."
-feature_3_title: "Vienkārši lietojams"
-feature_3_description: "Vienkārša uzstādīšana un darbība ar minimālām apmācības prasībām."
+feature_2_description: "Samaziniet ekspluatācijas izmaksas un palieliniet efektivitāti savā loģistikā."
+feature_3_title: "Viegli lietojams"
+feature_3_description: "Vienkārša uzstādīšana un darbība ar minimālu nepieciešamo apmācību."
 
 # Products
-product_1_description: "Hidrauliskais komplekts, kas ļauj pacelt konteinerus no piekabēm ar kravnesību līdz 20 tonnām"
-product_2_description: "Standarta versija ar kravnesību līdz 34 tonnām, patentēts dizains ar inovatīvu magnētisko savienojumu"
-product_3_description: "Paredzēts izmantošanai uz iekraušanas dokām, ļauj pilnībā atvērt konteinera durvis"
+product_1_description: "Hidrauliskais komplekts, kas ļauj pacelt konteinerus no piekabēm ar celtspēju līdz 20 tonnām"
+product_2_description: "Standarta versija ar celtspēju līdz 34 tonnām, patentēts dizains ar inovatīvu magnētisko savienojumu"
+product_3_description: "Izstrādāts lietošanai uz iekraušanas dokiem, ļauj pilnībā atvērt konteinera durvis"
+
+# Product page translations
+technical_specifications: "Tehniskās specifikācijas"
+pricing: "Cenas"
+buy_now: "Pirkt tagad"
+how_to_use: "Kā lietot"
+benefits: "Priekšrocības"
+related_products: "Saistītie produkti"
+learn_more: "Uzzināt vairāk"
+
+# Container Legs Section
+container_legs_title: "Kā darbojas konteineru kājas"
+container_legs_subtitle: "Montāžas process mazāk nekā 5 minūtēs"
+container_legs_step1_title: "1. solis"
+container_legs_step1_description: "Paceliet hidraulisko piekabi tās augstākajā pozīcijā"
+container_legs_step2_title: "2. solis"
+container_legs_step2_description: "Uzstādiet Confoot balstus un nolaidiet piekabi"
+container_legs_step3_title: "3. solis"
+container_legs_step3_description: "Brauciet prom ar savu kravas auto uz nākamo darbu!"
+container_legs_weight_title: "Viena balsta svars"
+container_legs_weight_value: "tikai 24 kg"
+container_legs_height_title: "Augstuma diapazons"
+container_legs_height_value: "no 1 043 mm līdz 1 448 mm"
+container_legs_capacity_title: "Kopējā celtspēja"
+container_legs_capacity_value: "līdz 34 tonnām"
+container_legs_numbers_speak: "Skaitļi runā paši par sevi"
+
+# Video Section
+watch_installation_videos: "Skatieties, kā uzstādīt konteineru kājas"
+
+# Blog related translations
+read_more: "Lasīt vairāk"
+related_posts: "Vairāk bloga ierakstu"

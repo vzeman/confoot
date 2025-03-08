@@ -1,28 +1,36 @@
 # German translations
 contact_us: "Kontaktieren Sie uns"
-view_products: "Produkte anzeigen"
-view_all_products: "Alle Produkte anzeigen"
+view_products: "Produkte ansehen"
+view_all_products: "Alle Produkte ansehen"
 learn_more: "Mehr erfahren"
 how_it_works: "Wie es funktioniert"
 key_features: "Hauptmerkmale"
 our_products: "Unsere Produkte"
-quick_links: "Schnellzugriff"
+quick_links: "Schnelllinks"
 all_rights_reserved: "Alle Rechte vorbehalten"
 ready_to_simplify: "Bereit, Ihre Container-Logistik zu vereinfachen?"
 cta_description: "Kontaktieren Sie uns noch heute, um zu erfahren, wie Confoot Ihre Container-Handhabung verbessern kann."
 get_in_touch: "Kontakt aufnehmen"
-banner_text: "Verschwenden Sie keine Zeit an Laderampen, schicken Sie Ihren Traktor sofort zum nächsten Auftrag."
+order_now: "Jetzt bestellen"
+banner_text: "Verschwenden Sie keine Zeit an Laderampen, schicken Sie Ihren LKW sofort zum nächsten Auftrag."
 language: "Sprache"
 
 # Menu items
 menu_home: "Startseite"
 menu_products: "Produkte"
-menu_about: "Über uns"
+menu_about: 
+  other: "Über uns"
 menu_contact: "Kontakt"
+menu_privacy: "Datenschutz"
+
+# Footer links
+privacy_policy: "Datenschutzerklärung"
+terms_of_service: "Nutzungsbedingungen"
+data_protection: "Datenschutz"
 
 # Steps
 step_1_title: "Wählen Sie Ihr Produkt"
-step_1_description: "Wählen Sie das Confoot-Produkt, das am besten zu Ihren Anforderungen an die Container-Handhabung passt."
+step_1_description: "Wählen Sie das Confoot-Produkt, das am besten zu Ihren Anforderungen bei der Container-Handhabung passt."
 step_2_title: "Einfache Installation"
 step_2_description: "Schneller und einfacher Installationsprozess, der minimale Schulung erfordert."
 step_3_title: "Genießen Sie die Vorteile"
@@ -30,19 +38,28 @@ step_3_description: "Erleben Sie verbesserte Sicherheit, Effizienz und Kostenein
 
 # Features
 feature_1_title: "Erhöhte Sicherheit"
-feature_1_description: "Verbesserte Stabilität und Sicherheit für Container-Handling-Operationen."
+feature_1_description: "Verbesserte Stabilität und Sicherheit bei der Container-Handhabung."
 feature_2_title: "Kosteneffizienz"
-feature_2_description: "Senken Sie die Betriebskosten und erhöhen Sie die Effizienz Ihrer Logistik."
+feature_2_description: "Reduzieren Sie Betriebskosten und steigern Sie die Effizienz in Ihrer Logistik."
 feature_3_title: "Einfach zu bedienen"
-feature_3_description: "Einfache Installation und Bedienung mit minimalem Schulungsbedarf."
+feature_3_description: "Einfache Installation und Bedienung mit minimalem Schulungsaufwand."
 
 # Products
-product_1_description: "Hydraulisches Set zum Anheben von Containern vom Anhänger und Absenken auf den Boden mit einer Tragfähigkeit von bis zu 20 Tonnen"
-product_2_description: "Standardversion mit einer Tragfähigkeit von bis zu 34 Tonnen, patentiertes Design mit innovativer Magnetkupplung"
-product_3_description: "Entwickelt für den Einsatz an Laderampen, ermöglicht vollständiges Öffnen der Containertüren"
+product_1_description: "Hydraulisches Set, das das Anheben von Containern von Anhängern mit einer Kapazität von bis zu 20 Tonnen ermöglicht"
+product_2_description: "Standardversion mit einer Kapazität von bis zu 34 Tonnen, patentiertes Design mit innovativer Magnetkupplung"
+product_3_description: "Konzipiert für den Einsatz an Laderampen, ermöglicht vollständiges Öffnen der Container-Türen"
 
-# Container Legs
-container_legs_title: "Wie Container-Stützen funktionieren"
+# Product page translations
+technical_specifications: "Technische Spezifikationen"
+pricing: "Preise"
+buy_now: "Jetzt kaufen"
+how_to_use: "Verwendung"
+benefits: "Vorteile"
+related_products: "Verwandte Produkte"
+learn_more: "Mehr erfahren"
+
+# Container Legs Section
+container_legs_title: "Wie Containerbeine funktionieren"
 container_legs_subtitle: "Montageprozess in weniger als 5 Minuten"
 container_legs_step1_title: "Schritt 1"
 container_legs_step1_description: "Heben Sie den hydraulischen Anhänger in seine höchste Position"
@@ -54,14 +71,13 @@ container_legs_weight_title: "Gewicht einer Stütze"
 container_legs_weight_value: "nur 24 kg"
 container_legs_height_title: "Höhenbereich"
 container_legs_height_value: "1.043 mm bis 1.448 mm"
-container_legs_capacity_title: "Gesamttragfähigkeit"
+container_legs_capacity_title: "Gesamtkapazität"
 container_legs_capacity_value: "bis zu 34 Tonnen"
 container_legs_numbers_speak: "Die Zahlen sprechen für sich"
 
 # Video Section
-watch_installation_videos: "Sehen Sie, wie man Container-Stützen installiert"
+watch_installation_videos: "Sehen Sie, wie man Containerbeine installiert"
 
 # Blog related translations
 read_more: "Weiterlesen"
-back_to_blog: "Zurück zum Blog"
 related_posts: "Weitere Blogbeiträge"

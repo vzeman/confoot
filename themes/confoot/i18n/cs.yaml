@@ -2,99 +2,82 @@
 contact_us: "Kontaktujte nás"
 view_products: "Zobrazit produkty"
 view_all_products: "Zobrazit všechny produkty"
-learn_more: "Zjistit více"
+learn_more: "Více informací"
 how_it_works: "Jak to funguje"
 key_features: "Klíčové vlastnosti"
 our_products: "Naše produkty"
 quick_links: "Rychlé odkazy"
 all_rights_reserved: "Všechna práva vyhrazena"
-ready_to_simplify: "Připraveni zjednodušit logistiku kontejnerů?"
+ready_to_simplify: "Připraveni zjednodušit svou kontejnerovou logistiku?"
 cta_description: "Kontaktujte nás ještě dnes a zjistěte, jak může Confoot zlepšit vaše operace s kontejnery."
 get_in_touch: "Kontaktujte nás"
 order_now: "Objednat nyní"
-banner_text: "Neztrácejte čas na nákladových rampách, pošlete svůj tahač okamžitě za další zakázkou."
+banner_text: "Neztrácejte čas na nakládacích rampách, pošlete svůj kamion ihned na další práci."
 language: "Jazyk"
 
 # Menu items
 menu_home: "Domů"
 menu_products: "Produkty"
-menu_about: "O nás"
+menu_about: 
+  other: "O nás"
 menu_contact: "Kontakt"
-menu_privacy: "Zásady ochrany osobních údajů"
+menu_privacy: "Ochrana osobních údajů"
 
 # Footer links
-privacy_policy: "Zásady ochrany osobních údajů"
+privacy_policy: "Ochrana osobních údajů"
 terms_of_service: "Obchodní podmínky"
 data_protection: "Ochrana dat"
 
 # Steps
 step_1_title: "Vyberte si produkt"
-step_1_description: "Vyberte si produkt Confoot, který nejlépe vyhovuje vašim potřebám manipulace s kontejnery."
+step_1_description: "Vyberte produkt Confoot, který nejlépe vyhovuje vašim potřebám pro manipulaci s kontejnery."
 step_2_title: "Snadná instalace"
 step_2_description: "Rychlý a jednoduchý proces instalace, který vyžaduje minimální školení."
 step_3_title: "Užijte si výhody"
-step_3_description: "Zažijte zvýšenou bezpečnost, efektivitu a úsporu nákladů při vašich operacích s kontejnery."
+step_3_description: "Zažijte zvýšenou bezpečnost, efektivitu a úsporu nákladů při vašich kontejnerových operacích."
 
-# Home page translations
-hero_title: "Zjednodušte logistiku přepravních kontejnerů"
-hero_subtitle: "Inovativní řešení pro bezpečnou a efektivní manipulaci s kontejnery"
-hero_cta: "Prohlédnout produkty"
+# Features
+feature_1_title: "Zvýšená bezpečnost"
+feature_1_description: "Lepší stabilita a bezpečnost při manipulaci s kontejnery."
+feature_2_title: "Nákladová efektivita"
+feature_2_description: "Snižte provozní náklady a zvyšte efektivitu ve vaší logistice."
+feature_3_title: "Snadné použití"
+feature_3_description: "Jednoduchá instalace a provoz s minimálními požadavky na školení."
 
-# Product descriptions
-cf_classic_title: "ConFoot Classic"
-cf_classic_description: "Univerzální nohy pro kontejnery, ideální pro standardní manipulaci s kontejnery."
-
-cf_light_title: "ConFoot Light"
-cf_light_description: "Lehké a přenosné nohy pro kontejnery, perfektní pro mobilní použití."
-
-cf_foldable_title: "ConFoot Foldable"
-cf_foldable_description: "Skládací nohy pro kontejnery, které šetří místo při skladování a přepravě."
-
-cf_heavy_title: "ConFoot Heavy"
-cf_heavy_description: "Robustní nohy pro kontejnery navržené pro těžké náklady a náročné podmínky."
-
-# About page translations
-about_title: "O společnosti ConFoot"
-about_subtitle: "Inovativní řešení pro manipulaci s kontejnery"
-mission_title: "Naše mise"
-mission_description: "V ConFoot se zaměřujeme na vývoj inovativních řešení, která zjednodušují logistiku přepravních kontejnerů, zvyšují bezpečnost a snižují náklady."
-vision_title: "Naše vize"
-vision_description: "Naší vizí je stát se globálním lídrem v oblasti řešení pro manipulaci s kontejnery, která umožňují efektivnější a udržitelnější logistické operace."
-values_title: "Naše hodnoty"
-values_description: "Naše hodnoty zahrnují inovaci, kvalitu, bezpečnost a spokojenost zákazníků. Tyto hodnoty řídí vše, co děláme."
-
-# Container legs explanation
-container_legs_title: "Co jsou nohy pro kontejnery?"
-container_legs_subtitle: "Průvodce nohami pro kontejnery a jejich výhodami"
-container_legs_explanation_part1: |
-  #### **Přehled**
-
-  Nohy pro kontejnery jsou specializované zvedací zařízení navržené pro podporu a zvedání přepravních kontejnerů. Tyto nástroje umožňují nakládku a vykládku kontejnerů bez potřeby jeřábů nebo vysokozdvižných vozíků, což zjednodušuje logistické operace a snižuje náklady.
-container_legs_explanation_part2: |
-  #### **Jak fungují**
-
-  Nohy pro kontejnery se připevňují ke spodním rohům kontejneru. Jakmile jsou bezpečně připevněny, lze je použít k zvednutí kontejneru do výšky, která umožňuje nákladnímu vozidlu zajet pod něj nebo z pod něj vyjet. Tento proces eliminuje potřebu specializovaného zvedacího zařízení a umožňuje efektivnější manipulaci s kontejnery.
-container_legs_explanation_part3: |
-  #### **Základní vlastnosti**
-
-  - **Vysoká nosnost:** Konstruovány pro zvedání standardních velikostí kontejnerů, jako jsou 20stopé a 40stopé jednotky, s bezpečností.  
-  - **Přenosnost:** Lehké a snadno přemístitelné, tyto zvedáky fungují dobře jak pro stálá pracoviště, tak pro projekty mimo pracoviště.  
-  - **Univerzálnost:** Kompatibilní s různými typy kontejnerů a lze je použít v různých prostředích.  
-  - **Bezpečnost:** Vybaveny bezpečnostními funkcemi, jako jsou zámky a stabilizátory, pro zajištění bezpečné manipulace.
-container_legs_explanation_part4: |
-  #### **Použití a výhody**
-
-  Zvedací zařízení snižují potřebu manuální práce, snižují rizika během operací a urychlují manipulaci s kontejnery. Jejich flexibilita je činí užitečnými v odvětvích jako je lodní doprava, stavebnictví a reakce na katastrofy.
+# Products
+product_1_description: "Hydraulická sada, která umožňuje zvedání kontejnerů z přívěsů s kapacitou až 20 tun"
+product_2_description: "Standardní verze s kapacitou až 34 tun, patentovaný design s inovativním magnetickým spojením"
+product_3_description: "Navrženo pro použití na nakládacích rampách, umožňuje úplné otevření dveří kontejneru"
 
 # Product page translations
 technical_specifications: "Technické specifikace"
-product_features: "Vlastnosti produktu"
+pricing: "Ceny"
+buy_now: "Koupit nyní"
+how_to_use: "Jak používat"
+benefits: "Výhody"
 related_products: "Související produkty"
+learn_more: "Více informací"
 
-# Blog related translations
-read_more: "Číst více"
-back_to_blog: "Zpět na blog"
-related_posts: "Další příspěvky"
+# Container Legs Section
+container_legs_title: "Jak fungují podpěry kontejnerů"
+container_legs_subtitle: "Proces montáže za méně než 5 minut"
+container_legs_step1_title: "Krok 1"
+container_legs_step1_description: "Zvedněte hydraulický přívěs do nejvyšší polohy"
+container_legs_step2_title: "Krok 2"
+container_legs_step2_description: "Nainstalujte podpěry Confoot a spusťte přívěs"
+container_legs_step3_title: "Krok 3"
+container_legs_step3_description: "Odjeďte s kamionem na další práci!"
+container_legs_weight_title: "Hmotnost jedné podpěry"
+container_legs_weight_value: "pouze 24 kg"
+container_legs_height_title: "Rozsah výšky"
+container_legs_height_value: "1 043 mm až 1 448 mm"
+container_legs_capacity_title: "Celková kapacita"
+container_legs_capacity_value: "až 34 tun"
+container_legs_numbers_speak: "Čísla mluví sama za sebe"
 
 # Video Section
 watch_installation_videos: "Podívejte se, jak nainstalovat podpěry kontejnerů"
+
+# Blog related translations
+read_more: "Číst více"
+related_posts: "Další příspěvky na blogu"
