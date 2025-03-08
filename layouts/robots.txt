@@ -1,0 +1,6 @@
+{{- $baseURL := .Site.BaseURL -}}
+{{- $baseURLWithoutTrailingSlash := strings.TrimSuffix "/" $baseURL -}}
+User-agent: *
+Allow: /
+
+Sitemap: {{ $baseURLWithoutTrailingSlash }}/sitemap.xml

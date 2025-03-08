@@ -132,7 +132,26 @@ export async function onRequest(context) {
     });
     
     // Get the response from the origin with the rewritten URL
-    return context.env.ASSETS.fetch(newRequest);
+    const response = await context.env.ASSETS.fetch(newRequest);
+    
+    // Add cache control headers based on file type
+    const url_path = url.pathname.toLowerCase();
+    let cacheControl;
+    
+    // Set one month (31 days) cache for static assets
+    if (url_path.match(/\.(jpg|jpeg|png|gif|svg|webp|ico|css|js|woff|woff2|ttf|eot|pdf)$/)) {
+      cacheControl = 'public, max-age=2678400'; // 31 days in seconds
+    } 
+    // Set one month cache for HTML pages but with validation
+    else {
+      cacheControl = 'public, max-age=2678400, must-revalidate'; // 31 days with revalidation
+    }
+    
+    // Clone the response and add the cache control header
+    const newResponse = new Response(response.body, response);
+    newResponse.headers.set('Cache-Control', cacheControl);
+    
+    return newResponse;
     
   } catch (error) {
     // Detailed error logging
