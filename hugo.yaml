@@ -401,6 +401,30 @@ languages:
           url: /about
           weight: 3
 
+  it:
+    languageName: Italiano
+    weight: 17
+    contentDir: content/it
+    title: Confoot - Semplifica la logistica dei container di trasporto
+    baseURL: https://www.confoot.it
+    params:
+      description: "Semplifica la logistica dei container di trasporto con Confoot"
+      flag: "🇮🇹"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Prodotti
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Chi siamo
+          url: /about
+          weight: 3
+
 params:
   contact:
     email: info@hz-containers.com
