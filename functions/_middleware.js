@@ -1,4 +1,4 @@
-// Cloudflare Pages Functions - Basic domain-based language routing
+// Cloudflare Pages Functions - Domain-based language routing
 export async function onRequest(context) {
   try {
     // Log the start of function execution
@@ -12,21 +12,55 @@ export async function onRequest(context) {
     // Default to English
     let lang = 'en';
     
-    // Map domains to language codes based on user's configuration
-    if (hostname.indexOf('confoot.cz') > -1) lang = 'cs';
-    if (hostname.indexOf('confoot.sk') > -1) lang = 'sk';
-    if (hostname.indexOf('confoot.de') > -1) lang = 'de';
-    if (hostname.indexOf('confoot.gr') > -1) lang = 'gr';
-    if (hostname.indexOf('confoot.hr') > -1) lang = 'hr';
-    if (hostname.indexOf('confoot.lt') > -1) lang = 'lt';
-    if (hostname.indexOf('confoot.lv') > -1) lang = 'lv';
-    if (hostname.indexOf('confoot.ru') > -1) lang = 'ru';
-    if (hostname.indexOf('confoot.si') > -1) lang = 'sl';
-    if (hostname.indexOf('confoot.ro') > -1) lang = 'ro';
-    if (hostname.indexOf('confoot.li') > -1) lang = 'li';
-    if (hostname.indexOf('confoot.at') > -1) lang = 'at';
-    if (hostname.indexOf('confoot.ch') > -1) lang = 'ch';
-    if (hostname.indexOf('confoot.pt') > -1) lang = 'pt';
+    // Map domains to language codes
+    const domainLanguageMap = {
+      'confoot.eu': 'en',
+      'www.confoot.eu': 'en',
+      'confoot.cz': 'cs',
+      'www.confoot.cz': 'cs',
+      'confoot.sk': 'sk',
+      'www.confoot.sk': 'sk',
+      'confoot.de': 'de',
+      'www.confoot.de': 'de',
+      'confoot.gr': 'gr',
+      'www.confoot.gr': 'gr',
+      'confoot.hr': 'hr',
+      'www.confoot.hr': 'hr',
+      'confoot.lt': 'lt',
+      'www.confoot.lt': 'lt',
+      'confoot.ru': 'ru',
+      'www.confoot.ru': 'ru',
+      'confoot.lv': 'lv',
+      'www.confoot.lv': 'lv',
+      'confoot.si': 'si',
+      'www.confoot.si': 'si',
+      'confoot.ro': 'ro',
+      'www.confoot.ro': 'ro',
+      'confoot.li': 'de',
+      'www.confoot.li': 'de',
+      'confoot.at': 'de',
+      'www.confoot.at': 'de',
+      'confoot.ch': 'de',
+      'www.confoot.ch': 'de',
+      'confoot.pt': 'pt',
+      'www.confoot.pt': 'pt',
+      'confoot.co.uk': 'en',
+      'www.confoot.co.uk': 'en'
+    };
+    
+    // Check for exact domain match first
+    if (domainLanguageMap[hostname]) {
+      lang = domainLanguageMap[hostname];
+    } else {
+      // Fallback to partial matching
+      for (const domain in domainLanguageMap) {
+        if (hostname.includes(domain.replace('www.', ''))) {
+          lang = domainLanguageMap[domain];
+          break;
+        }
+      }
+    }
+    
     console.log('Selected language:', lang);
     
     // Skip rewriting if already on a language path
@@ -40,7 +74,16 @@ export async function onRequest(context) {
     
     // Add language prefix to path
     const newUrl = new URL(url);
-    newUrl.pathname = `/${lang}${path}`;
+    
+    // Handle root path special case
+    if (path === '/' || path === '') {
+      newUrl.pathname = `/${lang}/`;
+    } else {
+      // Ensure we don't add double slashes
+      const cleanPath = path.startsWith('/') ? path : `/${path}`;
+      newUrl.pathname = `/${lang}${cleanPath}`;
+    }
+    
     console.log('Rewritten URL:', newUrl.toString());
     
     // Return modified request

@@ -8,19 +8,30 @@ set -e
 echo "Building Hugo site..."
 hugo --minify
 
-# Create workers directory structure
-echo "Setting up Workers directory structure..."
-mkdir -p .cloudflare/workers/domain-router
-cp .cloudflare/workers/domain-router.js .cloudflare/workers/domain-router/index.js
+# Create necessary directories and files for Cloudflare Pages
+echo "Setting up Cloudflare Pages configuration..."
 
-# Copy _headers and _redirects to public directory if they're not in static
-if [ -f "_headers" ] && [ ! -f "public/_headers" ]; then
-  cp _headers public/
+# Create _headers file for security headers if it doesn't exist
+if [ ! -f "public/_headers" ]; then
+  cat > public/_headers << 'EOH'
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+EOH
+  echo "Created _headers file"
 fi
 
-if [ -f "_redirects" ] && [ ! -f "public/_redirects" ]; then
-  cp _redirects public/
+# Create _redirects file for domain-specific routing if it doesn't exist
+if [ ! -f "public/_redirects" ]; then
+  cat > public/_redirects << 'EOR'
+# Language-specific domain redirects
+# These rules ensure each domain serves the correct language content
+# No redirects needed as this will be handled by Cloudflare Pages Functions
+EOR
+  echo "Created _redirects file"
 fi
 
-# Success message
 echo "Build completed successfully!"
