@@ -17,20 +17,122 @@ This setup will:
 
 ### 1. Initial Setup
 
-Run the Cloudflare deployment setup script to prepare your repository:
+First, make sure your repository is ready for Cloudflare Pages:
 
 ```bash
-chmod +x cloudflare-deploy.sh
-./cloudflare-deploy.sh
+# Clean up any old configurations
+rm -rf .cloudflare wrangler.toml node_modules package-lock.json
+
+# Create the functions directory if it doesn't exist
+mkdir -p functions
 ```
 
-This script will:
-- Create necessary configuration files for Cloudflare Pages
-- Set up security headers and redirects files
+### 2. Create the Middleware Function
 
-### 2. GitHub Repository Configuration
+Create a file at `functions/_middleware.js` with the following content:
 
-1. Commit and push the changes to your GitHub repository:
+```javascript
+// Cloudflare Pages Functions - Domain-based language routing
+export async function onRequest(context) {
+  try {
+    // Log the start of function execution
+    console.log('Middleware started, URL:', context.request.url);
+    
+    // Get the hostname from the request
+    const url = new URL(context.request.url);
+    const hostname = url.hostname.toLowerCase();
+    console.log('Hostname:', hostname);
+    
+    // Default to English
+    let lang = 'en';
+    
+    // Map domains to language codes
+    const domainLanguageMap = {
+      'confoot.eu': 'en',
+      'www.confoot.eu': 'en',
+      'confoot.cz': 'cs',
+      'www.confoot.cz': 'cs',
+      // Add all your domains here
+    };
+    
+    // Check for exact domain match first
+    if (domainLanguageMap[hostname]) {
+      lang = domainLanguageMap[hostname];
+    } else {
+      // Fallback to partial matching
+      for (const domain in domainLanguageMap) {
+        if (hostname.includes(domain.replace('www.', ''))) {
+          lang = domainLanguageMap[domain];
+          break;
+        }
+      }
+    }
+    
+    console.log('Selected language:', lang);
+    
+    // Skip rewriting if already on a language path
+    const path = url.pathname;
+    console.log('Original path:', path);
+    
+    if (path.startsWith(`/${lang}/`)) {
+      console.log('Path already has language prefix, no rewrite needed');
+      return context.next();
+    }
+    
+    // Add language prefix to path
+    const newUrl = new URL(url);
+    
+    // Handle root path special case
+    if (path === '/' || path === '') {
+      newUrl.pathname = `/${lang}/`;
+    } else {
+      // Ensure we don't add double slashes
+      const cleanPath = path.startsWith('/') ? path : `/${path}`;
+      newUrl.pathname = `/${lang}${cleanPath}`;
+    }
+    
+    console.log('Rewritten URL:', newUrl.toString());
+    
+    // Return modified request
+    return context.next({
+      request: {
+        ...context.request,
+        url: newUrl.toString()
+      }
+    });
+  } catch (error) {
+    // Detailed error logging
+    console.error('Error in middleware:', error);
+    console.error('Error name:', error.name);
+    console.error('Error message:', error.message);
+    console.error('Error stack:', error.stack);
+    
+    // If anything fails, just continue without modification
+    return context.next();
+  }
+}
+```
+
+### 3. Create a Simple package.json
+
+Create a minimal `package.json` file:
+
+```json
+{
+  "name": "confoot",
+  "version": "1.0.0",
+  "description": "ConFoot website",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify",
+    "dev": "hugo server"
+  }
+}
+```
+
+### 4. GitHub Repository Configuration
+
+Commit and push the changes to your GitHub repository:
 
 ```bash
 git add .
@@ -38,18 +140,18 @@ git commit -m "Set up Cloudflare Pages deployment"
 git push origin main
 ```
 
-### 3. Cloudflare Pages Configuration
+### 5. Cloudflare Pages Configuration
 
 1. Sign up for Cloudflare Pages at https://pages.cloudflare.com/
 2. Connect your GitHub repository to Cloudflare Pages
 3. Configure the build settings:
-   - Build command: `./build.sh`
+   - Build command: `hugo --minify`
    - Build output directory: `public`
    - Environment variables:
      - `HUGO_VERSION`: `0.123.6`
 4. Click "Save and Deploy"
 
-### 4. Custom Domains Setup
+### 6. Custom Domains Setup
 
 1. Go to your Cloudflare Pages project
 2. Navigate to "Settings" > "Custom domains"
@@ -59,7 +161,7 @@ git push origin main
    - www.confoot.de
    - etc.
 
-### 5. DNS Configuration
+### 7. DNS Configuration
 
 1. Add all your domains to Cloudflare DNS:
    - Transfer your domains to Cloudflare (recommended)
@@ -87,72 +189,22 @@ This setup uses Cloudflare Pages Functions to handle multi-domain routing:
 4. It rewrites the request to include the appropriate language path
 5. Content is served directly from the domain, without visible redirects
 
-### Domain to Language Mapping
-
-The middleware maps domains to languages as follows:
-
-- www.confoot.eu → English (en)
-- www.confoot.cz → Czech (cs)
-- www.confoot.sk → Slovak (sk)
-- www.confoot.de → German (de)
-- etc.
-
-## Deployment Process
-
-The deployment process works as follows:
-
-1. When you push changes to the `main` branch, Cloudflare Pages is triggered
-2. The build script builds your Hugo site with all languages
-3. The site is deployed to Cloudflare Pages
-4. The Pages Functions middleware handles routing requests based on the domain
-
 ## Troubleshooting
+
+### Build Failures
+
+If you encounter build failures:
+
+1. Make sure your build command is correct (`hugo --minify`)
+2. Ensure the Hugo version is set correctly (`0.123.6`)
+3. Check that your repository doesn't contain any Wrangler or Workers configuration
+4. Verify that the `functions` directory is at the root of your repository
 
 ### Domain Not Working
 
 1. Verify DNS configuration in Cloudflare
 2. Check that the domain is added as a custom domain in Cloudflare Pages
 3. Check the Functions logs for errors (in Cloudflare dashboard)
-4. Ensure the domain is properly mapped in the middleware function
-
-### Build Failures
-
-Check the Cloudflare Pages build logs:
-1. Go to your Cloudflare Pages project
-2. Click on the failed deployment
-3. Examine the build logs for errors
-
-## Maintenance
-
-To update your site:
-
-1. Make changes to your content
-2. Commit and push to the `main` branch
-3. Cloudflare Pages will automatically build and deploy your site
-
-## Advanced Configuration
-
-### Custom Headers
-
-The build script automatically creates a `_headers` file with security headers:
-
-```
-/*
-  X-Frame-Options: SAMEORIGIN
-  X-XSS-Protection: 1; mode=block
-  X-Content-Type-Options: nosniff
-```
-
-You can modify these headers in the build.sh script.
-
-### Custom Functions
-
-You can add more Cloudflare Pages Functions in the `functions` directory to add additional functionality:
-
-- API endpoints
-- Authentication
-- Custom redirects
-- Server-side rendering
 
 ## Additional Resources
 
