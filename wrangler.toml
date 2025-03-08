@@ -1,5 +1,5 @@
 # This is a minimal wrangler.toml file to prevent deployment errors
-name = "confoot"
+name = 'confoot-domain-router'
 main = "deploy.js"
 compatibility_date = "2023-12-01"
 
