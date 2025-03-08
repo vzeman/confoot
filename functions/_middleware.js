@@ -139,13 +139,7 @@ export async function onRequest(context) {
     let cacheControl;
     
     // Set one month (31 days) cache for static assets
-    if (url_path.match(/\.(jpg|jpeg|png|gif|svg|webp|ico|css|js|woff|woff2|ttf|eot|pdf)$/)) {
-      cacheControl = 'public, max-age=2678400'; // 31 days in seconds
-    } 
-    // Set one month cache for HTML pages but with validation
-    else {
-      cacheControl = 'public, max-age=2678400'; // 31 days with revalidation
-    }
+    cacheControl = 'public, max-age=2678400'; // 31 days with revalidation
     
     // Clone the response and add the cache control header
     const newResponse = new Response(response.body, response);
