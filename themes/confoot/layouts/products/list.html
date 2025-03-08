@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="container">
   <div class="products-list-header">
-    <h1 class="page-title section-title">ConFoot Container Legs</h1>
+    <h1 class="page-title section-title">{{ i18n "products_title" | default "ConFoot Container Legs" }}</h1>
     <div class="page-description">
       {{ .Content }}
     </div>
@@ -28,7 +28,7 @@
 
   <!-- Videos Section -->
   <div class="videos-section">
-    <h2 class="section-title">Watch how easy and fast is to use ConFoot</h2>
+    <h2 class="section-title">{{ i18n "watch_confoot_demo" | default "Watch how easy and fast is to use ConFoot" }}</h2>
     <div class="videos-grid">
       <div class="video-item">
         <div class="video-container">
