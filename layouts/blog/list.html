@@ -1,18 +1,18 @@
 {{ define "main" }}
   <div class="container mx-auto px-4 py-8">
     <h1 class="text-3xl font-bold mb-6 text-center">{{ .Title }}</h1>
-    <div class="prose max-w-none mb-10 text-center">
+    <div class="prose max-w-none mb-10 text-center p-[10px]">
       {{ .Content }}
     </div>
     
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
       {{ range .Pages }}
         <div class="blog-card rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 bg-white flex flex-col h-full transform hover:-translate-y-2 w-full mx-auto">
-          <a href="{{ .RelPermalink }}" class="block relative overflow-hidden h-32 rounded-t-2xl">
+          <a href="{{ .RelPermalink }}" class="block relative overflow-hidden rounded-t-2xl">
             {{ if .Params.image }}
-              <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full object-cover transition-transform duration-500 hover:scale-105 blog-card-image">
             {{ else }}
-              <img src="/images/blog/blog-placeholder.jpg" alt="{{ .Title }}" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
+              <img src="/images/blog/blog-placeholder.jpg" alt="{{ .Title }}" class="w-full object-cover transition-transform duration-500 hover:scale-105 blog-card-image">
             {{ end }}
             <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-3">
               <div class="text-xs text-white/90 font-medium">{{ .Date.Format "January 2, 2006" }}</div>
@@ -45,7 +45,12 @@
       border-radius: 1rem;
       width: 100%;
       padding: 1rem;
-      margin: 1rem;
+      margin-bottom: 1rem;
+    }
+    
+    .blog-card-image {
+      max-height: 200px;
+      display: block;
     }
     
     .blog-card::before {

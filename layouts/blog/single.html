@@ -1,12 +1,12 @@
 {{ define "main" }}
   <div class="container mx-auto px-4 py-8">
-    <article class="blog-post-content">
+    <article class="blog-post-content bg-white rounded-2xl p-8 mb-12">
       <header class="mb-8">
         <h1 class="text-3xl font-bold mb-2">{{ .Title }}</h1>
         <div class="text-gray-600 mb-6 italic">{{ .Params.summary }}</div>
       </header>
 
-      <div class="prose max-w-none blog-content">
+      <div class="prose max-w-none blog-content p-[10px]">
         {{ if .Params.image }}
           <div class="blog-featured-image">
             <img src="{{ .Params.image }}" alt="{{ .Title }}" class="rounded-lg shadow-md">
@@ -14,40 +14,38 @@
         {{ end }}
         {{ .Content }}
       </div>
-      
-
     </article>
     
-    <!-- Related Blog Posts Section -->
-    <section class="mt-16 pt-8 border-t border-gray-200">
-      <h2 class="text-2xl font-bold mb-6">{{ i18n "related_posts" | default "More Blog Posts" }}</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+    <!-- Latest Blog Posts Section -->
+    <section class="mt-16 pt-8 rounded-2xl p-8">
+      <h2 class="text-2xl font-bold mb-6 text-center">{{ i18n "related_posts" | default "More Blog Posts" }}</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 max-w-6xl mx-auto">
         {{ $currentPage := . }}
         {{ $pages := where .Site.RegularPages "Section" "blog" }}
         {{ $otherPages := where $pages "Permalink" "ne" $currentPage.Permalink }}
-        {{ range first 4 $otherPages }}
-          <div class="blog-card rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 bg-white flex flex-col h-full transform hover:-translate-y-2">
-            <a href="{{ .RelPermalink }}" class="block relative overflow-hidden h-32 rounded-t-2xl">
+        {{ range first 4 $otherPages.ByDate.Reverse }}
+          <div class="blog-card rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 bg-white flex flex-col h-full transform hover:-translate-y-2 w-full mx-auto">
+            <a href="{{ .RelPermalink }}" class="block relative overflow-hidden rounded-t-2xl">
               {{ if .Params.image }}
-                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-full object-cover transition-transform duration-500 hover:scale-105 blog-card-image">
               {{ else }}
-                <img src="/images/blog/blog-placeholder.jpg" alt="{{ .Title }}" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
+                <img src="/images/blog/blog-placeholder.jpg" alt="{{ .Title }}" class="w-full object-cover transition-transform duration-500 hover:scale-105 blog-card-image">
               {{ end }}
               <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-3">
                 <div class="text-xs text-white/90 font-medium">{{ .Date.Format "January 2, 2006" }}</div>
               </div>
             </a>
             
-            <div class="p-4 flex flex-col flex-grow">
-              <h3 class="text-sm font-bold mb-2 line-clamp-2">
+            <div class="px-[5px] pt-[5px] pb-[5px] flex flex-col flex-grow">
+              <h2 class="text-base font-bold mb-3 line-clamp-2">
                 <a href="{{ .RelPermalink }}" class="transition-colors hover:text-yellow-500">{{ .Title }}</a>
-              </h3>
+              </h2>
               
-              <div class="text-gray-600 text-xs line-clamp-2 flex-grow">
+              <div class="text-gray-600 mb-4 line-clamp-2 flex-grow text-xs">
                 {{ if .Params.summary }}
                   {{ .Params.summary }}
                 {{ else }}
-                  {{ .Summary | truncate 80 }}
+                  {{ .Summary | truncate 100 }}
                 {{ end }}
               </div>
             </div>
@@ -65,7 +63,7 @@
     
     .blog-featured-image {
       float: right;
-      max-width: 40%;
+      max-width: 35%;
       margin: 0 0 1.5rem 1.5rem;
     }
     
@@ -84,6 +82,38 @@
       }
     }
     
+    .blog-card {
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      position: relative;
+      border-radius: 1rem;
+      width: 100%;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+    
+    .blog-card-image {
+      max-height: 200px;
+      display: block;
+    }
+    
+    .blog-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-radius: inherit;
+      z-index: -1;
+      transition: opacity 0.3s ease;
+      opacity: 0;
+      box-shadow: 0 0 25px 5px rgba(234, 179, 8, 0.4);
+    }
+    
+    .blog-card:hover::before {
+      opacity: 1;
+    }
+    
     .line-clamp-2 {
       display: -webkit-box;
       -webkit-line-clamp: 2;
@@ -91,6 +121,29 @@
       overflow: hidden;
       line-clamp: 2;
       max-height: 2.8em;
+    }
+    
+    .line-clamp-3 {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-clamp: 3;
+      max-height: 4.5em;
+    }
+
+    /* Ensure all heading tags have red color */
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--color-heading);
+    }
+    
+    /* Override any other styles that might affect heading colors in blog cards */
+    .blog-card h2 a {
+      color: var(--color-heading);
+    }
+    
+    .blog-card h2 a:hover {
+      color: var(--color-primary);
     }
   </style>
 {{ end }}
