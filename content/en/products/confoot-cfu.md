@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Material"
     value: "High-grade steel"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "Volume discounts available. Contact us for custom quotes."
 buyLink: "/contact"
 howToUse: |

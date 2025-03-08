@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Material"
     value: "Hochwertiger Stahl"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "Mengenrabatte verfügbar. Kontaktieren Sie uns für individuelle Angebote."
 buyLink: "/contact"
 howToUse: |

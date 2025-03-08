@@ -20,7 +20,8 @@ specifications:
     value: "Высококачественная сталь"
   - name: "Диапазон высот"
     value: "1,043 mm до 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Оптовые цены доступны для операторов автопарков. Свяжитесь с нами для получения подробной информации."
 buyLink: "/contact"
 howToUse: |

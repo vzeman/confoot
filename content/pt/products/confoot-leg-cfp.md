@@ -20,7 +20,8 @@ specifications:
     value: "Aço-liga de alta qualidade"
   - name: "Faixa de altura"
     value: "1.043 mm a 1.448 mm"
-price: "€1,450"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Pacote de serviço premium disponível. Contacte a nossa equipa de vendas para mais detalhes."
 buyLink: "/contact"
 howToUse: |

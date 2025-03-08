@@ -20,7 +20,8 @@ specifications:
     value: "Acciaio di alta qualità"
   - name: "Intervallo di altezza"
     value: "1,043 mm a 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Prezzi all'ingrosso disponibili per operatori di flotte. Contattaci per maggiori dettagli."
 buyLink: "/contact"
 howToUse: |

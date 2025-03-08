@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Materiāls"
     value: "Augstas kvalitātes tērauds"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "Pieejamas apjoma atlaides. Lai saņemtu pielāgotus piedāvājumus, sazinieties ar mums."
 buyLink: "/contact"
 howToUse: |

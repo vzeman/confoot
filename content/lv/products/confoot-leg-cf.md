@@ -20,7 +20,8 @@ specifications:
     value: "Augstas kvalitātes tērauds"
   - name: "Augstuma diapazons"
     value: "no 1 043 mm līdz 1 448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Pieejami izdevīgi vairumtirdzniecības cenu noteikumi flotes operatoriem. Lai iegūtu sīkāku informāciju, lūdzu, sazinieties ar mums."
 buyLink: "/contact"
 howToUse: |

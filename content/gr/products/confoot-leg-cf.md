@@ -20,7 +20,8 @@ specifications:
     value: "Χάλυβας υψηλής ποιότητας"
   - name: "Εύρος Ύψους"
     value: "1.043 mm έως 1.448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Διατίθεται τιμολόγηση χύδην για φορείς στόλου. Επικοινωνήστε μαζί μας για λεπτομέρειες."
 buyLink: "/contact"
 howToUse: |

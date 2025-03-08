@@ -20,7 +20,8 @@ specifications:
     value: "Oceľ vysokej kvality"
   - name: "Rozsah výšky"
     value: "1,043 mm až 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Hromadné ceny sú k dispozícii pre prevádzkovateľov flotily. Kontaktujte nás pre podrobnosti."
 buyLink: "/contact"
 howToUse: |

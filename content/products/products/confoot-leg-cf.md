@@ -20,7 +20,8 @@ specifications:
     value: "Acero de alta calidad"
   - name: "Rango de altura"
     value: "1.043 mm a 1.448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Precios especiales para compras al por mayor disponibles para operadores de flotas. Contáctenos para más detalles."
 buyLink: "/contact"
 howToUse: |

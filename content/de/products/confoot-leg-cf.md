@@ -20,7 +20,8 @@ specifications:
     value: "Hochqualitativer Stahl"
   - name: "Höhenbereich"
     value: "1.043 mm bis 1.448 mm"
-price: "€1.150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Mengenrabatte für Flottenbetreiber verfügbar. Kontaktieren Sie uns für Details."
 buyLink: "/contact"
 howToUse: |

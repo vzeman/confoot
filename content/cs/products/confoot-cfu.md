@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Materiál"
     value: "Ocel nejvyšší kvality"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "K dispozici jsou slevy při větším objemu. Pro individuální nabídky nás kontaktujte."
 buyLink: "/contact"
 howToUse: |

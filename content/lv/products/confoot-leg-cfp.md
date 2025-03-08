@@ -20,7 +20,8 @@ specifications:
     value: "Augstas kvalitātes sakausējuma tērauds"
   - name: "Augstuma diapazons"
     value: "1,043 mm līdz 1,448 mm"
-price: "€1,450"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Pieejams premium servisa pakete. Sazinieties ar mūsu pārdošanas komandu plašākai informācijai."
 buyLink: "/contact"
 howToUse: |

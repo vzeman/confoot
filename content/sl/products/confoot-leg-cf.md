@@ -20,7 +20,8 @@ specifications:
     value: "Visoko kakovostno jeklo"
   - name: "Višinski razpon"
     value: "1,043 mm do 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Popusti pri večjih naročilih so na voljo za upravljavce flot. Obrnite se na nas za podrobnosti."
 buyLink: "/contact"
 howToUse: |

@@ -20,7 +20,8 @@ specifications:
     value: "High-grade steel"
   - name: "Height range"
     value: "1,043 mm to 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Bulk pricing available for fleet operators. Contact us for details."
 buyLink: "/contact"
 howToUse: |

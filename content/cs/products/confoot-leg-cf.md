@@ -20,7 +20,8 @@ specifications:
     value: "Ocel vysoké kvality"
   - name: "Rozsah výšek"
     value: "1 043 mm až 1 448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Dostupné množstevní ceny pro správce vozových parků. Kontaktujte nás pro podrobnosti."
 buyLink: "/contact"
 howToUse: |

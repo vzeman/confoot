@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Material"
     value: "Visokokakovostno jeklo"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "Na voljo so popusti za večja naročila. Obrnite se na nas za individualne ponudbe."
 buyLink: "/contact"
 howToUse: |

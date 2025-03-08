@@ -20,7 +20,8 @@ specifications:
     value: "Visokokakovostno zlitinsko jeklo"
   - name: "Višinski razpon"
     value: "1,043 mm do 1,448 mm"
-price: "€1,450"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Paket premium storitev je na voljo. Za podrobnosti se obrnite na naš prodajni oddelek."
 buyLink: "/contact"
 howToUse: |

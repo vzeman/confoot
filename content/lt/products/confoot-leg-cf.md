@@ -20,7 +20,8 @@ specifications:
     value: "Aukštos klasės plienas"
   - name: "Aukščio diapazonas"
     value: "1,043 mm iki 1,448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Didelio kiekio kainos yra prieinamos flotės operatoriams. Susisiekite su mumis dėl išsamesnės informacijos."
 buyLink: "/contact"
 howToUse: |

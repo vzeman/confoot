@@ -20,7 +20,8 @@ specifications:
     value: "Visokokvalitetni čelik"
   - name: "Raspon visine"
     value: "od 1.043 mm do 1.448 mm"
-price: "€1,150"
+price: "3.600 EUR excl. VAT"
+priceVAT: "4.356 EUR VAT included"
 pricingNotes: "Povlaštene cijene dostupne za upravljače flotom. Kontaktirajte nas za detalje."
 buyLink: "/contact"
 howToUse: |

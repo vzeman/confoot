@@ -18,7 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Materiaal"
     value: "Hoogwaardig staal"
-price: "€1,250"
+price: "6.350 EUR excl. VAT"
+priceVAT: "7.684 EUR VAT included"
 pricingNotes: "Hoeveelheidskortingen beschikbaar. Neem contact óp veur 'n op maat gemaakte offerte."
 buyLink: "/contact"
 howToUse: |
