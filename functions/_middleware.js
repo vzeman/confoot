@@ -99,8 +99,20 @@ export async function onRequest(context) {
     // In this case, we don't need to add a language prefix to the URL
     const domainLang = domainLanguageMap[hostname];
     if (path === '/' && domainLang === lang) {
-      console.log('Already on correct language domain at root path, no redirect needed');
-      return context.next();
+      console.log('Already on correct language domain at root path, redirecting to language path');
+      
+      // Create the language-specific path for the root URL
+      const langPath = `/${lang}`;
+      console.log('Redirecting root path to language path:', langPath);
+      
+      // Return a redirect response
+      return new Response(null, {
+        status: 302, // Temporary redirect
+        headers: {
+          'Location': langPath,
+          'Cache-Control': 'no-cache'
+        }
+      });
     }
     
     // Create the language-specific path
