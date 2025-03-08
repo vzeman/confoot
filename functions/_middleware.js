@@ -73,27 +73,34 @@ export async function onRequest(context) {
     }
     
     // Add language prefix to path
-    const newUrl = new URL(context.request.url);
+    let newPath;
     
     // Handle root path special case
     if (path === '/' || path === '') {
-      newUrl.pathname = `/${lang}/`;
+      newPath = `/${lang}/`;
     } else {
       // Ensure we don't add double slashes
       const cleanPath = path.startsWith('/') ? path : `/${path}`;
-      newUrl.pathname = `/${lang}${cleanPath}`;
+      newPath = `/${lang}${cleanPath}`;
     }
     
-    console.log('Rewritten URL:', newUrl.toString());
+    // Create the new URL string
+    const urlObj = new URL(context.request.url);
+    urlObj.pathname = newPath;
+    const newUrlString = urlObj.toString();
+    
+    console.log('Rewritten URL:', newUrlString);
     
     // Create a new request with the modified URL
-    const newRequest = new Request(newUrl.toString(), {
+    const newRequest = new Request(newUrlString, {
       method: context.request.method,
       headers: context.request.headers,
-      body: context.request.body
+      body: context.request.body,
+      redirect: context.request.redirect,
+      cf: context.request.cf
     });
     
-    // Return modified request
+    // Return the new request
     return context.next({
       request: newRequest
     });
