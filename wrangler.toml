@@ -1,6 +1,6 @@
 # This is a minimal wrangler.toml file to prevent deployment errors
 name = "confoot"
-main = ".cloudflare/workers-site/index.js"
+main = "deploy.js"
 compatibility_date = "2023-12-01"
 
 [site]

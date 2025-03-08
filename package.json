@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "build": "./build-pages.sh",
-    "dev": "hugo server"
+    "dev": "hugo server",
+    "deploy": "echo 'Skipping wrangler deploy - using Cloudflare Pages Functions instead'"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/vzeman/confoot/issues"
   },
-  "homepage": "https://github.com/vzeman/confoot#readme"
+  "homepage": "https://github.com/vzeman/confoot#readme",
+  "main": "functions/_middleware.js"
 }
