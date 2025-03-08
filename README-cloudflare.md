@@ -158,7 +158,6 @@ git push origin main
 3. Add all your domains:
    - www.confoot.eu
    - www.confoot.cz
-   - www.confoot.de
    - etc.
 
 ### 7. DNS Configuration
@@ -176,7 +175,6 @@ Example DNS records:
 ```
 www.confoot.eu    A    <Cloudflare Pages IP>    Proxied
 www.confoot.cz    A    <Cloudflare Pages IP>    Proxied
-www.confoot.de    A    <Cloudflare Pages IP>    Proxied
 ```
 
 ## How It Works

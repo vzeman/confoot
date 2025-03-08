@@ -89,30 +89,6 @@ languages:
           url: /about
           weight: 3
 
-  de:
-    languageName: Deutsch
-    weight: 4
-    contentDir: content/de
-    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
-    baseURL: https://www.confoot.de
-    params:
-      description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
-      flag: "🇩🇪"
-    menu:
-      main:
-        - identifier: home
-          name: ConFoot
-          url: /
-          weight: 1
-        - identifier: products
-          name: Produkte
-          url: /products
-          weight: 2
-        - identifier: about
-          name: Über uns
-          url: /about
-          weight: 3
-
   gr:
     languageName: Ελληνικά
     weight: 5

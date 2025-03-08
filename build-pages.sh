@@ -54,8 +54,6 @@ export async function onRequest(context) {
       'www.confoot.cz': 'cs',
       'confoot.sk': 'sk',
       'www.confoot.sk': 'sk',
-      'confoot.de': 'de',
-      'www.confoot.de': 'de',
       'confoot.gr': 'gr',
       'www.confoot.gr': 'gr',
       'confoot.hr': 'hr',

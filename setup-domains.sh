@@ -6,7 +6,6 @@
 # Create directories for each domain
 mkdir -p domains/www.confoot.cz
 mkdir -p domains/www.confoot.sk
-mkdir -p domains/www.confoot.de
 mkdir -p domains/www.confoot.eu
 mkdir -p domains/www.confoot.co.uk
 mkdir -p domains/www.confoot.gr
@@ -24,7 +23,6 @@ mkdir -p domains/www.confoot.pt
 # Create CNAME files for each domain
 echo "www.confoot.cz" > domains/www.confoot.cz/CNAME
 echo "www.confoot.sk" > domains/www.confoot.sk/CNAME
-echo "www.confoot.de" > domains/www.confoot.de/CNAME
 echo "www.confoot.eu" > domains/www.confoot.eu/CNAME
 echo "www.confoot.co.uk" > domains/www.confoot.co.uk/CNAME
 echo "www.confoot.gr" > domains/www.confoot.gr/CNAME
