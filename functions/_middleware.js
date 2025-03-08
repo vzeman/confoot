@@ -71,19 +71,19 @@ export async function onRequest(context) {
     
     // Check if the path already starts with the language code
     // This prevents redirect loops
-    const langPattern = new RegExp(`^\\/${lang}\\/`);
+    const langPattern = new RegExp(`^\\/${lang}(?:\\/|$)`);
     if (langPattern.test(path)) {
       console.log('Path already has correct language prefix, no redirect needed');
       return context.next();
     }
     
     // Check if the path has any language prefix
-    const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})\\/`);
+    const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})(?:\\/|$)`);
     if (allLangsPattern.test(path)) {
       // Extract the path without the language prefix
       const pathWithoutLang = path.replace(allLangsPattern, '/');
       // Create new path with correct language
-      const correctLangPath = `/${lang}${pathWithoutLang === '/' ? '/' : pathWithoutLang}`;
+      const correctLangPath = `/${lang}${pathWithoutLang === '/' ? '' : pathWithoutLang}`;
       console.log('Replacing incorrect language prefix with:', correctLangPath);
       
       return new Response(null, {
@@ -95,8 +95,16 @@ export async function onRequest(context) {
       });
     }
     
+    // Check if we're already on a language-specific domain and at the root path
+    // In this case, we don't need to add a language prefix to the URL
+    const domainLang = domainLanguageMap[hostname];
+    if (path === '/' && domainLang === lang) {
+      console.log('Already on correct language domain at root path, no redirect needed');
+      return context.next();
+    }
+    
     // Create the language-specific path
-    const langPath = `/${lang}${path === '/' ? '/' : path}`;
+    const langPath = `/${lang}${path === '/' ? '' : path}`;
     console.log('Redirecting to language path:', langPath);
     
     // Return a redirect response
