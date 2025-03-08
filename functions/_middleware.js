@@ -144,7 +144,7 @@ export async function onRequest(context) {
     } 
     // Set one month cache for HTML pages but with validation
     else {
-      cacheControl = 'public, max-age=2678400, must-revalidate'; // 31 days with revalidation
+      cacheControl = 'public, max-age=2678400'; // 31 days with revalidation
     }
     
     // Clone the response and add the cache control header
