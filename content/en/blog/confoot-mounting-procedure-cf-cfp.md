@@ -80,7 +80,7 @@ If a leg does not align properly with the corner casting, check for any debris o
 #### Handling Damaged or Faulty Components  
 Do not use damaged CFP legs or corner castings, as they can compromise the stability and safety of the setup. Inspect all components before installation, and replace any damaged parts with new ones to avoid further issues.  
 
-##  ## Adjusting for Uneven Surfaces  
+#### Adjusting for Uneven Surfaces  
 When working on uneven ground, use the height adjustment mechanism to level the container. Test the stability by gently pressing on each corner to ensure the container does not wobble.  
 
 

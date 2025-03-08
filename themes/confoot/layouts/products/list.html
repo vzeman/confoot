@@ -11,10 +11,14 @@
     {{ range .Pages }}
       <div class="product-card">
         <div class="product-card-image">
-          <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}">
+          <a href="{{ .RelPermalink }}">
+            <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}" class="transition-transform duration-500 hover:scale-105">
+          </a>
         </div>
         <div class="product-card-content">
-          <h2 class="product-card-title">{{ .Title }}</h2>
+          <h2 class="product-card-title">
+            <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none;" class="hover:text-[#2a5885] transition-colors">{{ .Title }}</a>
+          </h2>
           <h3 class="product-card-subtitle">{{ .Params.subtitle }}</h3>
           <div class="product-card-description">
             {{ .Params.shortDescription | markdownify }}
@@ -28,7 +32,7 @@
 
   <!-- Videos Section -->
   <div class="videos-section">
-    <h2 class="section-title">{{ i18n "watch_confoot_demo" | default "Watch how easy and fast is to use ConFoot" }}</h2>
+    <h2 class="section-title">{{ i18n "watch_confoot_demo" | default "Watch how easy and fast it is to use ConFoot" }}</h2>
     <div class="videos-grid">
       <div class="video-item">
         <div class="video-container">
