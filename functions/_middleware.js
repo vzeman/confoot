@@ -73,7 +73,7 @@ export async function onRequest(context) {
     }
     
     // Add language prefix to path
-    const newUrl = new URL(url);
+    const newUrl = new URL(context.request.url);
     
     // Handle root path special case
     if (path === '/' || path === '') {
@@ -86,12 +86,16 @@ export async function onRequest(context) {
     
     console.log('Rewritten URL:', newUrl.toString());
     
+    // Create a new request with the modified URL
+    const newRequest = new Request(newUrl.toString(), {
+      method: context.request.method,
+      headers: context.request.headers,
+      body: context.request.body
+    });
+    
     // Return modified request
     return context.next({
-      request: {
-        ...context.request,
-        url: newUrl.toString()
-      }
+      request: newRequest
     });
   } catch (error) {
     // Detailed error logging
