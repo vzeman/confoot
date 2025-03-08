@@ -6,3 +6,54 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Cache-Control: public, max-age=2678400
 */
+
+# HTML pages should have a shorter cache time with validation
+/*.html
+  Cache-Control: public, max-age=2678400, must-revalidate
+
+# Root path and paths without extensions (which are typically HTML in Hugo)
+/
+  Cache-Control: public, max-age=2678400, must-revalidate
+
+/*/ 
+  Cache-Control: public, max-age=2678400, must-revalidate
+
+# Static assets can have longer cache times
+/*.css
+  Cache-Control: public, max-age=2678400
+
+/*.js
+  Cache-Control: public, max-age=2678400
+
+/*.jpg
+  Cache-Control: public, max-age=2678400
+
+/*.jpeg
+  Cache-Control: public, max-age=2678400
+
+/*.png
+  Cache-Control: public, max-age=2678400
+
+/*.gif
+  Cache-Control: public, max-age=2678400
+
+/*.svg
+  Cache-Control: public, max-age=2678400
+
+/*.webp
+  Cache-Control: public, max-age=2678400
+
+/*.ico
+  Cache-Control: public, max-age=2678400
+
+/*.woff
+  Cache-Control: public, max-age=2678400
+
+/*.woff2
+  Cache-Control: public, max-age=2678400
+
+/*.ttf
+  Cache-Control: public, max-age=2678400
+
+/*.eot
+  Cache-Control: public, max-age=2678400
