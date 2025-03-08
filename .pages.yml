@@ -1,0 +1,6 @@
+build:
+  root: /
+  command: hugo --minify
+  output: public
+  environment:
+    HUGO_VERSION: 0.123.6
