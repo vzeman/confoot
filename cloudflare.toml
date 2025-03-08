@@ -1,8 +1,10 @@
 # Cloudflare Pages configuration for ConFoot
 
 [build]
-command = "./build.sh"
+command = "hugo --minify"
 publish = "public"
 
 [build.environment]
 HUGO_VERSION = "0.123.6"
+
+# No Workers configuration needed - using Pages Functions instead

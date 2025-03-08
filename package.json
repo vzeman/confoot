@@ -4,7 +4,7 @@
   "description": "ConFoot website",
   "private": true,
   "scripts": {
-    "build": "hugo --minify",
+    "build": "./build-pages.sh",
     "dev": "hugo server"
   },
   "repository": {
