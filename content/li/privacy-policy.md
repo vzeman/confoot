@@ -1,5 +1,3 @@
-Below is the text translated to Limburgish while preserving the original format:
-
 ---
 title: "Privacybeleed"
 description: "Informatie óvver de verwerking vaan diene persoanlij geve"

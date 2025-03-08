@@ -1,5 +1,3 @@
-Below is the full text translated into Limburgish while preserving the original format:
-
 ---
 title: "Euver Ons"
 date: 2025-03-07T10:35:00+01:00
