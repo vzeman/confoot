@@ -7,7 +7,9 @@ export async function onRequest(context) {
     // Get the hostname from the request
     const url = new URL(context.request.url);
     const hostname = url.hostname.toLowerCase();
+    const path = url.pathname;
     console.log('Hostname:', hostname);
+    console.log('Original path:', path);
     
     // Default to English
     let lang = 'en';
@@ -63,39 +65,50 @@ export async function onRequest(context) {
     
     console.log('Selected language:', lang);
     
-    // Skip rewriting if already on a language path
-    const path = url.pathname;
-    console.log('Original path:', path);
+    // Check if the path already starts with a language code
+    // This handles cases where URLs might still have language prefixes
+    const langPattern = /^\/(en|cs|sk|de|gr|hr|lt|ru|lv|si|ro|pt)\//;
+    const langMatch = path.match(langPattern);
     
-    if (path.startsWith(`/${lang}/`)) {
-      console.log('Path already has language prefix, no rewrite needed');
+    if (langMatch) {
+      // If the URL already has a language prefix that matches the domain language,
+      // redirect to remove the language prefix
+      if (langMatch[1] === lang) {
+        const newPath = path.replace(langPattern, '/');
+        const redirectUrl = `${url.protocol}//${hostname}${newPath}${url.search}`;
+        console.log('Removing language prefix, redirecting to:', redirectUrl);
+        
+        return new Response(null, {
+          status: 301, // Permanent redirect
+          headers: {
+            'Location': redirectUrl,
+            'Cache-Control': 'max-age=3600'
+          }
+        });
+      }
+      // If the URL has a language prefix that doesn't match the domain language,
+      // let it pass through as is (this is an edge case)
       return context.next();
     }
     
-    // Create the new path with language prefix
-    let newPath;
+    // Internally rewrite the URL to include the language prefix for Hugo
+    // This doesn't change the URL visible to the user
+    const internalPath = `/${lang}${path === '/' ? '/' : path}`;
+    console.log('Internal rewrite to:', internalPath);
     
-    // Handle root path special case
-    if (path === '/' || path === '') {
-      newPath = `/${lang}/`;
-    } else {
-      // Ensure we don't add double slashes
-      const cleanPath = path.startsWith('/') ? path : `/${path}`;
-      newPath = `/${lang}${cleanPath}`;
-    }
+    // Create a new URL for internal routing
+    const newUrl = new URL(url);
+    newUrl.pathname = internalPath;
     
-    // Create the redirect URL
-    const protocol = url.protocol;
-    const redirectUrl = `${protocol}//${hostname}${newPath}${url.search}`;
-    console.log('Redirecting to:', redirectUrl);
+    // Create a new request with the modified URL for internal routing only
+    const newRequest = new Request(newUrl.toString(), {
+      method: context.request.method,
+      headers: context.request.headers
+    });
     
-    // Return a redirect response
-    return new Response(null, {
-      status: 302,
-      headers: {
-        'Location': redirectUrl,
-        'Cache-Control': 'no-cache'
-      }
+    // Pass the modified request to the next handler
+    return context.next({
+      request: newRequest
     });
   } catch (error) {
     // Detailed error logging
