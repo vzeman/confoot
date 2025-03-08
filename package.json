@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "netlify": "netlify",
     "deploy": "netlify deploy",
-    "deploy:prod": "netlify deploy --prod"
+    "deploy:prod": "netlify deploy --prod",
+    "build": "hugo --minify",
+    "dev": "hugo server",
+    "deploy:cloudflare": "wrangler deploy"
   },
   "repository": {
     "type": "git",
@@ -21,6 +24,7 @@
   },
   "homepage": "https://github.com/vzeman/confoot#readme",
   "devDependencies": {
-    "netlify-cli": "^19.0.2"
+    "netlify-cli": "^19.0.2",
+    "wrangler": "^3.22.0"
   }
 }

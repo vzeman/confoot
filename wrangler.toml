@@ -1,14 +1,13 @@
 name = "confoot-domain-router"
-type = "javascript"
+main = ".cloudflare/workers/domain-router/index.js"
+compatibility_date = "2023-10-30"
 account_id = "" # Add your Cloudflare account ID
 workers_dev = true
 route = "*confoot.*/*"
 zone_id = "" # Add your Cloudflare zone ID
 
-[site]
-bucket = "./public"
-entry-point = ".cloudflare/workers/domain-router"
-
 [build]
 command = "hugo --minify"
-upload.format = "service-worker"
+
+[site]
+bucket = "./public"

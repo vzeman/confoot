@@ -1,11 +1,17 @@
 #!/bin/bash
 # Build script for Cloudflare Pages
 
-# Install any dependencies
-npm ci
+# Exit on error
+set -e
 
 # Build Hugo site
+echo "Building Hugo site..."
 hugo --minify
+
+# Create workers directory structure
+echo "Setting up Workers directory structure..."
+mkdir -p .cloudflare/workers/domain-router
+cp .cloudflare/workers/domain-router.js .cloudflare/workers/domain-router/index.js
 
 # Copy _headers and _redirects to public directory if they're not in static
 if [ -f "_headers" ] && [ ! -f "public/_headers" ]; then
