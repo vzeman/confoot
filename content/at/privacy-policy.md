@@ -12,7 +12,7 @@ Hiermit informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten
 
 ## Wer ist Verantwortlicher für Ihre personenbezogenen Daten?
 
-Das Unternehmen HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Aktenzeichen: C 240707, geführt vom Stadtgericht in Prag, Firmensitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Geschäftsadresse: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail-Adresse: info@confoot.cz (nachfolgend: „Verantwortlicher“).
+Das Unternehmen HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Aktenzeichen: C 240707, geführt vom Stadtgericht in Prag, Firmensitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Geschäftsadresse: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail-Adresse: info@hz-containers.com (nachfolgend: „Verantwortlicher“).
 
 Wir haben keinen Datenschutzbeauftragten benannt.
 
@@ -114,7 +114,7 @@ In einigen Fällen sind wir berechtigt, personenbezogene Daten aus öffentlichen
 
 ## Welche Rechte haben Sie in Bezug auf die Verarbeitung Ihrer personenbezogenen Daten?
 
-Wir sind verpflichtet, Sie auch über Ihre Rechte im Zusammenhang mit der Verarbeitung personenbezogener Daten zu informieren. Bei allen Fragen zur Verarbeitung Ihrer personenbezogenen Daten können Sie sich an uns unter der E-Mail-Adresse info@confoot.cz wenden. Wir werden Ihre Anfrage unbürokratisch, jedoch spätestens innerhalb eines Monats, bearbeiten. In Ausnahmefällen sind wir berechtigt, diese Frist um weitere zwei Monate zu verlängern, worüber wir Sie gegebenenfalls informieren.
+Wir sind verpflichtet, Sie auch über Ihre Rechte im Zusammenhang mit der Verarbeitung personenbezogener Daten zu informieren. Bei allen Fragen zur Verarbeitung Ihrer personenbezogenen Daten können Sie sich an uns unter der E-Mail-Adresse info@hz-containers.com wenden. Wir werden Ihre Anfrage unbürokratisch, jedoch spätestens innerhalb eines Monats, bearbeiten. In Ausnahmefällen sind wir berechtigt, diese Frist um weitere zwei Monate zu verlängern, worüber wir Sie gegebenenfalls informieren.
 
 1. Sie haben das Recht auf Auskunft über die von uns über Sie verarbeiteten personenbezogenen Daten, d. h. das Recht, von uns zu erfahren, (i) welche personenbezogenen Daten von Ihnen verarbeitet werden, (ii) zu welchem Zweck, (iii) für welche Dauer, (iv) woher diese stammen, (v) an wen diese übermittelt werden, (vi) wer – neben uns – diese Daten verarbeitet, (vii) ob eine automatisierte Entscheidungsfindung stattfindet, einschließlich Profiling, (viii) welche weiteren Rechte Sie im Zusammenhang mit der Verarbeitung haben. Dementsprechend können Sie von uns eine Bestätigung darüber verlangen, ob und wenn ja, welche personenbezogenen Daten über Sie verarbeitet werden. Sie können von uns eine Kopie der verarbeiteten personenbezogenen Daten anfordern; die erste Kopie erhalten Sie kostenfrei, weitere Kopien gegen Gebühr. Dabei dürfen die Rechte und Freiheiten Dritter nicht beeinträchtigt werden;
 

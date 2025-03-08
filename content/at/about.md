@@ -16,7 +16,7 @@ Das Team von HZ KONTEJNERY s.r.o.
 
 ## Kontakt
 
-**Mail:** info@confoot.cz  
+**Mail:** info@hz-containers.com  
 **Tel:** +420 608 830 863
 
 **Öffnungszeiten:**  

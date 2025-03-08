@@ -14,7 +14,7 @@ Hie bieje wie die informaasje oet de verwerking vaan diene persoanlij geve, in o
 
 ## Wie is de beheerder vaan diene persoanlij geve?
 
-De ondernemig HZ KONTEJNERY s.r.o., ID Nr.: 03975177, Bestand Nr.: C 240707, inschreven bie 't Gemeentelijk Gerecht in Praag, zetel: Slavníkova 2357/9, Břevnov, 169 00 Praag 6, kantoar: Průmyslová 154, 674 01 Třebíč, telefone: +420 608 830 863, e-mailadres: info@confoot.cz (hierna: "beheerder").
+De ondernemig HZ KONTEJNERY s.r.o., ID Nr.: 03975177, Bestand Nr.: C 240707, inschreven bie 't Gemeentelijk Gerecht in Praag, zetel: Slavníkova 2357/9, Břevnov, 169 00 Praag 6, kantoar: Průmyslová 154, 674 01 Třebíč, telefone: +420 608 830 863, e-mailadres: info@hz-containers.com (hierna: "beheerder").
 
 Wie höbbe gin functionaris veur gegevensbeskerming aangesteld.
 
@@ -110,7 +110,7 @@ In 't gezuchte geval höbbe wie t-recht om persoanlij geve te verkrijgen aen ope
 
 ## Welke rekjes höbse es bij de verwerking vaan persoanlij geve?
 
-Wie höbbe óch de verplichting die te inlichten euver diene rekjes in verband mit de verwerking vaan persoanlij geve. In alle aangelegenheide met de verwerking vaan diene persoanlij geve kinne/se dich oetlaote via 't e-mailadres info@confoot.cz. Wie verwerkke dien verzoek zónder onnodige vertraging, mar binnen 't maximum van 'n maond. In uitzonderlijke gevallen kinne wie deze periode met nogt twee maonde verlengge, waover wie dich op de hoogte brenge es dat noedich is.
+Wie höbbe óch de verplichting die te inlichten euver diene rekjes in verband mit de verwerking vaan persoanlij geve. In alle aangelegenheide met de verwerking vaan diene persoanlij geve kinne/se dich oetlaote via 't e-mailadres info@hz-containers.com. Wie verwerkke dien verzoek zónder onnodige vertraging, mar binnen 't maximum van 'n maond. In uitzonderlijke gevallen kinne wie deze periode met nogt twee maonde verlengge, waover wie dich op de hoogte brenge es dat noedich is.
 
 1. Deet höb de rekje op te verkieke tot persoanlij geve, dat wil zègge de rekje tot informatie kregen euver (i) welke persoanlij geve wie verwerkke vaan deew, (ii) veur waal, (iii) hoelang, (iv) woa’t wie 't bekriege, (v) aan wa wie 't transferere, (vi) wa veriek t’ ónger ós verwerkke, (vii) dat d’r geautomatiseerde besluitvorming plaotvindt, insjluitende profilering; (viii) welke angere rekjes deet höb met betrekking tot de verwerking; Daormè kinne de bij ós opvrage doen um te bevestije of ein of oet diene persoanlij geve verwerkke worde, en es dat zo is, höbse de rekje tot inkieke vaan diene persoanlij geve. Deet kinne op vrage um 'n kopie vaan de verwerkte persoanlij geve te krijje; wie versture de eerste kopie gratis, en bijkomende kopie tegen vergoeding. Bie 't vervullen vaan diene rekjes moete der op gelet worde dat de rekjes en vrijheide vaan angere neet negatief beinvloed waere.
 

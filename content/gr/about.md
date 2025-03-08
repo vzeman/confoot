@@ -16,7 +16,7 @@ draft: false
 
 ## Επικοινωνία
 
-**mail:** info@confoot.cz  
+**mail:** info@hz-containers.com  
 **Τηλ:** +420 608 830 863
 
 **Ώρες λειτουργίας:**  

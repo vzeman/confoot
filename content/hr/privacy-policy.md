@@ -12,7 +12,7 @@ Ovim Vam pružamo informacije o obradi Vaših osobnih podataka u skladu s Uredbo
 
 ## Tko je voditelj Vaših osobnih podataka?
 
-Poslovna tvrtka HZ KONTEJNERY s.r.o., ID No.: 03975177, Broj predmeta: C 240707 kojeg vodi Općinski sud u Pragu, sjedište: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, poslovnica: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail: info@confoot.cz (u daljnjem tekstu: "voditelj").
+Poslovna tvrtka HZ KONTEJNERY s.r.o., ID No.: 03975177, Broj predmeta: C 240707 kojeg vodi Općinski sud u Pragu, sjedište: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, poslovnica: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail: info@hz-containers.com (u daljnjem tekstu: "voditelj").
 
 Nismo imenovali službenika za zaštitu podataka.
 
@@ -108,7 +108,7 @@ U nekim slučajevima imamo pravo dobiti osobne podatke iz javnih registara, osob
 
 ## Koja prava imate u vezi s obradom osobnih podataka?
 
-Također smo obvezni informirati Vas o Vašim pravima u vezi s obradom osobnih podataka. U svim pitanjima vezanim uz obradu Vaših osobnih podataka možete nas kontaktirati na e-mail adresu info@confoot.cz. Vaš ćemo zahtjev obraditi bez nepotrebnog odgađanja, ali najkasnije u roku od jednog mjeseca. U iznimnim slučajevima imamo pravo produžiti taj rok za dodatna dva mjeseca, o čemu ćemo Vas, ako je potrebno, obavijestiti.
+Također smo obvezni informirati Vas o Vašim pravima u vezi s obradom osobnih podataka. U svim pitanjima vezanim uz obradu Vaših osobnih podataka možete nas kontaktirati na e-mail adresu info@hz-containers.com. Vaš ćemo zahtjev obraditi bez nepotrebnog odgađanja, ali najkasnije u roku od jednog mjeseca. U iznimnim slučajevima imamo pravo produžiti taj rok za dodatna dva mjeseca, o čemu ćemo Vas, ako je potrebno, obavijestiti.
 
 1. Imate pravo pristupa osobnim podacima, tj. pravo dobiti od nas informacije o (i) kojim osobnim podacima o Vama obrađujemo, (ii) u koju svrhu, (iii) koliko dugo, (iv) odakle ih dobivamo, (v) kome ih prenosimo, (vi) tko još, osim nas, obrađuje te podatke, (vii) činjenicu da se donose automatizirane odluke, uključujući profiliranje; (viii) koja druga prava imate u vezi s obradom tih podataka; stoga možete zatražiti potvrdu o tome obrađujemo li neke od Vaših osobnih podataka, a ako da, imate pravo na pristup tim osobnim podacima. Također nam možete zatražiti kopiju obrađenih osobnih podataka; prvu kopiju ćemo Vam dostaviti besplatno, a dodatne kopije uz naknadu. Prilikom ispunjavanja Vašeg zahtjeva, prava i slobode drugih ne smiju biti narušena;
 

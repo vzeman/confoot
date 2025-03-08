@@ -12,7 +12,7 @@ Con la presente ti forniamo informazioni riguardanti il trattamento dei tuoi dat
 
 ## Chi è il titolare del trattamento dei tuoi dati personali?
 
-La società commercial HZ KONTEJNERY s.r.o., P.IVA n.: 03975177, Repertorio n.: C 240707 tenuto dal Tribunale Municipale di Praga, sede legale: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, sede operativa: Průmyslová 154, 674 01 Třebíč, telefono: +420 608 830 863, indirizzo email: info@confoot.cz (di seguito: "titolare").
+La società commercial HZ KONTEJNERY s.r.o., P.IVA n.: 03975177, Repertorio n.: C 240707 tenuto dal Tribunale Municipale di Praga, sede legale: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, sede operativa: Průmyslová 154, 674 01 Třebíč, telefono: +420 608 830 863, indirizzo email: info@hz-containers.com (di seguito: "titolare").
 
 Non abbiamo nominato un responsabile della protezione dei dati.
 
@@ -108,7 +108,7 @@ In alcuni casi, abbiamo il diritto di ottenere dati personali da registri pubbli
 
 ## Quali diritti hai in merito al trattamento dei dati personali?
 
-Siamo altresì obbligati a informarti sui tuoi diritti in relazione al trattamento dei dati personali. In ogni questione relativa al trattamento dei tuoi dati personali, puoi contattarci all'indirizzo email info@confoot.cz. Tratteremo la tua richiesta senza ingiustificato ritardo, ma entro un massimo di un mese. In casi eccezionali, siamo autorizzati a prorogare tale termine di ulteriori due mesi, di cui ti informeremo se necessario.
+Siamo altresì obbligati a informarti sui tuoi diritti in relazione al trattamento dei dati personali. In ogni questione relativa al trattamento dei tuoi dati personali, puoi contattarci all'indirizzo email info@hz-containers.com. Tratteremo la tua richiesta senza ingiustificato ritardo, ma entro un massimo di un mese. In casi eccezionali, siamo autorizzati a prorogare tale termine di ulteriori due mesi, di cui ti informeremo se necessario.
 
 1. Hai il diritto di accedere ai dati personali, cioè il diritto di ottenere informazioni da parte nostra in merito a (i) quali dati personali trattiamo su di te, (ii) per quale finalità, (iii) per quanto tempo, (iv) da dove li otteniamo, (v) a chi li trasferiamo, (vi) chi li tratta oltre a noi, (vii) il fatto che avvenga decisione automatizzata, incluso il profiling; (viii) quali altri diritti hai in relazione al suo trattamento; pertanto, puoi chiederci di confermare se alcuni tuoi dati personali sono trattati e, in tal caso, hai il diritto di accedere a tali dati personali. Puoi richiederci una copia dei dati personali trattati; ti forniremo la prima copia gratuitamente, le copie successive a pagamento. Per agevolarti, i diritti e le libertà di terzi non devono essere pregiudicati;
 

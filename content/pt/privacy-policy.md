@@ -12,7 +12,7 @@ Fornecemos, por meio deste, informações sobre o processamento dos seus dados p
 
 ## Quem é o responsável pelos seus dados pessoais?
 
-A empresa HZ KONTEJNERY s.r.o., NIF: 03975177, Número do Arquivo: C 240707 mantido pelo Tribunal Municipal de Praga, sede: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, escritório operacional: Průmyslová 154, 674 01 Třebíč, telefone: +420 608 830 863, endereço de e-mail: info@confoot.cz (doravante: "controlador").
+A empresa HZ KONTEJNERY s.r.o., NIF: 03975177, Número do Arquivo: C 240707 mantido pelo Tribunal Municipal de Praga, sede: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, escritório operacional: Průmyslová 154, 674 01 Třebíč, telefone: +420 608 830 863, endereço de e-mail: info@hz-containers.com (doravante: "controlador").
 
 Não nomeamos um encarregado de proteção de dados.
 
@@ -108,7 +108,7 @@ Em alguns casos, temos o direito de obter dados pessoais de registros públicos,
 
 ## Quais direitos você tem em relação ao processamento de dados pessoais?
 
-Também somos obrigados a informá-lo sobre os seus direitos em relação ao processamento dos dados pessoais. Em todas as questões relacionadas com o processamento dos seus dados pessoais, você pode entrar em contato conosco pelo endereço de e-mail info@confoot.cz. Processaremos o seu pedido sem demora indevida, mas no máximo em um mês. Em casos excepcionais, temos o direito de estender esse período por mais dois meses, dos quais informaremos, se necessário.
+Também somos obrigados a informá-lo sobre os seus direitos em relação ao processamento dos dados pessoais. Em todas as questões relacionadas com o processamento dos seus dados pessoais, você pode entrar em contato conosco pelo endereço de e-mail info@hz-containers.com. Processaremos o seu pedido sem demora indevida, mas no máximo em um mês. Em casos excepcionais, temos o direito de estender esse período por mais dois meses, dos quais informaremos, se necessário.
 
 1. Você tem o direito de acesso aos dados pessoais, ou seja, o direito de obter de nós informações sobre (i) quais dados pessoais processamos sobre você, (ii) para qual finalidade, (iii) por quanto tempo, (iv) de onde os obtemos, (v) para quem os transferimos, (vi) quem os processa além de nós, (vii) o fato de que a tomada de decisão automatizada ocorre, inclusive a definição de perfis; (viii) quais outros direitos você possui em relação ao seu processamento; portanto, você pode nos solicitar confirmação se alguns dos seus dados pessoais estão sendo processados e, em caso afirmativo, tem o direito de acessar esses dados. Você pode solicitar uma cópia dos dados pessoais processados; forneceremos a primeira cópia gratuitamente e as cópias adicionais mediante cobrança. Para acomodá-lo, os direitos e liberdades de terceiros não devem ser prejudicados;
 

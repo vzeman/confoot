@@ -27,7 +27,7 @@ S’Team vo HZ KONTEJNERY s.r.o.
 
 ## Contact
 
-**mail:** info@confoot.cz  
+**mail:** info@hz-containers.com  
 **Tel:** +420 608 830 863
 
 **Arbetsziite:**  

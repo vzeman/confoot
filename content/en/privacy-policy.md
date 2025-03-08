@@ -12,7 +12,7 @@ We hereby provide you with information regarding the processing of your personal
 
 ## Who is the controller of your personal data?
 
-The business company HZ KONTEJNERY s.r.o., ID No.: 03975177, File No.: C 240707 maintained by the Municipal Court in Prague, registered office: Slavníkova 2357/9, Břevnov, 169 00 Prague 6, operations office: Průmyslová 154, 674 01 Třebíč, phone: +420 608 830 863, email address: info@confoot.cz (hereinafter: "controller").
+The business company HZ KONTEJNERY s.r.o., ID No.: 03975177, File No.: C 240707 maintained by the Municipal Court in Prague, registered office: Slavníkova 2357/9, Břevnov, 169 00 Prague 6, operations office: Průmyslová 154, 674 01 Třebíč, phone: +420 608 830 863, email address: info@hz-containers.com (hereinafter: "controller").
 
 We have not appointed a data protection officer.
 
@@ -108,7 +108,7 @@ In some cases, we are entitled to obtain personal data from public registers, es
 
 ## What rights do you have when processing personal data?
 
-We are also obliged to inform you about your rights in connection with the processing of personal data. In all matters related to the processing of your personal data, you can contact us at the email address info@confoot.cz. We will process your request without undue delay, but within a maximum of one month. In exceptional cases, we are entitled to extend this period by another two months, of which we will inform you if necessary.
+We are also obliged to inform you about your rights in connection with the processing of personal data. In all matters related to the processing of your personal data, you can contact us at the email address info@hz-containers.com. We will process your request without undue delay, but within a maximum of one month. In exceptional cases, we are entitled to extend this period by another two months, of which we will inform you if necessary.
 
 1. You have the right of access to personal data, i.e., the right to obtain information from us about (i) what personal data we process about you, (ii) for what purpose, (iii) for how long, (iv) where we obtain it, (v) to whom we transfer it, (vi) who processes it besides us, (vii) the fact that automated decision-making takes place, including profiling; (viii) what other rights you have related to its processing; therefore, you can ask us for confirmation whether some of your personal data is being processed, and if so, you have the right to access this personal data. You can ask us for a copy of the processed personal data; we will provide the first copy free of charge, additional copies with a fee. In order to accommodate you, the rights and freedoms of others must not be adversely affected;
 

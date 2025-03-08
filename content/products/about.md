@@ -73,7 +73,7 @@ For more information or to discuss your specific container handling needs, pleas
 
 ## Contact Information
 
-**Email:** info@confoot.cz  
+**Email:** info@hz-containers.com  
 **Telephone:** +420 608 830 863  
 
 **Working Hours:**  

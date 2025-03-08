@@ -12,7 +12,7 @@ Ar šo mēs sniedzam jums informāciju par jūsu personas datu apstrādi saskaņ
 
 ## Kas ir jūsu personas datu administrators?
 
-Uzņēmums HZ KONTEJNERY s.r.o., Reģistrācijas numurs: 03975177, Reģistra numurs: C 240707, kuru uztur Pilsētas tiesa Prāgā, reģistrētā adrese: Slavníkova 2357/9, Břevnov, 169 00 Prāga 6, darbības birojs: Průmyslová 154, 674 01 Třebíč, tālruņa numurs: +420 608 830 863, e-pasta adrese: info@confoot.cz (turpmāk – "administrators").
+Uzņēmums HZ KONTEJNERY s.r.o., Reģistrācijas numurs: 03975177, Reģistra numurs: C 240707, kuru uztur Pilsētas tiesa Prāgā, reģistrētā adrese: Slavníkova 2357/9, Břevnov, 169 00 Prāga 6, darbības birojs: Průmyslová 154, 674 01 Třebíč, tālruņa numurs: +420 608 830 863, e-pasta adrese: info@hz-containers.com (turpmāk – "administrators").
 
 Mēs neesam iecēluši personas datu aizsardzības inspektoru.
 
@@ -108,7 +108,7 @@ Dažos gadījumos mums ir tiesības iegūt personas datus no publiskiem reģistr
 
 ## Kādas tiesības jums ir personas datu apstrādes gadījumā?
 
-Mums ir pienākums arī jūs informēt par jūsu tiesībām saistībā ar personas datu apstrādi. Visos jautājumos, kas saistīti ar jūsu personas datu apstrādi, jūs varat sazināties ar mums, rakstot uz e-pastu info@confoot.cz. Mēs apstrādāsim jūsu pieprasījumu bez nepamatotas vilcināšanās, bet ne ilgāk kā vienu mēnesi. Ārkārtas gadījumos mums ir tiesības pagarināt šo termiņu vēl par diviem mēnešiem, par kuru pagarinājumu mēs jūs, ja nepieciešams, informēsim.
+Mums ir pienākums arī jūs informēt par jūsu tiesībām saistībā ar personas datu apstrādi. Visos jautājumos, kas saistīti ar jūsu personas datu apstrādi, jūs varat sazināties ar mums, rakstot uz e-pastu info@hz-containers.com. Mēs apstrādāsim jūsu pieprasījumu bez nepamatotas vilcināšanās, bet ne ilgāk kā vienu mēnesi. Ārkārtas gadījumos mums ir tiesības pagarināt šo termiņu vēl par diviem mēnešiem, par kuru pagarinājumu mēs jūs, ja nepieciešams, informēsim.
 
 1. Jums ir tiesības piekļūt personas datiem, proti, saņemt no mums informāciju par (i) kādiem personas datiem mēs apstrādājam attiecībā uz jums, (ii) kādam mērķim, (iii) cik ilgi, (iv) no kurienes mēs tos iegūstam, (v) kam tos pārsūtām, (vi) kas tos, izņemot mūs, apstrādā, (vii) par automātisku lēmumu pieņemšanu, tostarp profilēšanu, (viii) kādas citas tiesības jums ir attiecībā uz to apstrādi; tādēļ jūs varat pieprasīt no mums apstiprinājumu, vai kādi jūsu personas dati tiek apstrādāti, un, ja tā ir, jums ir tiesības piekļūt šiem datiem. Jūs varat pieprasīt no mums apstrādāto personas datu kopiju – pirmo kopiju mēs nodrošināsim bez maksas, bet papildu kopijas sniegsim par maksu. Lai aizsargātu arī citu personu tiesības un brīvības, šāds pieprasījums nedrīkst tikt apstrīdēts.
 

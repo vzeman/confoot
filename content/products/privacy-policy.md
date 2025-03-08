@@ -12,7 +12,7 @@ Tímto vám poskytujeme informace týkající se zpracování vašich osobních 
 
 ## Kdo je správcem vašich osobních údajů?
 
-Obchodní společnost HZ KONTEJNERY s.r.o., IČ: 03975177, Spisová značka: C 240707 vedená Městským soudem v Praze, sídlo: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, provozovna: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail: info@confoot.cz (dále jen „správce“).
+Obchodní společnost HZ KONTEJNERY s.r.o., IČ: 03975177, Spisová značka: C 240707 vedená Městským soudem v Praze, sídlo: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, provozovna: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail: info@hz-containers.com (dále jen „správce“).
 
 Pověřenec pro ochranu osobních údajů nebyl ustanoven.
 
@@ -109,7 +109,7 @@ V některých případech máme právo získat osobní údaje z veřejných rejs
 
 ## Jaká práva máte v souvislosti se zpracováním osobních údajů?
 
-Jsme rovněž povinni vás informovat o vašich právech v souvislosti se zpracováním osobních údajů. Ve všech záležitostech souvisejících se zpracováním vašich osobních údajů se na nás můžete obrátit e-mailem na adresu info@confoot.cz. Vaši žádost vyřídíme bez zbytečného odkladu, nejpozději však do jednoho měsíce. Ve výjimečných případech jsme oprávněni tuto lhůtu prodloužit o další dva měsíce, o čemž vás v případě potřeby budeme informovat.
+Jsme rovněž povinni vás informovat o vašich právech v souvislosti se zpracováním osobních údajů. Ve všech záležitostech souvisejících se zpracováním vašich osobních údajů se na nás můžete obrátit e-mailem na adresu info@hz-containers.com. Vaši žádost vyřídíme bez zbytečného odkladu, nejpozději však do jednoho měsíce. Ve výjimečných případech jsme oprávněni tuto lhůtu prodloužit o další dva měsíce, o čemž vás v případě potřeby budeme informovat.
 
 1. Máte právo na přístup k osobním údajům, tj. právo získat od nás informace o (i) jaké osobní údaje o vás zpracováváme, (ii) za jakým účelem, (iii) jak dlouho, (iv) odkud je získáváme, (v) komu je předáváme, (vi) kdo je kromě nás zpracovává, (vii) o tom, že dochází k rozhodování na základě automatizovaného zpracování, včetně profilování; (viii) jaká další práva v souvislosti s jeho zpracováním máte; můžete nás tedy požádat o potvrzení, zda některé z vašich osobních údajů zpracováváme, a pokud ano, máte právo na přístup k těmto údajům. Můžete nás požádat o kopii zpracovávaných osobních údajů; první kopii poskytneme zdarma, další kopie za poplatek. Při uplatňování tohoto práva nesmí být omezena práva a svobody jiných osob;
 

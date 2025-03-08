@@ -12,7 +12,7 @@ Mes jums pateikiame informaciją apie jūsų asmens duomenų tvarkymą, atsižve
 
 ## Kas yra jūsų asmens duomenų tvarkytojas?
 
-Verslo įmonė HZ KONTEJNERY s.r.o., kodas: 03975177, įrašo numeris: C 240707, registruota Prahos miesto teisme, buveinė: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, veiklos biuras: Průmyslová 154, 674 01 Třebíč, telefonas: +420 608 830 863, el. pašto adresas: info@confoot.cz (toliau – "tvarkytojas").
+Verslo įmonė HZ KONTEJNERY s.r.o., kodas: 03975177, įrašo numeris: C 240707, registruota Prahos miesto teisme, buveinė: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, veiklos biuras: Průmyslová 154, 674 01 Třebíč, telefonas: +420 608 830 863, el. pašto adresas: info@hz-containers.com (toliau – "tvarkytojas").
 
 Mes nepaskyrėme asmens duomenų apsaugos pareigūno.
 
@@ -108,7 +108,7 @@ Kai kuriais atvejais turime teisę gauti asmens duomenis iš viešųjų registr�
 
 ## Kokias teises jūs turite, kai tvarkomi jūsų asmens duomenys?
 
-Privalome jus informuoti apie jūsų teises, susijusias su asmens duomenų tvarkymu. Visais klausimais, susijusiais su jūsų asmens duomenų tvarkymu, galite kreiptis į mus el. paštu info@confoot.cz. Mes jūsų užklausą tvarkysime be nereikalingo delsimo, bet ne vėliau kaip per vieną mėnesį. Išskirtiniais atvejais turime teisę pratęsti šį terminą dar dviem mėnesiais, apie kurį, prireikus, jus informuosime.
+Privalome jus informuoti apie jūsų teises, susijusias su asmens duomenų tvarkymu. Visais klausimais, susijusiais su jūsų asmens duomenų tvarkymu, galite kreiptis į mus el. paštu info@hz-containers.com. Mes jūsų užklausą tvarkysime be nereikalingo delsimo, bet ne vėliau kaip per vieną mėnesį. Išskirtiniais atvejais turime teisę pratęsti šį terminą dar dviem mėnesiais, apie kurį, prireikus, jus informuosime.
 
 1. Turite teisę susipažinti su asmens duomenimis, t. y. teisę gauti iš mūsų informaciją apie: (i) kokius asmens duomenis mes tvarkome apie jus, (ii) kokiu tikslu, (iii) kiek laiko, (iv) iš kur juos gauname, (v) kam juos perduodame, (vi) kas, be mūsų, tvarko juos, (vii) faktą, kad vykdomas automatizuotas sprendimų priėmimas, įskaitant profiliavimą; (viii) kokias kitas teises turite, susijusias su jų tvarkymu; todėl, galite prašyti mūsų patvirtinimo, ar tam tikri jūsų asmens duomenys yra tvarkomi, ir jei taip – turite teisę susipažinti su tais duomenimis. Taip pat galite paprašyti gauti tvarkomų asmens duomenų kopiją – pirmąją kopiją suteiksime nemokamai, o papildomas kopijas – už mokestį. Tačiau, siekiant nepažeisti kitų asmenų teisių ir laisvių, ši teisė gali būti apribota;
 

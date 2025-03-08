@@ -16,7 +16,7 @@ HZ KONTEJNERY s.r.o. komanda
 
 ## Kontakti
 
-**epasts:** info@confoot.cz  
+**epasts:** info@hz-containers.com  
 **Tālrunis:** +420 608 830 863
 
 **Darba laiks:**  

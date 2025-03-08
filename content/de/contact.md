@@ -34,7 +34,7 @@ Průmyslová 154
 Tschechische Republik
 
 **Telefon:** +420 608 830 863  
-**E-Mail:** [info@confoot.cz](mailto:info@confoot.cz)  
+**E-Mail:** [info@hz-containers.com](mailto:info@hz-containers.com)  
 **Geschäfts-ID:** IČ: 03975177, DIČ: CZ03975177  
 **Handelsregister:** Eingetragen im Handelsregister unter der Aktennummer: C 240707, geführt vom Amtsgericht in Prag
 

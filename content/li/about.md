@@ -18,7 +18,7 @@ Wie ziene euverig um potentjele samewerking!
 
 ## Contact
 
-**mail:** info@confoot.cz  
+**mail:** info@hz-containers.com  
 **Tel:** +420 608 830 863
 
 **Werkstieërs:**  

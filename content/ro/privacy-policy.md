@@ -12,7 +12,7 @@ Vă furnizăm prin prezenta informații referitoare la prelucrarea datelor dumne
 
 ## Cine este responsabilul cu prelucrarea datelor dumneavoastră personale?
 
-Societatea comercială HZ KONTEJNERY s.r.o., ID No.: 03975177, Nr. dosar: C 240707, înregistrată la Tribunalul Municipal din Praga, sediul social: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, sediul de operațiuni: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, adresă de email: info@confoot.cz (denumită în continuare „operator”).
+Societatea comercială HZ KONTEJNERY s.r.o., ID No.: 03975177, Nr. dosar: C 240707, înregistrată la Tribunalul Municipal din Praga, sediul social: Slavníkova 2357/9, Břevnov, 169 00 Praga 6, sediul de operațiuni: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, adresă de email: info@hz-containers.com (denumită în continuare „operator”).
 
 Nu am numit un responsabil pentru protecția datelor.
 
@@ -108,7 +108,7 @@ Putem obține informații suplimentare de la bănci sau de la furnizorii de serv
 
 ## Ce drepturi aveți în legătură cu prelucrarea datelor personale?
 
-Suntem obligați să vă informăm și despre drepturile dumneavoastră referitoare la prelucrarea datelor personale. În toate chestiunile legate de prelucrarea datelor personale, puteți să ne contactați la adresa de email info@confoot.cz. Vom procesa solicitarea dumneavoastră fără întârziere nejustificată, dar într-un termen maxim de o lună. În cazuri excepționale, suntem îndreptățiți să extindem acest termen cu încă două luni, despre care vă vom informa, dacă este necesar.
+Suntem obligați să vă informăm și despre drepturile dumneavoastră referitoare la prelucrarea datelor personale. În toate chestiunile legate de prelucrarea datelor personale, puteți să ne contactați la adresa de email info@hz-containers.com. Vom procesa solicitarea dumneavoastră fără întârziere nejustificată, dar într-un termen maxim de o lună. În cazuri excepționale, suntem îndreptățiți să extindem acest termen cu încă două luni, despre care vă vom informa, dacă este necesar.
 
 1. Aveți dreptul de a accesa datele personale, adică dreptul de a obține de la noi informații despre (i) ce date personale prelucrăm despre dumneavoastră, (ii) în ce scop, (iii) pentru cât timp, (iv) de unde le obținem, (v) cui le transferăm, (vi) cine le prelucrează în afară de noi, (vii) faptul că se efectuează decizii automate, inclusiv profilare; (viii) ce alte drepturi aveți în legătură cu prelucrarea acestora; prin urmare, puteți solicita confirmarea dacă unele dintre datele dumneavoastră personale sunt prelucrate, iar, în caz afirmativ, aveți dreptul de a accesa aceste date. Ne puteți cere o copie a datelor personale prelucrate; vă vom furniza prima copie gratuit, iar copiile suplimentare contra cost. Pentru a vă acomoda, drepturile și libertățile altora nu trebuie să fie afectate;
 

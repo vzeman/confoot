@@ -12,7 +12,7 @@ Mir informiered dich daüber, wie mir dini persöndlige Date verarbetet, i Über
 
 ## Wär isch dr Verantwortlech vo dine persöndlige Date?
 
-Ds Gschäftsunternehmä HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Akte-Nr.: C 240707 (verwaltet vom Gemeindegericht in Prag), Sitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Betriebsbüro: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail: info@confoot.cz (nachhär: "Verantwortlech").
+Ds Gschäftsunternehmä HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Akte-Nr.: C 240707 (verwaltet vom Gemeindegericht in Prag), Sitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Betriebsbüro: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail: info@hz-containers.com (nachhär: "Verantwortlech").
 
 Mir hend kei Datenschutzbeauftragte abgstellt.
 
@@ -108,7 +108,7 @@ In einzelne Fäll sind mir au berechtigt, persöndlige Date us öffentliche Regi
 
 ## Welche Rechte hesch, wenn dini persöndlige Date verarbetet werde
 
-Mir send au verpflichtet, di über dini Rechte im Zämehang mit dr Verarbetig vo dinere persöndlige Date z'informiere. Für all Fragestellig, wo d'Verarbetig vo dinere persöndlige Date betrifft, chasch dich a üs wende unter dr E-Mail-Adresse info@confoot.cz. Mir werde dini Aafrog so schnäll wie mögli bearbeite, aber höchstens innerhalb vo 1 Monet. In ussergwöhnliche Fäll sind mir berechtigt, die Frist um bis zu 2 Monet z'verlängere – in dem Fall informiered mir dich entsprechend.
+Mir send au verpflichtet, di über dini Rechte im Zämehang mit dr Verarbetig vo dinere persöndlige Date z'informiere. Für all Fragestellig, wo d'Verarbetig vo dinere persöndlige Date betrifft, chasch dich a üs wende unter dr E-Mail-Adresse info@hz-containers.com. Mir werde dini Aafrog so schnäll wie mögli bearbeite, aber höchstens innerhalb vo 1 Monet. In ussergwöhnliche Fäll sind mir berechtigt, die Frist um bis zu 2 Monet z'verlängere – in dem Fall informiered mir dich entsprechend.
 
 1. Du hesch s'Recht uf Aafrog (Access) zu dine persöndlige Date, also s'Recht, vo üs Informationä z'erhalte über (i) welchi persöndlige Date mir über dich verarbetet, (ii) für welche Zweck, (iii) für wie lang, (iv) wo mir sie erhalte, (v) a wele mir sie wiitrage, (vi) wer sie zusätzlich zu üs verarbetet, (vii) dass automatschi Entscheidigsfindig stattfindet, inklusive Profiling; (viii) welchi andere Rechte du im Zämehang mit dr Verarbetig vo dine Date hesch. Drum chasch du bi üs aafrage, ob einigi vo dine persöndlige Date verarbetet werde – falls ja, hesch du s'Recht uf Aafrog zu däne Date. Du chasch au e Kopie vo de verarbetete persöndlige Date aafrage; d’erschte Kopie wird dir gratis zur Verfüegig gstellt, weider Kopie chönd mit ere Gebüehr abgebt werde. Däzue mues aber d'Bezihige zu dene Date und d'Rechte vo anderi Persone berücksichtigt werde;
 

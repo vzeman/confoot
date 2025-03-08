@@ -12,7 +12,7 @@ S tem vam posredujemo informacije o obdelavi vaših osebnih podatkov, skladno z 
 
 ## Kdo je skrbnik vaših osebnih podatkov?
 
-Podjetje HZ KONTEJNERY s.r.o., ID št.: 03975177, sodna evidenčna številka: C 240707, vodeno pri Mestnem sodišču v Pragi, s sedežem na Slavníkova 2357/9, Břevnov, 169 00 Praha 6, z operativnim naslovom: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, elektronski naslov: info@confoot.cz (v nadaljevanju: "skrbnik").
+Podjetje HZ KONTEJNERY s.r.o., ID št.: 03975177, sodna evidenčna številka: C 240707, vodeno pri Mestnem sodišču v Pragi, s sedežem na Slavníkova 2357/9, Břevnov, 169 00 Praha 6, z operativnim naslovom: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, elektronski naslov: info@hz-containers.com (v nadaljevanju: "skrbnik").
 
 Nismo imenovali uradnika za varstvo podatkov.
 
@@ -108,7 +108,7 @@ V nekaterih primerih imamo pravico pridobivati osebne podatke iz javnih registro
 
 ## Kakšne pravice imate v zvezi z obdelavo osebnih podatkov?
 
-Prav tako vas obveščamo o vaših pravicah v zvezi z obdelavo osebnih podatkov. V vseh zadevah, povezanih z obdelavo vaših osebnih podatkov, nas lahko kontaktirate na elektronski naslov info@confoot.cz. Vašo zahtevo bomo obdelali brez nepotrebnega odlašanja, vendar najkasneje v enem mesecu. V izjemnih primerih smo upravičeni to obdobje podaljšati za dodatna dva meseca, o čemer vas bomo po potrebi ustrezno obvestili.
+Prav tako vas obveščamo o vaših pravicah v zvezi z obdelavo osebnih podatkov. V vseh zadevah, povezanih z obdelavo vaših osebnih podatkov, nas lahko kontaktirate na elektronski naslov info@hz-containers.com. Vašo zahtevo bomo obdelali brez nepotrebnega odlašanja, vendar najkasneje v enem mesecu. V izjemnih primerih smo upravičeni to obdobje podaljšati za dodatna dva meseca, o čemer vas bomo po potrebi ustrezno obvestili.
 
 1. Imate pravico do dostopa do osebnih podatkov, kar pomeni pravico, da od nas pridobite informacije o (i) katerih osebnih podatkih o vas obdelujemo, (ii) za kakšen namen, (iii) za koliko časa, (iv) od kod jih pridobivamo, (v) komu jih prenašamo, (vi) kdo jih obdeluje poleg nas, (vii) dejstvu, da poteka avtomatizirano odločanje, vključno s profiliranjem, (viii) kakšne druge pravice imate v zvezi z njihovo obdelavo; zato lahko od nas zahtevate potrditev, ali se nekateri vaši osebni podatki obdelujejo, in če se obdelujejo, imate pravico do dostopa do teh osebnih podatkov. Od nas lahko zahtevate kopijo obdelanih osebnih podatkov; prvo kopijo vam bomo zagotovili brezplačno, dodatne kopije pa ob zaračunavanju stroškov. Pri tem pa ne smemo ogroziti pravic in svoboščin drugih oseb;
 

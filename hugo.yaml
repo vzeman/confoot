@@ -379,7 +379,7 @@ languages:
 
 params:
   contact:
-    email: info@confoot.cz
+    email: info@hz-containers.com
     phone: "+420 123 456 789"
     address: "Prague, Czech Republic"
   social:
