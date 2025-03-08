@@ -72,7 +72,7 @@ export async function onRequest(context) {
       return context.next();
     }
     
-    // Add language prefix to path
+    // Create the new path with language prefix
     let newPath;
     
     // Handle root path special case
@@ -84,25 +84,18 @@ export async function onRequest(context) {
       newPath = `/${lang}${cleanPath}`;
     }
     
-    // Create the new URL string
-    const urlObj = new URL(context.request.url);
-    urlObj.pathname = newPath;
-    const newUrlString = urlObj.toString();
+    // Create the redirect URL
+    const protocol = url.protocol;
+    const redirectUrl = `${protocol}//${hostname}${newPath}${url.search}`;
+    console.log('Redirecting to:', redirectUrl);
     
-    console.log('Rewritten URL:', newUrlString);
-    
-    // Create a new request with the modified URL
-    const newRequest = new Request(newUrlString, {
-      method: context.request.method,
-      headers: context.request.headers,
-      body: context.request.body,
-      redirect: context.request.redirect,
-      cf: context.request.cf
-    });
-    
-    // Return the new request
-    return context.next({
-      request: newRequest
+    // Return a redirect response
+    return new Response(null, {
+      status: 302,
+      headers: {
+        'Location': redirectUrl,
+        'Cache-Control': 'no-cache'
+      }
     });
   } catch (error) {
     // Detailed error logging
