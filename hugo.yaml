@@ -23,6 +23,7 @@ languages:
       description: "Simplify shipping container logistics with Confoot"
       flag: "🇪🇺"
       bcp47Lang: "en-GB"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -52,6 +53,7 @@ languages:
       description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
       flag: "🇨🇿"
       bcp47Lang: "cs-CZ"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -81,6 +83,7 @@ languages:
       description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
       flag: "🇸🇰"
       bcp47Lang: "sk-SK"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -110,6 +113,7 @@ languages:
       description: "Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων με την Confoot"
       flag: "🇬🇷"
       bcp47Lang: "el-GR"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -139,6 +143,7 @@ languages:
       description: "Pojednostavite logistiku kontejnera za prijevoz s Confoot"
       flag: "🇭🇷"
       bcp47Lang: "hr-HR"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -168,6 +173,7 @@ languages:
       description: "Supaprastinkite konteinerių logistiką su Confoot"
       flag: "🇱🇹"
       bcp47Lang: "lt-LT"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -197,6 +203,7 @@ languages:
       description: "Упростите логистику транспортных контейнеров с Confoot"
       flag: "🇷🇺"
       bcp47Lang: "ru-RU"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -226,6 +233,7 @@ languages:
       description: "Vienkāršojiet konteineru loģistiku ar Confoot"
       flag: "🇱🇻"
       bcp47Lang: "lv-LV"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -255,6 +263,7 @@ languages:
       description: "Poenostavite logistiko transportnih zabojnikov s Confoot"
       flag: "🇸🇮"
       bcp47Lang: "sl-SI"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -284,6 +293,7 @@ languages:
       description: "Simplificați logistica containerelor de transport cu Confoot"
       flag: "🇷🇴"
       bcp47Lang: "ro-RO"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -313,6 +323,7 @@ languages:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇱🇮"
       bcp47Lang: "de-LI"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -342,6 +353,7 @@ languages:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇦🇹"
       bcp47Lang: "de-AT"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -371,6 +383,7 @@ languages:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇨🇭"
       bcp47Lang: "de-CH"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -400,6 +413,7 @@ languages:
       description: "Vereinfachen Sie die Logistik von Transportcontainern mit Confoot"
       flag: "🇩🇪"
       bcp47Lang: "de-DE"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -429,6 +443,7 @@ languages:
       description: "Simplifique a logística de contentores de transporte com Confoot"
       flag: "🇵🇹"
       bcp47Lang: "pt-PT"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -458,6 +473,7 @@ languages:
       description: "Simplifique la logística de contenedores de transporte con Confoot"
       flag: "🇪🇸"
       bcp47Lang: "es-ES"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home
@@ -487,6 +503,7 @@ languages:
       description: "Semplifica la logistica dei container di trasporto con Confoot"
       flag: "🇮🇹"
       bcp47Lang: "it-IT"
+      ga_measurement_id: "G-XL659W13CP"
     menu:
       main:
         - identifier: home

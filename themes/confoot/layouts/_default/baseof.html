@@ -6,6 +6,9 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   
+  <!-- Google Analytics -->
+  {{ partial "head/analytics.html" . }}
+  
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon.png" | relURL }}">
   <link rel="shortcut icon" href="{{ "/images/favicon.ico" | relURL }}">
