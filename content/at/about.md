@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Über HZ-Containers
-
 HZ KONTEJNERY s.r.o. wurde zum Lieferanten des finnischen Unternehmens ConFoot Ltd für die Tschechische und Slowakische Republik, später erweiterte sich die Zusammenarbeit auf mehrere europäische Länder. Der finnische Hersteller ConFoot hat dieses Produkt patentieren lassen und bietet seine Produkte in ganz Europa an. Das Umsetzen von Containern war noch nie so einfach wie mit den ConFoot-Produkten. Jeder Satz von 4 Stück kann von nur einer Person bedient werden. ConFoot-Produkte werden für den Transport von Schiffscontainern eingesetzt. Derzeit bieten wir drei Produktvarianten an. Das CF-Set gehört zu den meistverkauften auf dem Markt. Das CFP-Set wird vorwiegend dazu verwendet, Schiffscontainer direkt an der Rampe so zu positionieren, dass der Container sicher stehen bleiben kann. Die Tragfähigkeit eines 4-teiligen Sets beträgt 30 Tonnen. Neue Modelle haben eine Tragfähigkeit von 34 Tonnen.
 
 Schiffscontainer sind ein wesentlicher Bestandteil des Seeverkehrs. Vom Hafen aus gelangt der Container direkt zu Ihnen, wo er umgesetzt werden muss. Mit dem patentierten Produkt von ConFoot für den Containertransport sparen Sie viel Zeit – etwas, das heutzutage jeder nur zu wenig hat. Wäre es nicht besser, diese gewonnene Zeit anderen Arbeiten oder der Familie zu widmen? Die Entscheidung liegt bei Ihnen…

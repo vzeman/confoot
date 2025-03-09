@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Euver HZ-Containers
-
 HZ KONTEJNERY s.r.o. is de leveransier van ’t Finse bedräf ConFoot Ltd veur de Tsjèksche en Slovaakse Republiek, en doa is de samewerking later útwreid nao versjillende Europese laande. ’t Finse fabrikant ConFoot ha dit produkt gepatenteerd en biedt ziene produkten in heel Europa aan. ’t Overdrage van containers is neet noets zo simpel same as mit de ConFoot produkten. Elke set van 4 stuks kin door allein bebedre wääre. De ConFoot produkten kump zó gebroek veur ’t oets verplaatsen van scheepscontainers. Wie biede op dit moment trije varianten aan. De CF-set is ien van de best verkoope op de markt. De CFP-set kump vooreal gebroekt te wääre um scheepscontainers direct op de laadper biej de rampe te pleatse, zodoe da de container veilig staon kin. De laadkapaciteit van ’n set van 4 stuks is 30 ton, en de nieje modellen hawwe ’ne capaciteit van 34 ton.
 
 Scheepscontainers höbbe in ‘t maritiem vervoer en ónger andere ein essinsjele deil. Van ’t haor reis de container direk nao dich, woe ’t verzeuld verplaatst mot. As doe ’t gepatenteerde ConFoot produkt gebroek veur ’t overdrage van container, bespaarse dich ’n boel tied – tied die vandoage steur is. Is’t neet beter det de bespaorde tied gewiid makks aan angere weur of um mit de familie same te zien? De keus ligk bie dich…

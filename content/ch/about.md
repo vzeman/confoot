@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Übere HZ-Kontejner
-
 HZ KONTEJNERY s.r.o. isch de Zulieferer vo de finnische Firma ConFoot Ltd worde für d’tšechische und slowakische Republike und hät d’Zämmearbeit spöter uf mehri europäischi Länder uusgweitet.  
 Dr finnische Hersteller ConFoot hät das Produkt patentiert und bietet sini Produkte i ganz Europa aa.  
 S’Umsetze vo Containern isch no nie so eifach gsi wie mit de ConFoot-Produkte. E Satz vo 4 Teile cha vo nume einere Persone bedient wärde.  

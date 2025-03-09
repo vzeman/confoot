@@ -44,6 +44,7 @@ h1 {
   padding-bottom: 1.5rem;
   font-weight: 700;
   line-height: 1.2;
+  font-size: 3rem;
 }
 
 h2 {
@@ -84,7 +85,7 @@ h4, h5, h6 {
 }
 
 .prose h1 {
-  font-size: 2.25rem;
+  font-size: 3rem;
 }
 
 .prose h2 {

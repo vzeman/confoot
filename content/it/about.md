@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Su HZ-Containers
 
 HZ KONTEJNERY s.r.o. è diventata il fornitore per l'azienda finlandese ConFoot Ltd per la Repubblica Ceca e la Slovacchia, per poi estendere la collaborazione a numerosi Paesi europei. Il produttore finlandese ConFoot ha brevettato questo prodotto e offre le sue soluzioni in tutta Europa. Trasferire container non è mai stato semplice come con i prodotti ConFoot. Qualsiasi set di 4 pezzi può essere manovrato da una sola persona. I prodotti ConFoot sono utilizzati per il trasferimento di container da trasporto. Attualmente offriamo tre varianti di prodotto. Il set CF è tra i più venduti sul mercato. Il set CFP viene utilizzato principalmente per posizionare direttamente i container su una rampa, dove il container può rimanere in piedi in sicurezza. La capacità di carico di un set da 4 pezzi è di 30 tonnellate. I nuovi modelli hanno una capacità di carico di 34 tonnellate.
 

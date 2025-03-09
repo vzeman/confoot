@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# O HZ-KONTEJNERIMA
-
 HZ KONTEJNERY s.r.o. postali su dobavljač finske tvrtke ConFoot Ltd za Češku i Slovačku, a kasnije je suradnja proširena na više europskih zemalja. Finski proizvođač ConFoot patentirao je ovaj proizvod i nudi svoje artikle diljem Europe. Premještanje kontejnera nikada nije bilo jednostavnije nego s ConFoot proizvodima. Bilo koji set od 4 komada može obavljati čak i jedna osoba. ConFoot proizvodi koriste se za premještanje brodskih kontejnera. Trenutno nudimo tri varijante proizvoda. CF set spada među najprodavanije na tržištu. CFP set se uglavnom koristi za postavljanje brodskih kontejnera izravno na rampu, gdje se kontejner može sigurno ostaviti stojeći. Nosivost seta od 4 komada iznosi 30 tona, dok novi modeli imaju nosivost od 34 tone.
 
 Brodskim kontejnerima sastavni su dio pomorskog transporta. Iz luke, kontejner putuje izravno do vas, gdje ga je potrebno premjestiti. Kada koristite patentirani proizvod ConFoota za premještanje kontejnera, uštedite puno vremena, a svi smo danas pod vremenskim pritiskom. Zar nije bolje iskoristiti to uštedjeno vrijeme za druge poslove ili obitelj? Odluka je vaša...

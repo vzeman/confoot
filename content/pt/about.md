@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Sobre HZ-Containers
 
 A HZ KONTEJNERY s.r.o. tornou-se a fornecedora da empresa finlandesa ConFoot Ltd para a República Tcheca e a Eslováquia, tendo posteriormente ampliado a cooperação para vários países europeus. O fabricante finlandês ConFoot patenteou este produto e o oferece por toda a Europa. Transferir contêineres nunca foi tão simples como com os produtos ConFoot. Qualquer conjunto de 4 peças pode ser operado por apenas uma pessoa. Os produtos ConFoot são utilizados para a transferência de contêineres de carga. Atualmente, oferecemos três variantes de produtos. O conjunto CF está entre os mais vendidos do mercado. O conjunto CFP é utilizado principalmente para posicionar contêineres diretamente na rampa, onde o contêiner pode ser deixado em pé com segurança. A capacidade de carga de um conjunto de 4 peças é de 30 toneladas. Novos modelos possuem uma capacidade de carga de 34 toneladas.
 

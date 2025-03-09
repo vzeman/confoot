@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Apie HZ KONTEJNERY
-
 HZ KONTEJNERY s.r.o. tapo Suomijos bendrovės ConFoot Ltd tiekėju Čekijos ir Slovakijos rinkoms, o vėliau bendradarbiavimas buvo praplėstas į kelias Europos šalis. Suomijos gamintojas ConFoot įsigijęs patentą šiam produktui ir siūlo savo prekes visoje Europoje. Konteinerių pervežimas niekada nebuvo toks paprastas kaip naudojant ConFoot produktus. Bet kurį 4 vienetų komplektą gali valdyti net vienas asmuo. ConFoot produktai naudojami laivų konteinerių pervežimui. Šiuo metu siūlome tris produktų variantus. CF komplektas yra vienas iš populiariausių rinkoje. CFP komplektas daugiausia naudojamas konteinerių išdėstymui tiesiai ant rampo, kur konteinerį galima saugiai palikti stovintį. 4 vienetų komplekto keliamoji talpa yra 30 tonų. Nauji modeliai turi 34 tonų keliamoją talpą.
 
 Laivų konteineriai yra esminė jūrų transporto dalis. Iš uosto konteineris keliauja tiesiai pas jus, kur jis turi būti perkeliamas. Naudodami ConFoot patentuotą konteinerių perkėlimo produktą, sutaupote daug laiko – o šiais laikais laiko kiekvienam trūksta. Ar negeriau būtų skirti šį sutaupytą laiką kitoms užduotims ar šeimai? Sprendimas priklauso nuo jūsų...

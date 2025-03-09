@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# O HZ KONTEJNEROCH
 
 HZ KONTEJNERY s.r.o. sa stal dodávateľom fínskeho podniku ConFoot Ltd pre Českú a Slovenskú republiku, neskôr bola spolupráca rozšírená do viacerých európskych krajín. Fínsky výrobca ConFoot má tento produkt patentovaný a svoje výrobky ponúka po celej Európe. Presun kontajnerov nikdy nebol taký jednoduchý ako s produktmi ConFoot. Každú sadu zo 4 kusov môže obsluhovať iba jedna osoba. Výrobky ConFoot sa používajú na presun nákladných kontajnerov. V súčasnosti ponúkame tri varianty produktov. Sada CF patrí medzi najpredávanejšie na trhu. Sada CFP sa používa najmä na umiestnenie kontajnerov priamo na rampa, kde je možné kontajner bezpečne ponechať v stojacej polohe. Nosnosť sady 4 kusov je 30 ton. Nové modely majú nosnosť 34 ton.
 

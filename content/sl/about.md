@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# O podjetju HZ-Kontejnerji
 
 HZ KONTEJNERY s.r.o. je postal dobavitelj finskega podjetja ConFoot Ltd za Češko in Slovaško, pozneje pa je bilo sodelovanje razširjeno na več evropskih držav. Finski proizvajalec ConFoot je patentiral ta izdelek in ponuja svoje izdelke po vsej Evropi. Premikanje kontejnerjev še nikoli ni bilo tako enostavno kot s ConFoot izdelki. Vsak komplet štirih kosov lahko upravlja le ena oseba. ConFoot izdelki se uporabljajo za premikanje transportnih kontejnerjev. Trenutno ponujamo tri različice izdelkov. Komplet CF je med najbolje prodajanimi na trgu. Komplet CFP se uporablja predvsem za postavitev transportnih kontejnerjev neposredno na nakladno rampo, kjer lahko varno pustite kontejner, da stoji samostojno. Nosilnost kompleta štirih kosov je 30 ton. Novi modeli imajo nosilnost 34 ton.
 

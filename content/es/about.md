@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Sobre HZ-Containers
-
 HZ KONTEJNERY s.r.o. se ha convertido en el proveedor de la empresa finlandesa ConFoot Ltd para la República Checa y Eslovaquia, extendiendo posteriormente la cooperación a múltiples países europeos. El fabricante finlandés ConFoot ha patentado este producto y ofrece sus productos en toda Europa. Transferir contenedores nunca ha sido tan sencillo como con los productos ConFoot. Cualquier juego de 4 piezas puede ser operado por una sola persona. Los productos ConFoot se utilizan para trasladar contenedores marítimos. Actualmente contamos con tres variantes de producto. El juego CF es uno de los más vendidos en el mercado. El juego CFP se utiliza principalmente para colocar contenedores directamente en la rampa, donde se puede dejar el contenedor de pie de forma segura. La capacidad de carga de un juego de 4 piezas es de 30 toneladas. Los modelos nuevos tienen una capacidad de carga de 34 toneladas.
 
 Los contenedores marítimos son una parte esencial del transporte marítimo. Desde el puerto, el contenedor viaja directamente a usted, donde necesita ser trasladado. Cuando utiliza el producto patentado de ConFoot para el traslado de contenedores, ahorra mucho tiempo, que hoy en día es algo escaso para todos. ¿No es mejor dedicar este tiempo ahorrado a otros trabajos o a la familia? La decisión es suya...

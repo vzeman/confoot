@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Par HZ-Kontejneriem
 
 HZ KONTEJNERY s.r.o. kļuva par Somu uzņēmuma ConFoot Ltd piegādātāju Čehijas un Slovākijas Republikā, vēlāk paplašinot sadarbību vairākās Eiropas valstīs. Somu ražotājs ConFoot ir patentējis šo produktu un piedāvā savus produktus visā Eiropā. Konteineru pārvietošana nekad nav bijusi tik vienkārša kā ar ConFoot produktiem. Jebkuru 4 gabalu komplektu var darbināt tikai viena persona. ConFoot produkti tiek izmantoti kravu konteineru pārvietošanai. Pašlaik mēs piedāvājam trīs produktu variantus. CF komplekts ir viens no tirgū visvairāk pārdotajiem. CFP komplets galvenokārt tiek izmantots kravu konteineru novietošana tieši pie rampas, kur konteineru var droši atstāt stāvus. 4 gabalu komplekta pacelšanas jauda ir 30 tonnas. Jaunajiem modeļiem ir pacelšanas jauda 34 tonnas.
 

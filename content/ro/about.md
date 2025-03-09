@@ -4,8 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# Despre HZ-Containers
-
 HZ KONTEJNERY s.r.o. a devenit furnizorul companiei finlandeze ConFoot Ltd pentru Republica Cehă și Slovacă, extinzând ulterior cooperarea în mai multe țări europene. Producătorul finlandez ConFoot a brevetat acest produs și își oferă produsele în toată Europa. Transferul containerelor nu a fost niciodată la fel de simplu ca cu produsele ConFoot. Orice set de 4 piese poate fi operat de o singură persoană. Produsele ConFoot sunt folosite pentru transferul containerelor de transport maritim. În prezent, oferim trei variante de produse. Setul CF este unul dintre cele mai bine vândute de pe piață. Setul CFP este folosit în special pentru amplasarea containerelor de transport direct la rampe, unde containerul poate sta în siguranță. Capacitatea de sarcină a unui set de 4 piese este de 30 de tone. Noile modele au o capacitate de sarcină de 34 de tone.
 
 Containerele de transport sunt o parte esențială a transportului maritim. Din port, containerul ajunge direct la tine, unde trebuie transferat. Când folosești produsul brevetat de ConFoot pentru transferul containerelor, economisești mult timp, timp pe care puțini îl avem în zilele de azi. Nu ar fi mai bine să dedici acest timp economisit altor activități sau familiei? Decizia este a ta...

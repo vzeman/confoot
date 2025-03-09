@@ -4,7 +4,6 @@ date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-# ConFoot Container Leg Products
 
 ConFoot’s innovative container legs are designed to simplify container handling, providing fast, safe, and cost‐effective stabilization solutions for shipping containers at your facility, loading bay, or any site where container handling is required. With a focus on lightweight construction and ease of use, each leg is designed so that a single operator can position containers safely and efficiently without the need for heavy machinery.
 
