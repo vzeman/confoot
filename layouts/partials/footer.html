@@ -62,14 +62,14 @@
       <div class="grid grid-cols-2 gap-2">
         <!-- Current language -->
         <a href="{{ .Permalink }}" class="flex items-center space-x-2 bg-yellow-100 rounded-md p-2" style="transition: background-color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.backgroundColor='#ffde15'" onmouseout="this.style.backgroundColor='#fef3c7'">
-          {{ partial "lazyimg.html" (dict "src" (printf "images/flags/%s.png" .Language.Lang | relURL) "alt" .Language.LanguageName "class" "w-6 h-auto rounded-sm") }}
+          {{ partial "lazyimg.html" (dict "src" (printf "images/flags/%s.png" .Language.Lang | relURL) "alt" "" "class" "w-6 h-auto rounded-sm") }}
           <span class="text-sm text-gray-700">{{ .Language.LanguageName }}</span>
         </a>
         
         <!-- Other languages -->
         {{ range .Translations }}
         <a href="{{ .Permalink }}" class="flex items-center space-x-2 bg-gray-50 rounded-md p-2" style="transition: background-color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.backgroundColor='#ffde15'" onmouseout="this.style.backgroundColor=''">
-          {{ partial "lazyimg.html" (dict "src" (printf "images/flags/%s.png" .Language.Lang | relURL) "alt" .Language.LanguageName "class" "w-6 h-auto rounded-sm") }}
+          {{ partial "lazyimg.html" (dict "src" (printf "images/flags/%s.png" .Language.Lang | relURL) "alt" "" "class" "w-6 h-auto rounded-sm") }}
           <span class="text-sm text-gray-700">{{ .Language.LanguageName }}</span>
         </a>
         {{ end }}
