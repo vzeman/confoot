@@ -6,101 +6,85 @@ gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF is our standard container leg solution, perfect for routine container handling operations."
-technicalDescription: "The ConFoot-leg CF features a robust design optimized for standard shipping containers, with our proprietary attachment system for quick deployment."
+shortDescription: "ConFoot-leg CF is our standard model container leg that reduces the time required to move and unload containers, allowing containers to be left waiting for unloading so drivers don't have to wait."
+technicalDescription: "The CF model enables containers to be used as additional storage while remaining ready to be moved at any time - simply drive the trailer under the container, and the journey continues."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Weight"
-    value: "24 kg"
+    value: "24 kg per leg"
   - name: "Load capacity"
     value: "34 tons"
-  - name: "Dimensions"
-    value: "45 × 30 × 25 cm"
+  - name: "Adjustment range"
+    value: "1,043 mm to 1,448 mm"
   - name: "Material"
     value: "High-grade steel"
-  - name: "Height range"
-    value: "1,043 mm to 1,448 mm"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Bulk pricing available for fleet operators. Contact us for details."
+pricingNotes: "Volume discounts available. Contact us for details."
 buyLink: "/contact"
 howToUse: |
-  1. Attach the CF leg to the container corner casting
-  2. Secure the locking mechanism
-  3. Repeat for all required corners
-  4. Verify stability before proceeding with operations
+  1. Position the CF leg at the container corner casting
+  2. Engage the locking mechanism
+  3. Adjust height if necessary within the range of 1,043 mm to 1,448 mm
+  4. Repeat for all required corners
+  5. Lower the trailer and drive away, leaving the container on the legs
 benefits:
-  - title: "Operational Efficiency"
-    description: "Speeds up container handling processes, reducing loading and unloading times"
-  - title: "Reduced Equipment Needs"
-    description: "Minimizes dependency on cranes and lifts, cutting operational costs"
-  - title: "Adaptability"
-    description: "Works in various operational environments, from ports to warehouses"
-  - title: "Durability"
-    description: "Built to withstand heavy-duty industrial use with minimal maintenance"
-  - title: "Environmental Impact"
-    description: "Reduces carbon emissions by eliminating the need for heavy machinery and fuel-consuming equipment"
-  - title: "Safety Enhancement"
-    description: "Stabilizes containers during handling, reducing the risk of accidents and damage to cargo"
+  - title: "Time Savings"
+    description: "Reduces the time required to move and unload containers, as containers can be left waiting for unloading"
+  - title: "Driver Efficiency"
+    description: "Drivers don't have to wait during unloading, freeing them up for other tasks"
+  - title: "Additional Storage"
+    description: "Containers can be used as additional storage space when not in transit"
+  - title: "Ready Mobility"
+    description: "Containers are always ready to be moved - simply drive the trailer under the container to continue the journey"
+  - title: "Versatile Applications"
+    description: "Suitable for general use, storage, tank containers, and various industries"
+  - title: "Cost Optimization"
+    description: "Optimizes costs and time usage by streamlining transport and storage operations"
 articleContent: |
-  ## What is ConFoot-leg CF?  
+  ## What is ConFoot-leg CF?
 
-  ConFoot-leg CF is a modern and lightweight system created to make container handling easier and more efficient. These container legs provide a portable and simple alternative to using heavy machinery for loading and unloading standard shipping containers. This technology is designed for use by one person, offering a cost-effective and flexible solution for different industries.  
+  ConFoot-leg CF is the standard model container leg designed to streamline transport, storage, and logistics operations. This versatile solution reduces the time required to move and unload containers by allowing containers to be left waiting for unloading, meaning drivers don't have to wait. The CF model transforms shipping containers into flexible storage units that remain ready for transport whenever needed.
 
-  ## How It Works  
+  ## Key Benefits for Transport and Logistics
 
-  ConFoot-leg CF eliminates the need for cranes, forklifts, or other large equipment during container handling. Its design allows businesses to reduce operational costs, save time, and improve logistics flexibility. By streamlining the handling and transport of goods, ConFoot-leg CF enhances the reliability and efficiency of the global supply chain.  
+  The ConFoot-leg CF provides significant operational advantages for businesses involved in container transport and logistics. By enabling containers to be left on legs while waiting for unloading, you can optimize driver time and fleet utilization. Drivers can drop off containers and immediately continue to their next assignment, eliminating costly waiting periods during loading and unloading operations.
 
-  ## How ConFoot-leg CF Works
+  Additionally, containers equipped with CF legs can serve as valuable additional storage space when not in transit. They remain ready to be moved at any time - simply drive a trailer under the container, and the journey continues. This versatility makes the CF an ideal solution for businesses looking to enhance their logistics efficiency and storage capacity.
 
-  ### Core Mechanism
+  ## How It Works
 
-  ConFoot-leg CF uses a simple yet effective design to function. The legs attach firmly to the corners of standard shipping containers using a strong clamping system that ensures stability. Made from lightweight but durable materials, each leg weighs just 24kg, which makes them easy for one person to handle. The attachment process is efficient, allowing quick installation without requiring special tools or heavy equipment. Once in place, the legs create a stable platform for loading, unloading, or temporarily storing containers.
+  The ConFoot-leg CF attaches securely to container corner castings, providing stable support while the container is positioned for loading, unloading, or storage. The legs feature an adjustment range of 1,043 mm to 1,448 mm, allowing for versatile positioning in various operational environments. Each leg weighs 24 kg, making them manageable for operators to handle, while the system provides a substantial load capacity of 34 tons.
 
-  The height of the legs can be adjusted from 1,043mm to 1,448mm. This adjustable range supports various operational needs, ensuring the system works with different container sizes and environments. This versatility makes container handling easier for different logistical setups, including ports and warehouses.
+  The installation process is straightforward:
+  1. Position the CF legs at the container corner castings
+  2. Engage the locking mechanism to secure the legs
+  3. Adjust the height as needed for your specific requirements
+  4. Lower the trailer and drive away, leaving the container safely supported on the legs
 
-  ### Benefits of the Mechanism
+  When it's time to move the container, simply drive the trailer back under it, secure the container to the trailer, remove the legs, and continue the journey.
 
-  1. **Reduces Dependence on Heavy Machinery**: ConFoot-leg CF eliminates the need for cranes or forklifts, which lowers operational costs and lessens environmental impact.  
-  2. **Improves Safety**: The system stabilizes containers during handling, reducing the likelihood of accidents or damage.  
-  3. **Boosts Efficiency**: Thanks to its lightweight design and easy installation, operations can proceed faster, even in areas with limited infrastructure.  
-  4. **Increases Portability**: The legs are easy to transport and can be used in remote locations, making them suitable for various industries and applications.  
+  ## Applications of ConFoot-leg CF
 
-  The design of ConFoot-leg CF simplifies the process of container handling while offering a cost-effective and sustainable option for modern logistics challenges.
+  ### Transport Companies
+  Transport companies benefit significantly from the CF's ability to optimize fleet utilization. Drivers can drop containers at customer locations and immediately continue to their next assignment, rather than waiting for loading/unloading operations. This efficiency can substantially increase the productive capacity of existing trailer fleets and reduce operational costs.
 
+  ### Warehousing and Distribution
+  For warehousing and distribution operations, the CF provides valuable flexibility in managing container flows. Containers can be positioned in temporary storage areas on legs, creating additional buffer capacity during peak periods. This approach reduces congestion at loading docks and allows for more efficient scheduling of loading and unloading operations.
 
-  ## Applications of ConFoot-leg CF  
-  
-  ### Where ConFoot-leg CF is Used  
-  ConFoot-leg CF significantly improves operations in logistics and transportation, transforming how containers are handled. Its lightweight, portable design makes it possible to load, unload, and move containers without needing cranes or forklifts. This is particularly useful in remote areas or places where heavy machinery is unavailable, making processes smoother and lowering costs. At the same time, it helps ports, warehouses, and distribution centers work more efficiently by reducing the time and labor needed for container handling.  
+  ### Manufacturing Facilities
+  Manufacturing facilities can use CF-equipped containers as flexible additional storage for raw materials or finished products. By positioning containers close to production areas, materials can be easily accessed when needed, reducing handling costs and improving production efficiency.
 
-  ### Small places where cranes can not be used
-  ConFoot-leg CF is a practical choice for small places where cranes can not be used, such as ports, warehouses, and distribution centers. It provides a reliable and cost-effective solution for handling containers in these environments, making it an ideal option for businesses that need to transport and store goods in remote locations.  
+  ### Retail Operations
+  Retail businesses can utilize CF legs for seasonal storage solutions, with containers positioned at strategic locations to support inventory management during peak periods. This approach provides cost-effective additional capacity without the need for permanent facility expansion.
 
-  ### Modular Construction and Equipment Storage  
-  ConFoot-leg CF is a practical choice for modular construction projects, offering reliable solutions for temporary setups. Construction teams use it to securely and efficiently store and transport tools, machinery, and prefabricated materials. Its portability and simplicity make it well-suited for construction sites that need quick assembly and disassembly. Additionally, it ensures the safe storage of equipment used in modular healthcare facilities, allowing for fast deployment in various settings.  
+  ## Technical Specifications
 
-  ConFoot-leg CF's adaptable and efficient design makes it a go-to option in different industries, improving workflows and maximizing the use of resources.
+  - **Load Capacity**: 34 tons
+  - **Weight**: 24 kg per leg
+  - **Adjustment Range**: 1,043 mm to 1,448 mm
+  - **Material**: High-grade steel with durable finish
+  - **Compatibility**: Standard shipping container corner castings
 
-
-  ### Advantages and Limitations
-
-  #### Advantages
-
-  ConFoot-leg CF provides several notable benefits for handling containers. Its lightweight design, weighing just 24 kg per leg, makes it easy to transport and install. Each leg can support up to 30 tons, offering strong stability that fits various logistics operations. The adjustable height range (1,043mm–1,448mm) allows it to meet different container needs, increasing its versatility. Its portable nature reduces the need for heavy machinery like cranes or forklifts, which leads to significant cost savings and improved operational efficiency. Additionally, its environmentally friendly design lowers carbon emissions, aligning with sustainability efforts.
-
-  #### Limitations
-
-  Despite its benefits, ConFoot-leg CF has certain drawbacks. It is only compatible with specific container types, which can limit its use in some logistics scenarios. Additionally, while the manual setup process is simple, it may not integrate well into highly automated workflows, creating potential challenges for operations that rely heavily on mechanization. These factors should be carefully evaluated when planning to use ConFoot-leg CF in complex supply chain systems.
-
-
-  ## Future Developments
-
-  ### Current Research  
-  Researchers are working to improve the structural capabilities of ConFoot-leg CF. They aim to increase its load capacity beyond the current 30-ton limit to handle heavier shipping containers. Efforts also focus on optimizing the material composition to make the product more durable while keeping it lightweight and portable. Additionally, customization options are being developed to meet specific industry needs, such as managing containers with unique dimensions or specialized cargo types.  
-
-  ### Prospective Innovations  
-  Future developments for ConFoot-leg CF include adding IoT (Internet of Things) technology to enable real-time monitoring of container stability and position. This feature would let operators remotely track container conditions, improving safety and efficiency. Another planned innovation is automation, which involves designing self-adjusting legs that can automatically align and stabilize containers. This would reduce the need for manual adjustments. These advancements aim to minimize downtime and make logistics processes smoother.  
-
-  These technological updates will help ConFoot-leg CF continue leading the field of container handling. They set new standards for efficiency and innovation in the logistics industry.
+  The ConFoot-leg CF represents a practical solution for streamlining transport and storage operations, offering businesses a way to optimize costs and time usage. By enabling containers to be left waiting for unloading and used as additional storage, the CF helps businesses achieve greater efficiency and flexibility in their container handling operations.
 ---

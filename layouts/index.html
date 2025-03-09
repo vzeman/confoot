@@ -34,75 +34,31 @@
   <div class="container mx-auto px-4">
     <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "our_products" | default "Our Products" }}</h2>
     
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      <!-- Product 1 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md relative" style="padding-bottom: 70px;">
-        <div class="h-64 overflow-hidden">
-          <a href="{{ "products/confoot-cfu" | relLangURL }}">
-            <img src="{{ "wp-content/uploads/2022/02/DSC00728-1200x818.jpg" | relURL }}" alt="Confoot CFU" class="w-full h-64 object-cover transition-transform duration-500 hover:scale-105">
-          </a>
+    <div class="products-grid">
+      {{ $productPages := where site.RegularPages "Section" "products" }}
+      {{ range $productPages }}
+        <div class="product-card">
+          <div class="product-card-image">
+            <a href="{{ .RelPermalink }}" class="block">
+              <div class="overflow-hidden">
+                {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "class" "transition-transform duration-500 hover:scale-105") }}
+              </div>
+            </a>
+          </div>
+          <div class="product-card-content">
+            <h2 class="product-card-title">
+              <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none;" class="hover:text-[#2a5885] transition-colors">{{ .Title }}</a>
+            </h2>
+            <h3 class="product-card-subtitle">{{ .Params.subtitle }}</h3>
+            <div class="product-card-description">
+              {{ .Params.shortDescription | markdownify }}
+            </div>
+            <div class="product-card-price">{{ .Params.price }} ({{ i18n "excl_vat" }})</div>
+            <div class="product-card-price">{{ .Params.priceVAT }} ({{ i18n "vat_included" }})</div>
+            <a href="{{ .RelPermalink }}" class="btn btn-primary">{{ i18n "learn_more" | default "Learn More" }}</a>
+          </div>
         </div>
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">
-            <a href="{{ "products/confoot-cfu" | relLangURL }}" style="color: #000000; text-decoration: none;" class="hover:text-yellow-500 transition-colors">Confoot CFU</a>
-          </h3>
-          <p class="text-gray-800 mb-4">{{ i18n "product_1_description" }}</p>
-        </div>
-        <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
-          <a href="{{ "products/confoot-cfu" | relLangURL }}" style="background-color: #2a5885; color: #fff; text-decoration: none;" class="px-6 py-3 rounded-md font-bold hover:bg-[#1d3e5f] transition-colors inline-flex items-center justify-center">
-            {{ i18n "learn_more" | default "Learn More" }}
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-        </div>
-      </div>
-      
-      <!-- Product 2 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md relative" style="padding-bottom: 70px;">
-        <div class="h-64 overflow-hidden">
-          <a href="{{ "products/confoot-leg-cf" | relLangURL }}">
-            <img src="{{ "wp-content/uploads/2021/05/confoot_CF_1.jpg" | relURL }}" alt="Confoot-leg CF" class="w-full h-64 object-cover transition-transform duration-500 hover:scale-105">
-          </a>
-        </div>
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">
-            <a href="{{ "products/confoot-leg-cf" | relLangURL }}" style="color: #000000; text-decoration: none;" class="hover:text-yellow-500 transition-colors">Confoot-leg CF</a>
-          </h3>
-          <p class="text-gray-800 mb-4">{{ i18n "product_2_description" }}</p>
-        </div>
-        <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
-          <a href="{{ "products/confoot-leg-cf" | relLangURL }}" style="background-color: #2a5885; color: #fff; text-decoration: none;" class="px-6 py-3 rounded-md font-bold hover:bg-[#1d3e5f] transition-colors inline-flex items-center justify-center">
-            {{ i18n "learn_more" | default "Learn More" }}
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-        </div>
-      </div>
-      
-      <!-- Product 3 -->
-      <div class="bg-yellow-50 rounded-lg overflow-hidden shadow-md relative" style="padding-bottom: 70px;">
-        <div class="h-64 overflow-hidden">
-          <a href="{{ "products/confoot-leg-cfp" | relLangURL }}">
-            <img src="{{ "wp-content/uploads/2021/05/confoot_CFP_1.jpg" | relURL }}" alt="Confoot-leg CFP" class="w-full h-64 object-cover transition-transform duration-500 hover:scale-105">
-          </a>
-        </div>
-        <div class="p-6">
-          <h3 class="text-xl font-semibold mb-2">
-            <a href="{{ "products/confoot-leg-cfp" | relLangURL }}" style="color: #000000; text-decoration: none;" class="hover:text-yellow-500 transition-colors">Confoot-leg CFP</a>
-          </h3>
-          <p class="text-gray-800 mb-4">{{ i18n "product_3_description" }}</p>
-        </div>
-        <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
-          <a href="{{ "products/confoot-leg-cfp" | relLangURL }}" style="background-color: #2a5885; color: #fff; text-decoration: none;" class="px-6 py-3 rounded-md font-bold hover:bg-[#1d3e5f] transition-colors inline-flex items-center justify-center">
-            {{ i18n "learn_more" | default "Learn More" }}
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-        </div>
-      </div>
+      {{ end }}
     </div>
     
     <div class="text-center mt-10">
