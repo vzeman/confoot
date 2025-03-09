@@ -52,6 +52,6 @@ Průmyslová 154
 ## Нужен контейнер?
 
 Если вы хотите приобрести контейнеры для перевозки, пожалуйста, посетите наш сайт продаж:  
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Мы с нетерпением ждем вашего обращения!

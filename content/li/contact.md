@@ -52,6 +52,6 @@ Veur technische vraoge of support mit dien ConFoot-producten, kan doe oetsjlof o
 ## Nood an ein Container?
 
 As doe shippingcontainers wilt aofkópe, gees dan nao onze verkoopswebsite:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 We kieke der noa um te höre!

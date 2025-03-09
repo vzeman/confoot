@@ -52,6 +52,6 @@ Průmyslová 154
 ## Χρειάζεστε Κοντέινερ;
 
 Αν ενδιαφέρεστε για αγορά φορτηγό κοντέινερ, παρακαλούμε επισκεφθείτε τον ιστότοπο πωλήσεών μας:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Ανυπομονούμε να σας ακούσουμε!

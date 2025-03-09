@@ -52,6 +52,6 @@ Ja jums ir tehniski jautājumi vai nepieciešams atbalsts ar jūsu ConFoot produ
 ## Vai jums nepieciešams konteiners?
 
 Ja vēlaties iegādāties kravu konteinerus, lūdzu, apmeklējiet mūsu pārdošanas tīmekļa vietni:  
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Mēs ar nepacietību gaidām jūsu ziņu!

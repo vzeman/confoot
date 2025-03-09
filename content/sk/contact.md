@@ -52,6 +52,6 @@ Pri technických otázkach alebo podpore k vašim produktom ConFoot si prosím s
 ## Potrebujete kontajner?
 
 Ak máte záujem o nákup prepravných kontajnerov, navštívte, prosím, našu predajnú webovú stránku:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Tešíme sa na vašu správu!

@@ -52,6 +52,6 @@ Für technische Fragen oder Unterstützung mit Ihren ConFoot-Produkten laden Sie
 ## Benötigen Sie einen Container?
 
 Wenn Sie Versandcontainer erwerben möchten, besuchen Sie bitte unsere Verkaufswebsite:  
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Wir freuen uns darauf, von Ihnen zu hören!

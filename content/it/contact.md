@@ -52,6 +52,6 @@ Per domande tecniche o richieste di supporto relative ai tuoi prodotti ConFoot, 
 ## Hai Bisogno di un Container?
 
 Se stai cercando di acquistare container da spedizione, visita il nostro sito commerciale:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Attendiamo con piacere di sentirti!

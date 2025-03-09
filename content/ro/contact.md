@@ -52,6 +52,6 @@ Pentru întrebări tehnice sau suport privind produsele ConFoot, vă rugăm să 
 ## Ai nevoie de un container?
 
 Dacă dorești să achiziționezi containere de transport, te rugăm să vizitezi site-ul nostru de vânzări:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Așteptăm cu nerăbdare să primim vești de la tine!

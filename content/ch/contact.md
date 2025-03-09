@@ -54,6 +54,6 @@ Für technisci Fraag oder Support bezüglich dinere ConFoot-Produkte, lad bitte 
 ## Bruchsch no en Container?
 
 Wenn du en Shipping-Container chaufe wittisch, bsuech bitte üsi Vertriebs-Website:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Mir freue eus uf dini Nachricht!

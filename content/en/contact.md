@@ -54,6 +54,6 @@ For technical questions or support with your ConFoot products, please download o
 ## Need a Container?
 
 If you're looking to purchase shipping containers, please visit our sales website:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 We look forward to hearing from you!

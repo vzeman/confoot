@@ -44,3 +44,18 @@ keywords:
     exact: false
     priority: 1
     title: "Buy used or brand new shipping containers"
+  - keyword: "HZ Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Buy used or brand new shipping containers"
+  - keyword: "HZ-Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Buy used or brand new shipping containers"
+  - keyword: "container legs"
+    url: "/products/"
+    exact: false
+    priority: 1
+    title: "Choose the best container legs"

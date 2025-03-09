@@ -52,6 +52,6 @@ Pokud máte technické otázky nebo potřebujete podporu k produktům ConFoot, s
 ## Potřebujete kontejner?
 
 Jestliže hledáte nákladní kontejnery, navštivte prosím naše prodejní webové stránky:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Těšíme se na vaši zprávu!

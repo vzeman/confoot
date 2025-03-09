@@ -52,6 +52,6 @@ Za tehnička pitanja ili podršku vezanu za vaše ConFoot proizvode, molimo preu
 ## Trebate kontejner?
 
 Ako želite kupiti brodske kontejnere, posjetite našu prodajnu web stranicu:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Veselimo se vašem javljanju!

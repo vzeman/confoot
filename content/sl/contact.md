@@ -52,6 +52,6 @@ Za tehnična vprašanja ali podporo pri vaših ConFoot izdelkih, prosimo, prenes
 ## Potrebujete kontejner?
 
 Če želite kupiti transportne kontejnere, obiščite našo prodajno spletno stran:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Veselimo se vašega sporočila!

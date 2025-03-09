@@ -52,6 +52,6 @@ Para dúvidas técnicas ou suporte com seus produtos ConFoot, por favor, baixe n
 ## Precisa de um Contêiner?
 
 Se você está procurando adquirir contêineres para transporte, por favor, visite nosso site de vendas:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Aguardamos seu contato!

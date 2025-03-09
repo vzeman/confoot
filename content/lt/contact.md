@@ -52,6 +52,6 @@ Dėl techninių klausimų ar pagalbos naudojant ConFoot produktus, prašome atsi
 ## Reikia konteinerio?
 
 Jei norite įsigyti krovininius konteinerius, apsilankykite mūsų pardavimo svetainėje:
-[www.hz-containers.com/cs](https://www.hz-containers.com)
+[www.hz-containers.com](https://www.hz-containers.com)
 
 Laukiame jūsų žinutės!

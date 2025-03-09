@@ -12,11 +12,11 @@
     {{ $title := default $keyword .title }}
     {{ $exact := default false .exact }}
     
-    {{/* Pattern that only matches keywords inside paragraph tags */}}
-    {{ $pattern := printf `(<p.*?>.*?)(\b%s\b)(.*?</p>)` $keyword }}
+    {{/* Use a more specific pattern that only matches text content, not text in HTML attributes */}}
+    {{ $pattern := printf `(>[^<]*?)(\b%s\b)([^<]*?<)` $keyword }}
     {{ $replacement := printf `$1<a href="%s" class="auto-link" data-priority="%d" title="%s">$2</a>$3` $url $priority $title }}
     
-    {{/* Replace only the first occurrence within paragraphs */}}
+    {{/* Replace only the first occurrence within content, not in attributes */}}
     {{ $contentStr = replaceRE $pattern $replacement $contentStr 1 }}
   {{ end }}
 {{ end }}
