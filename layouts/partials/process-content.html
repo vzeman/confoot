@@ -10,13 +10,14 @@
     {{ $url := .url }}
     {{ $priority := default 1 .priority }}
     {{ $title := default $keyword .title }}
+    {{ $exact := default false .exact }}
     
     {{/* Pattern that only matches keywords inside paragraph tags */}}
     {{ $pattern := printf `(<p.*?>.*?)(\b%s\b)(.*?</p>)` $keyword }}
     {{ $replacement := printf `$1<a href="%s" class="auto-link" data-priority="%d" title="%s">$2</a>$3` $url $priority $title }}
     
-    {{/* Replace all occurrences within paragraphs */}}
-    {{ $contentStr = replaceRE $pattern $replacement $contentStr }}
+    {{/* Replace only the first occurrence within paragraphs */}}
+    {{ $contentStr = replaceRE $pattern $replacement $contentStr 1 }}
   {{ end }}
 {{ end }}
 
