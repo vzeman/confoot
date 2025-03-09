@@ -1,30 +1,160 @@
 {{/* 
-  Lazy-loaded image partial
+  Lazy loading image partial with WebP support and multiple sizes
   
   Parameters:
   - src: Image source path (required)
-  - alt: Alt text for the image (required)
+  - alt: Alt text for accessibility (required)
   - class: Additional CSS classes (optional)
+  - id: Image ID (optional)
   - width: Image width (optional)
   - height: Image height (optional)
-  - id: Optional ID attribute
+  - sizes: Sizes attribute (optional)
 */}}
 
 {{ $src := .src }}
 {{ $alt := .alt | default "" }}
 {{ $class := .class | default "" }}
+{{ $id := .id | default "" }}
 {{ $width := .width | default "" }}
 {{ $height := .height | default "" }}
-{{ $id := .id | default "" }}
+{{ $sizes := .sizes | default "(min-width: 1024px) 1024px, (min-width: 400px) 400px, 100px" }}
 
-<img 
-  src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
-  data-src="{{ $src }}"
-  alt="{{ $alt }}"
-  class="lazy-image {{ with $class }}{{ . }}{{ end }}"
-  {{ with $width }}width="{{ . }}"{{ end }}
-  {{ with $height }}height="{{ . }}"{{ end }}
-  {{ with $id }}id="{{ . }}"{{ end }}
-  loading="lazy"
-  decoding="async"
->
+{{ $isExternal := or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+
+{{ if not $isExternal }}
+  {{ $image := resources.Get $src }}
+  {{ if $image }}
+    {{ $isJPEG := or (strings.HasSuffix $src ".jpg") (strings.HasSuffix $src ".jpeg") }}
+    {{ $isPNG := strings.HasSuffix $src ".png" }}
+    {{ $isWebPSupported := or $isJPEG $isPNG }}
+
+    {{ if $isWebPSupported }}
+      {{ $originalWidth := $image.Width }}
+      
+      {{ $smallWidth := 100 }}
+      {{ $mediumWidth := 400 }}
+      {{ $largeWidth := 1024 }}
+      
+      {{ $smallSrc := $image }}
+      {{ $mediumSrc := $image }}
+      {{ $largeSrc := $image }}
+      {{ $qualityOrig := site.Params.imaging.quality | default 85 }}
+      {{ $qualityWebp := site.Params.imaging.formats.webp.quality | default 85 }}
+      
+      {{ $smallWebp := $image.Resize (printf "%dx webp q%d" $smallWidth $qualityWebp) }}
+      {{ $mediumWebp := $smallWebp }}
+      {{ $largeWebp := $smallWebp }}
+      
+      <!-- Generate small size if original is larger -->
+      {{ if gt $originalWidth $smallWidth }}
+        {{ $smallSrc = $image.Resize (printf "%dx q%d" $smallWidth $qualityOrig) }}
+        {{ $smallWebp = $image.Resize (printf "%dx webp q%d" $smallWidth $qualityWebp) }}
+      {{ end }}
+      
+      <!-- Generate medium size if original is larger -->
+      {{ if gt $originalWidth $mediumWidth }}
+        {{ $mediumSrc = $image.Resize (printf "%dx q%d" $mediumWidth $qualityOrig) }}
+        {{ $mediumWebp = $image.Resize (printf "%dx webp q%d" $mediumWidth $qualityWebp) }}
+      {{ else }}
+        <!-- If original is smaller than medium size, use the original -->
+        {{ $mediumSrc = $image }}
+        {{ $mediumWebp = $smallWebp }}
+      {{ end }}
+      
+      <!-- Generate large size if original is larger -->
+      {{ if gt $originalWidth $largeWidth }}
+        {{ $largeSrc = $image.Resize (printf "%dx q%d" $largeWidth $qualityOrig) }}
+        {{ $largeWebp = $image.Resize (printf "%dx webp q%d" $largeWidth $qualityWebp) }}
+      {{ else }}
+        <!-- If original is smaller than large size, use the original or medium size -->
+        {{ if gt $originalWidth $mediumWidth }}
+          {{ $largeSrc = $mediumSrc }}
+          {{ $largeWebp = $mediumWebp }}
+        {{ else }}
+          {{ $largeSrc = $image }}
+          {{ $largeWebp = $smallWebp }}
+        {{ end }}
+      {{ end }}
+      
+      <!-- Build srcset based on available sizes -->
+      {{ $srcset := printf "%s %dw" $smallSrc.RelPermalink $smallSrc.Width }}
+      {{ $webpSrcset := printf "%s %dw" $smallWebp.RelPermalink $smallWebp.Width }}
+      
+      {{ if ne $mediumSrc $smallSrc }}
+        {{ $srcset = printf "%s, %s %dw" $srcset $mediumSrc.RelPermalink $mediumSrc.Width }}
+        {{ $webpSrcset = printf "%s, %s %dw" $webpSrcset $mediumWebp.RelPermalink $mediumWebp.Width }}
+      {{ end }}
+      
+      {{ if ne $largeSrc $mediumSrc }}
+        {{ $srcset = printf "%s, %s %dw" $srcset $largeSrc.RelPermalink $largeSrc.Width }}
+        {{ $webpSrcset = printf "%s, %s %dw" $webpSrcset $largeWebp.RelPermalink $largeWebp.Width }}
+      {{ end }}
+      
+      <picture>
+        <!-- WebP sources with lazy loading -->
+        <source 
+          type="image/webp" 
+          data-srcset="{{ $webpSrcset }}"
+          sizes="{{ $sizes }}"
+        >
+        
+        <!-- Original format sources with lazy loading -->
+        <source 
+          type="{{ $image.MediaType }}"
+          data-srcset="{{ $srcset }}"
+          sizes="{{ $sizes }}"
+        >
+        
+        <!-- Fallback image with lazy loading -->
+        <img 
+          src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
+          data-src="{{ $mediumSrc.RelPermalink }}" 
+          alt="{{ $alt }}" 
+          class="lazy-image {{ with $class }}{{ . }}{{ end }}"
+          {{ with $id }}id="{{ . }}"{{ end }}
+          {{ with $width }}width="{{ . }}"{{ end }}
+          {{ with $height }}height="{{ . }}"{{ end }}
+          loading="lazy"
+          decoding="async"
+        >
+      </picture>
+    {{ else }}
+      {{ $processedImage := $image }}
+      <img 
+        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
+        data-src="{{ $processedImage.RelPermalink }}" 
+        alt="{{ $alt }}" 
+        class="lazy-image {{ with $class }}{{ . }}{{ end }}"
+        {{ with $id }}id="{{ . }}"{{ end }}
+        {{ with $width }}width="{{ . }}"{{ end }}
+        {{ with $height }}height="{{ . }}"{{ end }}
+        loading="lazy"
+        decoding="async"
+      >
+    {{ end }}
+  {{ else }}
+    <img 
+      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
+      data-src="{{ $src }}" 
+      alt="{{ $alt }}" 
+      class="lazy-image {{ with $class }}{{ . }}{{ end }}"
+      {{ with $id }}id="{{ . }}"{{ end }}
+      {{ with $width }}width="{{ . }}"{{ end }}
+      {{ with $height }}height="{{ . }}"{{ end }}
+      loading="lazy"
+      decoding="async"
+    >
+  {{ end }}
+{{ else }}
+  <img 
+    src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
+    data-src="{{ $src }}" 
+    alt="{{ $alt }}" 
+    class="lazy-image {{ with $class }}{{ . }}{{ end }}"
+    {{ with $id }}id="{{ . }}"{{ end }}
+    {{ with $width }}width="{{ . }}"{{ end }}
+    {{ with $height }}height="{{ . }}"{{ end }}
+    loading="lazy"
+    decoding="async"
+  >
+{{ end }}

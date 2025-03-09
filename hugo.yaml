@@ -411,9 +411,32 @@ params:
     linkedin: "https://linkedin.com/company/confoot"
   copyright: " 2025 HZ-Containers. All rights reserved."
 
+# Image processing configuration
 imaging:
-  quality: 75
-  resampleFilter: Lanczos
+  quality: 85
+  resampleFilter: lanczos
+  anchor: smart
+  exif:
+    disableDate: true
+    disableLatLong: true
+  formats:
+    webp:
+      quality: 85
+  processingPresets:
+    small:
+      width: 100
+      quality: 85
+    medium:
+      width: 400
+      quality: 85
+    large:
+      width: 1024
+      quality: 85
+
+build:
+  hooks:
+    pre:
+      - bash ./scripts/simple_image_processor.sh
 
 markup:
   goldmark:

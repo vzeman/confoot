@@ -4,8 +4,9 @@
   "description": "ConFoot website",
   "private": true,
   "scripts": {
-    "build": "./build-pages.sh",
-    "dev": "hugo server",
+    "process-images": "bash ./scripts/simple_image_processor.sh",
+    "build": "npm run process-images && hugo --minify",
+    "dev": "hugo server -D",
     "deploy": "echo 'Skipping wrangler deploy - using Cloudflare Pages Functions instead'"
   },
   "repository": {

@@ -1,0 +1,141 @@
+{{/* 
+  Responsive picture partial with WebP support and multiple sizes
+  
+  Parameters:
+  - src: Image source path (required)
+  - alt: Alt text for accessibility (required)
+  - class: Additional CSS classes (optional)
+  - width: Image width (optional)
+  - height: Image height (optional)
+  - loading: Loading attribute (optional, default: "lazy")
+  - decoding: Decoding attribute (optional, default: "async")
+  - sizes: Sizes attribute (optional)
+*/}}
+
+{{ $src := .src }}
+{{ $alt := .alt | default "" }}
+{{ $class := .class | default "" }}
+{{ $width := .width | default "" }}
+{{ $height := .height | default "" }}
+{{ $loading := .loading | default "lazy" }}
+{{ $decoding := .decoding | default "async" }}
+{{ $sizes := .sizes | default "(min-width: 1024px) 1024px, (min-width: 400px) 400px, 100px" }}
+
+{{ $image := resources.Get $src }}
+{{ if $image }}
+  {{ $isJPEG := or (strings.HasSuffix $src ".jpg") (strings.HasSuffix $src ".jpeg") }}
+  {{ $isPNG := strings.HasSuffix $src ".png" }}
+  {{ $isWebPSupported := or $isJPEG $isPNG }}
+
+  {{ if $isWebPSupported }}
+    {{ $originalWidth := $image.Width }}
+    
+    {{ $smallWidth := 100 }}
+    {{ $mediumWidth := 400 }}
+    {{ $largeWidth := 1024 }}
+    
+    {{ $smallSrc := $image }}
+    {{ $mediumSrc := $image }}
+    {{ $largeSrc := $image }}
+    {{ $qualityOrig := site.Params.imaging.quality | default 85 }}
+    {{ $qualityWebp := site.Params.imaging.formats.webp.quality | default 85 }}
+    
+    {{ $smallWebp := $image.Resize (printf "%dx webp q%d" $smallWidth $qualityWebp) }}
+    {{ $mediumWebp := $smallWebp }}
+    {{ $largeWebp := $smallWebp }}
+    
+    <!-- Generate small size if original is larger -->
+    {{ if gt $originalWidth $smallWidth }}
+      {{ $smallSrc = $image.Resize (printf "%dx q%d" $smallWidth $qualityOrig) }}
+      {{ $smallWebp = $image.Resize (printf "%dx webp q%d" $smallWidth $qualityWebp) }}
+    {{ end }}
+    
+    <!-- Generate medium size if original is larger -->
+    {{ if gt $originalWidth $mediumWidth }}
+      {{ $mediumSrc = $image.Resize (printf "%dx q%d" $mediumWidth $qualityOrig) }}
+      {{ $mediumWebp = $image.Resize (printf "%dx webp q%d" $mediumWidth $qualityWebp) }}
+    {{ else }}
+      <!-- If original is smaller than medium size, use the original -->
+      {{ $mediumSrc = $image }}
+      {{ $mediumWebp = $smallWebp }}
+    {{ end }}
+    
+    <!-- Generate large size if original is larger -->
+    {{ if gt $originalWidth $largeWidth }}
+      {{ $largeSrc = $image.Resize (printf "%dx q%d" $largeWidth $qualityOrig) }}
+      {{ $largeWebp = $image.Resize (printf "%dx webp q%d" $largeWidth $qualityWebp) }}
+    {{ else }}
+      <!-- If original is smaller than large size, use the original or medium size -->
+      {{ if gt $originalWidth $mediumWidth }}
+        {{ $largeSrc = $mediumSrc }}
+        {{ $largeWebp = $mediumWebp }}
+      {{ else }}
+        {{ $largeSrc = $image }}
+        {{ $largeWebp = $smallWebp }}
+      {{ end }}
+    {{ end }}
+    
+    <!-- Build srcset based on available sizes -->
+    {{ $srcset := printf "%s %dw" $smallSrc.RelPermalink $smallSrc.Width }}
+    {{ $webpSrcset := printf "%s %dw" $smallWebp.RelPermalink $smallWebp.Width }}
+    
+    {{ if ne $mediumSrc $smallSrc }}
+      {{ $srcset = printf "%s, %s %dw" $srcset $mediumSrc.RelPermalink $mediumSrc.Width }}
+      {{ $webpSrcset = printf "%s, %s %dw" $webpSrcset $mediumWebp.RelPermalink $mediumWebp.Width }}
+    {{ end }}
+    
+    {{ if ne $largeSrc $mediumSrc }}
+      {{ $srcset = printf "%s, %s %dw" $srcset $largeSrc.RelPermalink $largeSrc.Width }}
+      {{ $webpSrcset = printf "%s, %s %dw" $webpSrcset $largeWebp.RelPermalink $largeWebp.Width }}
+    {{ end }}
+    
+    <picture>
+      <!-- WebP sources -->
+      <source 
+        type="image/webp" 
+        srcset="{{ $webpSrcset }}"
+        sizes="{{ $sizes }}"
+      >
+      
+      <!-- Original format sources -->
+      <source 
+        type="{{ $image.MediaType }}"
+        srcset="{{ $srcset }}"
+        sizes="{{ $sizes }}"
+      >
+      
+      <!-- Fallback image -->
+      <img 
+        src="{{ $mediumSrc.RelPermalink }}" 
+        alt="{{ $alt }}" 
+        {{ with $class }}class="{{ . }}"{{ end }}
+        {{ with $width }}width="{{ . }}"{{ end }}
+        {{ with $height }}height="{{ . }}"{{ end }}
+        loading="{{ $loading }}"
+        decoding="{{ $decoding }}"
+      >
+    </picture>
+  {{ else }}
+    {{ $processedImage := $image }}
+    <img 
+      src="{{ $processedImage.RelPermalink }}" 
+      alt="{{ $alt }}" 
+      {{ with $class }}class="{{ . }}"{{ end }}
+      {{ with $width }}width="{{ . }}"{{ end }}
+      {{ with $height }}height="{{ . }}"{{ end }}
+      loading="{{ $loading }}"
+      decoding="{{ $decoding }}"
+    >
+  {{ end }}
+{{ else }}
+  <!-- Fallback for external images or images that can't be processed -->
+  <img 
+    src="{{ $src }}" 
+    alt="{{ $alt }}" 
+    {{ with $class }}class="{{ . }}"{{ end }}
+    {{ with $width }}width="{{ . }}"{{ end }}
+    {{ with $height }}height="{{ . }}"{{ end }}
+    loading="{{ $loading }}"
+    decoding="{{ $decoding }}"
+  >
+{{ end }}
