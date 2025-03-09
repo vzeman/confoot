@@ -22,7 +22,7 @@
       <!-- Right Box - Main Image -->
       <div class="product-image-column">
         <div class="product-main-image-box">
-          {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "id" "main-product-image") }}
+          <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}" id="main-product-image" class="product-image">
         </div>
       </div>
     </div>
@@ -30,11 +30,11 @@
     <!-- Gallery Section - Small boxes in one row -->
     <div class="product-gallery-section">
       <div class="gallery-thumbnail active" data-image="{{ .Params.mainImage | relURL }}">
-        {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" (print .Title " - main")) }}
+        <img src="{{ .Params.mainImage | relURL }}" alt="{{ print .Title " - main" }}" class="thumbnail-img">
       </div>
       {{ range .Params.gallery }}
         <div class="gallery-thumbnail" data-image="{{ . | relURL }}">
-          {{ partial "lazyimg.html" (dict "src" (. | relURL) "alt" (print $.Title " - gallery image")) }}
+          <img src="{{ . | relURL }}" alt="{{ print $.Title " - gallery image" }}" class="thumbnail-img">
         </div>
       {{ end }}
     </div>
@@ -167,25 +167,5 @@
 </div>
 
 <!-- JavaScript for gallery image switcher -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Gallery image switcher
-    const thumbnails = document.querySelectorAll('.gallery-thumbnail');
-    const mainImage = document.getElementById('main-product-image');
-    
-    thumbnails.forEach(thumbnail => {
-      thumbnail.addEventListener('click', function() {
-        // Remove active class from all thumbnails
-        thumbnails.forEach(thumb => thumb.classList.remove('active'));
-        
-        // Add active class to clicked thumbnail
-        this.classList.add('active');
-        
-        // Update main image
-        const imageUrl = this.getAttribute('data-image');
-        mainImage.src = imageUrl;
-      });
-    });
-  });
-</script>
+<script src="/js/lazy-loading.js"></script>
 {{ end }}

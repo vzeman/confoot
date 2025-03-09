@@ -39,83 +39,8 @@
 
   <!-- Removed direct JS include since we're using the asset pipeline in the head -->
   
-  <!-- Direct script for lazy loading -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      // Get all lazy images
-      const lazyImages = document.querySelectorAll('img.lazy-image');
-      
-      // Get all lazy SVGs
-      const lazySvgs = document.querySelectorAll('object.lazy-svg');
-      
-      if ('IntersectionObserver' in window) {
-        // Image observer
-        const imageObserver = new IntersectionObserver(function(entries, observer) {
-          entries.forEach(function(entry) {
-            if (entry.isIntersecting) {
-              const img = entry.target;
-              
-              // Set the src to what's in data-src
-              img.src = img.dataset.src;
-              
-              // Once the image is loaded, add the 'loaded' class
-              img.onload = function() {
-                img.classList.add('loaded');
-              };
-              
-              // Stop watching this image
-              observer.unobserve(img);
-            }
-          });
-        }, {
-          rootMargin: '50px 0px',
-          threshold: 0.01
-        });
-        
-        // SVG observer
-        const svgObserver = new IntersectionObserver(function(entries, observer) {
-          entries.forEach(function(entry) {
-            if (entry.isIntersecting) {
-              const svg = entry.target;
-              
-              // Set the data attribute to what's in data-src
-              svg.setAttribute('data', svg.dataset.src);
-              
-              // Add the 'loaded' class
-              svg.classList.add('loaded');
-              
-              // Stop watching this SVG
-              observer.unobserve(svg);
-            }
-          });
-        }, {
-          rootMargin: '50px 0px',
-          threshold: 0.01
-        });
-        
-        // Observe all lazy images
-        lazyImages.forEach(function(img) {
-          imageObserver.observe(img);
-        });
-        
-        // Observe all lazy SVGs
-        lazySvgs.forEach(function(svg) {
-          svgObserver.observe(svg);
-        });
-      } else {
-        // Fallback for browsers without IntersectionObserver
-        lazyImages.forEach(function(img) {
-          img.src = img.dataset.src;
-          img.classList.add('loaded');
-        });
-        
-        lazySvgs.forEach(function(svg) {
-          svg.setAttribute('data', svg.dataset.src);
-          svg.classList.add('loaded');
-        });
-      }
-    });
-  </script>
+  <!-- Global lazy loading script -->
+  <script src="{{ "js/lazy-loading.js" | relURL }}"></script>
   
   <!-- Lazy video loading script -->
   {{ $lazyVideoJS := resources.Get "js/lazyvideo.js" | resources.Minify }}

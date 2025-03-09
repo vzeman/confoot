@@ -1,0 +1,161 @@
+/**
+ * ConFoot Lazy Loading and Gallery Image Switcher
+ * 
+ * This script handles:
+ * 1. Lazy loading of images using IntersectionObserver
+ * 2. Lazy loading of SVGs
+ * 3. Gallery image switching functionality
+ */
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Initialize lazy loading for images
+  initLazyLoading();
+  
+  // Initialize lazy loading for SVGs
+  initLazySvgLoading();
+  
+  // Initialize gallery image switchers
+  initGallerySwitchers();
+  
+  // Log that initialization is complete
+  console.log('ConFoot image handlers initialized');
+});
+
+/**
+ * Initialize lazy loading for all images with the lazy-image class
+ */
+function initLazyLoading() {
+  const lazyImages = document.querySelectorAll('img.lazy-image');
+  
+  if ('IntersectionObserver' in window) {
+    const imageObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          const image = entry.target;
+          
+          // Load the image
+          if (image.dataset.src) {
+            image.src = image.dataset.src;
+          }
+          
+          // Load srcset for parent sources if they exist
+          if (image.parentElement.tagName.toLowerCase() === 'picture') {
+            const sources = image.parentElement.querySelectorAll('source');
+            sources.forEach(source => {
+              if (source.dataset.srcset) {
+                source.srcset = source.dataset.srcset;
+              }
+            });
+          }
+          
+          // Once the image is loaded, add the 'loaded' class
+          image.onload = function() {
+            image.classList.add('loaded');
+          };
+          
+          imageObserver.unobserve(image);
+        }
+      });
+    }, {
+      rootMargin: '50px 0px',
+      threshold: 0.01
+    });
+    
+    lazyImages.forEach(function(image) {
+      imageObserver.observe(image);
+    });
+  } else {
+    // Fallback for browsers that don't support IntersectionObserver
+    lazyImages.forEach(function(image) {
+      image.src = image.dataset.src;
+      image.classList.add('loaded');
+    });
+  }
+}
+
+/**
+ * Initialize lazy loading for all SVGs with the lazy-svg class
+ */
+function initLazySvgLoading() {
+  const lazySvgs = document.querySelectorAll('object.lazy-svg');
+  
+  if ('IntersectionObserver' in window) {
+    const svgObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          const svg = entry.target;
+          
+          // Set the data attribute to what's in data-src
+          svg.setAttribute('data', svg.dataset.src);
+          
+          // Add the 'loaded' class
+          svg.classList.add('loaded');
+          
+          // Stop watching this SVG
+          observer.unobserve(svg);
+        }
+      });
+    }, {
+      rootMargin: '50px 0px',
+      threshold: 0.01
+    });
+    
+    lazySvgs.forEach(function(svg) {
+      svgObserver.observe(svg);
+    });
+  } else {
+    // Fallback for browsers without IntersectionObserver
+    lazySvgs.forEach(function(svg) {
+      svg.setAttribute('data', svg.dataset.src);
+      svg.classList.add('loaded');
+    });
+  }
+}
+
+/**
+ * Initialize gallery image switchers for product galleries
+ */
+function initGallerySwitchers() {
+  console.log('Initializing gallery switchers');
+  
+  // Get all gallery thumbnails
+  const thumbnails = document.querySelectorAll('.gallery-thumbnail');
+  if (thumbnails.length === 0) {
+    console.log('No gallery thumbnails found');
+    return;
+  }
+  
+  console.log(`Found ${thumbnails.length} gallery thumbnails`);
+  
+  // Get the main product image
+  const mainProductImage = document.getElementById('main-product-image');
+  if (!mainProductImage) {
+    console.log('Main product image not found');
+    return;
+  }
+  
+  // Add click event listeners to each thumbnail
+  thumbnails.forEach(thumbnail => {
+    thumbnail.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      // Remove active class from all thumbnails
+      thumbnails.forEach(thumb => thumb.classList.remove('active'));
+      
+      // Add active class to clicked thumbnail
+      this.classList.add('active');
+      
+      // Get the image URL from data attribute
+      const imageUrl = this.getAttribute('data-image');
+      if (!imageUrl) {
+        console.error('No data-image attribute found on thumbnail');
+        return;
+      }
+      
+      console.log('Switching to image:', imageUrl);
+      
+      // Simple approach - directly update the main image src
+      mainProductImage.src = imageUrl;
+    });
+  });
+}
