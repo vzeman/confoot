@@ -20,8 +20,8 @@ specifications:
     value: "High-grade alloy steel"
   - name: "Height range"
     value: "1,043 mm to 1,448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Premium service package available. Contact our sales team for details."
 buyLink: "/contact"
 howToUse: |

@@ -24,11 +24,16 @@
   {{ with $id }}id="{{ . }}"{{ end }}
 >
   <div class="lazy-video-thumbnail">
-    {{ partial "lazyimg.html" (dict 
-      "src" (print "https://img.youtube.com/vi/" $videoID "/hqdefault.jpg") 
-      "alt" (print "Thumbnail for " $title)
-      "class" "lazy-video-thumb-img"
-    ) }}
+    <img 
+      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3C/svg%3E"
+      data-src="https://img.youtube.com/vi/{{ $videoID }}/hqdefault.jpg" 
+      alt="Thumbnail for {{ $title }}"
+      class="lazy-video-thumb-img lazy-image"
+      data-video-id="{{ $videoID }}"
+      loading="lazy"
+      decoding="async"
+      onload="this.onload=null; if(this.dataset.src === this.src) findBestThumbnail(this);"
+    />
     <div class="lazy-video-play-button">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
         <path d="M8 5v14l11-7z"/>
@@ -39,3 +44,99 @@
     <!-- YouTube iframe will be inserted here when clicked -->
   </div>
 </div>
+
+<script>
+  // Function to find the best available thumbnail quality
+  function findBestThumbnail(img) {
+    const videoId = img.getAttribute('data-video-id');
+    if (!videoId) return;
+    
+    // List of thumbnail qualities to try, from highest to lowest
+    const qualities = [
+      { name: 'maxresdefault', minWidth: 1280, minHeight: 720 },
+      { name: 'sddefault', minWidth: 640, minHeight: 480 },
+      { name: 'hqdefault', minWidth: 480, minHeight: 360 }
+    ];
+    
+    // Start with the highest quality and work down
+    tryNextQuality(img, videoId, qualities, 0);
+  }
+  
+  function tryNextQuality(img, videoId, qualities, index) {
+    // If we've tried all qualities, stop
+    if (index >= qualities.length) return;
+    
+    const quality = qualities[index];
+    const testUrl = `https://img.youtube.com/vi/${videoId}/${quality.name}.jpg`;
+    
+    const testImg = new Image();
+    
+    testImg.onload = function() {
+      // Check if the image meets the minimum dimensions
+      // This helps filter out placeholder images
+      if (testImg.width >= quality.minWidth && testImg.height >= quality.minHeight) {
+        // This quality is good, use it
+        img.src = testUrl;
+      } else {
+        // Try the next quality
+        tryNextQuality(img, videoId, qualities, index + 1);
+      }
+    };
+    
+    testImg.onerror = function() {
+      // Error loading this quality, try the next one
+      tryNextQuality(img, videoId, qualities, index + 1);
+    };
+    
+    // Start loading the test image
+    testImg.src = testUrl;
+  }
+  
+  // Initialize lazy loading for images if not already done
+  document.addEventListener('DOMContentLoaded', function() {
+    if (typeof initLazyImages !== 'function') {
+      // Define the lazy loading function if it doesn't exist yet
+      window.initLazyImages = function() {
+        const lazyImages = document.querySelectorAll('img.lazy-image');
+        
+        if ('IntersectionObserver' in window) {
+          const imageObserver = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(function(entry) {
+              if (entry.isIntersecting) {
+                const image = entry.target;
+                if (image.dataset.src) {
+                  image.src = image.dataset.src;
+                  
+                  // For YouTube thumbnails, find the best quality after loading the initial image
+                  if (image.classList.contains('lazy-video-thumb-img') && image.dataset.videoId) {
+                    image.addEventListener('load', function() {
+                      findBestThumbnail(image);
+                    }, { once: true });
+                  }
+                }
+                
+                imageObserver.unobserve(image);
+              }
+            });
+          });
+          
+          lazyImages.forEach(function(image) {
+            imageObserver.observe(image);
+          });
+        } else {
+          // Fallback for browsers that don't support IntersectionObserver
+          lazyImages.forEach(function(image) {
+            image.src = image.dataset.src || image.src;
+          });
+        }
+      };
+      
+      // Initialize lazy loading
+      initLazyImages();
+      
+      // Re-check on window resize and orientation change
+      window.addEventListener('resize', initLazyImages);
+      window.addEventListener('orientationchange', initLazyImages);
+    }
+  });
+</script>

@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Material"
     value: "Oțel de înaltă calitate"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Reduceri la volume disponibile. Contactați-ne pentru oferte personalizate."
 buyLink: "/contact"
 howToUse: |

@@ -20,8 +20,8 @@ specifications:
     value: "Hochwertiger legierter Stahl"
   - name: "Höhenbereich"
     value: "1.043 mm bis 1.448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Premium-Service-Paket verfügbar. Kontaktieren Sie unser Vertriebsteam für Details."
 buyLink: "/contact"
 howToUse: |

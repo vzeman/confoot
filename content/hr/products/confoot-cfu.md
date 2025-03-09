@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Materijal"
     value: "Visokokvalitetni čelik"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Dostupni popusti za veće količine. Obratite nam se za prilagođene ponude."
 buyLink: "/contact"
 howToUse: |

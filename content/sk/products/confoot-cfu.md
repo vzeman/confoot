@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Materiál"
     value: "Vysoko kvalitná oceľ"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "K dispozícii sú objemové zľavy. Pre individuálne ponuky nás kontaktujte."
 buyLink: "/contact"
 howToUse: |

@@ -20,8 +20,8 @@ specifications:
     value: "Vysoce kvalitní ocelová slitina"
   - name: "Rozsah výšky"
     value: "1 043 mm až 1 448 mm"
-price: "88.500,- Kč bez DPH"
-priceVAT: "107.085,- Kč včetně DPH"
+price: "88.500,- Kč"
+priceVAT: "107.085,- Kč"
 pricingNotes: "Dostupný prémiový servisní balíček. Pro bližší informace kontaktujte náš prodejní tým."
 buyLink: "/contact"
 howToUse: |

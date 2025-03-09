@@ -20,8 +20,8 @@ specifications:
     value: "Vysoko kvalitná zliatinová oceľ"
   - name: "Nastaviteľný výškový rozsah"
     value: "1 043 mm až 1 448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Dostupný je prémiový servisný balík. Kontaktujte náš obchodný tím pre viac informácií."
 buyLink: "/contact"
 howToUse: |

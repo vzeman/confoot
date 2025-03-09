@@ -12,8 +12,8 @@
             {{ .Params.shortDescription | markdownify }}
           </div>
           <div class="product-price-section">
-            <div class="price-tag">{{ .Params.price }}</div>
-            <div class="price-tag">{{ .Params.priceVAT }}</div>
+            <div class="price-tag">{{ .Params.price }} ({{ i18n "excl_vat" }})</div>
+            <div class="price-tag">{{ .Params.priceVAT }} ({{ i18n "vat_included" }})</div>
             <div class="pricing-notes">{{ .Params.pricingNotes | markdownify }}</div>
           </div>
         </div>

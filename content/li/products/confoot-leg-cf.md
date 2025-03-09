@@ -20,8 +20,8 @@ specifications:
     value: "Hoogwaardig staal"
   - name: "Hoogtebereik"
     value: "1.043 mm tot 1.448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Grootschalige priesverlaging möt veur vledjoperators. Neem contact mit ós op veur details."
 buyLink: "/contact"
 howToUse: |

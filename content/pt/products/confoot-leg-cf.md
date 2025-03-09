@@ -20,8 +20,8 @@ specifications:
     value: "Aço de alta qualidade"
   - name: "Faixa de Altura"
     value: "1.043 mm a 1.448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Preços especiais para compras em grande quantidade disponíveis para operadores de frotas. Entre em contato para mais detalhes."
 buyLink: "/contact"
 howToUse: |

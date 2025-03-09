@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Υλικό"
     value: "Υψηλής ποιότητας χάλυβας"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Διατίθενται εκπτώσεις σε όγκους. Επικοινωνήστε μαζί μας για εξατομικευμένες προσφορές."
 buyLink: "/contact"
 howToUse: |

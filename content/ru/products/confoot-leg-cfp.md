@@ -20,8 +20,8 @@ specifications:
     value: "Высококачественная легированная сталь"
   - name: "Диапазон высот"
     value: "1,043 мм до 1,448 мм"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Доступен премиум-сервис. Свяжитесь с нашей командой продаж для получения подробной информации."
 buyLink: "/contact"
 howToUse: |

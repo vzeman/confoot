@@ -1,8 +1,0 @@
-# Cloudflare Pages configuration
-name = 'confoot'
-compatibility_date = "2023-12-01"
-
-# This is the key property needed for Pages
-[site]
-bucket = "./public"
-pages_build_output_dir = "public"

@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Medžiaga"
     value: "Aukštos kokybės plienas"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Galimi kiekio nuolaidos. Susisiekite su mumis dėl individualių pasiūlymų."
 buyLink: "/contact"
 howToUse: |

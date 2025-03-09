@@ -20,8 +20,8 @@ specifications:
     value: "Κραματοποιημένο υψηλής ποιότητας ατσάλι"
   - name: "Εύρος Ύψους"
     value: "1,043 mm έως 1,448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Διατίθεται πακέτο premium υπηρεσιών. Επικοινωνήστε με την ομάδα πωλήσεών μας για λεπτομέρειες."
 buyLink: "/contact"
 howToUse: |

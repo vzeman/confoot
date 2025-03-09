@@ -20,8 +20,8 @@ specifications:
     value: "Acero de aleación de alta calidad"
   - name: "Rango de altura"
     value: "1.043 mm a 1.448 mm"
-price: "3.600 EUR sin IVA"
-priceVAT: "4.356 EUR con IVA incluido"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR con"
 pricingNotes: "Paquete de servicio premium disponible. Contacte a nuestro equipo de ventas para más detalles."
 buyLink: "/contact"
 howToUse: |

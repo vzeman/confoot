@@ -20,8 +20,8 @@ specifications:
     value: "Hochwäärter Stahl"
   - name: "Höhenbereich"
     value: "1.043 mm bis 1.448 mm"
-price: "3.600 EUR zzgl. MwSt"
-priceVAT: "4.356 EUR inkl. MwSt"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Mengenrabatt verfügbar für Flottenbetreiber. Nimm Kontakt mit üs uf für Detail."
 buyLink: "/contact"
 howToUse: |

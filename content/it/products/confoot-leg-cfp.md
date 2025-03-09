@@ -20,8 +20,8 @@ specifications:
     value: "Acciaio legato di alta qualità"
   - name: "Intervallo di altezza"
     value: "1,043 mm a 1,448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Pacchetto di assistenza premium disponibile. Contatta il nostro team commerciale per ulteriori dettagli."
 buyLink: "/contact"
 howToUse: |

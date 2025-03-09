@@ -20,8 +20,8 @@ specifications:
     value: "Oțel aliat de înaltă calitate"
   - name: "Interval de înălțime"
     value: "1.043 mm până la 1.448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Pachet de servicii premium disponibil. Contactați echipa noastră de vânzări pentru detalii."
 buyLink: "/contact"
 howToUse: |

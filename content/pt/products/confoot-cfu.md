@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 cm"
   - name: "Material"
     value: "Aço de alta qualidade"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Descontos por volume disponíveis. Entre em contato para orçamentos personalizados."
 buyLink: "/contact"
 howToUse: |

@@ -1,9 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-<!-- Favicon -->
-<link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon.png" | absURL }}">
-<link rel="shortcut icon" href="{{ "favicon.ico" | absURL }}">
+
 {{ partialCached "head/css.html" . }}
 {{ if eq .Type "products" }}
   {{ partial "head/product-css.html" . }}

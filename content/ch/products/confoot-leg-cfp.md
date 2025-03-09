@@ -20,8 +20,8 @@ specifications:
     value: "Hochwertiger Legierungsstahl"
   - name: "Höchi-Bereich"
     value: "1.043 mm bis 1.448 mm"
-price: "3.600 EUR zzgl. MwSt"
-priceVAT: "4.356 EUR inkl. MwSt"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Premium-Servicepaket verfügbar. Bitte kontaktier dä Verkaufs-Team für Details."
 buyLink: "/contact"
 howToUse: |
@@ -100,5 +100,5 @@ articleContent: |
   ### Features vo dr nöchste Generation
   D'nöchste Generation vo dr ConFoot-leg CFP wird voraussichtlich integrierte digitali Funktione ufweise, wo e nahtlose Integration mit Industry 4.0-Systeme ermögliche. Under Entwicklung stöh au RFID-Tracking, Fernüberwachigs-Fähigkeiten und Kompatibilität mit Lagersysteme uf em Plan. Zusätzlich prüefe mir automatisiert Einstellmechanismen, wo d'Präzision no zäme verbessere und dr Bedienigsufwand senke chönnten. Diese Fortschrittlichkeit wird sicherstelle, dass ds CFP d'wachsende Bedingige vo spezialisierte Container-Operatione inere immer digitaler und automatisierter industrielle Landschaft erfülle.
 
-  Die laufendi Entwicklige spiegelä üses Engagement für Innovation und Exzellenz in de Container-Handhabigs-Lösige wider und sichered, dass d'ConFoot-leg CFP am Puls vo dr spezialisierte Container-Handhabigs-Technologie bleibt.
+  Die laufende Entwicklige spiegelä üses Engagement für Innovation und Exzellenz in de Container-Handhabigs-Lösige wider und sichered, dass d'ConFoot-leg CFP am Puls vo dr spezialisierte Container-Handhabigs-Technologie bleibt.
 ---

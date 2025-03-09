@@ -18,8 +18,8 @@ specifications:
     value: "45 × 30 × 25 см"
   - name: "Материал"
     value: "Высококачественная сталь"
-price: "6.350 EUR excl. VAT"
-priceVAT: "7.684 EUR VAT included"
+price: "6.350 EUR"
+priceVAT: "7.684 EUR"
 pricingNotes: "Доступны скидки при оптовых закупках. Свяжитесь с нами для получения индивидуальных предложений."
 buyLink: "/contact"
 howToUse: |

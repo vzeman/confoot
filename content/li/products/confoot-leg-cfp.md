@@ -20,8 +20,8 @@ specifications:
     value: "Hoogwaardig legerstaal"
   - name: "Hoogtebereik"
     value: "1,043 mm tot 1,448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
 pricingNotes: "Premium servicepakket beschikbaar. Neem contact op mit ós verkoapsteam veur details."
 buyLink: "/contact"
 howToUse: |

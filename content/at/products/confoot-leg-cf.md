@@ -20,9 +20,9 @@ specifications:
     value: "Hochwertiger Stahl"
   - name: "Höhenbereich"
     value: "1.043 mm bis 1.448 mm"
-price: "3.600 EUR excl. VAT"
-priceVAT: "4.356 EUR VAT included"
-pricingNotes: "Mengenpreise für Flottenbetreiber erhältlich. Kontaktieren Sie uns für weitere Details."
+price: "3.600 EUR"
+priceVAT: "4.356 EUR"
+pricingNotes: "Mengenrabatte verfügbar. Kontaktieren Sie uns für individuelle Angebote."
 buyLink: "/contact"
 howToUse: |
   1. Befestigen Sie das CF-Bein am Eckguss des Containers
