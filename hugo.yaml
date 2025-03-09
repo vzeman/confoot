@@ -62,10 +62,14 @@ languages:
           name: Produkty
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: O nás
           url: /about
-          weight: 3
+          weight: 4
 
   sk:
     languageName: Slovenčina
@@ -87,10 +91,14 @@ languages:
           name: Produkty
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: O nás
           url: /about
-          weight: 3
+          weight: 4
 
   gr:
     languageName: Ελληνικά
@@ -112,10 +120,14 @@ languages:
           name: Προϊόντα
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Σχετικά με εμάς
           url: /about
-          weight: 3
+          weight: 4
 
   hr:
     languageName: Hrvatski
@@ -137,10 +149,14 @@ languages:
           name: Proizvodi
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: O nama
           url: /about
-          weight: 3
+          weight: 4
 
   lt:
     languageName: Lietuvių
@@ -162,10 +178,14 @@ languages:
           name: Produktai
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Apie mus
           url: /about
-          weight: 3
+          weight: 4
 
   ru:
     languageName: Русский
@@ -187,10 +207,14 @@ languages:
           name: Продукты
           url: /products
           weight: 2
+        - identifier: blog
+          name: Блог
+          url: /blog
+          weight: 3
         - identifier: about
           name: О нас
           url: /about
-          weight: 3
+          weight: 4
 
   lv:
     languageName: Latviešu
@@ -212,10 +236,14 @@ languages:
           name: Produkti
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Par mums
           url: /about
-          weight: 3
+          weight: 4
 
   sl:
     languageName: Slovenščina
@@ -237,10 +265,14 @@ languages:
           name: Izdelki
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: O nas
           url: /about
-          weight: 3
+          weight: 4
 
   ro:
     languageName: Română
@@ -262,10 +294,14 @@ languages:
           name: Produse
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Despre noi
           url: /about
-          weight: 3
+          weight: 4
 
   li:
     languageName: Deutsch (Liechtenstein)
@@ -287,10 +323,14 @@ languages:
           name: Produkte
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Über uns
           url: /about
-          weight: 3
+          weight: 4
 
   at:
     languageName: Deutsch (Österreich)
@@ -312,10 +352,14 @@ languages:
           name: Produkte
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Über uns
           url: /about
-          weight: 3
+          weight: 4
 
   ch:
     languageName: Deutsch (Schweiz)
@@ -337,10 +381,14 @@ languages:
           name: Produkte
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Über uns
           url: /about
-          weight: 3
+          weight: 4
 
   de:
     languageName: Deutsch
@@ -362,10 +410,14 @@ languages:
           name: Produkte
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Über uns
           url: /about
-          weight: 3
+          weight: 4
 
   pt:
     languageName: Português
@@ -387,10 +439,14 @@ languages:
           name: Produtos
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Sobre nós
           url: /about
-          weight: 3
+          weight: 4
 
   es:
     languageName: Español
@@ -412,10 +468,14 @@ languages:
           name: Productos
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Sobre nosotros
           url: /about
-          weight: 3
+          weight: 4
 
   it:
     languageName: Italiano
@@ -437,10 +497,14 @@ languages:
           name: Prodotti
           url: /products
           weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
         - identifier: about
           name: Chi siamo
           url: /about
-          weight: 3
+          weight: 4
 
 params:
   contact:
