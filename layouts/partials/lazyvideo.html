@@ -1,0 +1,41 @@
+{{/* 
+  Lazy-loaded YouTube video partial
+  
+  Parameters:
+  - videoID: YouTube video ID (required)
+  - title: Video title for accessibility (required)
+  - class: Additional CSS classes (optional)
+  - width: Video width (optional, default: 100%)
+  - height: Video height (optional, default: auto)
+  - id: Optional ID attribute
+*/}}
+
+{{ $videoID := .videoID }}
+{{ $title := .title | default "YouTube Video" }}
+{{ $class := .class | default "" }}
+{{ $width := .width | default "100%" }}
+{{ $height := .height | default "auto" }}
+{{ $id := .id | default (print "youtube-" $videoID) }}
+
+<div 
+  class="lazy-video-container {{ with $class }}{{ . }}{{ end }}"
+  data-video-id="{{ $videoID }}"
+  data-video-title="{{ $title }}"
+  {{ with $id }}id="{{ . }}"{{ end }}
+>
+  <div class="lazy-video-thumbnail">
+    {{ partial "lazyimg.html" (dict 
+      "src" (print "https://img.youtube.com/vi/" $videoID "/hqdefault.jpg") 
+      "alt" (print "Thumbnail for " $title)
+      "class" "lazy-video-thumb-img"
+    ) }}
+    <div class="lazy-video-play-button">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M8 5v14l11-7z"/>
+      </svg>
+    </div>
+  </div>
+  <div class="lazy-video-iframe-container">
+    <!-- YouTube iframe will be inserted here when clicked -->
+  </div>
+</div>

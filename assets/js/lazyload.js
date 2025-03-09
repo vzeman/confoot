@@ -28,7 +28,6 @@
               img.removeAttribute('data-src');
               img.removeAttribute('data-srcset');
               img.classList.add('loaded');
-              console.log('Image loaded:', img.src);
             };
             
             // Stop observing the image

@@ -2,18 +2,14 @@
 export async function onRequest(context) {
   try {
     // Log the start of function execution
-    console.log('Middleware started, URL:', context.request.url);
-    
     // Extract hostname from request headers
     const host = context.request.headers.get('host') || '';
     const hostname = host.toLowerCase();
-    console.log('Hostname from headers:', hostname);
     
     // Get the path from the URL
     const urlString = context.request.url;
     const pathMatch = urlString.match(/https?:\/\/[^\/]+(\/.*)/);
     const path = pathMatch ? pathMatch[1] : '/';
-    console.log('Path:', path);
     
     // Default to English
     let lang = 'en';
@@ -69,8 +65,6 @@ export async function onRequest(context) {
       }
     }
     
-    console.log('Selected language:', lang);
-    
     // Check if the path already has a language prefix
     const allLangsPattern = new RegExp(`^\\/(${Object.values(domainLanguageMap).join('|')})(?:\\/|$)`);
     
@@ -85,7 +79,6 @@ export async function onRequest(context) {
         const pathWithoutLang = path.replace(allLangsPattern, '/');
         const cleanPath = pathWithoutLang === '/' ? '/' : pathWithoutLang;
         
-        console.log('Removing incorrect language prefix, redirecting to:', cleanPath);
         return new Response(null, {
           status: 301, // Permanent redirect
           headers: {
@@ -100,7 +93,6 @@ export async function onRequest(context) {
         const pathWithoutLang = path.replace(allLangsPattern, '/');
         const cleanPath = pathWithoutLang === '/' ? '/' : pathWithoutLang;
         
-        console.log('Removing language prefix to keep URL clean, redirecting to:', cleanPath);
         return new Response(null, {
           status: 301, // Permanent redirect
           headers: {
@@ -118,9 +110,7 @@ export async function onRequest(context) {
     const url = new URL(context.request.url);
     const langPath = `/${lang}${path === '/' ? '/' : path}`;
     url.pathname = langPath;
-    
-    console.log('Internally rewriting request to:', url.pathname);
-    
+
     // Create a new request with the modified URL
     const newRequest = new Request(url.toString(), {
       method: context.request.method,

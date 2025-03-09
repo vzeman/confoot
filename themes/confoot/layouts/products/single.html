@@ -65,7 +65,7 @@
       <div class="section-content">
         <div class="product-video-container">
           {{ if .Params.videoID }}
-            <iframe class="product-video" src="https://www.youtube.com/embed/{{ .Params.videoID }}" title="{{ .Title }} in action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            {{ partial "lazyvideo.html" (dict "videoID" .Params.videoID "title" (print .Title " in action")) }}
           {{ else }}
             <div class="video-placeholder">
               <p>{{ i18n "video_coming_soon" | default "Video demonstration coming soon" }}</p>
@@ -113,7 +113,7 @@
       <div class="section-content">
         <p class="transport-description">It has never been easier to transport ConFoot legs attached directly on the truck. Watch this video to see how simple it is.</p>
         <div class="product-video-container">
-          <iframe class="product-video" src="https://www.youtube.com/embed/46GKp56AVV8" title="How to transport ConFoot container legs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "lazyvideo.html" (dict "videoID" "46GKp56AVV8" "title" "How to transport ConFoot container legs") }}
         </div>
       </div>
     </div>

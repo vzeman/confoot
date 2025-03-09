@@ -12,6 +12,10 @@
   <!-- CSS using the proper asset pipeline -->
   {{ partial "head/css.html" . }}
   
+  <!-- Lazy video loading CSS -->
+  {{ $lazyVideoCSS := resources.Get "css/lazy-videos.css" | resources.Minify }}
+  <link rel="stylesheet" href="{{ $lazyVideoCSS.RelPermalink }}">
+  
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -40,11 +44,9 @@
     document.addEventListener('DOMContentLoaded', function() {
       // Get all lazy images
       const lazyImages = document.querySelectorAll('img.lazy-image');
-      console.log('Found ' + lazyImages.length + ' lazy images');
       
       // Get all lazy SVGs
       const lazySvgs = document.querySelectorAll('object.lazy-svg');
-      console.log('Found ' + lazySvgs.length + ' lazy SVGs');
       
       if ('IntersectionObserver' in window) {
         // Image observer
@@ -52,7 +54,6 @@
           entries.forEach(function(entry) {
             if (entry.isIntersecting) {
               const img = entry.target;
-              console.log('Loading image:', img.dataset.src);
               
               // Set the src to what's in data-src
               img.src = img.dataset.src;
@@ -60,7 +61,6 @@
               // Once the image is loaded, add the 'loaded' class
               img.onload = function() {
                 img.classList.add('loaded');
-                console.log('Image loaded:', img.src);
               };
               
               // Stop watching this image
@@ -77,7 +77,6 @@
           entries.forEach(function(entry) {
             if (entry.isIntersecting) {
               const svg = entry.target;
-              console.log('Loading SVG:', svg.dataset.src);
               
               // Set the data attribute to what's in data-src
               svg.setAttribute('data', svg.dataset.src);
@@ -117,5 +116,9 @@
       }
     });
   </script>
+  
+  <!-- Lazy video loading script -->
+  {{ $lazyVideoJS := resources.Get "js/lazyvideo.js" | resources.Minify }}
+  <script src="{{ $lazyVideoJS.RelPermalink }}"></script>
 </body>
 </html>

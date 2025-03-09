@@ -38,17 +38,17 @@
     <div class="videos-grid">
       <div class="video-item">
         <div class="video-container">
-          <iframe src="https://www.youtube.com/embed/ezLa_i53gxk" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "lazyvideo.html" (dict "videoID" "ezLa_i53gxk" "title" "ConFoot Demo Video") }}
         </div>
       </div>
       <div class="video-item">
         <div class="video-container">
-          <iframe src="https://www.youtube.com/embed/d8UlScd8254" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "lazyvideo.html" (dict "videoID" "d8UlScd8254" "title" "ConFoot Demo Video") }}
         </div>
       </div>
       <div class="video-item">
         <div class="video-container">
-          <iframe src="https://www.youtube.com/embed/lFIycgAhjVg" title="ConFoot Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "lazyvideo.html" (dict "videoID" "lFIycgAhjVg" "title" "ConFoot Demo Video") }}
         </div>
       </div>
     </div>
