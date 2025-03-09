@@ -12,7 +12,7 @@
             {{ partial "lazyimg.html" (dict "src" .Params.image "alt" .Title "class" "rounded-lg shadow-md") }}
           </div>
         {{ end }}
-        {{ .Content }}
+        {{ partial "process-content.html" .Content }}
       </div>
     </article>
     

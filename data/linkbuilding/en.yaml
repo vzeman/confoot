@@ -1,0 +1,26 @@
+keywords:
+  - keyword: "shipping container legs"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 3
+    title: "Learn more about ConFoot shipping container legs"
+  - keyword: "ConFoot CF"
+    url: "/products/confoot-leg-cf"
+    exact: true
+    priority: 5
+    title: "ConFoot CF container legs - Specifications and details"
+  - keyword: "ConFoot CFP"
+    url: "/products/confoot-leg-cfp"
+    exact: true
+    priority: 5
+    title: "ConFoot CFP container legs - Specifications and details"
+  - keyword: "ConFoot CFU"
+    url: "/products/confoot-cfu"
+    exact: true
+    priority: 5
+    title: "ConFoot CFU container legs - Specifications and details"
+  - keyword: "container handling"
+    url: "/blog/benefits-of-confoot-container-legs"
+    exact: false
+    priority: 2
+    title: "Discover the benefits of ConFoot container legs for efficient container handling"

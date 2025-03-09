@@ -1,0 +1,23 @@
+{{ $content := . }}
+{{ $lang := site.Language.Lang }}
+{{ $contentStr := $content }}
+
+{{ if isset site.Data.linkbuilding $lang }}
+  {{ $linkData := index site.Data.linkbuilding $lang }}
+  
+  {{ range $linkData.keywords }}
+    {{ $keyword := .keyword }}
+    {{ $url := .url }}
+    {{ $priority := default 1 .priority }}
+    {{ $title := default $keyword .title }}
+    
+    {{/* Pattern that only matches keywords inside paragraph tags */}}
+    {{ $pattern := printf `(<p.*?>.*?)(\b%s\b)(.*?</p>)` $keyword }}
+    {{ $replacement := printf `$1<a href="%s" class="auto-link" data-priority="%d" title="%s">$2</a>$3` $url $priority $title }}
+    
+    {{/* Replace all occurrences within paragraphs */}}
+    {{ $contentStr = replaceRE $pattern $replacement $contentStr }}
+  {{ end }}
+{{ end }}
+
+{{ $contentStr | safeHTML }}
