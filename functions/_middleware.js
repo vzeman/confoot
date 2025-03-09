@@ -48,6 +48,10 @@ export async function onRequest(context) {
       'www.confoot.es': 'es',
       'confoot.it': 'it',
       'www.confoot.it': 'it',
+      'confoot.hu': 'hu',
+      'www.confoot.hu': 'hu',
+      'confoot.fr': 'fr',
+      'www.confoot.fr': 'fr',
       'confoot.co.uk': 'en',
       'www.confoot.co.uk': 'en'
     };

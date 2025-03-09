@@ -523,6 +523,66 @@ languages:
           url: /about
           weight: 4
 
+  hu:
+    languageName: Magyar
+    weight: 19
+    contentDir: content/hu
+    title: Confoot - Egyszerűsítse a szállítási konténerek logisztikáját
+    baseURL: https://www.confoot.hu
+    params:
+      description: "Egyszerűsítse a szállítási konténerek logisztikáját a Confoot megoldásaival"
+      flag: "🇭🇺"
+      bcp47Lang: "hu-HU"
+      ga_measurement_id: "G-XL659W13CP"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Termékek
+          url: /products
+          weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
+        - identifier: about
+          name: Rólunk
+          url: /about
+          weight: 4
+
+  fr:
+    languageName: Français
+    weight: 20
+    contentDir: content/fr
+    title: Confoot - Simplifiez la logistique des conteneurs de transport
+    baseURL: https://www.confoot.fr
+    params:
+      description: "Simplifiez la logistique des conteneurs de transport avec Confoot"
+      flag: "🇫🇷"
+      bcp47Lang: "fr-FR"
+      ga_measurement_id: "G-XL659W13CP"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produits
+          url: /products
+          weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
+        - identifier: about
+          name: À propos
+          url: /about
+          weight: 4
+
 params:
   contact:
     email: info@hz-containers.com
