@@ -1,4 +1,9 @@
 keywords:
+  - keyword: "ConFoot"
+    url: "/"
+    exact: false
+    priority: 1
+    title: "Learn more about ConFoot container legs"
   - keyword: "shipping container legs"
     url: "/products/confoot-leg-cf"
     exact: false
