@@ -1,0 +1,29 @@
+{{/* 
+  Lazy-loaded SVG partial
+  
+  Parameters:
+  - src: SVG source path (required)
+  - alt: Alt text for the SVG (required)
+  - class: Additional CSS classes (optional)
+  - width: SVG width (optional)
+  - height: SVG height (optional)
+  - id: Optional ID attribute
+*/}}
+
+{{ $src := .src }}
+{{ $alt := .alt | default "" }}
+{{ $class := .class | default "" }}
+{{ $width := .width | default "" }}
+{{ $height := .height | default "" }}
+{{ $id := .id | default "" }}
+
+<object 
+  class="lazy-svg {{ with $class }}{{ . }}{{ end }}"
+  data-src="{{ $src }}"
+  type="image/svg+xml"
+  {{ with $width }}width="{{ . }}"{{ end }}
+  {{ with $height }}height="{{ . }}"{{ end }}
+  {{ with $id }}id="{{ . }}"{{ end }}
+>
+  <span class="fallback-text">{{ $alt }}</span>
+</object>

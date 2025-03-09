@@ -11,8 +11,10 @@
     {{ range .Pages }}
       <div class="product-card">
         <div class="product-card-image">
-          <a href="{{ .RelPermalink }}">
-            <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}" class="transition-transform duration-500 hover:scale-105">
+          <a href="{{ .RelPermalink }}" class="block">
+            <div class="overflow-hidden">
+              {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "class" "transition-transform duration-500 hover:scale-105") }}
+            </div>
           </a>
         </div>
         <div class="product-card-content">

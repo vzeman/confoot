@@ -174,7 +174,7 @@
       <!-- Weight -->
       <div class="text-center">
         <div class="mb-4 flex items-center justify-center" style="height: 60px;">
-          <img src="{{ "images/weight-icon.svg" | relURL }}" alt="Weight" class="h-12 w-auto">
+          {{ partial "lazysvg.html" (dict "src" (relURL "images/weight-icon.svg") "alt" "Weight" "class" "h-12 w-auto") }}
         </div>
         <h4 class="font-semibold mb-2">{{ i18n "container_legs_weight_title" | default "Weight of one support" }}</h4>
         <p class="text-lg font-bold">{{ i18n "container_legs_weight_value" | default "only 24 kg" }}</p>
@@ -183,7 +183,7 @@
       <!-- Height Range -->
       <div class="text-center">
         <div class="mb-4 flex items-center justify-center" style="height: 60px;">
-          <img src="{{ "images/height-icon.svg" | relURL }}" alt="Height range" class="h-12 w-auto">
+          {{ partial "lazysvg.html" (dict "src" (relURL "images/height-icon.svg") "alt" "Height range" "class" "h-12 w-auto") }}
         </div>
         <h4 class="font-semibold mb-2">{{ i18n "container_legs_height_title" | default "Height range" }}</h4>
         <p class="text-lg font-bold">{{ i18n "container_legs_height_value" | default "1,043 mm to 1,448 mm" }}</p>
@@ -192,7 +192,7 @@
       <!-- Capacity -->
       <div class="text-center">
         <div class="mb-4 flex items-center justify-center" style="height: 60px;">
-          <img src="{{ "images/capacity-icon.svg" | relURL }}" alt="Total capacity" class="h-12 w-auto">
+          {{ partial "lazysvg.html" (dict "src" (relURL "images/capacity-icon.svg") "alt" "Total capacity" "class" "h-12 w-auto") }}
         </div>
         <h4 class="font-semibold mb-2">{{ i18n "container_legs_capacity_title" | default "Total capacity" }}</h4>
         <p class="text-lg font-bold">{{ i18n "container_legs_capacity_value" | default "up to 34 tons" }}</p>

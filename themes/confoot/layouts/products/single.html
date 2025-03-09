@@ -22,7 +22,7 @@
       <!-- Right Box - Main Image -->
       <div class="product-image-column">
         <div class="product-main-image-box">
-          <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}" id="main-product-image">
+          {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "id" "main-product-image") }}
         </div>
       </div>
     </div>
@@ -30,11 +30,11 @@
     <!-- Gallery Section - Small boxes in one row -->
     <div class="product-gallery-section">
       <div class="gallery-thumbnail active" data-image="{{ .Params.mainImage | relURL }}">
-        <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }} - main">
+        {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" (print .Title " - main")) }}
       </div>
       {{ range .Params.gallery }}
         <div class="gallery-thumbnail" data-image="{{ . | relURL }}">
-          <img src="{{ . | relURL }}" alt="{{ $.Title }} - gallery image">
+          {{ partial "lazyimg.html" (dict "src" (. | relURL) "alt" (print $.Title " - gallery image")) }}
         </div>
       {{ end }}
     </div>
@@ -152,7 +152,7 @@
         {{ range first 4 (where $pages "Permalink" "ne" $currentPage.Permalink) }}
           <div class="related-product-box">
             <div class="related-product-image">
-              <img src="{{ .Params.mainImage | relURL }}" alt="{{ .Title }}">
+              {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title) }}
             </div>
             <div class="related-product-content">
               <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
