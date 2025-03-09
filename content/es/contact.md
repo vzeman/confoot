@@ -48,8 +48,8 @@ Sábado - Domingo: Cerrado
 ## Soporte Técnico
 
 Para consultas técnicas o soporte con tus productos ConFoot, por favor descarga nuestros manuales de usuario:
-- [Descargar Manual de Usuario CF y CFP](/wp-content/uploads/2021/07/confoot_navod-k-pouziti_CZ.pdf)
-- [Descargar Manual de Usuario CFU](/wp-content/uploads/2022/02/confoot_CFU_navod-k-pouziti_CZ.pdf)
+- [Descargar Manual de Usuario CF y CFP](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Descargar Manual de Usuario CFU](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## ¿Necesitas un Contenedor?
 

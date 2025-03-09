@@ -1,104 +1,93 @@
 ---
 title: "ConFoot-leg CFP"
-subtitle: "Picior de container premium"
+subtitle: "Picior container pentru docul de încărcare"
 mainImage: "/images/products/confoot-leg-cfp-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfp-1.jpg"
   - "/images/products/confoot-leg-cfp-2.jpg"
   - "/images/products/confoot-leg-cfp-3.jpg"
-shortDescription: "ConFoot-leg CFP este soluția noastră de picior de container premium, oferind capacități îmbunătățite pentru operațiunile specializate cu containere."
-technicalDescription: "ConFoot-leg CFP încorporează materiale avansate și caracteristici de design pentru performanțe superioare în medii dificile și aplicații specializate."
+shortDescription: "ConFoot-leg CFP este proiectat pentru docuri de încărcare, permițând containerului să fie fixat la andoc și ușilor să se deschidă complet pe laterale."
+technicalDescription: "Modelul CFP permite încărcarea produselor direct din producție în container, fără depozitare intermediară, iar nicio altă echipare pentru manipularea containerelor nu este necesară."
 videoID: "da7h7VgJHgs"
 specifications:
   - name: "Greutate"
-    value: "26 kg"
+    value: "24 kg per picior"
   - name: "Capacitate de încărcare"
-    value: "36 tone"
-  - name: "Dimensiuni"
-    value: "48 × 32 × 28 cm"
+    value: "30 tone"
+  - name: "Interval de reglare"
+    value: "de la 1.043 mm până la 1.448 mm"
   - name: "Material"
-    value: "Oțel aliat de înaltă calitate"
-  - name: "Interval de înălțime"
-    value: "1.043 mm până la 1.448 mm"
+    value: "Oțel de înaltă calitate"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Pachet de servicii premium disponibil. Contactați echipa noastră de vânzări pentru detalii."
+pricingNotes: "Discounturi pentru volume sunt disponibile. Contactați echipa noastră de vânzări pentru detalii."
 buyLink: "/contact"
 howToUse: |
-  1. Plasați piciorul CFP la elementul de fixare al colțului containerului
-  2. Activați mecanismul avansat de blocare
-  3. Reglați înălțimea, dacă este necesar, folosind sistemul integrat de ajustare
-  4. Repetați pentru toate colțurile necesare
-  5. Efectuați o verificare a stabilității înainte de a continua
+  1. Poziționați piciorul CFP la turnarea colțului containerului
+  2. Angajați mecanismul de blocare
+  3. Reglați înălțimea, dacă este necesar, în intervalul de la 1.043 mm la 1.448 mm
+  4. Asigurați fixarea containerului la docul de încărcare
+  5. Deschideți ușile containerului complet, pe laterale
+  6. Încărcați produsele direct din producție în container
 benefits:
-  - title: "Stabilitate sporită"
-    description: "Designul superior oferă stabilitate excepțională chiar și pe suprafețe inegale"
-  - title: "Reglabilitate a înălțimii"
-    description: "Sistemul integrat de ajustare permite ajustarea fină a înălțimii containerului"
-  - title: "Durabilitate extremă"
-    description: "Construit din materiale premium pentru o durată de viață extinsă în condiții dure"
-  - title: "Aplicații specializate"
-    description: "Ideal pentru operațiuni container specializate ce necesită poziționare precisă"
-  - title: "Caracteristici avansate de siguranță"
-    description: "Încorporează mecanisme suplimentare de siguranță pentru a preveni alunecarea și a asigura manipularea sigură a containerelor"
-  - title: "Performanță premium"
-    description: "Proiectat pentru a depăși standardele industriei în ceea ce privește capacitatea de încărcare și fiabilitatea operațională"
+  - title: "Integrarea cu docul de încărcare"
+    description: "Permite fixarea containerului la doc, permițându-i ușilor să se deschidă complet pe laterale"
+  - title: "Încărcare directă"
+    description: "Produsele pot fi încărcate direct din producție în container, fără depozitare intermediară"
+  - title: "Fără echipamente suplimentare"
+    description: "Nicio altă echipare pentru manipularea containerelor nu este necesară pentru operațiunile de încărcare"
+  - title: "Eficiența remorcii"
+    description: "Eliberează remorca pentru alte sarcini în timp ce containerul rămâne la docul de încărcare"
+  - title: "Spațiu suplimentar de stocare"
+    description: "Containerele pot fi folosite ca spațiu suplimentar de depozitare atunci când nu sunt în tranzit"
+  - title: "Mobilitate imediată"
+    description: "Containerele sunt întotdeauna pregătite de mutare - pur și simplu conduceți remorca sub container pentru a continua transportul"
 articleContent: |
   ## Ce este ConFoot-leg CFP?
 
-  ConFoot-leg CFP este soluția noastră de picior de container premium, concepută pentru operațiuni container specializate și medii dificile. Realizat din materiale avansate și cu o inginerie inovatoare, modelul CFP oferă capacități îmbunătățite față de soluțiile standard de picioare de container, asigurând performanțe superioare pentru aplicații exigente. Designul premium îl face deosebit de potrivit pentru industriile unde precizia, fiabilitatea și durabilitatea sunt aspecte esențiale.
+  ConFoot-leg CFP este un sistem specializat de picioare pentru containere, proiectat special pentru operațiunile docurilor de încărcare. Modelul CFP permite fixarea containerelor la docuri de încărcare, permițând ușilor să se deschidă complet pe laterale, creând o integrare perfectă între container și instalație. Această soluție inovatoare transformă containerele de transport într-o extensie eficientă a docului de încărcare, eliminând necesitatea depozitării intermediare și a echipamentelor suplimentare de manipulare.
+
+  ## Beneficii cheie pentru operațiunile docului de încărcare
+
+  ConFoot-leg CFP oferă avantaje operaționale semnificative pentru afacerile care încarcă și descarcă containere de transport în mod regulat. Prin fixarea containerelor direct la docul de încărcare, puteți elibera remorci pentru alte sarcini, optimizând utilizarea flotei și reducând timpii de așteptare. Produsele pot fi încărcate direct din producție în container, fără depozitare intermediară, simplificând procesul logistic și reducând costurile de manipulare.
+
+  În plus, containerele echipate cu picioare CFP pot servi drept spațiu suplimentar de depozitare flexibil atunci când nu sunt în tranzit. Acestea rămân mereu pregătite de transport - pur și simplu conduceți remorca sub container și transportul continuă. Această versatilitate face din CFP o soluție ideală pentru afacerile care doresc să își îmbunătățească eficiența docului de încărcare și capacitatea de stocare.
 
   ## Cum funcționează
 
-  ConFoot-leg CFP funcționează pe aceleași principii fundamentale ca și picioarele noastre standard de container, dar încorporează caracteristici avansate pentru performanțe superioare. Picioarele se atașează în siguranță la elementele de fixare din colțul containerului, utilizând mecanismul nostru de blocare îmbunătățit, care oferă o stabilitate excepțională chiar și pe suprafețe inegale. Sistemul integrat de reglare a înălțimii permite o poziționare precisă, făcându-l ideal pentru operațiuni logistice specializate unde acuratețea este critică.
+  ConFoot-leg CFP se atașează în siguranță la turnările colțurilor containerului, oferind suport stabil în timp ce containerul este poziționat la docul de încărcare. Picioarele au un interval de reglare de la 1.043 mm la 1.448 mm, permițând o aliniere precisă cu diferite înălțimi ale docului de încărcare. Fiecare picior cântărește 24 kg, ceea ce îi face ușor de manevrat de către operatori, în timp ce sistemul oferă o capacitate de încărcare substanțială de 30 de tone.
 
-  ## Cum Funcționează ConFoot-leg CFP
+  Procesul de instalare este simplu:
+  1. Poziționați picioarele CFP la turnările colțurilor containerului
+  2. Angajați mecanismul de blocare pentru a fixa picioarele
+  3. Reglați înălțimea conform necesității pentru aliniere cu docul de încărcare
+  4. Asigurați fixarea containerului la doc
+  5. Deschideți ușile containerului complet, pe laterale
+  6. Începeți încărcarea direct din producție în container
 
-  ### Mecanism Avansat
-
-  ConFoot-leg CFP utilizează un sistem sofisticat de atașare și suport ce reprezintă apogeul tehnologiei de manipulare a containerelor. Fiecare picior dispune de un mecanism de blocare proiectat cu precizie, care asigură o conexiune extrem de sigură cu elementele de fixare ale containerului. Construit din oțel aliat de înaltă calitate, CFP oferă o rezistență și durabilitate superioară, menținând în același timp o greutate gestionabilă de 26 kg per unitate.
-
-  Ceea ce diferențiază cu adevărat CFP este sistemul integrat de reglare a înălțimii, ce permite ajustarea fină a poziționării containerului cu o precizie de ordinul milimetrilor. Această caracteristică este deosebit de valoroasă în aplicațiile specializate unde alinierea exactă este esențială. Picioarele pot fi reglate într-un interval de la 1.043 mm la 1.448 mm, oferind flexibilitate pentru diverse cerințe operaționale.
-
-  ### Beneficiile Mecanismului Avansat
-
-  1. Superioritate în stabilitate: Designul îmbunătățit asigură o stabilitate excepțională chiar și pe suprafețe dificile, reducând riscul de deplasare sau răsturnare.
-  2. Poziționare precisă: Sistemul integrat de ajustare permite o plasare exactă a containerului, esențială pentru operațiuni specializate în producție și logistică.
-  3. Capacitate de încărcare sporită: Cu o capacitate de 36 de tone, CFP depășește cerințele standard, fiind potrivit pentru containere specializate mai grele.
-  4. Durată operațională extinsă: Materialele premium și construcția robustă asigură o longevitate sporită chiar și în condiții de utilizare intensivă și medii dure.
-
-  Mecanismul avansat al ConFoot-leg CFP reflectă angajamentul nostru pentru inovație și excelență în soluțiile de manipulare a containerelor, oferind performanțe neegalate pentru cele mai exigente aplicații.
+  Odată ce încărcarea este completă, containerul rămâne pregătit pentru transport. Când este disponibilă o remorcă, aceasta poate fi pur și simplu condusă sub container, picioarele îndepărtate, iar călătoria continuată fără pași intermediari de manipulare.
 
   ## Aplicații ale ConFoot-leg CFP
 
-  ### Producție Specializată
-  În mediile de producție specializate, ConFoot-leg CFP excelează prin furnizarea preciziei și stabilității necesare pentru procesele critice de producție. Capacitatea de a poziționa containerele cu o precizie exactă asigură o integrare perfectă cu liniile de producție și echipamentele. Această precizie este deosebit de valoroasă în industrii precum electronice, aerospațial și automotive, unde alinierea componentelor și toleranțele de producție se măsoară în milimetri.
+  ### Facilități de producție
+  Facilitățile de producție beneficiază semnificativ de capacitatea CFP de a crea o extensie perfectă a zonei de producție. Prin poziționarea containerelor direct la docurile de încărcare, produsele pot fi transferate direct de pe linia de producție în containere de transport, eliminând depozitarea intermediară și reducând costurile de manipulare. Această abordare de încărcare directă minimizează riscul de deteriorare și simplifică procesul logistic.
 
-  ### Medii Dificile
-  ConFoot-leg CFP este proiectat special pentru a fi utilizat în medii dificile unde picioarele standard de container ar fi insuficiente. Construcția robustă îl face ideal pentru operațiuni offshore, condiții meteorologice extreme și medii industriale cu condiții chimice sau fizice dure. Construcția din oțel aliat premium rezistă la coroziune, daune din impact și oboseală structurală, asigurând performanțe de încredere acolo unde echipamentele inferioare ar eșua.
+  ### Centre de distribuție
+  Pentru centrele de distribuție, CFP oferă o flexibilitate valoroasă în operațiunile de încărcare. Containerele pot fi poziționate la docurile de încărcare pentru perioade extinse, permițând o încărcare eficientă pe măsură ce produsele devin disponibile. Această abordare reduce presiunea de a încărca containerele în intervale de timp strânse, când remorcile sunt în așteptare, optimizând atât utilizarea forței de muncă, cât și a resurselor de transport.
 
-  ### Manipularea Mărfurilor de Valoare
-  În transportul și depozitarea mărfurilor de valoare sau sensibile, stabilitatea și siguranța sporită oferite de CFP sunt de neprețuit. Capacitățile precise de poziționare și distribuția superioară a greutății minimizează riscul de deplasare sau deteriorare în timpul operațiunilor de manipulare. Aceste caracteristici fac din CFP alegerea preferată pentru industriile care se ocupă de echipamente delicate, bunuri de lux sau articole de neînlocuit, unde costurile de deteriorare depășesc investiția în echipamente de manipulare premium.
+  ### Operațiuni de retail
+  Afacerile de retail pot utiliza containerele echipate cu CFP ca spațiu suplimentar de depozitare flexibil în perioadele de vârf. Containerele pot fi poziționate la docurile de încărcare pentru primirea directă a mărfurilor, apoi mutate în zonele de depozitare când sunt pline. Această abordare oferă o capacitate suplimentară cost-eficientă fără a necesita extinderea permanentă a facilităților.
 
-  Capacitățile specializate ale ConFoot-leg CFP îl fac soluția definitivă pentru operațiunile în care echipamentele standard de manipulare a containerelor nu pot îndeplini standardele de performanță sau așteptările de fiabilitate.
+  ### Companii de transport
+  Companiile de transport beneficiază de o utilizare îmbunătățită a flotei datorită sistemului CFP. Remorcile pot lăsa containerele la locația clienților și pot continua imediat la următoarea misiune, în loc să aștepte operațiunile de încărcare/descărcare. Această eficiență poate crește semnificativ capacitatea productivă a flotelor existente de remorci.
 
-  ### Avantaje și Limitări
+  ## Specificații tehnice
 
-  #### Avantaje
+  - **Capacitate de încărcare**: 30 tone
+  - **Greutate**: 24 kg per picior
+  - **Interval de reglare**: de la 1.043 mm la 1.448 mm
+  - **Material**: Oțel de înaltă calitate cu finisaj durabil
+  - **Compatibilitate**: Turnări standard pentru colțurile containerelor de transport
 
-  ConFoot-leg CFP oferă avantaje excepționale pentru operațiunile de containere specializate. Construcția premium asigură durabilitate superioară în medii dure, extinzând semnificativ durata operațională și reducând costurile de înlocuire. Sistemul integrat de reglare a înălțimii permite o poziționare precisă a containerului, esențială în producția și logistica specializată. Cu o capacitate de încărcare îmbunătățită de 36 de tone, depășește standardele industriei și poate susține containere specializate mai grele. Caracteristicile avansate de stabilitate asigură o manipulare sigură chiar și pe suprafețe inegale, reducând riscul de accidente și deteriorări. În plus, compatibilitatea CFP cu sistemele automatizate îl face pregătit pentru viitorul operațiunilor logistice aflate în continuă evoluție.
-
-  #### Limitări
-
-  În ciuda capabilităților superioare, ConFoot-leg CFP prezintă anumite limitări care trebuie luate în considerare. Caracteristicile premium implică o investiție inițială mai mare comparativ cu picioarele standard de container, ceea ce poate să nu fie justificat pentru operațiuni container obișnuite. La 26 kg per unitate, CFP este ușor mai greu decât modelele standard, necesitând eventual măsuri suplimentare de manipulare. Caracteristicile avansate impun, de asemenea, o instruire mai cuprinzătoare a operatorilor pentru a utiliza pe deplin potențialul sistemului. Acești factori trebuie evaluați cu atenție în funcție de cerințele operaționale atunci când se ia în considerare utilizarea CFP pentru aplicații specifice.
-
-  ## Dezvoltări Viitoare
-
-  ### Cercetări în Desfășurare
-  Echipa noastră de cercetare și dezvoltare lucrează continuu pentru a îmbunătăți capabilitățile ConFoot-leg CFP. Cercetările actuale se concentrează pe încorporarea materialelor compozite avansate pentru a optimiza raportul rezistență-greutate, posibil reducând greutatea menținând sau îmbunătățind capacitatea de încărcare. De asemenea, explorăm tehnologii inteligente de monitorizare care ar putea supraveghea tensiunea, distribuția greutății și integritatea structurală în timp real, oferind date valoroase pentru întreținerea preventivă și siguranța operațională.
-
-  ### Caracteristici de Noua Generație
-  Noua generație a ConFoot-leg CFP va include probabil capabilități digitale integrate pentru o integrare fără probleme cu sistemele Industrie 4.0. Caracteristicile aflate în dezvoltare includ urmărirea RFID, capacități de monitorizare la distanță și compatibilitatea cu sistemele de gestionare a depozitelor. În plus, explorăm mecanisme de ajustare automate care ar putea îmbunătăți și mai mult precizia și reduce volumul de muncă al operatorilor. Aceste avansări vor asigura că CFP continuă să răspundă nevoilor în evoluție ale operațiunilor specializate cu containere într-un peisaj industrial tot mai digital și automatizat.
-
-  Aceste dezvoltări continue reflectă angajamentul nostru pentru inovație și excelență în soluțiile de manipulare a containerelor, asigurând că ConFoot-leg CFP rămâne în fruntea tehnologiei de manipulare a containerelor specializate.
+  ConFoot-leg CFP reprezintă o soluție inovatoare pentru operațiunile docurilor de încărcare, oferind afacerilor o modalitate de a optimiza procesele logistice, de a îmbunătăți utilizarea resurselor și de a crea o capacitate suplimentară flexibilă de depozitare. Prin permiterea încărcării directe din producție în containere și eliberarea remorcilor pentru alte sarcini, CFP ajută afacerile să atingă o eficiență și rentabilitate costurilor sporite în operațiunile de manipulare a containerelor.
 ---

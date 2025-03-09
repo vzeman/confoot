@@ -1,101 +1,98 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Universele Kontainervoet"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Hoogte-verstelbaor Containervoet"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU is 'n universele kontainervoet ontworpen veur veelzijdige kontainerhantering in versjillende omgevings."
-technicalDescription: "De ConFoot CFU is vervaardigd van hoogwaardig staal en beschikt over ós gepateerde slotmechanisme veur 'n zekere bevestiging an kontainerhoekversterkings."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU is 'n hoogte-verstelbaor containervoet die 't mogelijk maak de hoogte van 't container te verstelle van de grond tot 1,5 meeter, zuver dat geine aanvullende apparatuur nodig is bie containerhandling."
+technicalDescription: "De ConFoot CFU is gefabriceerd van hoogwaardig staal en beschikt óch ónger oos gepatenteerde slotingsmekanisme veur 't veilig verbinden aan containerhoeke. 't Zorgt veur flexibel gebruuk van containers in versjillende omgevingen en veur diverse doeleinden."
 videoID: "HDhFIRA-oZU"
 specifications:
-  - name: "Gewicht"
-    value: "24 kg"
-  - name: "Beladingscapaciteit"
-    value: "34 ton"
-  - name: "Afmetingen"
-    value: "45 × 30 × 25 cm"
+  - name: "Gewich"
+    value: "46 kg as samegesèt (elk deil is minder dan 25 kg)"
+  - name: "Laadcapaciteit"
+    value: "20 ton"
+  - name: "Verstellingsbereik"
+    value: "0–1.500 mm"
   - name: "Materiaal"
     value: "Hoogwaardig staal"
 price: "6.350 EUR"
 priceVAT: "7.684 EUR"
-pricingNotes: "Hoeveelheidskortingen beschikbaar. Neem contact óp veur 'n op maat gemaakte offerte."
+pricingNotes: "Volumekortingen beschikbaar. Neem contact op veur in maatgemaakte offertes."
 buyLink: "/contact"
 howToUse: |
-  1. Plaats de CFU ónger de kontainerhoek
-  2. Activeer 't slotmechanisme
-  3. Controleer of de bevestiging strak zit
-  4. Herhaal veur alle vereiste hoeke
+  1. Plaats de CFU onder de containerhoek
+  2. Zet 't slotingsmekanisme in werking
+  3. Verstel de hoogte ins nodig (van de grond tot meer as 'n meeter)
+  4. Controleer de veilige verbinding
+  5. Herhaal veur alle benodigde hoeke
 benefits:
-  - title: "Universele Compatibiliteit"
-    description: "Werkt mit alle standaard schiptkontainers, óch als ze van ónderscheie verkaapers zeen"
-  - title: "Rappe Inzet"
-    description: "Kejë éne operateur kin 't binnen ós 5 minuten per unit bevestigje"
-  - title: "Ruimtebesparend"
-    description: "Het compacte ontwerp maakt opslag in krappe ruimtes mogelijk wanne 't nie in gebruuk is"
-  - title: "Koste-efficiënt"
-    description: "Vermindert de behoefte aan gespecialiseerd hefmaterieel, wat ôp de bedrofskosten slaet"
+  - title: "Geine Aanvullende Apparatuur Nodig"
+    description: "Volledige containerhandling allein mè de CFU-containerpoten, waodoor de nood an zware machines wegvalt"
+  - title: "Hoogteverstelling"
+    description: "Gemakkelijk de containerhoogte verstelle van de grond tot meer as 'n meeter (0–1.500 mm)"
+  - title: "Handhoabaar Gewich"
+    description: "Bestaat oet meerdere delen met elk 'n gewicht van minder dan 25 kg, wat 't hanteren vereenvoudigt"
   - title: "Veelzijdige Toepassingen"
-    description: "Geschik veur diverse industrieë, insluitend logistiek, fabricage en bouw"
-  - title: "Verbeterde Werkstroom"
-    description: "Stroëmt de kontainerhantering, wat de operationele efficiëntie verbeet"
+    description: "Geschik veur diverse industrieë, wie vervoersbedrijven, defensie, productiefaciliteiten, detailhandel, havens en humanitêre hulp"
+  - title: "Flexibel Gebruuk"
+    description: "Maakt 't mogelijk containers op versjillende manieren en in uiteenlopende omgevingen te gebruuke"
+  - title: "Verbeterde Workflow"
+    description: "Versnelt containerhandlingprocessen en verbetert de operationele efficiëntie"
 articleContent: |
   ## Wat is ConFoot CFU?
 
-  ConFoot CFU is 'n universele kontainervoetoplossing ontworpen veur maximale veelzijdigheid en compatibiliteit ónder diverse kontainertypes. Dit innovatieve systeem biedt 'n betroubere en efficiënte wäze um kontainers te hanteren zónder zwaar materieel of gespecialiseerde toestelle. 't CFU-model valt op doordat 't functioneert mit feitelijk elke standaard schiptkontainer, wat 't 'n ideale keus maakt veur bedrijven die diversa kontainertypes hanteren.
+  ConFoot CFU is 'ne oplossing veur 'n hoogte-verstelbaor containervoet, ontworpen um maximale veelzijdigheid en flexibiliteit te biede bie containerhandling. Dit innoverende systeem maak 't mogelijk de hoogte van 't container aan te passe van de grond tot meer as 'n meeter (0–1.500 mm), zuver dat geine extra apparatuur nodig is. Het CFU-model valt op door zien schop om te werken mè standaard shippingcontainers in versjillende omgevingen en veur diverse toepassingen, wat 't tot in ideale kiezj maakt veur bedrijven in allerlei sectoren.
 
   ## Hoe 't werkt
 
-  De ConFoot CFU wordt direct bevestigd an de kontainerhoekversterkings, wat 'n stabiele basis bied veur laden, lossen en tijdelijke opslag. 't Universele ontwerp garandeert compatibiliteit mit vrijwel elke standaard kontainer, waardoor 't 'n ideale oplossing is veur bedrijven die met diversa types werk. 't Bevestigingsmechanisme is eenvoudig en maakt rapp deployen en verwijderen mogelijk, wat de tijd en middelen die nodig zeen veur kontainerhantering stark vermindert.
+  De ConFoot CFU wordt direkt bevestigd aon de containerhoeke, en biedt 'n stabiele basis veur laden, lossen en tijdelijke opslag. Door zien verstelbaore ontwerp kan de container in 't optimale hoogte gepositioneerd weure veur specifieke behoefte. 't Bestaat oet meerdere delen die elk minder dan 25 kg wegen, wat 't hanteren vereenvoudigt, terwij 't totaalgewicht as samen 46 kg is. 't Eenvoudige bevestigingsmekanisme maak 't mogelijk de poten rap vast te zetten en weer te verwijderen, waodoor de tijd en middelen bie containerhandlingsoperaties sterk afneme.
 
-  ## Hoe ConFoot CFU werkt
+  ## Toepassingen van ConFoot CFU
 
-  ### Kernmechanisme
+  ### Vervoersbedrijven
+  ConFoot CFU blinkt uit in vervoersoperaties waodoor hoogteverstelling en flexibiliteit vereist zeen. Vervoersbedrijven kinne de CFU-poten gebruuke um containers gemakkelijk te laden, lossen en te positionere zonder de nood aan aanvullende zware machines, wat de operationele processen vereenvoudigt en de kosten verlaagt.
 
-  De ConFoot CFU maakt gebroek van 'n innovatief universeel bevestigingssysteem dat zich veilig koppelt an kontainerhoekversterkings, óch waal kontainers van ónderscheie verkaapers zeen. Deze veelzijdigheid wordt bereikt door 'n speciaal ontworpen klemmechanisme det zich aanpast aan versjillende hoekconfiguraties. Vervaardigd van hoogwaardig staal, biedt elke eenheid uitzonderlijke duurzaamheid terwölle 't toch beheersbaar blijft veur éne operateur um te hanteren en te installeren.
+  ### Defensie
+  Veur defensie biedt de CFU 'n draagbare en veelzijdige oplossing um containerbasisfaciliteiten rap in te zetten in uiteenlopende terreinen en omgevingen. De mogelijkheid tot hoogteverstelling zorgt veur optimale positionering, zelfs op oneffen terrein.
 
-  't Bevestigingsproces is eenvoudig en vereist miniem training. Operateurs kinne de CFU plaetsen ónger de kontainerhoek, 't slotmechanisme activeren en de bevestiging controleren, voordat ze verder gaon. Deze eenvoud maakt rap inzet in diverse operationele omgevings mogelijk, van drukke havens tot afgelege bouwplaatsen.
+  ### Productiefaciliteiten
+  Productiebedrijven profiteere van de mogelijkheid de CFU um flexibele productielay-outs te creeren met verstelbare containerhoogtes. Doordat containers precies gepositioneerd kinne weure en op de juiste hoogte, wordt de efficiëntie bij het productieproces en voorraadbeheer bevorderd.
 
-  ### Voordeelen van 't Mechanisme
+  ### Detailhandelsketten
+  In de retailsector kinne de CFU-poten ingezet weure voor tijdelijke of seizoensgebonden opslagoplossingen, met de mogelijkheid de containerhoogte aan te passen an de hoogte van laadperrons of andere infrastructuurelementen.
 
-  1. **Universele Toepassing**: 't Adaptieve ontwerp van de CFU werkt mit kontainers van alle grote verkaapers, wat compatibiliteitszorgen elimineert.
-  2. **Operationele Eenvoud**: 't Intuïtieve bevestigingssysteem is rap te leren, waardoor de trainingstijd en operationele fouten verminderd zeen.
-  3. **Tijdsefficiëntie**: Kontainerhanteringe kinne rap afgerond worden, in vergelijking mit traditionele methodes die zwaar materieel vereisen.
-  4. **Middelenoptimalisatie**: Doordat de afhankelijkheid van gespecialiseerd materieel verminderd wordt, kinne middelen efficiënter ingezet worden.
+  ### Havens
+  In havenomgevingen zorgt de CFU veur de nodige flexibiliteit bie containerhandling en tijdelijke opslag, waardoor de ruimte en middelen efficiënter benut kinne weure zonder dat er zellemane zware hefapparatuur voor nodig is.
 
-  Het mechanisme van de CFU betekent 'n belangrijke vooruitgang in de technologie van kontainerhantering, door 'n oplossing te bieden die veelzijdigheid, eenvoud en efficiëntie in één product verenigt.
+  ### Humanitêre Hulp
+  Veur operaties in humanitêre hulp biedt de CFU 'n praktische oplossing um containergebaseerde faciliteiten rap op te zetten in uitdagende omgevingen, met de mogelijkheid de hoogte aan te passen um te voldoen aan uiteenlopende terreinen en operationele behoeften.
 
-  ## Toepassings van ConFoot CFU
+  ## Voordelen van ConFoot CFU
 
-  ### Diverse Logistieke Operaties
-  De ConFoot CFU blinkt uit in ek diverse logistieke operaties waor regelmatig mit versjillende kontainertypes gewerkt wordt. De universele compatibiliteit maakt 't vooral waardevol in multimodale transportknooppunten, waor kontainers van diversa verkaapers en transportbedrijven samekomen. 't Systeem zien mogelijkheid om met verschillende kontainertypes te werken elimineert de noodzaak veur meedere gespecialiseerde hanteringsoplossingen, wat de operaties vereenvoudigd en de kosten verlaet.
+  ### Geine Aanvullende Apparatuur Nodig
+  Met de CFU is ’t niet nodig um kranen, heftrucks of andere zware machines te gebruuke bie containerhandling, wat de operationele kosten verlaagt en de afhankelijkheid van gespecialiseerde apparatuur vermindert.
 
-  ### Klein-schalige Distributiecentra
-  Veur kleinere distributiecentra die de kosten veur permanente kontainerhanteringsapparatuur neet verantwoorde kinne, biedt ConFoot CFU 'n ideale oplossing. Door zien draagbaar karakter en eenvoudige gebruuk kinne deze centra kontainerleveringen efficiënt beheren, zónder grote investeringen in dure infrastructuur. Deze toegankelijkheid opent nieuwe mogelijkheden veur bedrijven die hul distributiemogelijkheden willen uitbreie zonder fors kapitaal.
+  ### Hoogteverstelling
+  Met een verstellingsbereik van 0–1.500 mm biedt de CFU ongeëvenaarde flexibiliteit bij het positioneren van containers op de optimale hoogte veur diverse toepassingen en omgevingen.
 
-  ### Fabricagefaciliteiten
-  Fabricagefaciliteiten profiteren van de mogelijkheid van de CFU um flexibele productie-indelingen te realiseren. Door kontainers precieze te positioneren op gewenste plek, faciliteert 't systeem just-in-time voorraadbeheer en effisjiente productieprocessen. De snelle herschikbaarheid van kontainers ondersteunt bovendien agile productieprocessen waor regelmatig de werkindeling en middelen opnieuw moeten worden verdeeld.
+  ### Handhoabaar Gewich
+  Ondanks de robuuste constructie en een draagvermogen van 20 ton, is de CFU ontworpen met het oog op hantering. De afzonderlijke delen wegen elk minder dan 25 kg, wat de assemblage en positionering vereenvoudigt.
 
-  De aanpasbaarheid van de ConFoot CFU maakt 't 'n essentieel hulpmiddel veur moderne logistieke en fabricage-operaties, en biedt de flexibiliteit die nodig is um te reageren op veranderende marktvraag en operationele vereisten.
+  ### Veelzijdige Toepassingen
+  Het ontwerp van de CFU maakt 't geschikt veur in breed scala aan industrieë en toepassingen, van logistiek en productie tot defensie en humanitêre hulp.
 
-  ### Voordeelen en Beperkingen
+  ### Operationele Flexibiliteit
+  Doordat containers in versjillende omgevingen en veur diverse doeleinden ingezet kinne weure, breidt de CFU de bruikbaarheid van standaard shippingcontainers biej tot meer dan alleen transport en opslag.
 
-  #### Voordeelen
+  ## Technische Specificaties
 
-  De ConFoot CFU biedt aanzienlijke voordeelen veur kontainerhantering. De universele compatibiliteit elimineert de noodzaak veur meerdere gespecialiseerde hanteringssystemen, wat de kosten verlaet en 't beheer van voorraden vereenvoudigt. Het draagbare karakter maakt deploy in diverse locaties mogelijk en biedt operationele flexibiliteit die vaste toestellen neet kunnen evenaren. Daarnaast verlaaget de eenvoudige werking de trainingseisen en maakt 't rap inzetbaar in nieuwe omgevings. De duurzame constructie verzekert langetermijnbetrouwbaarheid, en het compacte ontwerp minimaliseert de opslagruimte wanne 't nie in gebruuk is.
-
-  #### Beperkingen
-
-  Ondanks zien veelzijdigheid kent de ConFoot CFU toch enkele beperkingen. 't Handmatige karakter van 't systeem is neet altied geschikt veur hoge volumes waor geautomatiseerde oplossingen mogelijk effisjinter zeen. Óch al vermijdt de CFU in grote mate het gebruik van zwaar materieel, is dit nie bij alle kontainerhanteringssituaties geheel afdoende. Daarnaast kunnen extreem oneffen terreinen uitdagingen biede veur 't stabiel deployen, waardoor soms extra voorbereiding van de locatie nodig is. Deze factoren dienen in ogenschouw genomen te waere bie de keuze veur de CFU in specifieke operationele omgevings.
-
-  ## Toekomstige Ontwikkelingen
-
-  ### Geplande Verbeteringe
-  De ConFoot CFU blijft in 't evolueren met versjillende geplande verbeteringe. De ontwikkelingsinspanninge richtte zich op 't verder verminderen van het gewicht van elke eenheid, oetgelijk de draagkracht behouden of verbeteren. Innovaties in materiaalwetenschap worden onderzocht um geavanceerde composieten te integrere die 'n superieure sterkte-til-gewichtverhouding aanbieden. Daarnaast worden ergonomische verbeteringe ontworpen um 't bevestigingsproces verder te vereenvoudigen en de operateur minder te laten vermoeide bij langdurig gebruik.
-
-  ### Integratiecapaciteiten
-  Toekomstige versies van de ConFoot CFU zullen beschikken over verbeterde integratiecapaciteiten mit warehouse management systemen en logistieke trackingplatforms. Digitale sensoren worden ontwikkeld om de gewichtsverdeling en stabiliteit in real-time te monitoren, wat waardevolle data levert veur veiligheid en optimalisatie van de efficiëntie. Deze slimme functionaliteiten maken het mogelijk dat de CFU deel wordt van 't verbonden logistieke ecosysteem, wat data-gedreven besluitvorming en predictief onderhoud ondersteunt.
-
-  Deze voortdurende ontwikkelingen verzekeren dat de ConFoot CFU blijvend voorziet in de evoluerende behoeften van de logistieke en fabricage-industrieën en zijn positie handhaaft as 'n toonaangewende oplossing veur veelzijdige kontainerhantering.
+  - **Laadcapaciteit**: 20 ton
+  - **Totaalgewicht**: 46 kg as samegesèt
+  - **Deelgewicht**: Elk afzonderlijk deel weegt minder dan 25 kg
+  - **Verstellingsbereik**: 0–1.500 mm
+  - **Materiaal**: Hoogwaardig staal met duurzame afwerking
+  - **Compatibiliteit**: Past op standaard containerhoeke
 ---

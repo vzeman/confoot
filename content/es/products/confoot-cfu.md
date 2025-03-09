@@ -1,101 +1,100 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Pie Universal para Contenedores"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Pata de contenedor ajustable en altura"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU es un pie universal para contenedores diseñado para la manipulación versátil de contenedores en diversos entornos."
-technicalDescription: "El ConFoot CFU está fabricado en acero de alta calidad y cuenta con nuestro mecanismo de bloqueo patentado para un acople seguro a los puntos de amarre de las esquinas del contenedor."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU es una pata de contenedor ajustable en altura que te permite ajustar la altura del contenedor desde el nivel del suelo hasta 1,5 metros, sin necesidad de equipos adicionales para el manejo del contenedor."
+technicalDescription: "El ConFoot CFU está diseñado con acero de alta calidad y cuenta con nuestro mecanismo de bloqueo patentado para una fijación segura a los casquetes de las esquinas del contenedor. Permite el uso flexible de contenedores en diferentes entornos y para diversos propósitos."
 videoID: "HDhFIRA-oZU"
 specifications:
   - name: "Peso"
-    value: "24 kg"
+    value: "46 kg cuando está ensamblado (peso individual de cada pieza inferior a 25 kg)"
   - name: "Capacidad de carga"
-    value: "34 toneladas"
-  - name: "Dimensiones"
-    value: "45 × 30 × 25 cm"
+    value: "20 toneladas"
+  - name: "Rango de ajuste"
+    value: "0–1,500 mm"
   - name: "Material"
     value: "Acero de alta calidad"
 price: "6.350 EUR"
 priceVAT: "7.684 EUR"
-pricingNotes: "Se ofrecen descuentos por volumen. Contáctenos para cotizaciones personalizadas."
+pricingNotes: "Descuentos por volumen disponibles. Contáctanos para cotizaciones personalizadas."
 buyLink: "/contact"
 howToUse: |
-  1. Coloque el CFU debajo de la esquina del contenedor
-  2. Active el mecanismo de bloqueo
-  3. Verifique que esté bien fijado
-  4. Repita para todas las esquinas requeridas
+  1. Coloca el CFU debajo de la esquina del contenedor
+  2. Activa el mecanismo de bloqueo
+  3. Ajusta la altura según sea necesario (desde el nivel del suelo hasta más de un metro)
+  4. Verifica la fijación segura
+  5. Repite para todas las esquinas requeridas
 benefits:
-  - title: "Compatibilidad Universal"
-    description: "Funciona con todos los contenedores de envío estándar sin importar el fabricante"
-  - title: "Despliegue Rápido"
-    description: "Puede ser instalado por un solo operario en menos de 5 minutos por unidad"
-  - title: "Ahorro de Espacio"
-    description: "Su diseño compacto permite guardarlo en espacios reducidos cuando no está en uso"
-  - title: "Económico"
-    description: "Reduce la necesidad de equipos de elevación especializados, ahorrando costos operativos"
-  - title: "Aplicaciones Versátiles"
-    description: "Adecuado para diversas industrias, incluidas la logística, la manufactura y la construcción"
-  - title: "Flujo de Trabajo Mejorado"
-    description: "Optimiza los procesos de manipulación de contenedores, mejorando la eficiencia operativa"
+  - title: "No se requiere equipo adicional"
+    description: "Manejo completo del contenedor utilizando solo las patas CFU, eliminando la necesidad de maquinaria pesada"
+  - title: "Ajuste de altura"
+    description: "Ajusta fácilmente la altura del contenedor desde el nivel del suelo hasta más de un metro (0–1,500 mm)"
+  - title: "Peso manejable"
+    description: "Consta de varias piezas con un peso individual inferior a 25 kg, lo que facilita su manejo"
+  - title: "Aplicaciones versátiles"
+    description: "Adecuado para diversas industrias, incluyendo compañías de transporte, fuerzas de defensa, instalaciones de producción, cadenas de venta minorista, puertos y ayuda humanitaria"
+  - title: "Uso flexible"
+    description: "Permite el uso flexible de contenedores en diferentes entornos y para diversos propósitos"
+  - title: "Flujo de trabajo mejorado"
+    description: "Optimiza los procesos de manejo de contenedores, mejorando la eficiencia operativa"
 articleContent: |
   ## ¿Qué es ConFoot CFU?
 
-  ConFoot CFU es una solución universal de pie para contenedores diseñada para ofrecer la máxima versatilidad y compatibilidad entre diferentes tipos de contenedores. Este innovador sistema ofrece una forma fiable y eficiente de manipular contenedores sin necesidad de maquinaria pesada o equipos especializados. El modelo CFU se distingue por su capacidad para funcionar con prácticamente cualquier contenedor de envío estándar, lo que lo convierte en una opción ideal para empresas que manejan diversos tipos de contenedores.
+  ConFoot CFU es una solución de pata de contenedor ajustable en altura diseñada para proporcionar la máxima versatilidad y flexibilidad en el manejo de contenedores. Este innovador sistema te permite ajustar la altura del contenedor desde el nivel del suelo hasta más de un metro (0–1,500 mm), sin necesidad de equipos adicionales para su manejo. El modelo CFU se destaca por su capacidad para trabajar con contenedores estándar en diversos entornos y para diferentes propósitos, lo que lo convierte en una opción ideal para negocios en múltiples industrias.
 
-  ## ¿Cómo Funciona?
+  ## ¿Cómo funciona?
 
-  El ConFoot CFU se acopla directamente a los puntos de amarre de las esquinas del contenedor, proporcionando una base estable para la carga, descarga y almacenamiento temporal. Su diseño universal asegura la compatibilidad con prácticamente todos los contenedores de envío estándar, convirtiéndolo en una solución ideal para empresas que manejan diversos tipos de contenedores. El mecanismo de acople sencillo permite un despliegue y retirada rápidos, reduciendo significativamente el tiempo y los recursos necesarios en las operaciones de manipulación de contenedores.
-
-  ## Cómo Funciona ConFoot CFU
-
-  ### Mecanismo Central
-
-  El ConFoot CFU utiliza un innovador sistema de acople universal que se conecta de forma segura a los puntos de amarre de las esquinas de los contenedores, independientemente del fabricante. Esta versatilidad se logra mediante un mecanismo de sujeción especialmente diseñado que se adapta a diferentes configuraciones de puntos de amarre. Fabricado en acero de alta calidad, cada unidad ofrece una durabilidad excepcional, al mismo tiempo que es manejable y puede ser instalada por un solo operario.
-
-  El proceso de acople es sencillo y requiere una capacitación mínima. Los operarios pueden colocar el CFU debajo de la esquina del contenedor, activar el mecanismo de bloqueo y verificar que esté bien fijado antes de proceder. Esta simplicidad permite un despliegue rápido en diversos entornos operativos, desde puertos concurridos hasta sitios de construcción remotos.
-
-  ### Beneficios del Mecanismo
-
-  1. **Aplicación Universal**: El diseño adaptable del CFU funciona con contenedores de todos los principales fabricantes, eliminando problemas de compatibilidad.
-  2. **Simplicidad Operativa**: El sistema de acople intuitivo se puede dominar rápidamente, reduciendo los requisitos de formación y errores operativos.
-  3. **Eficiencia en el Tiempo**: Las operaciones de manipulación de contenedores se pueden completar en una fracción del tiempo en comparación con los métodos tradicionales que requieren maquinaria pesada.
-  4. **Optimización de Recursos**: Al reducir la dependencia de equipos especializados, el CFU permite una asignación más eficiente de los recursos.
-
-  El mecanismo del CFU representa un avance significativo en la tecnología de manipulación de contenedores, ofreciendo una solución que combina versatilidad, simplicidad y eficiencia en un solo producto.
+  El ConFoot CFU se fija directamente a los casquetes de las esquinas del contenedor, proporcionando una base estable para la carga, descarga y almacenamiento temporal. Su diseño ajustable garantiza flexibilidad al posicionar los contenedores a la altura óptima para tus necesidades específicas. El sistema consta de varias piezas con un peso individual inferior a 25 kg, lo que facilita su manejo por parte de los operadores, mientras que el peso total de la pata, cuando está ensamblada, es de 46 kg. El sencillo mecanismo de fijación permite un despliegue y desmontaje rápidos, reduciendo significativamente el tiempo y los recursos necesarios para las operaciones de manejo de contenedores.
 
   ## Aplicaciones de ConFoot CFU
 
-  ### Operaciones Logísticas Diversas
-  ConFoot CFU destaca en operaciones logísticas diversas donde se manejan regularmente distintos tipos de contenedores. Su compatibilidad universal lo hace particularmente valioso en centros de transporte multimodal, donde convergen contenedores de varios fabricantes y líneas navieras. La capacidad del sistema para trabajar con diferentes tipos de contenedores elimina la necesidad de múltiples soluciones especializadas de manipulación, agilizando las operaciones y reduciendo los costes de equipos.
+  ### Compañías de Transporte
+  ConFoot CFU destaca en operaciones de transporte donde se requiere ajuste de altura y flexibilidad. Las compañías de transporte pueden utilizar las patas CFU para cargar, descargar y posicionar contenedores fácilmente, sin necesidad de maquinaria pesada adicional, optimizando las operaciones y reduciendo los costos de los equipos.
 
-  ### Centros de Distribución de Pequeña Escala
-  Para centros de distribución más pequeños que no pueden justificar el gasto en equipos permanentes de manipulación de contenedores, el ConFoot CFU ofrece una solución ideal. Su carácter portátil y facilidad de uso permiten a estas instalaciones gestionar eficientemente las entregas de contenedores sin invertir en una infraestructura costosa. Esta accesibilidad abre nuevas posibilidades para las empresas que buscan expandir sus capacidades de distribución sin realizar una inversión de capital significativa.
+  ### Fuerzas de Defensa
+  Para las fuerzas de defensa, el CFU proporciona una solución portátil y versátil para desplegar rápidamente instalaciones basadas en contenedores en diversos terrenos y entornos. La capacidad de ajustar la altura permite un posicionamiento óptimo incluso sobre terrenos irregulares.
 
-  ### Instalaciones de Manufactura
-  Las instalaciones de manufactura se benefician de la capacidad del CFU para crear diseños de producción flexibles. Al permitir que los contenedores se sitúen exactamente donde se necesitan, el sistema facilita la gestión de inventario just-in-time y flujos de trabajo de producción eficientes. La capacidad de reubicar rápidamente los contenedores también respalda procesos de manufactura ágiles que requieren una reconfiguración frecuente del espacio de trabajo y la asignación de recursos.
+  ### Instalaciones de Producción
+  Las instalaciones de producción se benefician de la capacidad del CFU para crear diseños de producción flexibles con alturas de contenedores ajustables. Al permitir que los contenedores se posicionen exactamente donde se necesiten y a la altura adecuada, el sistema facilita flujos de trabajo eficientes en la producción y la gestión de inventario.
 
-  La adaptabilidad del ConFoot CFU lo convierte en una herramienta esencial para las operaciones modernas de logística y manufactura, proporcionando la flexibilidad necesaria para responder a las cambiantes demandas del mercado y requerimientos operativos.
+  ### Cadenas de Venta Minorista
+  Las operaciones minoristas pueden utilizar las patas CFU para soluciones de almacenamiento temporales o estacionales, con la capacidad de ajustar la altura de los contenedores para adaptarse a los muelles de carga u otros requerimientos de infraestructura.
 
-  ### Ventajas y Limitaciones
+  ### Puertos
+  En entornos portuarios, el CFU proporciona flexibilidad para el manejo y almacenamiento temporal de contenedores, permitiendo un uso eficiente del espacio y los recursos sin depender únicamente de equipos de elevación pesada.
 
-  #### Ventajas
+  ### Ayuda Humanitaria
+  Para operaciones de ayuda humanitaria, el CFU ofrece una solución práctica para desplegar rápidamente instalaciones basadas en contenedores en entornos desafiantes, con la capacidad de ajustar las alturas para adaptarse a diversos terrenos y necesidades operativas.
 
-  El ConFoot CFU ofrece ventajas significativas para las operaciones de manipulación de contenedores. Su compatibilidad universal elimina la necesidad de múltiples sistemas especializados, reduciendo los costes de equipos y simplificando la gestión de inventario. La portabilidad del sistema permite su despliegue en diversas ubicaciones, proporcionando una flexibilidad operativa que los equipos fijos no pueden igualar. Además, la operación sencilla del CFU reduce los requisitos de formación y permite una implementación rápida en nuevos entornos. Su construcción robusta garantiza una fiabilidad a largo plazo, mientras que el diseño compacto minimiza el espacio de almacenamiento cuando no está en uso.
+  ## Ventajas de ConFoot CFU
 
-  #### Limitaciones
+  ### No se requiere equipo adicional
+  El CFU elimina la necesidad de grúas, montacargas u otra maquinaria pesada para el manejo de contenedores, reduciendo los costos operativos y la dependencia de equipos especializados.
 
-  A pesar de su versatilidad, el ConFoot CFU tiene algunas limitaciones a considerar. La naturaleza manual del sistema puede no ser adecuada para operaciones de alto volumen donde las soluciones automatizadas podrían ser más eficientes. Aunque el CFU reduce significativamente la necesidad de maquinaria pesada, no la elimina por completo en todos los escenarios de manipulación de contenedores. Además, superficies extremadamente irregulares pueden presentar desafíos para un despliegue estable, requiriendo en algunos casos una preparación adicional del sitio. Estos factores deben ser evaluados al considerar el uso del CFU en entornos operativos específicos.
+  ### Capacidad de ajuste de altura
+  Con un rango de ajuste de 0–1,500 mm, el CFU proporciona una flexibilidad inigualable para posicionar contenedores a la altura óptima para diversas aplicaciones y entornos.
 
-  ## Futuros Desarrollos
+  ### Peso manejable
+  A pesar de su construcción robusta y una capacidad de carga de 20 toneladas, el CFU está diseñado para facilitar el manejo por parte de los operadores. Los componentes individuales pesan menos de 25 kg, haciendo que el ensamblaje y posicionamiento sea manejable.
 
-  ### Mejoras Planificadas
-  El ConFoot CFU continúa evolucionando con varias mejoras planificadas en el horizonte. Los esfuerzos de desarrollo se centran en reducir aún más el peso de cada unidad sin comprometer, e incluso mejorando, la capacidad de carga. Se están explorando innovaciones en ciencia de materiales para incorporar compuestos avanzados que ofrezcan relaciones de resistencia-peso superiores. Además, se están diseñando mejoras ergonómicas para simplificar aún más el proceso de acople y reducir la fatiga del operario durante un uso prolongado.
+  ### Aplicaciones versátiles
+  El diseño del CFU lo hace adecuado para una amplia gama de industrias y aplicaciones, desde logística y fabricación hasta defensa y ayuda humanitaria.
 
-  ### Capacidades de Integración
-  Las futuras versiones del ConFoot CFU contarán con capacidades de integración mejoradas con sistemas de gestión de almacenes y plataformas de seguimiento logístico. Se están desarrollando sensores digitales para monitorear en tiempo real la distribución de la carga y la estabilidad, proporcionando datos valiosos para la optimización de la seguridad y la eficiencia. Estas funciones inteligentes permitirán que el CFU se integre en el ecosistema logístico conectado, apoyando la toma de decisiones basada en datos y los programas de mantenimiento predictivo.
+  ### Flexibilidad operativa
+  Al permitir que los contenedores se utilicen en diferentes entornos y para diversos propósitos, el CFU amplía la utilidad de los contenedores estándar más allá de los roles tradicionales de transporte y almacenamiento.
 
-  Estos desarrollos en curso aseguran que el ConFoot CFU continuará satisfaciendo las necesidades cambiantes de las industrias de logística y manufactura, manteniendo su posición como una solución líder para la manipulación versátil de contenedores.
+  ## Especificaciones Técnicas
+
+  - **Capacidad de carga**: 20 toneladas
+  - **Peso total**: 46 kg cuando está ensamblado
+  - **Peso de los componentes**: Piezas individuales de menos de 25 kg
+  - **Rango de ajuste**: 0–1,500 mm
+  - **Material**: Acero de alta calidad con acabado duradero
+  - **Compatibilidad**: Casquetes estándar para esquinas de contenedores
+
+  El ConFoot CFU representa un avance significativo en la tecnología de manejo de contenedores, ofreciendo una solución que combina la capacidad de ajuste de altura, versatilidad y simplicidad operativa en un solo producto.
 ---

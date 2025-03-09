@@ -1,101 +1,101 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Universälle Containerfüess"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Höchi aapassbarä Containerfüess"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU isch e universälle Containerfüess, entwickelt für vielseitigi Containerhandhabig i unterschiedlichste Umgäbig."
-technicalDescription: "Bi em ConFoot CFU wird höchtwertige Stahl iizoge und es het üses patentierts Verriegeligssystem, wo e sicheri Befestigung an Container-Eckgüsse ermöglicht."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU isch e höchi aapassbarä Containerfüess, wo der ermöglicht, d'Höchi vom Container vo Bomä bis zu 1,5 Meter aazpasse – ganz ohni zusätzlichi Uusrüestig fürs Containerhandling."
+technicalDescription: "D'ConFoot CFU isch us hochwertigem Stah gstalte und het en patenteerten Schliessmechanismus, wo für e sichere Befestigung an de Container-Eckguss sorgt. Si ermöglicht en flexibli Bruch vo Containere i unterschiedlichä Umgebige und für verschideni Zwecks."
 videoID: "HDhFIRA-oZU"
 specifications:
-  - name: "Gewicht"
-    value: "24 kg"
-  - name: "Ladekapazität"
-    value: "34 t"
-  - name: "Dimensione"
-    value: "45 × 30 × 25 cm"
+  - name: "Weight"
+    value: "46 kg, wenn montiert (jedes Teil unter 25 kg)"
+  - name: "Load capacity"
+    value: "20 Tonne"
+  - name: "Adjustment range"
+    value: "0–1'500 mm"
   - name: "Material"
-    value: "Höchtwertiger Stahl"
+    value: "Hochwertiger Stah"
 price: "6.350 EUR"
 priceVAT: "7.684 EUR"
-pricingNotes: "Rabatte bi Grössabnahm verfügbar. Kontaktier eus für individuell Offerte."
+pricingNotes: "Mengendiscount verfiegbar. Nimm Kontakt uf für individueelli Offerte."
 buyLink: "/contact"
 howToUse: |
-  1. Plaziere de CFU unter em Container-Eck
-  2. Aktiviere s Verriegeligssystem
-  3. Überprüef d sicheri Befestigung
-  4. Wiederhole das für alli nöötige Ecke
+  1. Platziere d'CFU unter de Container-Ecke
+  2. Betätig de Schliessmechanismus
+  3. Passe d'Höchi a, wie nötig (vo Bomä bis über en Meter)
+  4. Kontrollier, dass d'Befestigung sicher isch
+  5. Wiederhol das für alli nötige Ecke
 benefits:
-  - title: "Universelli Kompatibilität"
-    description: "Funktioniert mit all standard Container, egal vo de Hersteller"
-  - title: "Schnälli Installation"
-    description: "Cha vo eim einzelne Bedienigsperson in weniger als 5 Minute pro Einheit aagsetzt werde"
-  - title: "Platzsparend"
-    description: "Kompakti Design ermöglicht d Lagerig i engen Räum, wenn s nöd im Gebrauch isch"
-  - title: "Wirtschaftlich"
-    description: "Reduziert dr Bedarf an spezialisierten Hebegerät, was d Betriebschoschte senkt"
-  - title: "Vielseitigi Aawendige"
-    description: "Geeignet für unterschiedlichsti Industriezweigi iinkl. Logistik, Produktion und Bau"
-  - title: "Verbesserte Ablaufe"
-    description: "Optimiert de Containerhandhabigsprozess und steigert d betriebliche Effizienz"
+  - title: "Kei zusätzlichi Uusrüestig nötig"
+    description: "Vollständigs Containerhandling nume mit de CFU Containerfüess, so dass kei zusätzlichi Schwermaschinä brucht wärde"
+  - title: "Höchi Aapassig"
+    description: "D'Höchi vom Container eifach vo Bomä bis über en Meter aapassbar (0–1'500 mm)"
+  - title: "Gueti Tragbarkeit"
+    description: "Besteit uus mehrere Teile, wobei jedäs Teil unter 25 kg wiegt, was s'Hantierä vereifacht"
+  - title: "Vielfältigi Aawändig"
+    description: "Eignet sich für verschiedeni Branche, inklusiv Transportunternehme, Verteidigigsstreitkräfte, Produktionsbetriebe, Detailhandel, Hafen und humanitäri Hilf"
+  - title: "Flexibli Nutzig"
+    description: "Erlaubt flexibli Bruch vo Containere i unterschiedlichä Umgebige und für verschideni Zwecks"
+  - title: "Optimierter Ablauf"
+    description: "Verbessert d'Prozessä bim Containerhandling und steigert d'operative Effizienz"
 articleContent: |
-  ## Was isch de ConFoot CFU?
+  ## Was isch ConFoot CFU?
 
-  ConFoot CFU isch e universälle Containerfüess-Lösung, wo höchsti Vielseitigkeit und Kompatibilität i unterschiedlichste Container-Typen biete will. Das innovative System ermöglicht es, Container zuverlässig und effizient z handhabe, ganz ohni dä Notwendigkeit vo schwärcher Maschinerie oder spezielle Gerätschaften. S CFU-Modell sticht us wäge sim Fähigkeit, mit praktisch jedem standardmässige Shipping Container z funktioniere – und isch drum e ideale Wahl für Betriebe, wo mit verschiedenste Container-Artä schaffe.
+  ConFoot CFU isch e höchi aapassbari Containerfüess-Lösung, wo für maximali Vielseitigkeit und Flexibilität bim Containerhandling sorgt. Das innovative System ermöglicht der, d'Höchi vo Containere vo Bomä bis über en Meter aazpasse (0–1'500 mm), ganz ohni zuesätzligi Uusrüestig. S'CFU-Modell fällt uuff mit sim Fähigkeit, mit standard Versandcontainere i verschiedenä Umgebige und für unterschidligi Zwecks z'schaffe – drum isch es e ideale Wahl für Betriebe i mehrere Branche.
 
-  ## Wie's funktioniert
+  ## Wie's funktionieret
 
-  De ConFoot CFU wird direkt an de Container-Eckguss befestigt und lieferet e stabile Basis für s Be- und Entlade sowie für temporäri Lagerig. S universälle Design sorgt dafür, dass s System mit nahezu all standardmässige Shipping Container kompatibel isch – ideal für Betriebe, wo mit verschiedenste Containertypen schaffe. Dr eifache Befestigungsmechanismus ermöglicht schnälli Uufstellig und Abnahme, was d Ziit und d Ressource, wo für d Containerhandhabig bruucht werde, erheblich reduziert.
+  De ConFoot CFU wird direkt an de Container-Eckguss befestigt, wo e stabii Basis für d'Lade, d'Entlade und temporari Lagerig biete tuet. Sim aapassbari Design sorgt für Flexibilität bim Positioniere vo de Container uf de optimalä Höchi für din spezifische Bedarf. S'System besteht uus mehrere Teile, wobei jedäs einzelne Teil unter 25 kg wiegt – das erleichtert de Bediener d'Hantierä, während s'gmainschte Gewicht vo de Füüess, wenn montiert, 46 kg isch. Dr eifachi Befestigungsmechanismus erlaubt schnälls Uisätzä und Abnäh, wodurch d'Zyt und d'Ressourcä fürs Containerhandling erheblich reduziert wärde.
 
-  ## Wie funktionieret de ConFoot CFU
+  ## Aawändig vo ConFoot CFU
 
-  ### Kernmechanismus
+  ### Transportunternehme
+  ConFoot CFU isch im Transportbereich, wu Höchi-Aapassig und Flexibilität gfrogt sind. Transportunternehme chöi de CFU-Füess bruuche, um Containere eifach z'lade, z'entlade und z'positioniere – ganz ohni zusätzlechi Schwermaschinä – wodurch d'Operatioune optimiert und d'Uusrüschtkoste reduziert wärde.
 
-  De ConFoot CFU setzt uf es innovatives, universells Befestigungssystem, wo sich sicher an Container-Eckgüsse befestige lässt – unabhängi vom Hersteller. Die Vielseitigkeit wird durch es speziell entwicklets Klammermechanismus erreecht, wo sich an unterschiedlichi Konfiguratione vo de Eckgüsse aapasse tuet. Gmächt us höchtwertigem Stahl, bietet jede Einheit ussergewöhnlich Langlebigkeit und isch gliechziitig für e einzelne Bedienigsperson eifach z handhabe und z montiere.
-
-  Dr Befestigungsprozess isch eifach und bruucht minimal Training. Bedienigspersonne chönd de CFU genau unter em Container-Eck plaziere, s Verriegeligssystem aktiviere und d sicheri Befestigung überprüefe, bevor witergange wird. Die Simplizität ermöglicht schnälli Uufstellig in verschiedenste betrieblichi Umgäbig – vo bebuschte Häfen bis zu abgelegene Baustätte.
-
-  ### Vorteili vom Mechanismus
-
-  1. **Universelli Aawendige**: S adaptivi Design vom CFU funktioniert mit Container vo allne grosse Hersteller und beseitigt Kompatibilitätsbedenke.
-  2. **Betriebseifachheit**: S intuitivi Befestigungssystem chan schnäll erlernt werde, was d Trainingsufwand und Betribserroffrige reduziert.
-  3. **Ziitersparnis**: D Containerhandhabig cha in eme Bruchteil vo dr Ziit erledigt werde im Vergleich zu traditionelle Methode, wo schwärchi Maschinerie nödig macht.
-  4. **Ressourceneffizienz**: Dur d Reduktion vo dr Abhängigkeit von spezielle Gerätschaften ermöglicht de CFU e effizienteri Allokation vo de Ressource.
-
-  Dr Mechanismus vom CFU stellt e bedeutende Fortschritt i dr Containerhandhabigstechnologie dar und biet e Lösung, wo Vielseitigkeit, Eifachheit und Effizienz in eini Produkt vereint.
-
-  ## Aawendige vom ConFoot CFU
-
-  ### Vielfältigi Logistikoperatione
-  De ConFoot CFU überzeugt in verschiedenste Logistikoperatione, wo regelmässig unterschiedlichi Containertypen bedient werde. S universelli Kompatibilität macht es besonders wertvoll in multimodale Transport-Drehkreuze, wo Container vo diverse Hersteller und Reedereie zämecho. D Fähigkeit vom System, mit unterschiedliche Container z funktioniere, eliminiert dr Bedarf an mehre spezialisiärte Handhabigslösige, vereinfacht d Abläuf und senkt d Gerätekoschte.
-
-  ### Kleini Distributionszentren
-  Für chlini Distributionszentren, wo d Kosten für permanenti Containerhandhabigs-Gerätschaften nöd rechtfertigt werde chönd, liefert de ConFoot CFU e ideale Lösung. D portable Eigeschafte und d Eifachheit im Gebrauch erlaube dene Betriebe, Containerlieferige effizient z managed – ohni in kostspieligi Infrastruktur z investiere. Die Zugänglichkeit eröffnet neu Mögligkeite für Betriebe, wo ihre Verteilerkapazität usbaue wend, ohne erhebliche Kapitalinvestitione.
+  ### Verteidigigsstreitkräfte
+  Für d'verteidigigsstreitkräfte bieted de CFU e portable und vielseitigi Lösig, wo schnäll Container-basierte Anlagen i verschiedene Terrains und Umgebige deploye cha. D'Höchi-Aapassig ermöglicht optimale Positionierig au uf unebene Unterlag.
 
   ### Produktionsbetriebe
-  Produktionsbetriebe profitieret vo dr Fähigkeit vom CFU, flexible Produktionslayouts z erlaube. Dur s präzise Positioniere vo Containern genau dort, wo sie bruucht werde, erleichtert s System just-in-time Lagerhaltigsmanagement und effizienti Produktionsabläuf. D Möglichkeit, Container schnäll umzusetzen, unterstützt agile Herstellprozesse, wo häufig e Neuanordnung vom Arbeitsbereich und e optimierte Ressourceneinteilung erfordere.
+  Produktionsbetriebe profitiered vo de Fähigkeit vom CFU, flexible Produktionslayouts mit aapassbare Containerhöichi z'schaffe. Indem Containere präzis dort platziert wärde, wo sie bruucht werde, erleichtert das System effizienti Produktionsabläuf und d'Lagerverwaltung.
 
-  D Adaptabilität vom ConFoot CFU macht es zu enem unverzichtbare Werkzeug für moderni Logistik und Produktionsabläuf, und sorgt dafür, dass es sich stets an d wandelige Bedürfnisse vo de Branche aapasst.
+  ### Detailhandel
+  Im Detailhandel chöi de CFU-Füess für temporari oder saisonali Lagerlösige iissetze werde, mit dr Möglichkeit, d'Containerhöichi aazpasse, um Lade-Docks oder anderi Infrastrukturvorgabe z'erne.
 
-  ### Vorteili und Einschränkige
+  ### Hafen
+  I Hafenumgäbig bietet de CFU Flexibilität fürs Containerhandling und für temporari Lagerig – so chönd Platz und Ressourcä effizient bruucht wärde, ohni sich nume uf Schwermaschinä z'verlah.
 
-  #### Vorteili
+  ### Humanitäri Hilf
+  Für humanitäri Hilfseinsatz bieted de CFU e praxisnöchi Lösig, um Container-basierte Anlagen schnäll i schwierigä Umgebige z'installiere – und zwar mit dr Möglichkeit, d'Höchi aazpasse, um verschiedeni Terrains und operative Bedürfnis z'berücksichtige.
 
-  De ConFoot CFU biet erheblichi Vorteili für Containerhandhabigsoperatione. S universelli Kompatibilität eliminiert dr Bedarf an mehre spezielli Handhabigssystem, reduziert d Gerätekoschte und vereinfacht s Inventar-Management. D Portabilität ermöglicht de Uufstellig an verschieden Standorte, was e betriebliche Flexibilität liefert, wie s nid feste installierte Gerätschaften chönne. Zudem reduziert d eifachi Bedienig vom CFU de Trainingsufwand und erlaubt schnälli Implementierig in neie Umgäbig. D robuste Konstruktion sichert langfristigi Zuverlässigkeit, während s kompakti Design de Lagerigsufwand minimiere, wenn s nöd im Gebrauch isch.
+  ## Vorteili vo ConFoot CFU
 
-  #### Einschränkige
+  ### Kei zusätzlichi Uusrüestig nötig
+  De CFU macht d'Nötigkit für Kran, Gabelstapler oder anderi Schwermaschinä fürs Containerhandling überflüssig, wodurch d'Betriebschoste und d'Abhängigkeit vo spezieller Uusrüestig reduziert wärde.
 
-  Trotz dr Vielseitigkeit git es bi em ConFoot CFU o e paar Einschränkige, wo berücksichtigt werde müend. D manuelle Natur vom System isch unter Umständen nöd optimal für Operatione mit extremem Volumen, wo automatisierti Lösige effizienter wären. Au wenn de CFU de Bedarf an schwärcher Maschinerie erheblich reduziert, eliminiert er sie nid in allne Containerhandhabigs-Szenarien vollständig. Zudem chönd extrem unebeni Oberfläche Problemi für e stabile Uufstellig verursache, was in einzelne Fäll zusätzlechi Standortvorbereitig nötigg macht. Die Faktore sötted sorgfältig abgwägt werde, wenn dr CFU i spezifischne betrieblichi Umgäbig i Betracht zoge wird.
+  ### Höchi-Aapassigsfähigkeit
+  Mit ere Aapassigsreichwiite vo 0 bis 1'500 mm bieted de CFU unerreichti Flexibilität bim Positioniere vo Containere uf de optimalä Höchi – ideal für verschiedeni Aawändig und Umgebige.
 
-  ## Zuekunftigi Entwicklige
+  ### Hänsligi Tragwäg
+  Trotz sim robustä Bau und 20-Tonne-Ladekapazität isch de CFU so entwickelt, dass er de Bediener ideal z'handhabe isch. Einzelligi Komponenten wieged unter 25 kg, was d'Montierig und d'Positionierig enorm vereifacht.
 
-  ### Geplante Verbesserige
-  Dr ConFoot CFU entwickelt sich stetig wiit mit mehrere geplannti Verbesserige am Horizont. D Entwicklungsbemühige konzentriere sich druf, s Gewicht vo jeder Einheit no meh z reduziere und gleichzeitig d Tragfähigkeit z beibehalte oder sogar z verbessere. In dr Materialwüssenschaft werde Innovatione verfolgä, wo fortschrittlichi Verbundstoffi i d Konstruktion integrere, um e überlegeni Stärke-zu-Gwicht-Verhältnis z erziile. Zudem sind ergonoomischi Optimierig in Planung, wo dr Befestigungsprozess no eifacher mache und d Ermüdig vo Bedienigspersonne bi langetwärtigem Einsatz reduziere sötted.
+  ### Vielseitigi Aawändig
+  S'Design vom CFU macht ihn für e breiti Palette vo Branche und Aawändig geeignet – vo Logistik und Produktion bis zu Verteidigung und humanitäre Hilf.
 
-  ### Integrationsmöglichkeiten
-  Zuekunftigi Versione vom ConFoot CFU werde mit verbesserten Integrationsmöglichkeiten in Lagerverwaltungssysteme und Logistik-Tracking-Plattformen ufwändige. Digitale Sensoren sind in Entwicklung, um d Lastverteilig und d'Stabilität in Echtzyt z überwache – und so wertvolli Date für d Sicherheits- und Effizienzoptimierig z lieferä. Die smarti Funktionen erlaube em CFU, en integrale Teil vom vernetzte Logistik-Ökosystem z werde, und unterstütze so datengetriebni Entscheidigsprozesse sowie voraussägendi Instandhaltigspläne.
+  ### Betrieblichi Flexibilität
+  Indem Containere i unterschiedlichä Umgebige und für vielfältigi Zwecks bruucht werde chöi, erweitert de CFU d'Nutzen vo standard Versandcontainere über traditionelli Transport- und Lagerufgabe us.
 
-  Die laufendi Entwicklige sichergeh, dass dr ConFoot CFU au in Zuekunft dä wandelige Bedürfniss vo de Logistik- und Produktionsbranche gerecht wird und sich als führendi Lösung für vielseitigi Containerhandhabig bestätigt.
+  ## Technischi Spezifikationen
+
+  - **Ladekapazität**: 20 Tonne
+  - **Gesamtwäg**: 46 kg, wenn montiert
+  - **Teilgewicht**: Einzelne Teile unter 25 kg
+  - **Aapassigsreichwiite**: 0–1'500 mm
+  - **Material**: Hochwertiger Stah mit langlebiger Oberflächi
+  - **Kompatibilität**: Standard Versand-Container-Eckguss
+
+  De ConFoot CFU stellt en bedeutende Fortschritt i de Containerhandling-Technologie dar und bietet e Lösig, wo Höchi-Aapassbarkeit, Vielseitigkeit und betrieblichi Einfachheit i einem einzigä Produkt vereint.
+
 ---

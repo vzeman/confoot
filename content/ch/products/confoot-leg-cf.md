@@ -1,105 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Standard-Containerfüess"
+subtitle: "Standard Container-Füssli"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "D'ConFoot-leg CF isch üsi Standard-Lösung für Containerfüess – ideal für d'üblichi Containerhandhabig."
-technicalDescription: "D'ConFoot-leg CF zeichnet sich dur ä robuste Konstruktion uus, optimiert für Standard-Versandcontainer, mit üsem eigentüechlige Befästigungssystem für schnälli Einsatzbereitschaft."
+shortDescription: "ConFoot-leg CF isch üses Standardmodell vom Containerfüssli, wo d'Zyt fürs Vermove und Ulfahre vo Containern reduziert. So chönd Container bim Ulfahre warte bliibe, und d'Fahrer muesed nid lang warte."
+technicalDescription: "Mit em CF Modell chönd Container als zusätzleche Lagerplatzi brucht werde, und sin zu jeder Zit parat zum Vermove – fahrt eifach de Anhänger under de Container, und d'Reis goht wiiter."
 videoID: "C2KwnEb-npU"
 specifications:
-  - name: "Gewicht"
-    value: "24 kg"
+  - name: "Gwicht"
+    value: "24 kg pro Füssli"
   - name: "Tragfähigkeit"
-    value: "34 t"
-  - name: "Abmessige"
-    value: "45 × 30 × 25 cm"
+    value: "34 Tonne"
+  - name: "Verstellbereich"
+    value: "1'043 mm bis 1'448 mm"
   - name: "Material"
-    value: "Hochwäärter Stahl"
-  - name: "Höhenbereich"
-    value: "1.043 mm bis 1.448 mm"
+    value: "Hochwärtigs Stahli"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Mengenrabatt verfügbar für Flottenbetreiber. Nimm Kontakt mit üs uf für Detail."
+pricingNotes: "Rabatte bi Massebestellig sind verfügbar. Kontaktier eus für Detail."
 buyLink: "/contact"
 howToUse: |
-  1. Befestige dä CF-Füess am Eckguss vom Container
-  2. Sichere dä Verriegelungsmechanismus
-  3. Wiederhole das für alli nötige Ecken
-  4. Prüef d'Stabilität, bevor du mit de Operatione witer machisch
+  1. Positionier das CF Füssli am Containerhörn
+  2. Aktivier de Verriegelungsmechanismus
+  3. Stell d'Höchi, wenn nötig, im Verstellbereich vo 1'043 mm bis 1'448 mm ii
+  4. Wiederhole das für all nöötige Ecken
+  5. Senk de Anhänger ab und fahre witer, währed de Container sicher uf de Füssli bliibt
 benefits:
-  - title: "Betriebliche Effizienz"
-    description: "Beschleunigt d'Containerhandhabig, wodurch Lade- und Entladeziite verkürzt werde."
-  - title: "Weniger Gerätebedarf"
-    description: "Reduziert d'Abhängigkeit vo Krane und Hebezüge, was d'Betriebskosten senkt."
-  - title: "Anpassigsfähigkeit"
-    description: "Funktioniert in unterschiedlichne Betriebsumgebige, vo de Häfen bis zu de Lagerhalle."
-  - title: "Langlebigkeit"
-    description: "Robust gebaut für intensiv industrielli Einsätz, mit minimalem Underhalt."
-  - title: "Umweltauswirkig"
-    description: "Senkt d'CO2-Uusstoss, will d'Notwendigkeit für schwere Maschinä und bränntstoffverbrauchendi Geräte entfällt."
-  - title: "Sicherheitsverbesserig"
-    description: "Stabilisiert Container während de Handhabig, wodurch s'Risiko vo Unfäll und Schade am Gutt reduziert wird."
+  - title: "Zytersparnis"
+    description: "Verringert d'Zyt fürs Versetze und Ulfahre vo Containern, will d'Container bim Ulfahre warte chönd."
+  - title: "Effizienz für d'Fahrer"
+    description: "D'Fahrer muesed nid lang warte bim Ulfahre, was ihne meh Ziit für anderi Ufträge verschafft."
+  - title: "Zusätzle Lagerplatz"
+    description: "Container chönd als zusätzle Lagerplatz brucht werde, wenn sie nid in de Bewegung sind."
+  - title: "Immer fahrbereit"
+    description: "Container sind jederzeit parat zum Vermove – fahrt eifach de Anhänger under de Container, und d'Reis goht witer."
+  - title: "Vielseitigi Applikatioune"
+    description: "Eignet sich für allgmeine Nutzig, Lagerig, Tankcontainer und verschiedeni Industriebereiche."
+  - title: "Kostöoptimierig"
+    description: "Optimiert d'Koste und d'Zyt, indem de Transport- und Lagerprozess vereinfacht wird."
 articleContent: |
-  ## Was isch ConFoot-leg CF?  
+  ## Was isch de ConFoot-leg CF?
 
-  D'ConFoot-leg CF isch es modernes und leichts System, wo d'Containerhandhabig eifacher und effizienter macht. Die Containerfüess biete en portabli und eifachi Alternative zum Einsatz vo schwere Maschinä bi Lade und Entlade vo Standard-Versandcontainern. D'Technologie isch so entwickelt, dass sie mit nur einere Person bedient werde cha – en kosteneffiziente und flexible Lösig für unterschiedlichi Branchen.  
+  De ConFoot-leg CF isch s Standardmodell vom Containerfüssli, wo dr Ablouf im Transport, Lagerig und in dr Logistik enorm vereinfacht. Die vielseitigi Lösig reduziert d'Zyt, wo fürs Versetze und Ulfahre vo Container brucht wird, will d'Container bim Ulfahre warte bliibe, und d'Fahrer muesed nid lang warte. So verwandleed sich Shipping Container in flexible Lagerplatze, wo jederziit parat für de Transport sind.
 
-  ## Wie’s funktioniert  
+  ## Di wichtigschte Vorteilig für Transport und Logistik
 
-  D'ConFoot-leg CF macht de Bedarf an Krane, Gabelstapler oder andere grossi Geräte bi de Containerhandhabig überflüssig. Dä innovative Design erlaubt Betriebe, d'Betriebskosten z'sänke, Ziit z'spare und d'Logistik flexibler z'mache. Durch d'Optimierig vo Lade-, Entlade- und Transportprozessä verbessert d'ConFoot-leg CF d'Zuverläsigkeite und Effizienz vo de globalä Supply Chain.  
+  De ConFoot-leg CF bringt erhebliche Betribsvorteil für Unternehmen, wo im Containertransport und in dr Logistik täti sind. Wird d'Zyt vo de Fahrer besser iigsetzt und d'Flotte optimal usegnützt, chönd Container abglade und grad witergfahrä werde – ohni kostspieligi Wartezyt bim Lade- oder Ulfahroversatz.
 
-  ## Wie ConFoot-leg CF funktioniert
+  Usserde chönd Container mit CF Füssli, wenn sie nid im Transit sind, als wertvoll zusätzliche Lagerflächi diene. Sie sind jederzeit parat zum Vermove – fahrt eifach de Anhänger under den Container, und d'Reis goht witer. Die Flexibilität macht de CF zu en ideale Lösig für Unternehmen, wo ihre Logistikeffizienz und Lagerkapazität verbessere wend.
 
-  ### Hauptmechanismus
+  ## Wie das funktioniert
 
-  D'ConFoot-leg CF bruucht es eifachs, aber wirkigsvolles Design. D'Füess werde fesch an de Ecken vo Standard-Versandcontainern mit eme schtarke Klemmssystem befestigt, wo für d' nötige Stabilität sorgt. Hergstellt us leichten aber robustä Material, wiegt jedä Füess nur 24 kg – das macht sie für e einzigi Person müehlos handhabbar. Dä Befästigungsprozess isch effizient und ermöglicht en schnälle Montage ohne spezielle Werkzeug oder schwere Geräte. Sobald d'Füess montiert sind, entsteht en stabile Unterlag für s'Lade, d'Entlade oder de zwüschentliche Lager vo de Container.
+  De ConFoot-leg CF wird sicher an de Containerhörner befestigt und biet stabili Unterstützig währendde Container zum Lade, Ulfahre oder zur Lagerig positioniert wird. D'Füssli hend en Verstellbereich vo 1'043 mm bis 1'448 mm, was flexible Positionierig i verschieden Betriebsumgebige erlaubt. Jed Füssli wiegt 24 kg, was de Handhabig für d'Bedienige vereinfacht, während s'Ganze e beachtliche Tragfähigkeit vo 34 Tonne ufwyse tuet.
 
-  D'Höchi vo de Füess isch einstellbar vo 1.043 mm bis 1.448 mm. Dä verstellbari Bereich deckt unterschiedlichi betriebliche Bedürfnisse ab und sorgt derfir, dass s'System mit verschieden grossi Container und Umgebige kompatibel isch. Die Vielseitigkeit erleichtert d'Containerhandhabig in diverse logistische Setups – vo de Häfen bis zu de Lagerhäuser.
+  D'Instalierig isch unkompliziert:
+  1. Positionier die CF Füssli an de Containerhörner
+  2. Schalt de Verriegelungsmechanismus ii, um d'Füssli z'sichere
+  3. Stell d'Höchi so ii, wie's für dini Bedürfnis passt
+  4. Senk de Anhänger ab und fahre witer, während de Container guet uf de Füssli ruht
 
-  ### Vorteil vom Mechanismus
+  Wann's Zit isch, de Container z'vermove, fahrt eifach de Anhänger zrugg under de Container, sichert den Container am Anhänger, nimm d'Füssli ab, und mach d'Reis witer.
 
-  1. **Reduziert d'Abhängigkeit vo schwere Maschinä**: D'ConFoot-leg CF macht Krane oder Gabelstapler überflüssig, wodurch d'Betriebskosten sinke und d'Umweltauswirkig minimiert wird.  
-  2. **Verbessert d'Sicherheit**: S'System stabilisiert de Container während de Handhabig und reduziert so s'Risiko vo Unfäll und Schade.  
-  3. **Steigert d'Effizienz**: Dank em leichten Design und der eifache Montage chömp Operatione schneller vorwärtsgange, sogar in Gebiete mit beschränkter Infrastruktur.  
-  4. **Erhöht d'Portabilität**: D'Füess si simpel zum Transportiere und chöi in entlegene Regionä eingesetzt werde, was sie vielseitig nutzbar macht.
+  ## Applikatioune vom ConFoot-leg CF
 
-  Das Design vo ConFoot-leg CF vereinfacht de ganze Prozess vo de Containerhandhabig und biete en kosteneffiziente sowie nachhaltigi Option für moderni Logistikherausforderige.
+  ### Transportfirmen
+  Transportfirmen profitiere massiv vo de Fähigkeit vom CF, d'Nutzung vo de Flotte z'optimieren. D'Fahrer chönd Container bi de Kunden absetze und sofort witerfahre, statt lang Wartezyt bim Lade/Ulfahre z'hend. Die Effizienz cha d'Produktivitäät vo de vorhandene Anhängerflotte spürbar erhöhe und d'Betriebskoste senke.
 
+  ### Lagerig und Distribution
+  Fir Lager- und Distributionsbetrieb bietet de CF en flexible Lösig zum Managen vo de Containerbewegige. Container chönd vorübergehend uf de Füssli in Lagerzone plaziert werde und so als zusätzle Bufferkapazität während de Stoßziite diene. Das reduziert d’Überfüllig an Ladeplätz und erlaubt es, d'Lade- und Ulfahroversätt effizienter z’plane.
 
-  ## Anwendungsgebiet vo ConFoot-leg CF  
-  
-  ### Wo ConFoot-leg CF verwendet wird  
-  ConFoot-leg CF verbessert erheblich d'Abläufe in Logistik und Transport und verändert, wie Container gehandhabt werde. S'du leicht und portabli Design ermöglicht s'Lade, Entlade und Verlade vo Containern ohni de Einsatz vo Krane oder Gabelstapler. Das isch besonders nützlich in ablegene Gebiet oder an Ort, wo keine schwere Geräte zur Verfüegig stöh – so laffe d'Prozessä reibiger ab und d'Kosten sinke. Zuegliech hilft s'bei Häfen, Lagerhäusern und Verteilzentren, effizienter z'arbeten, indem d'Ziit und d'Mannschaft, wo für d'Containerhandhabig brucht wird, reduziert werde.
+  ### Produktionsbetriebe
+  Produktionsstandorte chönd Container mit CF Füssli als flexible zusätzlichen Lagerplatz für Rohstoff oder Fertigprodukte brucht. Wird die Container nah an de Produktionszone positioniert, sind d'Materialie schnäll zur Verfüegig, was d'Umhandlig vereinfacht und d'Produktionsprozesse verbessert.
 
-  ### Chliini Orte, wo Krane nid chöi aagsetzt werde
-  ConFoot-leg CF isch e praktschi Wahl für chliini Orte, wo Krane nid einsetzbar sind, wie z. B. in Häfen, Lagerhäusern und Verteilzentren. S'bietet en zuverlässigi und kosteneffizienti Lösung für d'Handhabig vo Containern in däne Umgebige, und isch damit ideal für Betriebe, wo Güeter in entlegene Standorte transportiere und lageriere muesse.
+  ### Einzelhandel
+  Im Einzelhandel chönd de CF für saisonali Lagerlösige verwendet werde, wo Container strategisch plaziert sind, um s'Inventar während de Stoßziite optimal z'managen. So staht kosteneffiziente zusätzliche Kapazität zur Verfüegig, ohni dass en dauerhafte Erweiterig vo de Betriebsfläche nötig wird.
 
-  ### Modulari Baustell und Gerätespicherig  
-  ConFoot-leg CF isch e praktschi Option für modulari Baustellprojäkt und bietet zuverlässig Lösige für temporäri Aufstellige. Bauteams setze s'ii zum sichere und effiziente Lagerä und Transportiere vo Werkzeug, Maschinä und vorfabrikiertem Material. D'Portabilität und d'eifache Montage mache s'besonders attraktiv für Baustelle, wo schnäll uf- und abbaut werde muesse. Zude wird d'sichere Lagerig vo Geräten, wo in modulari Gesundheitsanlagä verwendet werde, gewährleistet – so chasch in verschieden Umgebige rasch i Betrieb gah.
+  ## Technischi Spezifikatioune
 
-  Das anpassigsfähigi und effizienti Design vo ConFoot-leg CF macht s'zu ere erste Wahl in unterschiedlich Branchen, verbessert d'Abläufe und maximiert de Ressourceneinsatz.
+  - **Tragfähigkeit**: 34 Tonne
+  - **Gwicht**: 24 kg pro Füssli
+  - **Verstellbereich**: 1'043 mm bis 1'448 mm
+  - **Material**: Hochwärtigs Stahli mit robustem Finish
+  - **Kompatibilität**: Standard Containerhörner
 
-
-  ### Vorteile und Einschränkige
-
-  #### Vorteile
-
-  ConFoot-leg CF bietet vielseitigi und bemerkenswuerdigi Vorteili für d'Containerhandhabig. S'leichte Design, wo je Füess nur 24 kg wiegt, macht s'leichte Transport und Montage möglich. Jeder Füess tragt bis zu 30 Tonne und sorgt für en stabile Halti, was zu diverse Logistikoperatione passt. De verstellbari Höhenbereich (1.043 mm – 1.448 mm) ermächtigt en, uf unterschiedlichi Bedürfnis iizäge, und erhöht so d'Vielseitigkeit. S'portabli System reduziert de Bedarf an schwere Maschinä wie Krane oder Gabelstapler, was zu erheblichne Einsparige und verbesserter Effizienz im Betrieb führt. Zudem senkt s'umwältfreundlichi Design de CO2-Uusstoss, was mit de Nachhaltigkeitsziele im Einklang steht.
-
-  #### Einschränkige
-
-  Trotz de Vorteili het ConFoot-leg CF au sini Nöte. Es isch nur mit spezifische Container-Typen kompatibel, was d'Nutzig i gewisse Logistikszenarie einschränke cha. Zudem, wenngleich de manuelle Montageprozess eifach isch, fügt er sich möglicherwiis nöd optimal i hochautomatisierti Abläufe i – das cha in Betriebe, wo stark uf Mechanisierig setze, Problem verursache. Die Aspekt sött mer im Vorfeld gnau abwäge, wenn mer plant, ConFoot-leg CF in komplexe Supply-Chain-Systeme z'integriere.
-
-
-  ## Zukunftsentwicklige
-
-  ### Aktuelli Forsche  
-  Forscher schaffe deranne, d'strukturelle Fäegkeite vo ConFoot-leg CF z'verbessere. S'Ziel isch, d'Tragfähigkeit über d'aktuelle 30-Tonne-Grenze use z'erhöhe, so dass au schwereri Versandcontainer bewältigt werde chönd. Gleichzeitig wird d'Materialzusammensetzig optimiert, um s'Produkt langlebiger z'mache – und das ohni dä Vorteil vo em leichten und portabli System z'verlüstre.  
-  ### Zukünftigi Innovatione  
-  Zue de zukünftig geplante Entwicklige für ConFoot-leg CF ghört dr Integratio vo IoT-Technologie (Internet of Things), wo en Echtzit-Überwachung vo de Containerstabilität und -position ermöglicht. Die Funktion erlaubt de Bediener, Containerzuständ us de Ferne im Auge z'ha, was d'Sicherheit und d'Effizienz erhöt. E witeri geplante Innovation isch d'Automatisierig: Selbstjustierendi Füess, wo Container automatisch usrichte und stabilisiere chönd – das reduziert de Bedarf an manuälle Anpassige. Mit däne Fortschritte soll d'Ausfallziite minimiert werde und d'Logistikprozesse reibiger ablaufe.
-
-  Die technologische Aktualisierig wird ConFoot-leg CF helfe, au i Zuekunft e Vorreiter i de Containerhandhabig z'blibe. Sie setze neui Massstäb für Effizienz und Innovation i de Logistikbranche.
+  De ConFoot-leg CF isch e praxisorientierti Lösig, wo d'Prozesse im Transport und in dr Lagerig optimiert, und biet Unternehmen e effektivi Mögligkeite, d'Koste und d'Zyt optimal z'nutze. Durch d'Möglichkeit, Container während em Ulfahre als zusätzlichen Lagerplatz z'verwände, wird d'Flexibilität im Umgang mit Containern erheblich verbessert.
 ---

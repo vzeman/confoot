@@ -1,104 +1,93 @@
 ---
 title: "ConFoot-leg CFP"
-subtitle: "Prémiová kontajnerová noha"
+subtitle: "Noh kontajnera pre nakladaciu rampu"
 mainImage: "/images/products/confoot-leg-cfp-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfp-1.jpg"
   - "/images/products/confoot-leg-cfp-2.jpg"
   - "/images/products/confoot-leg-cfp-3.jpg"
-shortDescription: "ConFoot-leg CFP je naše prémiové riešenie pre kontajnerové nohy, ktoré prináša vylepšené možnosti pre špecializované operácie s kontajnermi."
-technicalDescription: "ConFoot-leg CFP obsahuje pokročilé materiály a dizajnové vlastnosti, ktoré zaručujú vynikajúci výkon v náročných podmienkach a špecializovaných aplikáciách."
+shortDescription: "ConFoot-leg CFP je navrhnutý pre nakladacie rampy, umožňujúci bezpečné upevnenie kontajnera k mole a zároveň umožňujúci úplné otvorenie dverí smerom k bokom."
+technicalDescription: "Model CFP umožňuje nakladať výrobky priamo z výroby do kontajnera bez potreby medziprekladového skladovania, pričom nie je potrebné žiadne ďalšie zariadenie na manipuláciu s kontajnermi."
 videoID: "da7h7VgJHgs"
 specifications:
   - name: "Hmotnosť"
-    value: "26 kg"
+    value: "24 kg na nohu"
   - name: "Nosnosť"
-    value: "36 ton"
-  - name: "Rozmery"
-    value: "48 × 32 × 28 cm"
-  - name: "Materiál"
-    value: "Vysoko kvalitná zliatinová oceľ"
-  - name: "Nastaviteľný výškový rozsah"
+    value: "30 ton"
+  - name: "Nastaviteľný rozsah"
     value: "1 043 mm až 1 448 mm"
+  - name: "Materiál"
+    value: "Vysokokvalitná oceľ"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Dostupný je prémiový servisný balík. Kontaktujte náš obchodný tím pre viac informácií."
+pricingNotes: "Dostupné množstevné zľavy. Pre viac informácií kontaktujte náš obchodný tím."
 buyLink: "/contact"
 howToUse: |
-  1. Umiestnite CFP nohu na rohový odliatok kontajnera
-  2. Aktivujte pokročilý zámkovací mechanizmus
-  3. Ak je potrebné, upravte výšku pomocou integrovaného systému nastavenia
-  4. Opakujte pre všetky požadované rohy
-  5. Pred pokračovaním vykonajte kontrolu stability
+  1. Umiestnite CFP nohu na roh kontajnera podľa odliatej lišty
+  2. Aktivujte zámkový mechanizmus
+  3. V prípade potreby nastavte výšku v rozsahu 1 043 mm až 1 448 mm
+  4. Upevnite kontajner k nakladacej rampe
+  5. Úplne otvorte dvere kontajnera smerom k bokom
+  6. Nakladajte výrobky priamo z výroby do kontajnera
 benefits:
-  - title: "Vylepšená stabilita"
-    description: "Prémiový dizajn poskytuje výnimočnú stabilitu aj na nerovných povrchoch"
-  - title: "Nastaviteľná výška"
-    description: "Integrovaný systém nastavenia umožňuje presné doladenie výšky kontajnera"
-  - title: "Extrémna odolnosť"
-    description: "Vyrobené z prémiových materiálov pre predĺženú životnosť aj pri náročných podmienkach"
-  - title: "Špecializované aplikácie"
-    description: "Ideálne pre špecializované operácie s kontajnermi vyžadujúce presné umiestnenie"
-  - title: "Pokročilé bezpečnostné prvky"
-    description: "Obsahuje dodatočné bezpečnostné mechanizmy na zabránenie pošmyknutia a zabezpečenie bezpečnej manipulácie s kontajnermi"
-  - title: "Prémiový výkon"
-    description: "Navrhnuté tak, aby prekročili priemyselné štandardy pre nosnosť a spoľahlivosť prevádzky"
+  - title: "Integrácia s nakladacou rampou"
+    description: "Umožňuje bezpečné upevnenie kontajnera na rampu a zároveň umožňuje úplné otvorenie dverí smerom k bokom"
+  - title: "Priame nakladanie"
+    description: "Výrobky sa môžu nakladať priamo z výroby do kontajnera bez medziprekladového skladovania"
+  - title: "Bez ďalšieho vybavenia"
+    description: "Na nakládacie operácie nie je potrebné žiadne ďalšie zariadenie na manipuláciu s kontajnermi"
+  - title: "Efektívnosť prívesu"
+    description: "Uvoľní príves pre ďalšie úlohy, zatiaľ čo kontajner zostáva na nakladacej rampe"
+  - title: "Dodatočný skladovací priestor"
+    description: "Kontajnery môžu byť využité ako dodatočný skladovací priestor, keď nie sú v preprave"
+  - title: "Okamžitá mobilita"
+    description: "Kontajnery sú vždy pripravené na presun – jednoducho sa podkontajner nasunie príves a cesta pokračuje"
 articleContent: |
   ## Čo je ConFoot-leg CFP?
 
-  ConFoot-leg CFP je naše prémiové riešenie pre kontajnerové nohy, navrhnuté pre špecializované operácie s kontajnermi a náročné prostredia. Vyrobený z pokročilých materiálov a inovatívneho inžinierstva, model CFP ponúka vylepšené možnosti nad rámec našich štandardných riešení pre kontajnerové nohy, zabezpečujúc vynikajúci výkon pre náročné aplikácie. Prémiový dizajn ho robí mimoriadne vhodným pre odvetvia, kde sú presnosť, spoľahlivosť a odolnosť kľúčové.
+  ConFoot-leg CFP je špecializované riešenie pre nohy kontajnera, navrhnuté špeciálne pre prevádzky nakladacích rampa. Model CFP umožňuje bezpečné upevnenie kontajnerov k nakladacím rampám a zároveň umožňuje úplné otvorenie dverí smerom k bokom, čím vytvára plynulú integráciu medzi kontajnerom a zariadením. Toto inovatívne riešenie premieňa prepravné kontajnery na efektívne predĺženie vašej nakladacej rampy, čím eliminuje potrebu medziprekladového skladovania a použitia dodatočného manipulačného vybavenia.
+
+  ## Hlavné výhody pre prevádzky nakladacích rampa
+
+  ConFoot-leg CFP prináša významné prevádzkové výhody pre firmy, ktoré pravidelne nakladajú a vybavujú prepravné kontajnery. Upevnením kontajnerov priamo k nakladacej rampe môžete uvoľniť prívesy pre iné úlohy, čím optimalizujete využitie svojej flotily a znižujete čakacie doby. Výrobky je možné nakladať priamo z výroby do kontajnera bez medziprekladového skladovania, čím sa zjednodušuje logistický proces a znižujú manipulačné náklady.
+
+  Okrem toho môžu kontajnery vybavené CFP nohami slúžiť ako flexibilný dodatočný skladovací priestor, keď nie sú v preprave. Sú vždy pripravené na presun – stačí nasunúť príves pod kontajner a cesta pokračuje. Táto všestrannosť robí z CFP ideálne riešenie pre firmy, ktoré chcú zvýšiť efektivitu nakladacích rampa a skladovaciu kapacitu.
 
   ## Ako to funguje
 
-  ConFoot-leg CFP funguje na rovnakých základných princípoch ako naše štandardné kontajnerové nohy, avšak obsahuje pokročilé funkcie pre vynikajúci výkon. Nohy sa bezpečne pripevňujú ku kontajnerovým rohom pomocou vylepšeného zámkovacieho mechanizmu, ktorý zabezpečuje výnimočnú stabilitu aj na nerovných povrchoch. Integrovaný systém nastavovania výšky umožňuje presné umiestnenie, čo je ideálne pre špecializované logistické operácie, kde je presnosť nevyhnutná.
+  ConFoot-leg CFP sa bezpečne pripája na rohové odliate lišty kontajnera, čím poskytuje stabilnú oporu pri umiestnení kontajnera na nakladacej rampe. Nohy majú nastaviteľný rozsah od 1 043 mm do 1 448 mm, čo umožňuje presné zarovnanie s rôznymi výškami nakladacích rampa. Každá noha váži 24 kg, čo zaručuje jednoduchú manipuláciu pre operátorov, pričom systém disponuje značnou nosnosťou 30 ton.
 
-  ## Ako funguje ConFoot-leg CFP
+  Inštalácia je jednoduchá:
+  1. Umiestnite CFP nohy na rohové odliate lišty kontajnera
+  2. Aktivujte zámkový mechanizmus pre upevnenie nôh
+  3. Podľa potreby nastavte výšku tak, aby sa zhodovala s výškou nakladacej rampy
+  4. Upevnite kontajner k rampa
+  5. Úplne otvorte dvere kontajnera smerom k bokom
+  6. Začnite nakladať výrobky priamo z výroby do kontajnera
 
-  ### Pokročilý mechanizmus
-
-  ConFoot-leg CFP využíva sofistikovaný systém pripevnenia a podpory, ktorý predstavuje vrchol technológie manipulácie s kontajnermi. Každá noha obsahuje precízne navrhnutý zámkovací mechanizmus, ktorý zabezpečuje mimoriadne pevné pripojenie ku kontajnerovým rohom. Vyrobený z vysoko kvalitnej zliatinovej ocele, CFP ponúka vynikajúcu pevnosť a odolnosť pri zachovaní hmotnosti iba 26 kg na jednotku.
-
-  To, čo skutočne odlišuje CFP, je jeho integrovaný systém nastavovania výšky, ktorý umožňuje doladenie umiestnenia kontajnera s milimetrovou presnosťou. Táto funkcia je obzvlášť cenná v špecializovaných aplikáciách, kde je nevyhnutné presné zarovnanie. Nohy je možné nastaviť v rozsahu od 1 043 mm do 1 448 mm, čím poskytujú flexibilitu pre rôzne prevádzkové požiadavky.
-
-  ### Výhody pokročilého mechanizmu
-
-  1. **Vynikajúca stabilita**: Vylepšený dizajn poskytuje výnimočnú stabilitu aj na náročných povrchoch, čím sa znižuje riziko posunu alebo prevrátenia.
-  2. **Presné umiestnenie**: Integrovaný systém nastavenia umožňuje presné umiestnenie kontajnera, čo je kľúčové pre špecializované výrobné a logistické operácie.
-  3. **Vylepšená nosnosť**: S nosnosťou 36 ton CFP prekračuje štandardné požiadavky a je vhodný pre ťažšie špecializované kontajnery.
-  4. **Predĺžená životnosť v prevádzke**: Prémiové materiály a konštrukcia zabezpečujú dlhú životnosť aj pri intenzívnom používaní v náročných podmienkach.
-
-  Pokročilý mechanizmus ConFoot-leg CFP predstavuje náš záväzok k inováciám a excelentnosti v riešeniach manipulácie s kontajnermi, prinášajúc neporovnateľný výkon pre najnáročnejšie aplikácie.
+  Po dokončení nakládania kontajner zostáva pripravený na prepravu. Keď je dostupný príves, stačí ho nasunúť pod kontajner, odstrániť nohy a cesta môže pokračovať bez akýchkoľvek medziprocesov.
 
   ## Aplikácie ConFoot-leg CFP
 
-  ### Špecializovaná výroba
-  V prostredí špecializovanej výroby exceluje ConFoot-leg CFP tým, že zabezpečuje presnosť a stabilitu potrebnú pre kľúčové výrobné procesy. Schopnosť presne umiestniť kontajnery zabezpečuje plynulú integráciu s výrobnými linkami a zariadeniami. Táto presnosť je obzvlášť cenná v odvetviach, akými sú elektronika, letectvo a automobilový priemysel, kde sa zosúladenie komponentov a výrobné tolerancie merajú v milimetroch.
+  ### Výrobné zariadenia
+  Výrobné zariadenia výrazne profitujú zo schopnosti CFP vytvoriť plynulé predĺženie výrobnej oblasti. Umiestnením kontajnerov priamo k nakladacím rampám môžu výrobky prechádzať priamo z výrobnej linky do prepravných kontajnerov, čím sa eliminuje potreba medziprekladového skladovania a znižujú sa manipulačné náklady. Tento prístup priameho nakladania minimalizuje riziko poškodenia a zjednodušuje logistické operácie.
 
-  ### Náročné prostredia
-  ConFoot-leg CFP je navrhnutý špeciálne pre nasadenie v náročných prostrediach, kde by štandardné kontajnerové nohy boli nedostatočné. Jeho robustná konštrukcia ho robí ideálnym pre offshore operácie, extrémne poveternostné podmienky a priemyselné prostredia s agresívnymi chemickými alebo fyzikálnymi podmienkami. Prémiová konštrukcia zo zliatinovej ocele odoláva korózii, nárazovému poškodeniu a únave materiálu, čím zabezpečuje spoľahlivý výkon tam, kde by slabšie zariadenia zlyhali.
+  ### Distribučné centrá
+  Pre distribučné centrá poskytuje CFP cennú flexibilitu v nakladacích operáciách. Kontajnery môžu byť umiestnené na nakladacích rampách po dlhšiu dobu, čo umožňuje efektívne nakladanie, keď sú výrobky dostupné. Tento prístup znižuje tlak na nutnosť okamžitého nakladania, keď prívesy čakajú, čím sa optimalizuje využitie pracovnej sily aj dopravných prostriedkov.
 
-  ### Manipulácia s vysoko hodnotným nákladom
-  Pri preprave a skladovaní vysoko hodnotného alebo citlivého nákladu je vylepšená stabilita a bezpečnosť, ktorú CFP poskytuje, neoceniteľná. Presné možnosti umiestnenia a vynikajúce rozloženie zaťaženia minimalizujú riziko posunu alebo poškodenia počas manipulácie. To robí z CFP preferovanú voľbu v odvetviach zaoberajúcich sa krehkým zariadením, luxusným tovarom alebo nenahraditeľnými položkami, kde náklady na poškodenie výrazne prevyšujú investíciu do prémiového manipulačného vybavenia.
+  ### Maloobchodné prevádzky
+  Maloobchodné podniky môžu využiť kontajnery vybavené CFP nohami ako flexibilný dodatočný skladovací priestor počas sezónnych pikov. Kontajnery môžu byť umiestnené na nakladacích rampách pre priame prijímanie tovaru a následne premiestnené do skladových priestorov, keď sú plne naložené. Tento prístup poskytuje nákladovo efektívne dodatočné kapacity bez potreby trvalého rozširovania zariadenia.
 
-  Špecializované vlastnosti ConFoot-leg CFP z neho robia definitívne riešenie pre operácie, kde štandardné manipulačné zariadenia pre kontajnery nedokážu splniť požadované štandardy výkonu alebo očakávania spoľahlivosti.
+  ### Dopravné spoločnosti
+  Dopravné spoločnosti profitujú z lepšieho využitia flotily vďaka systému CFP. Prívesy môžu doručiť kontajnery priamo k zákazníkom a okamžite pokračovať ďalšou úlohou, namiesto čakania na ukončenie nakladacích/vykládacích operácií. Táto efektívnosť môže výrazne zvýšiť produktívnu kapacitu existujúcich prívesov.
 
-  ### Výhody a obmedzenia
+  ## Technické špecifikácie
 
-  #### Výhody
+  - **Nosnosť**: 30 ton
+  - **Hmotnosť**: 24 kg na nohu
+  - **Nastaviteľný rozsah**: 1 043 mm až 1 448 mm
+  - **Materiál**: Vysokokvalitná oceľ s odolným povrchovým spracovaním
+  - **Kompatibilita**: Štandardné rohové odliate lišty pre nákladné kontajnery
 
-  ConFoot-leg CFP ponúka výnimočné výhody pre špecializované operácie s kontajnermi. Jeho prémiová konštrukcia zabezpečuje vynikajúcu odolnosť v náročných prostrediach, čím významne predlžuje životnosť zariadenia a znižuje náklady na jeho výmenu. Integrovaný systém nastavovania výšky umožňuje presné umiestnenie kontajnera, čo je kľúčové pre špecializovanú výrobu a logistiku. So zvýšenou nosnosťou 36 ton prekračuje priemyselné štandardy a zvláda aj ťažšie špecializované kontajnery. Pokročilé vlastnosti stability zabezpečujú bezpečnú manipuláciu aj na nerovných povrchoch, čím sa znižuje riziko nehôd a poškodenia. Okrem toho je CFP kompatibilný s automatizovanými systémami, čo ho robí pripraveným na budúce výzvy v logistike.
-
-  #### Obmedzenia
-
-  Napriek svojim vynikajúcim schopnostiam má ConFoot-leg CFP určité obmedzenia, ktoré treba zvážiť. Prémiové funkcie si vyžadujú vyššiu počiatočnú investíciu v porovnaní so štandardnými kontajnerovými nohami, čo nemusí byť ospravedlniteľné pre bežné operácie. So 26 kg na jednotku je CFP o niečo ťažší ako štandardné modely, čo môže vyžadovať dodatočné opatrenia pri manipulácii. Pokročilé funkcie tiež vyžadujú komplexnejší tréning obsluhy, aby bolo možné plne využiť schopnosti systému. Tieto faktory je potrebné starostlivo zvážiť vzhľadom na prevádzkové požiadavky pri zvažovaní CFP pre konkrétne aplikácie.
-
-  ## Budúce vylepšenia
-
-  ### Prebiehajúci výskum
-  Náš tím pre výskum a vývoj neustále pracuje na vylepšení schopností ConFoot-leg CFP. Súčasný výskum sa zameriava na začlenenie pokročilých zložených materiálov s cieľom optimalizovať pomer pevnosti a hmotnosti, čo by mohlo viesť k zníženiu hmotnosti pri zachovaní alebo zlepšení nosnosti. Taktiež skúmame inteligentné senzorové technológie, ktoré by mohli v reálnom čase monitorovať napätie, rozloženie zaťaženia a štrukturálnu integritu, čím poskytujú cenné údaje na preventívnu údržbu a zabezpečenie bezpečnosti prevádzky.
-
-  ### Funkcie novej generácie
-  Nasledujúca generácia ConFoot-leg CFP pravdepodobne zahrnie integrované digitálne schopnosti pre bezproblémovú integráciu so systémami Industry 4.0. Medzi funkcie vo vývoji patria sledovanie RFID, možnosti diaľkového monitoringu a kompatibilita so systémami správy skladov. Okrem toho skúmame automatizované mechanizmy nastavenia, ktoré by mohli ešte zlepšiť presnosť a znížiť pracovnú záťaž obsluhy. Tieto inovácie zabezpečia, že CFP bude aj naďalej vyhovovať rastúcim potrebám špecializovaných operácií s kontajnermi v čoraz digitálnejšej a automatizovanej priemyselnej krajine.
-
-  Tieto prebiehajúce vylepšenia odrážajú náš záväzok k inováciám a excelentnosti v riešeniach manipulácie s kontajnermi, čím zabezpečujú, že ConFoot-leg CFP zostáva na čele technológií pre špecializovanú manipuláciu s kontajnermi.
+  ConFoot-leg CFP predstavuje inovatívne riešenie pre prevádzky nakladacích rampa, ktoré firmám ponúka možnosť optimalizovať logistické procesy, zlepšiť využitie zdrojov a vytvoriť flexibilný dodatočný skladovací priestor. Umožnením priameho nakladania z výroby do kontajnerov a uvoľnením prívesov pre iné úlohy pomáha CFP firmám dosiahnuť väčšiu efektivitu a nákladovú efektívnosť pri manipulácii s kontajnermi.
 ---

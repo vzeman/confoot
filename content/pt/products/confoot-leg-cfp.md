@@ -1,104 +1,93 @@
 ---
 title: "ConFoot-leg CFP"
-subtitle: "Pé Premium para Contentores"
+subtitle: "Pé para Contentor de Doca de Carga"
 mainImage: "/images/products/confoot-leg-cfp-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfp-1.jpg"
   - "/images/products/confoot-leg-cfp-2.jpg"
   - "/images/products/confoot-leg-cfp-3.jpg"
-shortDescription: "O ConFoot-leg CFP é a nossa solução premium de pé para contentores, apresentando capacidades aprimoradas para operações de contentores especializadas."
-technicalDescription: "O ConFoot-leg CFP incorpora materiais avançados e características de design para um desempenho superior em ambientes desafiadores e aplicações especializadas."
+shortDescription: "O ConFoot-leg CFP foi projetado para docas de carga, permitindo que o contentor seja fixado à doca enquanto possibilita que as portas se abram completamente para os lados."
+technicalDescription: "O modelo CFP permite que os produtos sejam carregados diretamente da produção para o contentor sem armazenamento intermediário, não sendo necessário nenhum outro equipamento de manuseio de contentores."
 videoID: "da7h7VgJHgs"
 specifications:
   - name: "Peso"
-    value: "26 kg"
-  - name: "Capacidade de carga"
-    value: "36 tons"
-  - name: "Dimensões"
-    value: "48 × 32 × 28 cm"
-  - name: "Material"
-    value: "Aço-liga de alta qualidade"
-  - name: "Faixa de altura"
+    value: "24 kg por pé"
+  - name: "Capacidade de Carga"
+    value: "30 toneladas"
+  - name: "Gama de Ajuste"
     value: "1.043 mm a 1.448 mm"
+  - name: "Material"
+    value: "Aço de alta qualidade"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Pacote de serviço premium disponível. Contacte a nossa equipa de vendas para mais detalhes."
+pricingNotes: "Descontos por volume disponíveis. Entre em contato com nossa equipe de vendas para mais detalhes."
 buyLink: "/contact"
 howToUse: |
   1. Posicione o pé CFP na peça de canto do contentor
-  2. Engate o mecanismo de travamento avançado
-  3. Ajuste a altura, se necessário, utilizando o sistema de ajuste integrado
-  4. Repita para todos os cantos necessários
-  5. Realize uma verificação de estabilidade antes de prosseguir
+  2. Acione o mecanismo de travamento
+  3. Ajuste a altura, se necessário, dentro da faixa de 1.043 mm a 1.448 mm
+  4. Fixe o contentor à doca de carga
+  5. Abra completamente as portas do contentor contra os lados
+  6. Carregue os produtos diretamente da produção para o contentor
 benefits:
-  - title: "Estabilidade Aprimorada"
-    description: "O design superior proporciona uma estabilidade excecional mesmo em superfícies irregulares"
-  - title: "Ajustabilidade de Altura"
-    description: "O sistema de ajuste integrado permite o ajuste fino da altura do contentor"
-  - title: "Durabilidade Extrema"
-    description: "Construído com materiais premium para uma longa vida útil em condições adversas"
-  - title: "Aplicações Especializadas"
-    description: "Ideal para operações de contentores especializadas que exigem posicionamento preciso"
-  - title: "Recursos Avançados de Segurança"
-    description: "Incorpora mecanismos de segurança adicionais para prevenir escorregamentos e garantir uma manipulação segura do contentor"
-  - title: "Desempenho Premium"
-    description: "Projetado para superar os padrões da indústria em termos de capacidade de carga e fiabilidade operacional"
+  - title: "Integração com a Doca de Carga"
+    description: "Permite que o contentor seja fixado à doca, ao mesmo tempo que possibilita que as portas se abram completamente para os lados"
+  - title: "Carregamento Direto"
+    description: "Os produtos podem ser carregados diretamente da produção para o contentor sem armazenamento intermediário"
+  - title: "Nenhum Equipamento Adicional"
+    description: "Não é necessário nenhum outro equipamento de manuseio de contentores para as operações de carregamento"
+  - title: "Eficiência do Reboque"
+    description: "Libera o reboque para outras tarefas enquanto o contentor permanece na doca de carga"
+  - title: "Armazenamento Adicional"
+    description: "Os contentores podem ser usados como espaço de armazenamento adicional quando não estiverem em trânsito"
+  - title: "Mobilidade Imediata"
+    description: "Os contentores estão sempre prontos para serem movidos - basta posicionar o reboque sob o contentor para continuar a viagem"
 articleContent: |
   ## O que é o ConFoot-leg CFP?
 
-  O ConFoot-leg CFP é a nossa solução premium de pé para contentores, concebida para operações de contentores especializadas e ambientes desafiadores. Construído com materiais avançados e engenharia inovadora, o modelo CFP oferece capacidades aprimoradas além das nossas soluções padrão de pés para contentores, proporcionando um desempenho superior para aplicações exigentes. O design premium torna-o particularmente adequado para indústrias onde precisão, fiabilidade e durabilidade são fatores essenciais.
+  O ConFoot-leg CFP é uma solução especializada de pés para contentores, projetada especificamente para operações em docas de carga. O modelo CFP possibilita que os contentores sejam fixados às docas de carga, permitindo que as portas se abram completamente para os lados, criando uma integração perfeita entre o contentor e a instalação. Esta solução inovadora transforma contentores de transporte em extensões eficientes da sua doca de carga, eliminando a necessidade de armazenamento intermediário e de equipamentos adicionais de manuseio.
+
+  ## Principais Benefícios para Operações em Docas de Carga
+
+  O ConFoot-leg CFP oferece vantagens operacionais significativas para empresas que carregam e descarregam contentores de transporte regularmente. Ao fixar os contentores diretamente na doca de carga, é possível liberar os reboques para outras tarefas, otimizando a utilização da sua frota e reduzindo os tempos de espera. Os produtos podem ser carregados diretamente da produção para o contentor sem armazenamento intermediário, agilizando o seu processo logístico e reduzindo os custos de manuseio.
+
+  Além disso, os contentores equipados com pés CFP podem servir como espaço de armazenamento adicional e flexível quando não estiverem em trânsito. Eles permanecem prontos para serem movidos a qualquer momento - basta posicionar um reboque sob o contentor e a jornada continua. Essa versatilidade torna o CFP uma solução ideal para empresas que desejam aumentar a eficiência de suas docas de carga e a capacidade de armazenamento.
 
   ## Como Funciona
 
-  O ConFoot-leg CFP opera com os mesmos princípios fundamentais que os nossos pés padrão para contentores, mas incorpora funcionalidades avançadas para um desempenho superior. Os pés fixam-se de forma segura nas fundições de canto dos contentores utilizando o nosso mecanismo de travamento avançado, que proporciona uma estabilidade excecional mesmo em superfícies irregulares. O sistema integrado de ajuste de altura permite um posicionamento preciso, tornando-o ideal para operações logísticas especializadas onde a exatidão é fundamental.
+  O ConFoot-leg CFP se fixa de maneira segura nas peças de canto do contentor, proporcionando suporte estável enquanto o contentor está posicionado na doca de carga. Os pés possuem uma faixa de ajuste de 1.043 mm a 1.448 mm, permitindo um alinhamento preciso com as diversas alturas das docas de carga. Cada pé pesa 24 kg, tornando-os fáceis de manusear pelos operadores, ao mesmo tempo que o sistema oferece uma capacidade de carga substancial de 30 toneladas.
 
-  ## Como o ConFoot-leg CFP Funciona
+  O processo de instalação é simples:
+  1. Posicione os pés CFP nas peças de canto do contentor
+  2. Acione o mecanismo de travamento para fixar os pés
+  3. Ajuste a altura conforme necessário para alinhar com a doca de carga
+  4. Fixe o contentor na doca
+  5. Abra completamente as portas do contentor contra os lados
+  6. Comece a carregar diretamente da produção para o contentor
 
-  ### Mecanismo Avançado
-
-  O ConFoot-leg CFP utiliza um sistema sofisticado de fixação e suporte que representa o auge da tecnologia de manuseio de contentores. Cada pé dispõe de um mecanismo de travamento de precisão, que cria uma ligação excecionalmente segura às fundições de canto dos contentores. Construído com aço-liga de alta qualidade, o CFP oferece uma resistência e durabilidade superiores, mantendo um peso gerível de 26 kg por unidade.
-
-  O que realmente distingue o CFP é o seu sistema integrado de ajuste de altura, que permite um ajuste fino do posicionamento do contentor com precisão milimétrica. Esta funcionalidade é particularmente valiosa em aplicações especializadas onde um alinhamento exato é essencial. Os pés podem ser ajustados entre uma faixa de 1.043 mm a 1.448 mm, proporcionando flexibilidade para diversos requisitos operacionais.
-
-  ### Benefícios do Mecanismo Avançado
-
-  1. **Estabilidade Superior**: O design aprimorado oferece uma estabilidade excecional mesmo em superfícies desafiadoras, reduzindo o risco de deslocamento ou tombamento.
-  2. **Posicionamento Preciso**: O sistema integrado de ajuste permite um posicionamento exato do contentor, crítico para operações de fabrico e logística especializadas.
-  3. **Capacidade de Carga Aprimorada**: Com uma capacidade de 36 toneladas, o CFP excede os requisitos padrão, tornando-o adequado para contentores especializados mais pesados.
-  4. **Vida Operacional Estendida**: Materiais e construção premium garantem uma longa vida útil, mesmo sob uso intensivo em ambientes adversos.
-
-  O mecanismo avançado do ConFoot-leg CFP representa o nosso compromisso com a inovação e a excelência em soluções de manuseio de contentores, proporcionando um desempenho inigualável para as aplicações mais exigentes.
+  Após o carregamento ser concluído, o contentor permanece pronto para o transporte. Quando um reboque estiver disponível, basta posicioná-lo sob o contentor, remover os pés e a jornada continua sem etapas de manuseio intermediárias.
 
   ## Aplicações do ConFoot-leg CFP
 
-  ### Fabricação Especializada
-  Em ambientes de fabrico especializado, o ConFoot-leg CFP destaca-se por fornecer a precisão e estabilidade necessárias para processos de produção críticos. A capacidade de posicionar contentores com exatidão garante uma integração perfeita com as linhas de produção e equipamentos. Esta precisão é particularmente valiosa em indústrias como a eletrónica, aeroespacial e de fabricação automóvel, onde o alinhamento dos componentes e as tolerâncias de produção são medidas em milímetros.
+  ### Instalações de Manufatura
+  Instalações de manufatura se beneficiam significativamente da capacidade do CFP de criar uma extensão perfeita da área de produção. Ao posicionar os contentores diretamente nas docas de carga, os produtos podem ser transferidos diretamente da linha de produção para os contentores de transporte, eliminando o armazenamento intermediário e reduzindo os custos de manuseio. Essa abordagem de carregamento direto minimiza o risco de danos e agiliza o processo logístico.
 
-  ### Ambientes Desafiadores
-  O ConFoot-leg CFP foi concebido especificamente para operação em ambientes desafiadores onde os pés padrão para contentores seriam insuficientes. A sua construção robusta torna-o ideal para operações offshore, condições meteorológicas extremas e ambientes industriais com condições químicas ou físicas severas. A construção em aço-liga premium resiste à corrosão, danos por impacto e fadiga estrutural, garantindo um desempenho fiável onde equipamentos inferiores falhariam.
+  ### Centros de Distribuição
+  Para os centros de distribuição, o CFP oferece uma flexibilidade valiosa nas operações de carregamento. Os contentores podem ser posicionados nas docas de carga por períodos prolongados, permitindo um carregamento eficiente à medida que os produtos vão se disponibilizando. Essa abordagem reduz a pressão para carregar os contentores dentro de prazos apertados, enquanto os reboques aguardam, otimizando tanto a utilização da mão de obra quanto os recursos de transporte.
 
-  ### Manuseio de Cargas de Alto Valor
-  Ao transportar e armazenar cargas de alto valor ou sensíveis, a estabilidade e segurança aprimoradas proporcionadas pelo CFP são inestimáveis. As capacidades de posicionamento preciso e a superior distribuição de carga minimizam o risco de deslocamento ou danos durante as operações de manuseio. Isto torna o CFP a escolha preferencial para indústrias que lidam com equipamentos delicados, bens de luxo ou itens insubstituíveis, onde o custo de eventuais danos excede em muito o investimento em equipamentos de manuseio premium.
+  ### Operações de Varejo
+  Negócios varejistas podem usar contentores equipados com CFP como armazenamento adicional flexível durante as temporadas de pico. Os contentores podem ser posicionados nas docas de carga para o recebimento direto de mercadorias e, quando cheios, transferidos para áreas de armazenamento. Essa abordagem oferece uma capacidade adicional econômica sem a necessidade de expansão permanente das instalações.
 
-  As capacidades especializadas do ConFoot-leg CFP fazem dele a solução definitiva para operações onde os equipamentos padrão de manuseio de contentores não conseguem cumprir os padrões de desempenho ou as expectativas de fiabilidade exigidas.
+  ### Empresas de Transporte
+  Empresas de transporte se beneficiam da melhoria na utilização da frota com o sistema CFP. Os reboques podem deixar os contentores nas localizações dos clientes e seguir imediatamente para a próxima missão, em vez de aguardar operações de carregamento/descarregamento. Essa eficiência pode aumentar significativamente a capacidade produtiva das frotas de reboques existentes.
 
-  ### Vantagens e Limitações
+  ## Especificações Técnicas
 
-  #### Vantagens
+  - **Capacidade de Carga**: 30 toneladas
+  - **Peso**: 24 kg por pé
+  - **Gama de Ajuste**: 1.043 mm a 1.448 mm
+  - **Material**: Aço de alta qualidade com acabamento durável
+  - **Compatibilidade**: Peças de canto padrão para contentores de transporte
 
-  O ConFoot-leg CFP oferece vantagens excecionais para operações de contentores especializadas. A sua construção premium proporciona uma durabilidade superior em ambientes adversos, estendendo significativamente a vida operacional e reduzindo os custos de substituição. O sistema integrado de ajuste de altura permite um posicionamento preciso do contentor, crítico para aplicações de fabrico e logística especializadas. Com uma capacidade de carga aprimorada de 36 toneladas, ele excede os padrões da indústria e acomoda contentores especializados mais pesados. As características avançadas de estabilidade asseguram um manuseio seguro mesmo em superfícies irregulares, reduzindo o risco de acidentes e danos. Adicionalmente, a compatibilidade do CFP com sistemas automatizados o torna preparado para o futuro, atendendo às operações logísticas em evolução.
-
-  #### Limitações
-
-  Apesar das suas capacidades superiores, o ConFoot-leg CFP apresenta certas limitações a considerar. As funcionalidades premium implicam um investimento inicial mais elevado comparado aos pés de contentor padrão, o que pode não ser justificado para operações usuais de contentores. Com 26 kg por unidade, o CFP é ligeiramente mais pesado que os modelos padrão, podendo exigir considerações adicionais de manuseio. As funcionalidades avançadas também requerem um treinamento mais abrangente para os operadores aproveitarem ao máximo as capacidades do sistema. Estes fatores devem ser avaliados cuidadosamente face aos requisitos operacionais ao se considerar o CFP para aplicações específicas.
-
-  ## Desenvolvimentos Futuros
-
-  ### Pesquisa em Curso
-  A nossa equipa de investigação e desenvolvimento está continuamente a trabalhar para aprimorar as capacidades do ConFoot-leg CFP. As pesquisas em curso concentram-se na incorporação de materiais compósitos avançados para otimizar ainda mais a relação resistência/peso, potencialmente reduzindo o peso enquanto se mantém ou melhora a capacidade de carga. Estamos também a explorar tecnologias de detecção inteligente que possam monitorizar o stress, a distribuição de carga e a integridade estrutural em tempo real, fornecendo dados valiosos para a manutenção preventiva e segurança operacional.
-
-  ### Funcionalidades da Próxima Geração
-  A próxima geração do ConFoot-leg CFP provavelmente incluirá capacidades digitais integradas para uma integração perfeita com sistemas da Indústria 4.0. As funcionalidades em desenvolvimento incluem rastreamento por RFID, capacidades de monitorização remota e compatibilidade com sistemas de gestão de armazéns. Adicionalmente, estamos a explorar mecanismos de ajuste automatizado que possam aprimorar ainda mais a precisão e reduzir a carga de trabalho dos operadores. Estes avanços assegurarão que o CFP continue a atender às necessidades em evolução das operações de contentores especializadas num panorama industrial cada vez mais digital e automatizado.
-
-  Estes desenvolvimentos em curso refletem o nosso compromisso com a inovação e a excelência em soluções de manuseio de contentores, garantindo que o ConFoot-leg CFP se mantenha na vanguarda da tecnologia de manuseio de contentores especializados.
+  O ConFoot-leg CFP representa uma solução inovadora para operações em docas de carga, oferecendo às empresas uma forma de otimizar seus processos logísticos, melhorar a utilização de recursos e criar uma capacidade adicional de armazenamento flexível. Ao possibilitar o carregamento direto da produção para os contentores e liberar os reboques para outras tarefas, o CFP ajuda as empresas a alcançarem maior eficiência e rentabilidade em suas operações de manuseio de contentores.
 ---

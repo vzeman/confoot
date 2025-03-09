@@ -1,21 +1,21 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Universeller Containerfuß"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Höhenverstellbarer Containerfuß"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU ist ein universeller Containerfuß, der für einen vielseitigen Containerumschlag in verschiedenen Umgebungen konzipiert wurde."
-technicalDescription: "Der ConFoot CFU besteht aus hochwertigem Stahl und verfügt über unseren patentierten Verriegelungsmechanismus zur sicheren Befestigung an den Container-Eckbolzen."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU ist ein höhenverstellbarer Containerfuß, der es ermöglicht, die Containerhöhe von Bodenhöhe bis 1,5 Meter anzupassen – ganz ohne zusätzliche Ausrüstung für den Containerbetrieb."
+technicalDescription: "Der ConFoot CFU ist aus hochwertigem Stahl konstruiert und verfügt über unseren patentierten Verriegelungsmechanismus für eine sichere Befestigung an den Containereckgussstücken. Er ermöglicht den flexiblen Einsatz von Containern in unterschiedlichen Umgebungen und für verschiedene Zwecke."
 videoID: "HDhFIRA-oZU"
 specifications:
   - name: "Gewicht"
-    value: "24 kg"
+    value: "46 kg bei Montage (Einzelteile wiegen weniger als 25 kg)"
   - name: "Tragfähigkeit"
-    value: "34 Tonnen"
-  - name: "Maße"
-    value: "45 × 30 × 25 cm"
+    value: "20 Tonnen"
+  - name: "Einstellbereich"
+    value: "0–1.500 mm"
   - name: "Material"
     value: "Hochwertiger Stahl"
 price: "6.350 EUR"
@@ -23,79 +23,78 @@ priceVAT: "7.684 EUR"
 pricingNotes: "Mengenrabatte verfügbar. Kontaktieren Sie uns für individuelle Angebote."
 buyLink: "/contact"
 howToUse: |
-  1. Positionieren Sie den CFU unter der Container-Ecke
+  1. Positionieren Sie den CFU unter der Containerecke
   2. Betätigen Sie den Verriegelungsmechanismus
-  3. Überprüfen Sie die sichere Befestigung
-  4. Wiederholen Sie den Vorgang für alle erforderlichen Ecken
+  3. Passen Sie die Höhe nach Bedarf an (von Bodenhöhe bis über einen Meter)
+  4. Überprüfen Sie die sichere Befestigung
+  5. Wiederholen Sie den Vorgang für alle erforderlichen Ecken
 benefits:
-  - title: "Universelle Kompatibilität"
-    description: "Funktioniert mit allen Standard-Containern, unabhängig vom Hersteller"
-  - title: "Schneller Einsatz"
-    description: "Kann von einem einzelnen Bediener in weniger als 5 Minuten pro Einheit angebracht werden"
-  - title: "Raumeffizienz"
-    description: "Das kompakte Design ermöglicht eine platzsparende Lagerung, wenn es nicht in Gebrauch ist"
-  - title: "Kosteneffektiv"
-    description: "Reduziert den Bedarf an spezialisiertem Hebezeug und senkt die Betriebskosten"
+  - title: "Keine zusätzliche Ausrüstung erforderlich"
+    description: "Kompletter Containerbetrieb ausschließlich mit CFU-Containernbeinen, ohne den Einsatz schwerer Maschinen"
+  - title: "Höhenverstellung"
+    description: "Passen Sie die Containerhöhe mühelos von Bodenhöhe bis über einen Meter (0–1.500 mm) an"
+  - title: "Handliches Gewicht"
+    description: "Besteht aus mehreren Teilen, deren Einzelgewicht weniger als 25 kg beträgt, was die Handhabung erleichtert"
   - title: "Vielseitige Anwendungen"
-    description: "Geeignet für verschiedene Branchen, darunter Logistik, Fertigung und Bauwesen"
-  - title: "Verbesserter Arbeitsablauf"
-    description: "Optimiert Containerumschlagsprozesse und steigert die Betriebseffizienz"
+    description: "Geeignet für verschiedene Branchen, darunter Transportunternehmen, Streitkräfte, Produktionsstätten, Einzelhandelsketten, Häfen und humanitäre Einsätze"
+  - title: "Flexibler Einsatz"
+    description: "Ermöglicht einen flexiblen Einsatz von Containern in unterschiedlichen Umgebungen und für verschiedene Zwecke"
+  - title: "Optimierter Arbeitsablauf"
+    description: "Optimiert Containerhandhabungsprozesse und steigert die betriebliche Effizienz"
 articleContent: |
   ## Was ist ConFoot CFU?
 
-  ConFoot CFU ist eine universelle Containerfuß-Lösung, die darauf ausgelegt ist, maximale Vielseitigkeit und Kompatibilität über verschiedene Containertypen hinweg zu bieten. Dieses innovative System ermöglicht einen zuverlässigen und effizienten Containerumschlag, ohne dass schwere Maschinen oder spezielles Equipment erforderlich sind. Das CFU-Modell zeichnet sich durch seine Fähigkeit aus, mit nahezu jedem Standard-Container zu arbeiten, was es zur idealen Wahl für Unternehmen macht, die verschiedenste Containertypen handhaben.
+  ConFoot CFU ist eine höhenverstellbare Containerfuß-Lösung, die maximale Vielseitigkeit und Flexibilität beim Containerhandling bietet. Dieses innovative System ermöglicht es, die Containerhöhe von Bodenhöhe bis über einen Meter (0–1.500 mm) anzupassen – ganz ohne zusätzliche Ausrüstung für den Containerbetrieb. Das CFU-Modell zeichnet sich durch seine Fähigkeit aus, mit Standard-Containern in unterschiedlichen Umgebungen und für verschiedene Zwecke zu arbeiten, was es zu einer idealen Wahl für Unternehmen in zahlreichen Branchen macht.
 
-  ## Wie es funktioniert
+  ## Funktionsweise
 
-  Der ConFoot CFU wird direkt an den Container-Eckbolzen befestigt und bietet eine stabile Basis für das Be- und Entladen sowie die Zwischenlagerung. Sein universelles Design gewährleistet die Kompatibilität mit nahezu allen Standard-Containern, was es zur idealen Lösung für Unternehmen macht, die unterschiedliche Containertypen handhaben. Der einfache Befestigungsmechanismus ermöglicht einen schnellen Einsatz und die problemlose Entfernung, wodurch die für Containerumschlagsoperationen benötigte Zeit und Ressourcen erheblich reduziert werden.
+  Der ConFoot CFU wird direkt an den Containereckgussstücken befestigt und bietet so eine stabile Basis für das Be- und Entladen sowie für die Zwischenlagerung. Sein verstellbares Design gewährleistet eine flexible Positionierung der Container in der optimalen Höhe für Ihre spezifischen Anforderungen. Das System besteht aus mehreren Teilen, deren Einzelgewicht weniger als 25 kg beträgt, was die Handhabung durch die Bediener erleichtert, während das gesamte Bein bei Montage 46 kg wiegt. Der unkomplizierte Befestigungsmechanismus ermöglicht eine schnelle Inbetriebnahme und Entfernung, wodurch die für Containerhandhabungsoperationen benötigte Zeit und Ressourcen erheblich reduziert werden.
 
-  ## Wie ConFoot CFU funktioniert
+  ## Einsatzbereiche des ConFoot CFU
 
-  ### Kernmechanismus
+  ### Transportunternehmen
+  ConFoot CFU überzeugt in Transportoperationen, bei denen Höhenverstellung und Flexibilität erforderlich sind. Transportunternehmen können die CFU-Beine verwenden, um Container einfach zu be- und entladen sowie zu positionieren, ohne dass zusätzliche schwere Maschinen nötig sind – so werden Abläufe optimiert und Betriebskosten gesenkt.
 
-  Der ConFoot CFU verwendet ein innovatives universelles Befestigungssystem, das eine sichere Verbindung zu den Container-Eckbolzen, unabhängig vom Hersteller, gewährleistet. Diese Vielseitigkeit wird durch einen speziell entwickelten Klemmmechanismus erreicht, der sich an unterschiedliche Eckbolzen-Konfigurationen anpasst. Hergestellt aus hochwertigem Stahl, bietet jede Einheit außergewöhnliche Langlebigkeit, während sie zugleich von einem einzelnen Bediener problemlos gehandhabt und installiert werden kann.
+  ### Streitkräfte
+  Für die Streitkräfte bietet der CFU eine tragbare und vielseitige Lösung, um containerbasierte Einrichtungen schnell in verschiedensten Geländen und Umgebungen zu errichten. Die Höhenverstellbarkeit ermöglicht eine optimale Positionierung selbst auf unebenem Untergrund.
 
-  Der Befestigungsprozess ist unkompliziert und erfordert nur minimalen Schulungsaufwand. Die Bediener können den CFU unter der Container-Ecke positionieren, den Verriegelungsmechanismus betätigen und die sichere Befestigung überprüfen, bevor sie fortfahren. Diese Einfachheit ermöglicht einen schnellen Einsatz in verschiedensten betrieblichen Umgebungen, von stark frequentierten Häfen bis hin zu abgelegenen Baustellen.
+  ### Produktionsstätten
+  Produktionsstätten profitieren von der Fähigkeit des CFU, flexible Produktionslayouts mit verstellbaren Containerhöhen zu realisieren. Indem Container genau dort und in der passenden Höhe positioniert werden können, erleichtert das System effiziente Produktionsabläufe und das Bestandsmanagement.
 
-  ### Vorteile des Mechanismus
+  ### Einzelhandelsketten
+  Einzelhandelsbetriebe können die CFU-Beine für temporäre oder saisonale Lagerlösungen einsetzen, wobei die Containerhöhe an Verladeböden oder andere infrastrukturelle Anforderungen angepasst werden kann.
 
-  1. **Universelle Anwendung**: Das adaptive Design des CFU funktioniert mit Containern aller führenden Hersteller und eliminiert Kompatibilitätsprobleme.
-  2. **Betriebliche Einfachheit**: Das intuitive Befestigungssystem kann schnell erlernt werden, was den Schulungsaufwand und Bedienungsfehler reduziert.
-  3. **Zeiteffizienz**: Containerumschlagsvorgänge können in einem Bruchteil der Zeit abgeschlossen werden im Vergleich zu herkömmlichen Methoden, die schwere Maschinen erfordern.
-  4. **Ressourcenoptimierung**: Durch die Verringerung der Abhängigkeit von spezialisiertem Equipment ermöglicht der CFU eine effizientere Ressourcennutzung.
+  ### Häfen
+  In Hafenumgebungen bietet der CFU die Flexibilität bei der Containerhandhabung und Zwischenlagerung, was eine effiziente Nutzung von Raum und Ressourcen ermöglicht, ohne sich ausschließlich auf schwere Hebezeuge verlassen zu müssen.
 
-  Der Mechanismus des CFU stellt einen bedeutenden Fortschritt in der Containerumschlagstechnologie dar und bietet eine Lösung, die Vielseitigkeit, Einfachheit und Effizienz in einem einzigen Produkt vereint.
+  ### Humanitäre Einsätze
+  Für humanitäre Einsätze bietet der CFU eine praxisnahe Lösung, um containerbasierte Einrichtungen schnell in herausfordernden Umgebungen zu errichten – dank der Höhenverstellbarkeit, die an verschiedene Geländebeschaffenheiten und operative Anforderungen angepasst werden kann.
 
-  ## Anwendungsbereiche des ConFoot CFU
+  ## Vorteile des ConFoot CFU
 
-  ### Vielfältige Logistikoperationen
-  Der ConFoot CFU überzeugt in vielfältigen Logistikoperationen, in denen regelmäßig unterschiedliche Containertypen gehandhabt werden. Seine universelle Kompatibilität erweist sich als besonders wertvoll in multimodalen Transportknotenpunkten, in denen Container verschiedener Hersteller und Reedereien zusammenlaufen. Die Fähigkeit des Systems, mit unterschiedlichen Containertypen zu arbeiten, beseitigt den Bedarf an mehreren spezialisierten Handhabungslösungen, was die Abläufe optimiert und die Gerätekosten reduziert.
+  ### Keine zusätzliche Ausrüstung erforderlich
+  Der CFU beseitigt den Bedarf an Kränen, Gabelstaplern oder anderer schwerer Maschinen für das Containerhandling, wodurch Betriebskosten und Abhängigkeiten von Spezialgeräten reduziert werden.
 
-  ### Kleinere Verteilzentren
-  Für kleinere Verteilzentren, die sich den Aufwand fest installierter Containerumschlaggeräte nicht leisten können, bietet der ConFoot CFU eine ideale Lösung. Aufgrund seiner portablen Natur und Benutzerfreundlichkeit ermöglicht es diesen Einrichtungen, Containerlieferungen effizient zu verwalten, ohne in teure Infrastruktur investieren zu müssen. Diese Zugänglichkeit eröffnet neue Möglichkeiten für Unternehmen, die ihre Verteilkapazitäten ohne erhebliche Kapitalausgaben erweitern möchten.
+  ### Höhenverstellbarkeit
+  Mit einem Einstellbereich von 0–1.500 mm bietet der CFU eine unvergleichliche Flexibilität bei der Positionierung von Containern in der optimalen Höhe für verschiedene Anwendungen und Umgebungen.
 
-  ### Fertigungsbetriebe
-  Fertigungsbetriebe profitieren von der Fähigkeit des CFU, flexible Produktionslayouts zu ermöglichen. Durch die präzise Positionierung von Containern unterstützt das System ein just-in-time Inventarmanagement sowie effiziente Produktionsabläufe. Die Möglichkeit, Container schnell umzuplatzieren, fördert zudem agile Fertigungsprozesse, die häufige Umgestaltungen von Arbeitsbereichen und Ressourceneinsatz erfordern.
+  ### Handliches Gewicht
+  Trotz seiner robusten Konstruktion und einer Tragfähigkeit von 20 Tonnen ist der CFU auf eine einfache Handhabung durch den Bediener ausgelegt. Einzelkomponenten wiegen weniger als 25 kg, was die Montage und Positionierung erleichtert.
 
-  Die Anpassungsfähigkeit des ConFoot CFU macht ihn zu einem unverzichtbaren Werkzeug für moderne Logistik- und Fertigungsprozesse und bietet die nötige Flexibilität, um auf sich ändernde Marktanforderungen und betriebliche Herausforderungen zu reagieren.
+  ### Vielseitige Anwendungen
+  Das Design des CFU macht ihn für eine breite Palette von Branchen und Anwendungsbereichen geeignet – von Logistik und Fertigung bis hin zu Verteidigung und humanitärer Hilfe.
 
-  ### Vorteile und Einschränkungen
+  ### Operative Flexibilität
+  Indem Container in unterschiedlichen Umgebungen und für verschiedene Zwecke eingesetzt werden können, erweitert der CFU den Nutzen von Standard-Containern über herkömmliche Transport- und Lagerfunktionen hinaus.
 
-  #### Vorteile
+  ## Technische Spezifikationen
 
-  Der ConFoot CFU bietet bedeutende Vorteile im Containerumschlag. Seine universelle Kompatibilität beseitigt den Bedarf an mehreren spezialisierten Handhabungssystemen, reduziert Gerätekosten und vereinfacht die Lagerverwaltung. Dank seiner Portabilität kann das System an verschiedensten Standorten eingesetzt werden, wodurch eine betriebliche Flexibilität erreicht wird, die fest installierte Geräte nicht bieten können. Zudem reduziert die einfache Handhabung des CFU den Schulungsaufwand und ermöglicht eine schnelle Implementierung in neuen Umgebungen. Die robuste Konstruktion gewährleistet langfristige Zuverlässigkeit, während das kompakte Design den Lagerplatzbedarf im Ruhezustand minimiert.
+  - **Tragfähigkeit**: 20 Tonnen
+  - **Gesamtgewicht**: 46 kg bei Montage
+  - **Einzelgewicht**: Einzelteile unter 25 kg
+  - **Einstellbereich**: 0–1.500 mm
+  - **Material**: Hochwertiger Stahl mit widerstandsfähiger Oberfläche
+  - **Kompatibilität**: Standard-Container-Eckgussstücke
 
-  #### Einschränkungen
-
-  Trotz seiner Vielseitigkeit weist der ConFoot CFU einige Einschränkungen auf, die berücksichtigt werden sollten. Die manuelle Bedienung des Systems ist möglicherweise nicht für hochvolumige Operationen geeignet, bei denen automatisierte Lösungen effizienter sein könnten. Obwohl der CFU den Bedarf an schwerem Gerät deutlich reduziert, eliminiert er diesen in bestimmten Containerumschlagsszenarien nicht vollständig. Darüber hinaus können extrem unebene Flächen die stabile Anwendung erschweren und in einigen Fällen zusätzliche Standortvorbereitungen erfordern. Diese Faktoren sollten bei der Bewertung des CFU für spezifische betriebliche Umgebungen berücksichtigt werden.
-
-  ## Zukünftige Entwicklungen
-
-  ### Geplante Verbesserungen
-  Der ConFoot CFU wird kontinuierlich weiterentwickelt, wobei mehrere Verbesserungen in Aussicht stehen. Die Entwicklungsbemühungen konzentrieren sich darauf, das Gewicht jeder Einheit weiter zu reduzieren, ohne die Tragfähigkeit zu beeinträchtigen beziehungsweise sie zu verbessern. Materialwissenschaftliche Innovationen werden geprüft, um fortschrittliche Verbundwerkstoffe zu integrieren, die über ein überlegenes Verhältnis von Festigkeit zu Gewicht verfügen. Darüber hinaus werden ergonomische Optimierungen entwickelt, um den Befestigungsprozess weiter zu vereinfachen und die Ermüdung des Bedieners bei längerem Einsatz zu verringern.
-
-  ### Integrationsmöglichkeiten
-  Künftige Versionen des ConFoot CFU werden über erweiterte Integrationsmöglichkeiten mit Lagerverwaltungssystemen und Logistik-Tracking-Plattformen verfügen. Digitale Sensoren werden entwickelt, um die Lastverteilung und Stabilität in Echtzeit zu überwachen und so wertvolle Daten zur Optimierung von Sicherheit und Effizienz zu liefern. Diese intelligenten Funktionen ermöglichen es dem CFU, Teil eines vernetzten Logistik-Ökosystems zu werden und datenbasierte Entscheidungsfindungen sowie prädiktive Wartungspläne zu unterstützen.
-
-  Diese fortlaufenden Entwicklungen stellen sicher, dass der ConFoot CFU weiterhin den sich wandelnden Anforderungen der Logistik- und Fertigungsbranche gerecht wird und seine Position als führende Lösung im Bereich des vielseitigen Containerumschlags beibehält.
+  Der ConFoot CFU stellt einen bedeutenden Fortschritt in der Containerhandling-Technologie dar und bietet eine Lösung, die Höhenverstellbarkeit, Vielseitigkeit und operative Einfachheit in einem einzigen Produkt vereint.
 ---

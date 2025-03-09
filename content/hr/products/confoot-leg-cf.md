@@ -1,103 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Standardna kontejnerska noga"
+subtitle: "Standardna noga za kontejner"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF je naše standardno rješenje za kontejnersku nogu, idealno za rutinske operacije rukovanja kontejnerima."
-technicalDescription: "ConFoot-leg CF ima robusni dizajn optimiziran za standardne pomorske kontejnere, s našim vlasničkim sustavom za brzo pričvršćivanje."
+shortDescription: "ConFoot-leg CF je naš standardni model kontejnerske noge koji smanjuje vrijeme potrebno za premještanje i istovar kontejnera, dopuštajući da kontejneri ostanu na čekanju za istovar tako da vozači ne moraju čekati."
+technicalDescription: "Model CF omogućava da se kontejneri koriste kao dodatni prostor za pohranu dok su istovremeno spremni za premještanje u svakom trenutku - jednostavno parkirajte prikolicu ispod kontejnera i putovanje se nastavlja."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Težina"
-    value: "24 kg"
+    value: "24 kg po nozi"
   - name: "Nosivost"
     value: "34 tona"
-  - name: "Dimenzije"
-    value: "45 × 30 × 25 cm"
+  - name: "Raspon podešavanja"
+    value: "1,043 mm do 1,448 mm"
   - name: "Materijal"
-    value: "Visokokvalitetni čelik"
-  - name: "Raspon visine"
-    value: "od 1.043 mm do 1.448 mm"
+    value: "Čelik visoke kvalitete"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Povlaštene cijene dostupne za upravljače flotom. Kontaktirajte nas za detalje."
+pricingNotes: "Dostupni su količinski popusti. Kontaktirajte nas za detalje."
 buyLink: "/contact"
 howToUse: |
-  1. Pričvrstite CF nogu na kutnu odljevku kontejnera
-  2. Osigurajte mehanizam zaključavanja
-  3. Ponavljajte postupak za sve potrebne kutove
-  4. Provjerite stabilnost prije nastavka operacija
+  1. Postavite CF nogu na kutni kasting kontejnera
+  2. Aktivirajte mehanizam zaključavanja
+  3. Ako je potrebno, podesite visinu unutar raspona od 1,043 mm do 1,448 mm
+  4. Ponovite postupak za sve potrebne kutove
+  5. Spustite prikolicu i otputujte, ostavljajući kontejner na nogama
 benefits:
-  - title: "Operativna učinkovitost"
-    description: "Ubrzava procese rukovanja kontejnerima, smanjujući vrijeme utovara i istovara"
-  - title: "Smanjena potreba za opremom"
-    description: "Smanjuje ovisnost o dizalicama i viljuškarima, smanjujući operativne troškove"
-  - title: "Prilagodljivost"
-    description: "Radi u raznim radnim okruženjima, od luka do skladišta"
-  - title: "Izdržljivost"
-    description: "Dizajnirana da izdrži tešku industrijsku upotrebu uz minimalno održavanje"
-  - title: "Utjecaj na okoliš"
-    description: "Smanjuje emisije ugljika eliminirajući potrebu za teškom mehanizacijom i opremom koja troši gorivo"
-  - title: "Povećana sigurnost"
-    description: "Stabilizira kontejnere tijekom rukovanja, smanjujući rizik od nesreća i oštećenja tereta"
+  - title: "Ušteda vremena"
+    description: "Smanjuje vrijeme potrebno za premještanje i istovar kontejnera, budući da kontejneri mogu biti ostavljeni na čekanju za istovar"
+  - title: "Učinkovitost vozača"
+    description: "Vozači ne moraju čekati tijekom istovara, oslobađajući se za druge zadatke"
+  - title: "Dodatni prostor za pohranu"
+    description: "Kontejneri se mogu koristiti kao dodatni prostor za pohranu kada nisu u tranzitu"
+  - title: "Spremnost za premještanje"
+    description: "Kontejneri su uvijek spremni za premještanje - jednostavno parkirajte prikolicu ispod kontejnera kako biste nastavili put"
+  - title: "Višestruke primjene"
+    description: "Prikladno za opću upotrebu, skladištenje, teretne kontejnere i razne industrije"
+  - title: "Optimizacija troškova"
+    description: "Optimizira troškove i iskorištenje vremena pojednostavljivanjem transportnih i skladišnih operacija"
 articleContent: |
   ## Što je ConFoot-leg CF?
 
-  ConFoot-leg CF je moderan i lagan sustav stvoren kako bi se olakšalo i povećalo učinkovitost rukovanja kontejnerima. Ove kontejnerske noge nude prenosivo i jednostavno rješenje kao alternativu upotrebi teške mehanizacije za utovar i istovar standardnih pomorskih kontejnera. Ova tehnologija osmišljena je za upotrebu jedne osobe, nudeći ekonomično i fleksibilno rješenje za različite industrije.
+  ConFoot-leg CF je standardni model kontejnerske noge dizajniran za pojednostavljenje transportnih, skladišnih i logističkih operacija. Ovo svestrano rješenje smanjuje vrijeme potrebno za premještanje i istovar kontejnera dopuštajući da kontejneri ostanu na čekanju za istovar, što znači da vozači ne moraju čekati. Model CF pretvara teretne kontejnere u fleksibilne jedinice za pohranu koje su uvijek spremne za transport kad god je to potrebno.
 
-  ## Kako radi
+  ## Ključne prednosti za transport i logistiku
 
-  ConFoot-leg CF eliminira potrebu za dizalicama, viljuškarima ili drugom velikom opremom tijekom rukovanja kontejnerima. Njegov dizajn omogućuje tvrtkama smanjenje operativnih troškova, uštedu vremena i poboljšanje logističke fleksibilnosti. Optimizacijom rukovanja i transporta robe, ConFoot-leg CF povećava pouzdanost i učinkovitost globalnog lanca opskrbe.
+  ConFoot-leg CF pruža značajne operativne prednosti tvrtkama uključenim u transport kontejnera i logistiku. Omogućavanjem da kontejneri ostanu na nogama dok čekaju istovar, možete optimizirati vrijeme vozača i iskorištenost flote. Vozači mogu ostaviti kontejnere i odmah nastaviti sa sljedećim zadatkom, čime se eliminiraju skupi periodi čekanja tijekom utovara i istovara.
 
-  ## Kako funkcionira ConFoot-leg CF
+  Osim toga, kontejneri opremljeni CF nogama mogu poslužiti kao vrijedan dodatni prostor za pohranu kada nisu u tranzitu. Ostaju spremni za premještanje u svakom trenutku - jednostavno parkirajte prikolicu ispod kontejnera i putovanje se nastavlja. Ta svestranost čini CF idealnim rješenjem za tvrtke koje žele poboljšati svoju logističku učinkovitost i kapacitet skladištenja.
 
-  ### Osnovni mehanizam
+  ## Kako funkcionira
 
-  ConFoot-leg CF koristi jednostavan, ali učinkovit dizajn za funkcioniranje. Noge se čvrsto pričvršćuju na kutove standardnih pomorskih kontejnera pomoću snažnog sustava stezaljki koji osigurava stabilnost. Izrađene od laganih, ali izdržljivih materijala, svaka noga teži samo 24 kg, što ih čini jednostavnim za rukovanje jednom osobom. Postupak pričvršćivanja je učinkovit, omogućujući brzu instalaciju bez potrebe za posebnim alatima ili teškom opremom. Jednom postavljene, noge stvaraju stabilnu platformu za utovar, istovar ili privremeno skladištenje kontejnera.
+  ConFoot-leg CF se čvrsto pričvršćuje na kutne kastinge kontejnera, pružajući stabilnu potporu dok je kontejner postavljen za utovar, istovar ili skladištenje. Noge imaju raspon podešavanja od 1,043 mm do 1,448 mm, što omogućava svestrano pozicioniranje u raznim operativnim uvjetima. Svaka noga teži 24 kg, što ih čini lako upravljivima za operatere, dok sustav nudi znatnu nosivost od 34 tona.
 
-  Visina nogu može se podesiti od 1.043 mm do 1.448 mm. Ovaj raspon visine zadovoljava različite operativne potrebe, osiguravajući da sustav funkcionira s različitim veličinama kontejnera i u raznim okruženjima. Ova svestranost olakšava rukovanje kontejnerima u različitim logističkim postavkama, uključujući luke i skladišta.
+  Proces instalacije je jednostavan:
+  1. Postavite CF noge na kutne kastinge kontejnera
+  2. Aktivirajte mehanizam zaključavanja kako biste osigurali noge
+  3. Podesite visinu prema vašim specifičnim zahtjevima
+  4. Spustite prikolicu i otputujte, ostavljajući kontejner sigurno oslonjen na noge
 
-  ### Prednosti mehanizma
-
-  1. Smanjuje ovisnost o teškoj mehanizaciji: ConFoot-leg CF eliminira potrebu za dizalicama ili viljuškarima, što smanjuje operativne troškove i utjecaj na okoliš.
-  2. Poboljšava sigurnost: Sustav stabilizira kontejnere tijekom rukovanja, smanjujući mogućnost nesreća ili oštećenja.
-  3. Povećava učinkovitost: Zahvaljujući laganom dizajnu i jednostavnoj instalaciji, operacije mogu teći brže, čak i u područjima s ograničenom infrastrukturom.
-  4. Povećava prenosivost: Noge su jednostavne za transport i mogu se koristiti na udaljenim lokacijama, čineći ih prikladnima za različite industrije i primjene.
-
-  Dizajn ConFoot-leg CF pojednostavljuje proces rukovanja kontejnerima, dok nudi ekonomski isplativo i održivo rješenje za suvremene logističke izazove.
+  Kada dođe vrijeme za premještanje kontejnera, jednostavno parkirajte prikolicu ispod njega, osigurajte kontejner na prikolici, uklonite noge i nastavite putovanje.
 
   ## Primjene ConFoot-leg CF
 
-  ### Gdje se koristi ConFoot-leg CF
-  ConFoot-leg CF značajno poboljšava operacije u logistici i transportu, transformirajući način rukovanja kontejnerima. Njegov lagan i prenosiv dizajn omogućuje utovar, istovar i premještanje kontejnera bez potrebe za dizalicama ili viljuškarima. Ovo je posebno korisno u udaljenim područjima ili mjestima gdje teška mehanizacija nije dostupna, čineći procese jednostavnijima i smanjujući troškove. Istovremeno, pomaže lukama, skladištima i distribucijskim centrima da rade učinkovitije smanjujući vrijeme i radnu snagu potrebnu za rukovanje kontejnerima.
+  ### Transportne tvrtke
+  Transportne tvrtke značajno profitiraju od CF-ove sposobnosti optimizacije iskorištenosti flote. Vozači mogu ostaviti kontejnere kod kupaca i odmah nastaviti sa sljedećim zadatkom, umjesto čekanja na operacije utovara/istovara. Ta učinkovitost može znatno povećati proizvodni kapacitet postojećih prikolica i smanjiti operativne troškove.
 
-  ### Mala mjesta gdje se dizalice ne mogu koristiti
-  ConFoot-leg CF je praktičan izbor za mala mjesta gdje se dizalice ne mogu koristiti, poput luka, skladišta i distribucijskih centara. Pruža pouzdano i isplativo rješenje za rukovanje kontejnerima u tim okruženjima, čineći ga idealnom opcijom za tvrtke kojima je potreban transport i skladištenje robe na udaljenim lokacijama.
+  ### Skladištenje i distribucija
+  Za operacije skladištenja i distribucije, CF pruža vrijednu fleksibilnost u upravljanju protokom kontejnera. Kontejneri se mogu postaviti u privremene skladišne zone na nogama, stvarajući dodatni kapacitet za uravnoteženje tijekom vršnih perioda. Takav pristup smanjuje zagušenja na utovarnim rampama i omogućava učinkovitije raspoređivanje operacija utovara i istovara.
 
-  ### Modularna gradnja i skladištenje opreme
-  ConFoot-leg CF je praktičan izbor za projekte modularne gradnje, nudeći pouzdana rješenja za privremene postave. Građevinski timovi koriste ga za sigurno i učinkovito skladištenje i transport alata, strojeva i prefabriciranih materijala. Njegova prenosivost i jednostavnost čine ga vrlo pogodnim za gradilišta kojima su potrebna brza montaža i demontaža. Dodatno, osigurava sigurno skladištenje opreme koja se koristi u modularnim zdravstvenim ustanovama, omogućujući brzu upotrebu u raznim okruženjima.
+  ### Proizvodni pogoni
+  Proizvodni pogoni mogu koristiti kontejnere opremljene CF nogama kao fleksibilni dodatni prostor za pohranu sirovina ili gotovih proizvoda. Postavljanjem kontejnera blizu proizvodnih zona, materijali su lako dostupni kad je potrebno, čime se smanjuju troškovi rukovanja i poboljšava proizvodna učinkovitost.
 
-  Svestran i učinkovit dizajn ConFoot-leg CF-a čini ga izborom broj jedan u različitim industrijama, poboljšavajući radne procese i maksimizirajući upotrebu resursa.
+  ### Maloprodajne operacije
+  Maloprodajne tvrtke mogu koristiti CF noge za sezonska skladišna rješenja, gdje su kontejneri postavljeni na strateškim lokacijama za podršku upravljanju zalihama tijekom vršnih perioda. Takav pristup pruža isplativ dodatni kapacitet bez potrebe za trajnom proširenjem objekta.
 
-  ### Prednosti i ograničenja
+  ## Tehničke specifikacije
 
-  #### Prednosti
+  - **Nosivost**: 34 tona
+  - **Težina**: 24 kg po nozi
+  - **Raspon podešavanja**: od 1,043 mm do 1,448 mm
+  - **Materijal**: Čelik visoke kvalitete s trajnim premazom
+  - **Kompatibilnost**: Standardni kutni kastingi teretnih kontejnera
 
-  ConFoot-leg CF pruža nekoliko značajnih prednosti u rukovanju kontejnerima. Njegov lagani dizajn, težak samo 24 kg po nozi, olakšava transport i instalaciju. Svaka noga može podnijeti do 30 tona, pružajući stabilnost pogodnu za različite logističke operacije. Podesivi raspon visine (1.043 mm–1.448 mm) omogućuje mu da zadovolji različite potrebe kontejnera, povećavajući njegovu svestranost. Njegova prenosivost smanjuje potrebu za teškom mehanizacijom poput dizalica ili viljuškara, što vodi značajnoj uštedi troškova i poboljšanju operativne učinkovitosti. Dodatno, njegov ekološki prihvatljiv dizajn smanjuje emisije ugljika, u skladu s naporima za održivost.
-
-  #### Ograničenja
-
-  Unatoč svojim prednostima, ConFoot-leg CF ima određene nedostatke. Kompatibilan je samo sa specifičnim tipovima kontejnera, što može ograničiti njegovu upotrebu u nekim logističkim scenarijima. Dodatno, iako je ručni postupak postavljanja jednostavan, možda se ne integrira dobro u visoko automatizirane radne tokove, stvarajući potencijalne izazove za operacije koje se uvelike oslanjaju na mehanizaciju. Ovi faktori trebali bi se pažljivo procijeniti prilikom planiranja uporabe ConFoot-leg CF u složenim sustavima lanca opskrbe.
-
-  ## Budući razvoj
-
-  ### Trenutna istraživanja
-  Istraživači rade na poboljšanju strukturnih kapaciteta ConFoot-leg CF. Cilj im je povećati nosivost iznad trenutnog limita od 30 tona kako bi se mogle rukovati teškim pomorskim kontejnerima. Napori su također usmjereni na optimizaciju sastava materijala kako bi proizvod bio izdržljiviji, a istovremeno lagan i prenosiv. Dodatno, razvijaju se opcije prilagodbe kako bi se zadovoljile specifične potrebe industrije, poput upravljanja kontejnerima s jedinstvenim dimenzijama ili specijaliziranim vrstama tereta.
-
-  ### Predviđene inovacije
-  Budući razvoj ConFoot-leg CF uključuje dodavanje IoT (Internet of Things) tehnologije koja omogućuje praćenje stabilnosti i položaja kontejnera u stvarnom vremenu. Ova značajka omogućit će operaterima daljinsko praćenje stanja kontejnera, poboljšavajući sigurnost i učinkovitost. Još jedna planirana inovacija je automatizacija, koja podrazumijeva dizajniranje samopodešavajućih nogu koje se mogu automatski poravnati i stabilizirati za kontejnere. To bi smanjilo potrebu za ručnim prilagodbama. Ova unapređenja ciljaju smanjenje zastoja i olakšavanje logističkih procesa.
-
-  Ova tehnološka ažuriranja pomoći će ConFoot-leg CF-u da i dalje bude vodeći u području rukovanja kontejnerima. Postavljaju nove standarde za učinkovitost i inovacije u logističkoj industriji.
+  ConFoot-leg CF predstavlja praktično rješenje za pojednostavljivanje transportnih i skladišnih operacija, nudeći tvrtkama način optimizacije troškova i iskorištenja vremena. Omogućavanjem da kontejneri ostanu na čekanju za istovar i koriste se kao dodatni prostor za pohranu, CF pomaže tvrtkama postići veću učinkovitost i fleksibilnost u rukovanju kontejnerima.
 ---

@@ -1,101 +1,100 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Univerzalno podnožje kontejnera"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Visinski podesiva noga kontejnera"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU je univerzalno podnožje kontejnera dizajnirano za višenamjensko rukovanje kontejnerima u različitim okruženjima."
-technicalDescription: "ConFoot CFU je izrađen od visokokvalitetnog čelika i opremljen je našim patentiranim mehanizmom zaključavanja za sigurno pričvršćivanje na kutne konstrukcije kontejnera."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU je visinski podesiva noga kontejnera koja vam omogućuje podešavanje visine kontejnera od razine tla do 1,5 metara, bez dodatne opreme potrebne za rukovanje kontejnerom."
+technicalDescription: "ConFoot CFU je izrađen od visokokvalitetnog čelika i opremljen je našim patentiranim mehanizmom zaključavanja za sigurno pričvršćivanje na kutne odljeve kontejnera. Omogućuje fleksibilnu upotrebu kontejnera u različitim okruženjima i za razne svrhe."
 videoID: "HDhFIRA-oZU"
 specifications:
   - name: "Težina"
-    value: "24 kg"
+    value: "46 kg kad je sastavljen (težina pojedinačnih dijelova ispod 25 kg)"
   - name: "Nosivost"
-    value: "34 tons"
-  - name: "Dimenzije"
-    value: "45 × 30 × 25 cm"
+    value: "20 tona"
+  - name: "Raspon podešavanja"
+    value: "0–1,500 mm"
   - name: "Materijal"
     value: "Visokokvalitetni čelik"
 price: "6.350 EUR"
 priceVAT: "7.684 EUR"
-pricingNotes: "Dostupni popusti za veće količine. Obratite nam se za prilagođene ponude."
+pricingNotes: "Dostupni popusti na količinu. Kontaktirajte nas za prilagođene ponude."
 buyLink: "/contact"
 howToUse: |
   1. Postavite CFU ispod kuta kontejnera
   2. Aktivirajte mehanizam zaključavanja
-  3. Provjerite je li pričvršćivanje sigurno
-  4. Ponavljajte za sve potrebne kutove
+  3. Podesite visinu po potrebi (od razine tla do preko metra)
+  4. Provjerite sigurno pričvršćivanje
+  5. Ponovite za sve potrebne kutove
 benefits:
-  - title: "Univerzalna kompatibilnost"
-    description: "Radi sa svim standardnim transportnim kontejnerima bez obzira na proizvođača"
-  - title: "Brza montaža"
-    description: "Jedan operater može postaviti uređaj za manje od 5 minuta po jedinici"
-  - title: "Učinkovitost prostora"
-    description: "Kompaktan dizajn omogućava pohranu u skučenim prostorima kada se ne koristi"
-  - title: "Ekonomski isplativo"
-    description: "Smanjuje potrebu za specijaliziranom opremom za dizanje, štedeći operativne troškove"
-  - title: "Višenamjenska primjena"
-    description: "Pogodno za razne industrije uključujući logistiku, proizvodnju i građevinarstvo"
-  - title: "Poboljšan radni tijek"
-    description: "Optimizira procese rukovanja kontejnerima, poboljšavajući operativnu učinkovitost"
+  - title: "Nema potrebe za dodatnom opremom"
+    description: "Potpuno rukovanje kontejnerom samo pomoću CFU nogu, eliminirajući potrebu za teškom opremom"
+  - title: "Podesiva visina"
+    description: "Jednostavno podesite visinu kontejnera od razine tla do preko metra (0-1,500 mm)"
+  - title: "Upravljiva težina"
+    description: "Sastoji se od nekoliko dijelova, s težinom pojedinačnog dijela ispod 25 kg, što olakšava rukovanje"
+  - title: "Svestrane primjene"
+    description: "Prikladna za različite industrije, uključujući transportna poduzeća, obrambene snage, proizvodne pogone, maloprodajne lance, luke i humanitarnu pomoć"
+  - title: "Fleksibilna upotreba"
+    description: "Omogućuje fleksibilnu upotrebu kontejnera u različitim okruženjima i za razne svrhe"
+  - title: "Poboljšani tijek rada"
+    description: "Pojednostavljuje procese rukovanja kontejnerima, poboljšavajući operativnu učinkovitost"
 articleContent: |
   ## Što je ConFoot CFU?
 
-  ConFoot CFU je univerzalno rješenje za podnožje kontejnera osmišljeno za pružanje maksimalne višenamjenskosti i kompatibilnosti među različitim vrstama kontejnera. Ovaj inovativni sustav nudi pouzdan i učinkovit način rukovanja kontejnerima bez potrebe za teškom mehanizacijom ili specijaliziranom opremom. CFU model se ističe svojom sposobnošću rada s gotovo svim standardnim transportnim kontejnerima, čineći ga idealnim izborom za tvrtke koje rukovode različitim vrstama kontejnera.
+  ConFoot CFU je rješenje s visinski podesivom nogom kontejnera osmišljeno kako bi pružilo maksimalnu svestranost i fleksibilnost u rukovanju kontejnerima. Ovaj inovativni sustav omogućuje podešavanje visine kontejnera od razine tla do preko metra (0–1,500 mm), bez potrebe za dodatnom opremom za rukovanje kontejnerima. CFU model se izdvaja svojom sposobnošću rada sa standardnim transportnim kontejnerima u različitim okruženjima i za razne svrhe, čineći ga idealnim izborom za tvrtke u više industrijskih sektora.
 
-  ## Kako radi
+  ## Kako funkcionira
 
-  ConFoot CFU se izravno pričvršćuje za kutne konstrukcije kontejnera, pružajući stabilnu podlogu za utovar, istovar i privremeno skladištenje. Njegov univerzalni dizajn osigurava kompatibilnost s gotovo svim standardnim transportnim kontejnerima, čineći ga idealnim rješenjem za tvrtke koje rukovode različitim vrstama kontejnera. Jednostavan mehanizam pričvršćivanja omogućava brzu montažu i demontažu, znatno smanjujući vrijeme i resurse potrebne za operacije rukovanja kontejnerima.
-
-  ## Kako ConFoot CFU radi
-
-  ### Osnovni mehanizam
-
-  ConFoot CFU koristi inovativni univerzalni sustav pričvršćivanja koji sigurno spaja na kutne konstrukcije kontejnera bez obzira na proizvođača. Ova višenamjenskost postiže se posebnim mehanizmom stezanja dizajniranim za prilagodbu različitim konfiguracijama kutnih konstrukcija. Izrađen od visokokvalitetnog čelika, svaki uređaj osigurava izvanrednu izdržljivost, a istovremeno ga jedan operater može rukovati i instalirati.
-
-  Proces pričvršćivanja je jednostavan i zahtijeva minimalnu obuku. Operateri mogu postaviti CFU ispod kuta kontejnera, aktivirati mehanizam zaključavanja i provjeriti sigurno pričvršćivanje prije nastavka. Ova jednostavnost omogućava brzu montažu u raznim operativnim uvjetima, od prometnih luka do udaljenih gradilišta.
-
-  ### Prednosti mehanizma
-
-  1. **Univerzalna primjena**: Adaptivni dizajn CFU-a radi s kontejnerima svih glavnih proizvođača, eliminirajući probleme kompatibilnosti.
-  2. **Operativna jednostavnost**: Intuitivan sustav pričvršćivanja brzo se savladava, smanjujući zahtjeve za obukom i operativne pogreške.
-  3. **Učinkovitost vremena**: Operacije rukovanja kontejnerima mogu se dovršiti u djeliću vremena u usporedbi s tradicionalnim metodama koje zahtijevaju tešku mehanizaciju.
-  4. **Optimizacija resursa**: Smanjenjem ovisnosti o specijaliziranoj opremi, CFU omogućava učinkovitiju raspodjelu resursa.
-
-  Mehanizam CFU-a predstavlja značajan napredak u tehnologiji rukovanja kontejnerima, nudeći rješenje koje kombinira višenamjenskost, jednostavnost i učinkovitost u jednom proizvodu.
+  ConFoot CFU se direktno pričvršćuje na kutne odljeve kontejnera, pružajući stabilnu podlogu za utovar, istovar i privremeno skladištenje. Njegov podesivi dizajn osigurava fleksibilnost pri pozicioniranju kontejnera na optimalnu visinu prema vašim specifičnim potrebama. Sustav se sastoji od nekoliko dijelova, gdje težina pojedinačnog dijela iznosi manje od 25 kg, što olakšava rukovanje operatorima, dok ukupna težina noge kad je sastavljena iznosi 46 kg. Jednostavan mehanizam pričvršćivanja omogućuje brzo postavljanje i uklanjanje, značajno smanjujući vrijeme i resurse potrebne za operacije rukovanja kontejnerima.
 
   ## Primjene ConFoot CFU
 
-  ### Raznolike logističke operacije
-  ConFoot CFU se ističe u raznolikim logističkim operacijama gdje se redovito rukuje različitim vrstama kontejnera. Njegova univerzalna kompatibilnost čini ga posebno vrijednim u multimodalnim transportnim čvorištima, gdje se susreću kontejneri različitih proizvođača i brodarskih linija. Sposobnost sustava da radi s različitim vrstama kontejnera eliminira potrebu za višestrukim specijaliziranim rješenjima za rukovanje, optimizirajući operacije i smanjujući troškove opreme.
+  ### Transportna poduzeća
+  ConFoot CFU se izdvaja u transportnim operacijama gdje su visinsko podešavanje i fleksibilnost ključni. Transportna poduzeća mogu koristiti CFU noge za jednostavan utovar, istovar i pozicioniranje kontejnera bez potrebe za dodatnom teškom opremom, čime se pojednostavljuju operacije i smanjuju troškovi opreme.
 
-  ### Distribucijski centri male veličine
-  Za manje distribucijske centre koji ne mogu opravdati trošak stalne opreme za rukovanje kontejnerima, ConFoot CFU pruža idealno rješenje. Njegova prenosiva priroda i jednostavnost korištenja omogućuju tim objektima učinkovito upravljanje isporukom kontejnera bez ulaganja u skupu infrastrukturu. Ova pristupačnost otvara nove mogućnosti za tvrtke koje žele proširiti svoje distribucijske kapacitete bez značajnih kapitalnih izdataka.
+  ### Obrambene snage
+  Za obrambene snage, CFU pruža prijenosno i svestrano rješenje za brzo postavljanje kontejnerskih objekata u različitim terenima i okruženjima. Mogućnost podešavanja visine omogućuje optimalno pozicioniranje čak i na neravnom terenu.
 
   ### Proizvodni pogoni
-  Proizvodni pogoni koriste prednosti CFU-a u kreiranju fleksibilnih rasporeda proizvodnje. Omogućavajući precizno pozicioniranje kontejnera tamo gdje je potrebno, sustav olakšava upravljanje zalihama po principu just-in-time i učinkovite proizvodne procese. Sposobnost brzog preuređivanja kontejnera također podržava agilne proizvodne procese koji zahtijevaju čestu rekonfiguraciju radnog prostora i raspodjelu resursa.
+  Proizvodni pogoni imaju koristi od CFU-ove sposobnosti kreiranja fleksibilnih proizvodnih rasporeda s podesivim visinama kontejnera. Omogućavanjem preciznog pozicioniranja kontejnera tamo gdje je potrebno i na odgovarajućoj visini, sustav olakšava učinkovite proizvodne procese i upravljanje zalihama.
 
-  Prilagodljivost ConFoot CFU-a čini ga ključnim alatom za moderne operacije u logistici i proizvodnji, pružajući fleksibilnost potrebnu za odgovor na promjenjive tržišne zahtjeve i operativne potrebe.
+  ### Maloprodajni lanci
+  Maloprodajne operacije mogu koristiti CFU noge za privremena ili sezonska skladišna rješenja, s mogućnošću podešavanja visine kontejnera kako bi se uskladile s utovarno-istovarnim rampama ili drugim infrastrukturnim zahtjevima.
 
-  ### Prednosti i ograničenja
+  ### Luke
+  U lukama, CFU pruža fleksibilnost pri rukovanju kontejnerima i privremenom skladištenju, što omogućuje učinkovito korištenje prostora i resursa bez oslanjanja isključivo na tešku opremu.
 
-  #### Prednosti
+  ### Humanitarna pomoć
+  Za operacije humanitarne pomoći, CFU nudi praktično rješenje za brzo postavljanje kontejnerskih objekata u zahtjevnim okruženjima, s mogućnošću podešavanja visine kako bi se prilagodili različitim terenima i operativnim potrebama.
 
-  ConFoot CFU nudi značajne prednosti za operacije rukovanja kontejnerima. Njegova univerzalna kompatibilnost eliminira potrebu za višestrukim specijaliziranim sustavima za rukovanje, smanjujući troškove opreme i pojednostavljujući upravljanje zalihama. Prenosivost sustava omogućava primjenu na različitim lokacijama, pružajući operativnu fleksibilnost koju stalna oprema ne može osigurati. Dodatno, jednostavnost rada CFU-a smanjuje zahtjeve za obukom i omogućava brzu implementaciju u novim okruženjima. Izdržljiva konstrukcija osigurava dugoročnu pouzdanost, dok kompaktan dizajn minimizira prostor za skladištenje kada se ne koristi.
+  ## Prednosti ConFoot CFU
 
-  #### Ograničenja
+  ### Nema dodatne opreme
+  CFU eliminira potrebu za dizalicama, viljuškarima ili drugom teškom opremom za rukovanje kontejnerima, smanjujući operativne troškove i oslanjanje na specijaliziranu opremu.
 
-  Unatoč svojoj višenamjenskosti, ConFoot CFU ima nekoliko ograničenja koja treba razmotriti. Ručni način rada sustava možda nije pogodan za operacije s velikim obujmom posla, gdje bi automatizirana rješenja mogla biti učinkovitija. Iako CFU značajno smanjuje potrebu za teškom mehanizacijom, ne eliminira je u potpunosti za sve scenarije rukovanja kontejnerima. Dodatno, iznimno neravne površine mogu predstavljati izazove za stabilnu montažu, što u nekim slučajevima zahtijeva dodatne pripreme lokacije. Ove faktore treba uzeti u obzir prilikom razmatranja CFU-a za specifična operativna okruženja.
+  ### Mogućnost podešavanja visine
+  Sa rasponom podešavanja od 0–1,500 mm, CFU pruža neusporedivu fleksibilnost pri pozicioniranju kontejnera na optimalnu visinu za razne primjene i okruženja.
 
-  ## Budući razvoj
+  ### Upravljiva težina
+  Unatoč svojoj robusnoj konstrukciji i nosivosti od 20 tona, CFU je dizajniran s obzirom na jednostavnost rukovanja. Pojedinačne komponente teže manje od 25 kg, što olakšava sklapanje i pozicioniranje operatorima.
 
-  ### Planirana unapređenja
-  ConFoot CFU se i dalje razvija uz niz planiranih unapređenja u budućnosti. Napori u razvoju usmjereni su na daljnje smanjenje težine svake jedinice uz održavanje ili poboljšanje nosivosti. Inovacije u materijalima istražuju se radi uvođenja naprednih kompozita koji nude superioran omjer čvrstoće i težine. Dodatno, ergonomska poboljšanja su dizajnirana kako bi dodatno pojednostavila proces pričvršćivanja i smanjila umor operatera tijekom duljeg korištenja.
+  ### Svestrane primjene
+  Dizajn CFU-a čini ga prikladnim za širok spektar industrija i primjena, od logistike i proizvodnje do obrane i humanitarne pomoći.
 
-  ### Mogućnosti integracije
-  Buduće verzije ConFoot CFU-a imat će poboljšane mogućnosti integracije sa sustavima upravljanja skladištima i platformama za praćenje logistike. Razvijaju se digitalni senzori za praćenje raspodjele opterećenja i stabilnosti u stvarnom vremenu, pružajući vrijedne podatke za optimizaciju sigurnosti i učinkovitosti. Ove pametne značajke omogućit će da CFU postane dio povezanog logističkog ekosustava, podržavajući odlučivanje temeljeno na podacima i rasporede preventivnog održavanja.
+  ### Operativna fleksibilnost
+  Omogućavanjem upotrebe kontejnera u različitim okruženjima i za razne svrhe, CFU proširuje upotrebljivost standardnih transportnih kontejnera izvan tradicionalnih uloga transporta i skladištenja.
 
-  Ovi kontinuirani razvojni napori osiguravaju da će ConFoot CFU nastaviti ispunjavati promjenjive potrebe industrije logistike i proizvodnje, održavajući svoju poziciju vodećeg rješenja za višenamjensko rukovanje kontejnerima.
+  ## Tehničke specifikacije
+
+  - **Nosivost**: 20 tona
+  - **Ukupna težina**: 46 kg kad je sastavljen
+  - **Težina komponente**: Pojedinačni dijelovi ispod 25 kg
+  - **Raspon podešavanja**: 0–1,500 mm
+  - **Materijal**: Visokokvalitetni čelik s izdržljivom završnom obradom
+  - **Kompatibilnost**: Standardni kutni elementi transportnih kontejnera
+
+  ConFoot CFU predstavlja značajan napredak u tehnologiji rukovanja kontejnerima, nudeći rješenje koje kombinira mogućnost podešavanja visine, svestranost i operativnu jednostavnost u jednom proizvodu.
 ---

@@ -46,8 +46,8 @@ Průmyslová 154
 ## Τεχνική Υποστήριξη
 
 Για τεχνικές ερωτήσεις ή υποστήριξη σχετικά με τα προϊόντα ConFoot, παρακαλούμε κατεβάστε τα εγχειρίδια χρήσης μας:
-- [Κατεβάστε το Εγχειρίδιο Χρήσης CF και CFP](/wp-content/uploads/2021/07/confoot_navod-k-pouziti_CZ.pdf)
-- [Κατεβάστε το Εγχειρίδιο Χρήσης CFU](/wp-content/uploads/2022/02/confoot_CFU_navod-k-pouziti_CZ.pdf)
+- [Κατεβάστε το Εγχειρίδιο Χρήσης CF και CFP](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Κατεβάστε το Εγχειρίδιο Χρήσης CFU](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## Χρειάζεστε Κοντέινερ;
 

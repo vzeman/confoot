@@ -1,104 +1,93 @@
 ---
 title: "ConFoot-leg CFP"
-subtitle: "Premium konteinerio koja"
+subtitle: "Krovimo zonos konteinerio atrama"
 mainImage: "/images/products/confoot-leg-cfp-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfp-1.jpg"
   - "/images/products/confoot-leg-cfp-2.jpg"
   - "/images/products/confoot-leg-cfp-3.jpg"
-shortDescription: "ConFoot-leg CFP yra mūsų aukštos kokybės konteinerio koja, pasižyminti išplėstinėmis galimybėmis specializuotoms konteinerių operacijoms."
-technicalDescription: "ConFoot-leg CFP naudoja pažangias medžiagas ir dizaino sprendimus, užtikrinančius išskirtinį veikimą sudėtingomis sąlygomis ir specializuotose programose."
+shortDescription: "ConFoot-leg CFP sukurtas krovimo zonoms, leidžiantis konteineriui būti pritvirtintam prie doko ir suteikiantis galimybę durims visiškai atsidaryti šonais."
+technicalDescription: "CFP modelis leidžia produktus krauti tiesiogiai iš gamybos į konteinerį be tarpinio saugojimo, nereikalaujant jokios kitos konteinerių tvarkymo įrangos."
 videoID: "da7h7VgJHgs"
 specifications:
   - name: "Svoris"
-    value: "26 kg"
-  - name: "Krūvio talpa"
-    value: "36 tons"
-  - name: "Matmenys"
-    value: "48 × 32 × 28 cm"
+    value: "24 kg už atramą"
+  - name: "Krovimo talpa"
+    value: "30 tonų"
+  - name: "Reguliavimo diapazonas"
+    value: "1,043 mm iki 1,448 mm"
   - name: "Medžiaga"
-    value: "Aukštos klasės lydinio plienas"
-  - name: "Aukščio diapazonas"
-    value: "1,043 mm – 1,448 mm"
+    value: "Aukštos kokybės plienas"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Galimas aukštos kokybės paslaugų paketas. Daugiau informacijos kreipkitės į mūsų pardavimų komandą."
+pricingNotes: "Galimi kiekio nuolaidos. Kreipkitės į mūsų pardavimų komandą dėl išsamesnės informacijos."
 buyLink: "/contact"
 howToUse: |
-  1. Pritvirtinkite CFP koją prie konteinerio kampo lievų
-  2. Įjunkite pažangų užrakinimo mechanizmą
-  3. Jei reikia, pakoreguokite aukštį naudodami integruotą reguliavimo sistemą
-  4. Pakartokite visiems reikiamiems kampams
-  5. Prieš tęsdami patikrinkite stabilumą
+  1. Pritvirtinkite CFP atramą prie konteinerio kampinių liejimo elementų
+  2. Suaktyvinkite užrakto mechanizmą
+  3. Jei reikia, sureguliuokite aukštį (nuo 1,043 mm iki 1,448 mm)
+  4. Pritvirtinkite konteinerį prie krovimo zonos
+  5. Visiškai atidarykite konteinerio duris šonais
+  6. Kraukite produktus tiesiogiai iš gamybos į konteinerį
 benefits:
-  - title: "Patobulintas stabilumas"
-    description: "Išskirtinis dizainas užtikrina puikų stabilumą net ir nelygiuose paviršiuose"
-  - title: "Aukščio reguliavimas"
-    description: "Integruota reguliavimo sistema leidžia tiksliai koreguoti konteinerio aukštį"
-  - title: "Išskirtinis patvarumas"
-    description: "Pagaminta iš aukštos klasės medžiagų, užtikrinančių ilgesnį tarnavimo laiką esant ekstremalioms sąlygoms"
-  - title: "Specializuotos programos"
-    description: "Idealu specializuotoms konteinerių operacijoms, kur reikia tikslinio pozicionavimo"
-  - title: "Pažangios saugos savybės"
-    description: "Įtrauktos papildomos saugos priemonės, užkertančios kelią slydimui ir užtikrinančios saugų konteinerio tvarkymą"
-  - title: "Premium našumas"
-    description: "Sukonstruota viršyti pramonės standartus krūvio talpos ir veikimo patikimumo srityje"
+  - title: "Integracija su krovimo zona"
+    description: "Leidžia konteineriui būti pritvirtintam prie doko, tuo pačiu suteikiant galimybę durims visiškai atsidaryti šonais"
+  - title: "Tiesioginis krovimas"
+    description: "Produktus galima krauti tiesiogiai iš gamybos į konteinerį be tarpinio saugojimo"
+  - title: "Be papildomos įrangos"
+    description: "Krovimo operacijoms nereikia jokios kitos konteinerių tvarkymo įrangos"
+  - title: "Priekabos efektyvumas"
+    description: "Išlaisvina priekabą kitiems darbams, kai konteineris lieka prie krovimo zonos"
+  - title: "Papildoma saugykla"
+    description: "Konteineriai gali būti naudojami kaip papildoma saugykla, kai nėra transportuojami"
+  - title: "Mobilumo paruošimas"
+    description: "Konteineriai visuomet pasiruošę judėti – tiesiog važiuokite priekaba po konteineriu, kad kelionė tęstųsi"
 articleContent: |
   ## Kas yra ConFoot-leg CFP?
 
-  ConFoot-leg CFP yra mūsų aukštos kokybės konteinerio koja, skirta specializuotoms konteinerių operacijoms ir iššūkių kupinoms aplinkoms. Pagaminta iš pažangių medžiagų ir inovatyvių inžinerinių sprendimų, CFP modelis suteikia papildomų galimybių, kurios viršija mūsų standartinių konteinerių kojų sprendimus, užtikrinant išskirtinį našumą reikalaujančiose programose. Aukštos kokybės dizainas ypač tinka sektoriams, kur tikslumas, patikimumas ir ilgaamžiškumas yra esminiai kriterijai.
+  ConFoot-leg CFP yra specializuotas konteinerio atramos sprendimas, sukurtas ypatingai krovimo zonų operacijoms. CFP modelis leidžia pritvirtinti konteinerius prie krovimo zonų, tuo pačiu suteikiant galimybę durims visiškai atsidaryti šonais, sudarant sklandžią integraciją tarp konteinerio ir patalpos. Šis inovatyvus sprendimas paverčia siuntimo konteinerius į efektyvų krovimo zonos pratęsimą, pašalinant poreikį tarpinio saugojimo ir papildomos tvarkymo įrangos naudojimui.
+
+  ## Pagrindiniai privalumai krovimo zonoms
+
+  ConFoot-leg CFP suteikia reikšmingų operacinių pranašumų verslams, kurie reguliariai krauna ir iškrauna siuntimo konteinerius. Pritvirtindami konteinerius tiesiogiai prie krovimo zonos, galite išlaisvinti priekabas kitiems darbams, optimizuodami floto naudojimą ir sumažindami laukimo laiką. Produktus galima krauti tiesiogiai iš gamybos į konteinerį be tarpinio saugojimo, taip supaprastinant logistikos procesą ir mažinant tvarkymo sąnaudas.
+
+  Be to, konteineriai su CFP atramomis gali tarnauti kaip lanksti papildoma saugykla, kai jie nėra transportuojami. Jie visuomet pasiruošę judėti – tiesiog važiuokite priekaba po konteineriu, ir kelionė tęsis. Ši universalumas daro CFP idealų sprendimą verslams, siekiantiems pagerinti krovimo zonų efektyvumą ir saugojimo pajėgumą.
 
   ## Kaip tai veikia
 
-  ConFoot-leg CFP veikia pagal tas pačias pagrindines taisykles kaip mūsų standartinės konteinerių kojos, tačiau į savo konstrukciją įtraukia pažangias savybes, užtikrinančias aukštesnį našumą. Kojos saugiai pritvirtinamos prie konteinerių kampo lievų, naudojant mūsų patobulintą užrakinimo mechanizmą, kuris suteikia išskirtinį stabilumą net ir nelygiuose paviršiuose. Integruota aukščio reguliavimo sistema leidžia pasiekti tikslų pozicionavimą, todėl ji idealiai tinka specializuotoms logistikos operacijoms, kur tikslumas yra esminis.
+  ConFoot-leg CFP saugiai pritvirtinama prie konteinerio kampinių liejimo elementų, suteikiant stabilų palaikymą, kol konteineris yra pozicionuojamas prie krovimo zonos. Atramos leidžia reguliuoti aukštį nuo 1,043 mm iki 1,448 mm, užtikrinant tikslų suderinimą su įvairių krovimo zonų aukčiais. Kiekviena atrama sveria 24 kg, todėl jas lengva valdyti, o sistema užtikrina didelę krovimo talpą – 30 tonų.
 
-  ## Kaip veikia ConFoot-leg CFP
+  Montavimo procesas yra paprastas:
+  1. Pritvirtinkite CFP atramas prie konteinerio kampinių liejimo elementų
+  2. Suaktyvinkite užrakto mechanizmą, kad fiksuotumėte atramas
+  3. Sureguliuokite aukštį pagal poreikį, kad suderintumėte su krovimo zona
+  4. Pritvirtinkite konteinerį prie doko
+  5. Visiškai atidarykite konteinerio duris šonais
+  6. Pradėkite krauti tiesiogiai iš gamybos į konteinerį
 
-  ### Pažangus mechanizmas
+  Baigus krovimą, konteineris lieka pasiruošęs transportavimui. Kai bus laisva priekaba, ją galima tiesiog važiuoti po konteineriu, pašalinti atramas ir toliau tęsti kelionę be tarpinės tvarkymo procedūros.
 
-  ConFoot-leg CFP naudoja sudėtingą tvirtinimo ir atramos sistemą, kuri atspindi konteinerių tvarkymo technologijos viršūnę. Kiekviena koja pasižymi preciziškai suprojektuotu užrakinimo mechanizmu, kuris užtikrina itin saugų sujungimą su konteinerio kampo lievais. Pagaminta iš aukštos klasės lydinio plieno, CFP pasižymi išskirtiniu stiprumu ir ilgaamžiškumu, išlaikant valdomą 26 kg svorį vienetui.
+  ## ConFoot-leg CFP taikymo sritys
 
-  Tai, kas iš tiesų išskiria CFP, yra integruota aukščio reguliavimo sistema, leidžianti tiksliai koreguoti konteinerio pozicionavimą su milimetro tikslumu. Ši savybė yra ypač vertinga specializuotose programose, kur būtinas tikslus suderinimas. Kojas galima reguliuoti diapazone nuo 1,043 mm iki 1,448 mm, užtikrinant lankstumą įvairiems veiklos poreikiams.
+  ### Gamybos įmonės
+  Gamybos įmonės labai pasinaudoja CFP gebėjimu sukurti sklandžią gamybos zonos pratęsimą. Pritvirtindami konteinerius tiesiai prie krovimo zonų, produktai gali tiesiogiai judėti nuo gamybos linijos į siuntimo konteinerius, pašalinant tarpinį saugojimą ir mažinant tvarkymo sąnaudas. Šis tiesioginio krovimo metodas sumažina žalos riziką ir supaprastina logistikos procesą.
 
-  ### Pažangaus mechanizmo privalumai
+  ### Paskirstymo centrai
+  Paskirstymo centrai vertina CFP teikiamą lankstumą krovimo operacijose. Konteinerius galima laikyti prie krovimo zonų ilgesnį laiką, leisdami efektyviai krauti, kai produktai tampa prieinami. Tokiu būdu sumažėja spaudimas krauti konteinerius per trumpą laiką, kai laukia priekabos, optimizuojant tiek darbo jėgos, tiek transporto priemonių naudojimą.
 
-  1. **Išskirtinis stabilumas**: Patobulintas dizainas užtikrina puikų stabilumą net ir sudėtinguose paviršiuose, mažinant slydimo ar pasvirimo riziką.
-  2. **Tikslus pozicionavimas**: Integruota reguliavimo sistema leidžia tiksliai išdėstyti konteinerį, kas yra svarbu specializuotoje gamyboje ir logistikos operacijose.
-  3. **Padidinta krūvio talpa**: Su 36 tonų talpa, CFP viršija standartinius reikalavimus, todėl tinka sunkesniems specializuotiems konteineriams.
-  4. **Ilgesnis eksploatacijos tarnavimo laikas**: Aukštos klasės medžiagos ir konstrukcija užtikrina ilgaamžiškumą net esant intensyviam naudojimui sudėtingomis sąlygomis.
+  ### Mažmeninės prekybos operacijos
+  Mažmeninės prekybos įmonės gali naudoti konteinerius su CFP atramomis kaip lankstų papildomą saugojimo sprendimą piko sezono metu. Konteinerius galima pristatyti prie krovimo zonų tiesioginiam prekių priėmimui, o vėliau perkelti į saugojimo zonas, kai jie pilnai užpildomi. Tai suteikia ekonomišką papildomą pajėgumą be būtinybės plėsti pastovias patalpas.
 
-  ConFoot-leg CFP pažangus mechanizmas atspindi mūsų įsipareigojimą inovacijoms ir tobulumui konteinerių tvarkymo sprendimuose, užtikrinant neprilygstamą našumą net pačioms reikalaujančiausioms programoms.
+  ### Transporto įmonės
+  Transporto įmonės gali pasinaudoti pagerintu floto panaudojimu su CFP sistema. Priekabos gali pristatyti konteinerius tiesiai pas klientus ir iš karto tęsti kitą užsakymą, o ne laukti krovimo/iškrovimo operacijų. Šis efektyvumas žymiai padidina esamų priekabų produktyvumą.
 
-  ## ConFoot-leg CFP taikymas
+  ## Techninės specifikacijos
 
-  ### Specializuota gamyba
-  Specializuotoje gamyboje ConFoot-leg CFP išsiskiria, užtikrindamas tikslumą ir stabilumą, reikalingus kritiniams gamybos procesams. Gebėjimas tiksliai pozicionuoti konteinerius leidžia sklandžiai integruotis su gamybos linijomis ir įranga. Šis tikslumas ypač vertinamas tokiose pramonės šakose kaip elektronika, kosmoso technologijos ir automobilių gamyba, kur komponentų suderinamumas ir gamybos tolerancijos matuojamos milimetrais.
+  - Krovimo talpa: 30 tonų
+  - Svoris: 24 kg už atramą
+  - Reguliavimo diapazonas: 1,043 mm iki 1,448 mm
+  - Medžiaga: Aukštos kokybės plienas su patvaria danga
+  - Suderinamumas: Su standartinėmis siuntimo konteinerių kampinių liejimo elementais
 
-  ### Iššūkių kupinos sąlygos
-  ConFoot-leg CFP sukurtas specialiai naudojimui iššūkių kupinose sąlygose, kuriose standartinės konteinerių kojos nebūtų pakankamos. Jo tvirta konstrukcija padaro jį idealiu tolimosios veiklos operacijoms, ekstremalioms oro sąlygoms ir pramonės aplinkoms, kur vyrauja stiprūs cheminiai ar fiziniai poveikiai. Aukštos klasės lydinio plieno konstrukcija atsparia korozijai, smūgio pažeidimams ir konstrukcijos nuovargiui, užtikrinant patikimą veikimą tuose atvejuose, kur paprastesnė įranga nepaisytų.
-
-  ### Aukštos vertės krovinio tvarkymas
-  Transportuojant ir saugant aukštos vertės arba jautrų krovinį, CFP suteiktas patobulintas stabilumas ir saugumas yra neįkainojami. Tikslus pozicionavimo gebėjimas ir išskirtinis svorio pasiskirstymas sumažina slydimo ar pažeidimų riziką tvarkymo operacijų metu. Dėl to CFP yra pageidaujamas pasirinkimas sektoriuose, susijusiuose su jautria įranga, prabangiais daiktais ar nepakeičiamais elementais, kai pažeidimų kaina gerokai viršija investicijas į premium tvarkymo įrangą.
-
-  ConFoot-leg CFP specializuotos galimybės daro jį galutiniu sprendimu operacijoms, kuriose standartinė konteinerių tvarkymo įranga negali patenkinti reikalaujamų našumo standartų ar patikimumo lūkesčių.
-
-  ### Privalumai ir ribotumai
-
-  #### Privalumai
-
-  ConFoot-leg CFP siūlo išskirtinius privalumus specializuotoms konteinerių operacijoms. Jo aukštos kokybės konstrukcija užtikrina išskirtinį patvarumą ekstremaliose sąlygose, žymiai pailginant eksploatacijos tarnavimo laiką ir mažinant pakeitimo išlaidas. Integruota aukščio reguliavimo sistema leidžia tiksliai pozicionuoti konteinerį, kas yra kritiška specializuotose gamybos ir logistikos operacijose. Su padidinta krūvio talpa – 36 tonomis – jis viršija pramonės standartus ir gali aptarnauti sunkesnius specializuotus konteinerius. Pažangios stabilumo savybės užtikrina saugų tvarkymą net nelygiuose paviršiuose, sumažinant nelaimingų atsitikimų ir pažeidimų riziką. Be to, CFP suderinamumas su automatizuotomis sistemomis padaro jį ateities sprendimu, prisitaikančiu prie besikeičiančių logistikos operacijų.
-
-  #### Ribotumai
-
-  Nepaisant savo išskirtinių savybių, ConFoot-leg CFP turi tam tikrų ribotumų, kuriuos reikėtų apsvarstyti. Aukštos kokybės ypatybės reikalauja didesnių pradinių investicijų nei standartinės konteinerių kojos, kas gali nebūti pagrįsta įprastoms operacijoms. Su 26 kg svoriu vienetui, CFP yra šiek tiek sunkesnis už standartinius modelius, todėl gali prireikti papildomų tvarkymo priemonių. Pažangios savybės taip pat reikalauja išsamesnio operatorių mokymo, kad sistema būtų pilnai išnaudota. Šie veiksniai turėtų būti kruopščiai įvertinti, atsižvelgiant į veiklos reikalavimus, svarstant CFP naudojimą konkrečioms programoms.
-
-  ## Būsimos plėtros kryptys
-
-  ### Vykdomi tyrimai
-  Mūsų tyrimų ir plėtros komanda nuolatos tobulina ConFoot-leg CFP galimybes. Dabartiniai tyrimai yra sutelkti į pažangių kompozitinių medžiagų įtraukimą, siekiant optimizuoti stiprumo ir svorio santykį – galbūt sumažinant svorį ir išlaikant arba gerinant krūvio talpą. Taip pat nagrinėjame išmanias jutiklių technologijas, kurios galėtų realiu laiku stebėti įtampą, svorio pasiskirstymą ir konstrukcijos vientisumą, suteikdamos vertingų duomenų prevencinei priežiūrai ir veiklos saugumui.
-
-  ### Kitos kartos savybės
-  Tikėtina, kad kitos kartos ConFoot-leg CFP apims integruotas skaitmenines galimybes, leidžiančias sklandžiai integruotis su Industry 4.0 sistemomis. Kuriamos savybės apima RFID sekimą, nuotolinio stebėjimo galimybes bei suderinamumą su sandėlio valdymo sistemomis. Be to, nagrinėjame automatizuotus reguliavimo mechanizmus, kurie galėtų dar labiau pagerinti tikslumą ir sumažinti operatorių darbo krūvį. Šie patobulinimai užtikrins, kad CFP ir toliau tenkintų besikeičiančius specialių konteinerių operacijų poreikius vis labiau skaitmeninėje bei automatizuotoje pramonėje.
-
-  Šie nuolatiniai patobulinimai atspindi mūsų įsipareigojimą inovacijoms ir tobulumui konteinerių tvarkymo sprendimuose, užtikrinant, kad ConFoot-leg CFP išliktų specializuotų konteinerių tvarkymo technologijų lyderiu.
+  ConFoot-leg CFP yra inovatyvus sprendimas krovimo zonoms, siūlantis verslams optimizuoti logistikos procesus, gerinti išteklių panaudojimą ir kurti lankstų papildomos saugyklos pajėgumą. Tiesioginis krovimas iš gamybos į konteinerius ir priekabų išlaisvinimas kitiems darbams padeda pasiekti didesnį efektyvumą bei sumažinti sąnaudas konteinerių tvarkymo operacijose.
 ---

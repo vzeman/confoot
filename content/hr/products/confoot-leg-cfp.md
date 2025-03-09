@@ -1,104 +1,93 @@
 ---
 title: "ConFoot-leg CFP"
-subtitle: "Premium kontejnerska noga"
+subtitle: "Noga kontejnera za utovar"
 mainImage: "/images/products/confoot-leg-cfp-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfp-1.jpg"
   - "/images/products/confoot-leg-cfp-2.jpg"
   - "/images/products/confoot-leg-cfp-3.jpg"
-shortDescription: "ConFoot-leg CFP je naše premijumsko rješenje za noge kontejnera, s poboljšanim mogućnostima za specijalizirane operacije s kontejnerima."
-technicalDescription: "ConFoot-leg CFP uključuje napredne materijale i dizajnerske značajke za izvrsnu izvedbu u zahtjevnim okruženjima i specijaliziranim primjenama."
+shortDescription: "ConFoot-leg CFP dizajniran je za utovne prostore, omogućujući da se kontejner osigura uz dok pri čemu se vrata potpuno otvaraju prema stranama."
+technicalDescription: "CFP model omogućava da se proizvodi učitaju izravno iz proizvodnje u kontejner bez međuskladištenja, te nije potrebna nikakva dodatna oprema za rukovanje kontejnerima."
 videoID: "da7h7VgJHgs"
 specifications:
   - name: "Težina"
-    value: "26 kg"
+    value: "24 kg po nozi"
   - name: "Nosivost"
-    value: "36 tona"
-  - name: "Dimenzije"
-    value: "48 × 32 × 28 cm"
+    value: "30 tona"
+  - name: "Raspon podešavanja"
+    value: "1,043 mm do 1,448 mm"
   - name: "Materijal"
-    value: "Legirani čelik vrhunske kvalitete"
-  - name: "Raspon visine"
-    value: "1.043 mm do 1.448 mm"
+    value: "Visokokvalitetni čelik"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Dostupan premium servisni paket. Kontaktirajte naš prodajni tim za detalje."
+pricingNotes: "Dostupni popusti za veće količine. Obratite se našem prodajnom timu za detalje."
 buyLink: "/contact"
 howToUse: |
-  1. Postavite CFP nogu na kutne lijevke kontejnera
-  2. Aktivirajte napredni mehanizam zaključavanja
-  3. Po potrebi prilagodite visinu pomoću integriranog sustava podešavanja
-  4. Ponovite za sve potrebne kutove
-  5. Izvedite provjeru stabilnosti prije nastavka
+  1. Postavite CFP nogu na kutnu odljevku kontejnera
+  2. Aktivirajte mehanizam zaključavanja
+  3. Ako je potrebno, prilagodite visinu u rasponu od 1,043 mm do 1,448 mm
+  4. Osigurajte kontejner na utovornom doku
+  5. Potpuno otvorite vrata kontejnera prema stranama
+  6. Učitajte proizvode izravno iz proizvodnje u kontejner
 benefits:
-  - title: "Poboljšana stabilnost"
-    description: "Izvrstan dizajn pruža izuzetnu stabilnost čak i na neravnim površinama"
-  - title: "Podesiva visina"
-    description: "Integrirani sustav podešavanja omogućava precizno usklađivanje visine kontejnera"
-  - title: "Izuzetna izdržljivost"
-    description: "Konstruirana s premijum materijalima za produljeni vijek trajanja u teškim uvjetima"
-  - title: "Specijalizirane primjene"
-    description: "Idealna za specijalizirane operacije s kontejnerima koje zahtijevaju precizno pozicioniranje"
-  - title: "Napredne sigurnosne značajke"
-    description: "Uključuje dodatne sigurnosne mehanizme za sprječavanje klizanja i osiguranje sigurne manipulacije kontejnerima"
-  - title: "Premijumska izvedba"
-    description: "Dizajnirana za nadmašivanje industrijskih standarda u pogledu nosivosti i operativne pouzdanosti"
+  - title: "Integracija s utovornim dokom"
+    description: "Omogućuje osiguravanje kontejnera uz dok uz istovremeno potpuno otvaranje vrata prema stranama"
+  - title: "Izravno utovarivanje"
+    description: "Proizvodi se mogu učitati izravno iz proizvodnje u kontejner bez međuskladištenja"
+  - title: "Bez dodatne opreme"
+    description: "Za operacije utovara nije potrebna nikakva dodatna oprema za rukovanje kontejnerima"
+  - title: "Učinkovitost prikolice"
+    description: "Oslobađa prikolicu za druge zadatke dok kontejner ostaje na utovornom doku"
+  - title: "Dodatni prostor za skladištenje"
+    description: "Kontejneri se mogu koristiti kao dodatni prostor za skladištenje kada nisu u prometu"
+  - title: "Spremnost za premještanje"
+    description: "Kontejneri su uvijek spremni za premještanje - jednostavno parkirajte prikolicu ispod kontejnera kako biste nastavili putovanje"
 articleContent: |
   ## Što je ConFoot-leg CFP?
 
-  ConFoot-leg CFP je naše premijumsko rješenje za noge kontejnera, osmišljeno za specijalizirane operacije s kontejnerima i zahtjevna okruženja. Izrađen od naprednih materijala i zahvaljujući inovativnom inženjeringu, CFP model nudi poboljšane mogućnosti koje nadmašuju naša standardna rješenja za noge kontejnera, pružajući vrhunsku izvedbu za zahtjevne primjene. Premijumski dizajn čini ga osobito pogodnim za industrije gdje su preciznost, pouzdanost i izdržljivost od presudne važnosti.
+  ConFoot-leg CFP je specijalizirano rješenje s nogom za kontejnere, dizajnirano posebno za operacije utovornog prostora. CFP model omogućuje da se kontejner osigura na utovornom doku pri čemu se vrata potpuno otvaraju prema stranama, stvarajući besprijekornu integraciju između kontejnera i objekta. Ovo inovativno rješenje pretvara transportne kontejnere u učinkovite produžetke vašeg utovornog prostora, eliminirajući potrebu za međuskladištenjem i dodatnom opremom za rukovanje.
+
+  ## Ključne prednosti za operacije utovornog prostora
+
+  ConFoot-leg CFP pruža značajne operativne prednosti za tvrtke koje redovito utovaruju i istovaruju transportne kontejnere. Osiguravanjem kontejnera izravno na utovornom doku, oslobađate prikolice za druge zadatke, optimizirajući iskorištenje vašeg voznog parka i smanjujući vrijeme čekanja. Proizvodi se mogu učitavati izravno iz proizvodnje u kontejner bez međuskladištenja, čime se pojednostavljuje vaš logistički proces i smanjuju troškovi rukovanja.
+
+  Dodatno, kontejneri opremljeni CFP nogama mogu poslužiti kao fleksibilan dodatni prostor za skladištenje kada nisu u prometu. Uvijek su spremni za premještanje - jednostavno parkirajte prikolicu ispod kontejnera i putovanje se nastavlja. Ova svestranost čini CFP idealnim rješenjem za tvrtke koje žele povećati učinkovitost utovornog prostora i kapacitet skladištenja.
 
   ## Kako funkcionira
 
-  ConFoot-leg CFP radi na istim osnovnim principima kao i naše standardne noge kontejnera, ali uključuje napredne značajke za vrhunsku izvedbu. Noge se sigurno pričvršćuju na kutne lijevke kontejnera pomoću našeg poboljšanog mehanizma zaključavanja, koji pruža izuzetnu stabilnost čak i na neravnim površinama. Integrirani sustav podešavanja visine omogućava precizno pozicioniranje, čineći ga idealnim za specijalizirane logističke operacije gdje je preciznost ključna.
+  ConFoot-leg CFP se sigurno pričvršćuje na kutne odljevke kontejnera, pružajući stabilnu potporu dok je kontejner postavljen na utovornom doku. Noge imaju raspon podešavanja od 1,043 mm do 1,448 mm, što omogućava precizno poravnanje s različitim visinama utovornog doka. Svaka noga teži 24 kg, što ih čini lakim za rukovanje operaterima, dok sustav osigurava značajnu nosivost od 30 tona.
 
-  ## Kako radi ConFoot-leg CFP
+  Instalacijski proces je jednostavan:
+  1. Postavite CFP noge na kutne odljevke kontejnera
+  2. Aktivirajte mehanizam zaključavanja kako biste osigurali noge
+  3. Prilagodite visinu prema potrebi kako bi se poravnala s utovornim doku
+  4. Osigurajte kontejner na doku
+  5. Potpuno otvorite vrata kontejnera prema stranama
+  6. Započnite s utovarom izravno iz proizvodnje u kontejner
 
-  ### Napredni mehanizam
-
-  ConFoot-leg CFP koristi sofisticirani sustav pričvršćivanja i potpore koji predstavlja vrhunac tehnologije rukovanja kontejnerima. Svaka noga ima precizno dizajniran mehanizam zaključavanja koji osigurava izuzetno čvrstu vezu s kutnim lijevcima kontejnera. Izrađen od visokokvalitetnog legiranog čelika, CFP nudi superiornu čvrstoću i trajnost, uz održavanje upravljive težine od 26 kg po jedinici.
-
-  Ono što stvarno izdvaja CFP je njegov integrirani sustav podešavanja visine, koji omogućava fino usklađivanje pozicioniranja kontejnera s preciznošću do milimetra. Ova značajka osobito je vrijedna u specijaliziranim primjenama gdje je točno poravnanje ključno. Noge se mogu prilagoditi u rasponu od 1.043 mm do 1.448 mm, pružajući fleksibilnost za različite operativne zahtjeve.
-
-  ### Prednosti naprednog mehanizma
-
-  1. **Poboljšana stabilnost**: Poboljšani dizajn pruža izuzetnu stabilnost čak i na zahtjevnim površinama, smanjujući rizik od pomicanja ili prevrtanja.
-  2. **Precizno pozicioniranje**: Integrirani sustav podešavanja omogućava precizno postavljanje kontejnera, što je ključno za specijaliziranu proizvodnju i logističke operacije.
-  3. **Poboljšana nosivost**: S nosivošću od 36 tona, CFP nadmašuje standardne zahtjeve, čineći ga pogodnim za teže specijalizirane kontejnere.
-  4. **Produljeni operativni vijek**: Premijum materijali i konstrukcija osiguravaju dugovječnost čak i pri intenzivnoj upotrebi u teškim uvjetima.
-
-  Napredni mehanizam ConFoot-leg CFP predstavlja našu predanost inovacijama i izvrsnosti u rješenjima za rukovanje kontejnerima, pružajući nenadmašnu izvedbu za najzahtjevnije primjene.
+  Nakon završetka utovara, kontejner ostaje spreman za transport. Kada je prikolica dostupna, jednostavno se vozi ispod kontejnera, noge se uklanjaju i putovanje se nastavlja bez ikakvih međukoraka rukovanja.
 
   ## Primjene ConFoot-leg CFP
 
-  ### Specijalizirana proizvodnja
-  U specijaliziranim proizvodnim okruženjima, ConFoot-leg CFP se ističe pružajući preciznost i stabilnost potrebnu za ključne proizvodne procese. Sposobnost pozicioniranja kontejnera s točnošću osigurava besprijekornu integraciju s proizvodnim linijama i opremom. Ta preciznost posebno je vrijedna u industrijama poput elektronike, zrakoplovstva i automobilske proizvodnje, gdje se poravnanje komponenti i tolerancije proizvodnje mjere u milimetrima.
+  ### Proizvodni pogoni
+  Proizvodni pogoni imaju značajne koristi od CFP-a koji omogućava besprijekornu ekstenziju proizvodnog prostora. Postavljanjem kontejnera izravno na utovorne prostore, proizvodi mogu prijeći izravno s proizvodne linije u transportne kontejnere, eliminirajući međuskladištenje i smanjujući troškove rukovanja. Ovaj pristup izravnog utovara minimizira rizik od oštećenja i pojednostavljuje logistički proces.
 
-  ### Zahtjevna okruženja
-  ConFoot-leg CFP je dizajniran posebno za uporabu u zahtjevnim okruženjima gdje bi standardne noge kontejnera bile nedovoljne. Njegova robusna konstrukcija čini ga idealnim za offshore operacije, ekstremne vremenske uvjete i industrijska okruženja s teškim kemijskim ili fizičkim uvjetima. Premijum konstrukcija od legiranog čelika otporna je na koroziju, udarne udarne oštećenja i strukturni umor, osiguravajući pouzdanu izvedbu tamo gdje bi manja oprema zakazala.
+  ### Distribucijski centri
+  Za distribucijske centre, CFP pruža vrijednu fleksibilnost u operacijama utovara. Kontejneri se mogu postaviti na utovorne prostore na dulje razdoblje, omogućujući učinkovit utovar kako proizvodi postaju dostupni. Ovaj pristup smanjuje pritisak za utovar kontejnera unutar ograničenih vremenskih okvira kada prikolice čekaju, optimizirajući korištenje radne snage i prijevoznih resursa.
 
-  ### Rukovanje visokovrijednim teretom
-  Prilikom transporta i skladištenja visokovrijednog ili osjetljivog tereta, poboljšana stabilnost i sigurnost koje pruža CFP su neprocjenjivi. Precizne mogućnosti pozicioniranja i vrhunska raspodjela opterećenja smanjuju rizik od pomicanja ili oštećenja tijekom operacija rukovanja. To čini CFP preferiranim izborom za industrije koje se bave osjetljivom opremom, luksuznom robom ili neopozivim predmetima, gdje bi trošak oštećenja znatno premašio ulaganje u premijum opremu za rukovanje.
+  ### Maloprodajne operacije
+  Maloprodajne tvrtke mogu koristiti kontejnere opremljene CFP nogama kao fleksibilan dodatni prostor za skladištenje tijekom vrhunskih sezona. Kontejneri se mogu postaviti na utovorne prostore za izravan prijem robe, a zatim premjestiti u skladišne prostore kada se napune. Ovaj pristup pruža isplativo dodatni kapacitet bez potrebe za trajnim proširenjem objekta.
 
-  Specijalizirane mogućnosti ConFoot-leg CFP čine ga definitivnim rješenjem za operacije gdje standardna oprema za rukovanje kontejnerima ne može zadovoljiti potrebne standarde izvedbe ili očekivanja pouzdanosti.
+  ### Transportne tvrtke
+  Transportne tvrtke imaju koristi od poboljšanog iskorištenja voznog parka uz CFP sustav. Prikolice mogu isporučiti kontejnere na lokacijama kupaca i odmah nastaviti sa sljedećim zadatkom, umjesto da čekaju operacije utovara/istovara. Ova učinkovitost može značajno povećati produktivni kapacitet postojećih flotila prikolica.
 
-  ### Prednosti i ograničenja
+  ## Tehničke specifikacije
 
-  #### Prednosti
+  - Nosivost: 30 tona
+  - Težina: 24 kg po nozi
+  - Raspon podešavanja: 1,043 mm do 1,448 mm
+  - Materijal: Visokokvalitetni čelik s trajnom obradom
+  - Kompatibilnost: Standardne kutne odljevke transportnih kontejnera
 
-  ConFoot-leg CFP nudi izuzetne prednosti za specijalizirane operacije s kontejnerima. Njegova premijumska konstrukcija osigurava superiornu izdržljivost u teškim uvjetima, značajno produžujući operativni vijek trajanja i smanjujući troškove zamjene. Integrirani sustav podešavanja visine omogućava precizno pozicioniranje kontejnera, što je ključno za specijaliziranu proizvodnju i logističke aplikacije. S poboljšanom nosivošću od 36 tona, nadmašuje industrijske standarde i prihvaća teže specijalizirane kontejnere. Napredne značajke stabilnosti osiguravaju sigurno rukovanje čak i na neravnim površinama, smanjujući rizik od nesreća i oštećenja. Dodatno, kompatibilnost CFP-a s automatiziranim sustavima čini ga spremnim za budući razvoj logističkih operacija.
-
-  #### Ograničenja
-
-  Unatoč superiornim mogućnostima, ConFoot-leg CFP ima određena ograničenja koja treba uzeti u obzir. Premijum značajke dolaze s višim početnim troškovima u usporedbi sa standardnim nogama kontejnera, što možda nije opravdano za rutinske operacije s kontejnerima. Sa 26 kg po jedinici, CFP je nešto teži od standardnih modela, što može zahtijevati dodatne mjere rukovanja. Napredne značajke također zahtijevaju opsežniju obuku operatora kako bi se u potpunosti iskoristile mogućnosti sustava. Ti se čimbenici trebaju pažljivo evaluirati u odnosu na operativne zahtjeve prilikom razmatranja CFP-a za specifične primjene.
-
-  ## Buduća unapređenja
-
-  ### Trenutna istraživanja
-  Naš tim za istraživanje i razvoj kontinuirano radi na poboljšanju mogućnosti ConFoot-leg CFP-a. Trenutna istraživanja usredotočena su na uključivanje naprednih kompozitnih materijala kako bi se dodatno optimizirala omjer čvrstoće i težine, što bi potencijalno smanjilo težinu uz održanje ili poboljšanje nosivosti. Također istražujemo pametne tehnologije senzora koje bi mogle pratiti naprezanje, raspodjelu tereta i strukturni integritet u stvarnom vremenu, pružajući vrijedne podatke za preventivno održavanje i operativnu sigurnost.
-
-  ### Značajke nove generacije
-  Sljedeća generacija ConFoot-leg CFP-a vjerojatno će uključivati integrirane digitalne mogućnosti za bešavnu integraciju s Industry 4.0 sustavima. Značajke u razvoju uključuju RFID praćenje, mogućnosti daljinskog nadzora i kompatibilnost sa sustavima za upravljanje skladištima. Dodatno, istražujemo automatizirane mehanizme podešavanja koji bi mogli dodatno poboljšati preciznost i smanjiti opterećenje operatera. Ova unapređenja osigurat će da CFP nastavi zadovoljiti sve razvojne potrebe specijaliziranih operacija s kontejnerima u sve digitalnijem i automatiziranom industrijskom okruženju.
-
-  Ova kontinuirana unapređenja odražavaju našu predanost inovacijama i izvrsnosti u rješenjima za rukovanje kontejnerima, osiguravajući da ConFoot-leg CFP ostane na čelu tehnologije specijaliziranog rukovanja kontejnerima.
+  ConFoot-leg CFP predstavlja inovativno rješenje za operacije utovornog prostora, nudeći tvrtkama način da optimiziraju svoje logističke procese, poboljšaju iskorištenje resursa i stvore fleksibilan dodatni kapacitet za skladištenje. Omogućavanjem izravnog utovara iz proizvodnje u kontejnere i oslobađanjem prikolica za druge zadatke, CFP pomaže tvrtkama postići veću učinkovitost i isplativost u operacijama rukovanja kontejnerima.
 ---

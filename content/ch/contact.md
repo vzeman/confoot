@@ -48,8 +48,8 @@ Samstig - Sunntig: Gschlosse
 ## Technischer Support
 
 Für technisci Fraag oder Support bezüglich dinere ConFoot-Produkte, lad bitte üsi Bruucheranleitige abe:
-- [Lad dä CF und CFP Bruucheranleitig abe](/wp-content/uploads/2021/07/confoot_navod-k-pouziti_CZ.pdf)
-- [Lad dä CFU Bruucheranleitig abe](/wp-content/uploads/2022/02/confoot_CFU_navod-k-pouziti_CZ.pdf)
+- [Lad dä CF und CFP Bruucheranleitig abe](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Lad dä CFU Bruucheranleitig abe](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## Bruchsch no en Container?
 

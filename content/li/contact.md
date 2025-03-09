@@ -46,8 +46,8 @@ Zaterdag - Zondag: Geslotten
 ## Technische Support
 
 Veur technische vraoge of support mit dien ConFoot-producten, kan doe oetsjlof onze gebroeks-manuals:
-- [Oetsjlof CF en CFP Gebroeksmanual](/wp-content/uploads/2021/07/confoot_navod-k-pouziti_CZ.pdf)
-- [Oetsjlof CFU Gebroeksmanual](/wp-content/uploads/2022/02/confoot_CFU_navod-k-pouziti_CZ.pdf)
+- [Oetsjlof CF en CFP Gebroeksmanual](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Oetsjlof CFU Gebroeksmanual](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## Nood an ein Container?
 

@@ -29,7 +29,7 @@ if [ ! -f "package.json" ]; then
     "process-images": "node scripts/process_images.js"
   },
   "dependencies": {
-    "sharp": "^0.32.6"
+    "sharp": "^0.29.3"
   }
 }
 EOF
@@ -42,10 +42,18 @@ if [ -d "node_modules/sharp" ]; then
 else
     # For older Node.js versions, use a compatible version of Sharp
     if [ "$NODE_MAJOR" -lt "14" ]; then
-        npm install sharp@0.29.3 --no-save
+        echo "Using Sharp 0.29.3 for compatibility with Node.js v$NODE_VERSION"
+        npm install sharp@0.29.3 --no-fund --no-audit --no-package-lock
     else
-        npm install sharp --no-save
+        npm install sharp --no-fund --no-audit --no-package-lock
     fi
+fi
+
+# Check if Sharp was installed successfully
+if [ ! -d "node_modules/sharp" ]; then
+    echo "Failed to install Sharp. Falling back to simple_image_processor.sh"
+    bash ./scripts/simple_image_processor.sh
+    exit 0
 fi
 
 # Create resources directory if it doesn't exist
@@ -60,6 +68,6 @@ if [ $? -eq 0 ]; then
     echo "Image processing completed successfully."
     echo "You can now build your Hugo site to use the processed images."
 else
-    echo "Image processing failed. Please check the error messages above."
-    exit 1
+    echo "Image processing failed. Falling back to simple_image_processor.sh"
+    bash ./scripts/simple_image_processor.sh
 fi

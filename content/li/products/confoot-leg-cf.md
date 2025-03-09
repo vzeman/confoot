@@ -1,106 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Standaard Containerbeen"
+subtitle: "Standaerd Containerpoot"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF is ós stándaard oplossing veur containerbeene, perfect veur de routinematige hanndeling van containers."
-technicalDescription: "De ConFoot-leg CF höbs ein robuust ontwerp, optimaal óm stándaard scheepstransportcontainers te hanteren, mit ós eigen bevestigingssysteem veur rappe inzet."
+shortDescription: "ConFoot-leg CF is ós staeonder model containerpoot det de tied vermèngt die nodig is veur 't bewege en ontladen van containers, zodat de containers loat wachte veur 't ontladen en de chauffeurs neet motte wachte."
+technicalDescription: "t CF-model makt et möögelijk dat containers gebruukd wèrre as bijkomend opbergruimte, want se blieve gereed veur verplaatsing op elk moment – sjimpelweg de trailer under de container rèn, en de reis gaot veuróts."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Gewicht"
-    value: "24 kg"
-  - name: "Laadvermogen"
-    value: "34 tonnen"
-  - name: "Afmetingen"
-    value: "45 × 30 × 25 cm"
-  - name: "Materiaal"
-    value: "Hoogwaardig staal"
-  - name: "Hoogtebereik"
+    value: "24 kg per poot"
+  - name: "Lastecapaciteit"
+    value: "34 ton"
+  - name: "Aanpassingsbereik"
     value: "1.043 mm tot 1.448 mm"
+  - name: "Materiaal"
+    value: "Hoë kwaliteitsstaal"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Grootschalige priesverlaging möt veur vledjoperators. Neem contact mit ós op veur details."
+pricingNotes: "Volumekortingen beschikbaar. Neem contact mit ós op veur details."
 buyLink: "/contact"
 howToUse: |
-  1. Befestig 't CF-been bie de containerhoek.
-  2. Zorg det de vergrendelingsmechanisme goed zit.
-  3. Herhaal dit veur alle benodige hoeken.
-  4. Controleer de stabiliteit veurdat de operatie begin.
+  1. Plaats de CF-poot bij de hoekcasting van de container
+  2. Activeer het sluitmechanisme
+  3. Pas de höögte aan indien nodig binnen 't bereik van 1.043 mm tot 1.448 mm
+  4. Herhaal veur alle benodigde hoeken
+  5. Laat de trailer zakke en rèn wech, zodat de container stabiel op de poten blief
 benefits:
-  - title: "Operationele Efficiëntie"
-    description: "Versnelt de hanndeling van containers, wat de laadtijden en lossingsperiodes verkort."
-  - title: "Verminderde Uitrustingsbehoefte"
-    description: "Vermindert de afhankelijkheid van kranen en liften, wat de operationele kost verlaeht."
-  - title: "Aanpasbaarheid"
-    description: "Fungeert in diverse bedrijfsomgevingen, van havens tot magazijnen."
-  - title: "Duurzaamheid"
-    description: "Gebouwd óm de zware industriële gebruik te doorstaon mit minimaal onderhoud."
-  - title: "Milieueffect"
-    description: "Vermindert de CO₂-uitstoot deur ’t gebruik van zwaere machinerie te eliminere."
-  - title: "Verhoogde Veiligheid"
-    description: "Stabiliseert containers tijdens de hanndeling, wat 't risico op ongelukken en schade verlaeht."
+  - title: "Tiedbesparing"
+    description: "Vermindert de tied die nodig is veur 't bewege en ontladen van containers, zodoe da de containers kèn wachtte veur 't ontladen en de chauffeurs neet motte wachte."
+  - title: "Efficiëntie veur Chauffeurs"
+    description: "Chauffeurs motte neet wachte tijdens het ontladen, waardoor ze meer ruimte höbbe veur andere taken."
+  - title: "Bijkomend Opbergruimte"
+    description: "Containers kinne gebruukd wèrre as extra opbergruimte wanneëch se neet in transit zin."
+  - title: "Gereed veur Verplaatsing"
+    description: "Containers blieve altied gereed veur verplaatsing – sjimpelweg de trailer under de container rèn en de reis gaot door."
+  - title: "Veelzijdige Toepassings"
+    description: "Geschikt veur algemein gebriek, opbergen, tankcontainers en diverse industrieë."
+  - title: "Kostoptimalisatie"
+    description: "Optimaliseert kosten en tied deur de transport- en opslagoperaties te stroomlijne."
 articleContent: |
   ## Wat is ConFoot-leg CF?
 
-  ConFoot-leg CF is ein modern en lichtgewicht systeem, óm de hanndeling van containers gemakkelijker en effisjient te make. Deze containerbeene bied'n 'n draagbaor en simpele alternative tot ’t gebruuken van zwaere materie óm stándaard scheepstransportcontainers te laden en lossen. De technologie is ontworpen óm door één persoon bedient te worre, en bied 'n kostenefficiënte en flexibele oplossing veur diverse industrieën.
+  ConFoot-leg CF is 't staeonder model containerpoot dat ós helpt um transport, opslag en logistieke operaties te stroomlijne. Dit veelzijdige systeem vermindert de tied die nodig is veur 't verplaatsen en ontladen van containers, want de containers kinne loat wachte veur 't ontladen, zodat de chauffeurs neet motte wachte. Het CF-model transformeert scheepscontainers in flexibele opbergruimte die altied gereed is veur verplaatsing.
 
-  ## Hoe 't Werkt
+  ## Belangrieke Voordeil veur Transport en Logistiek
 
-  ConFoot-leg CF slaat de noodzaak voor kranen, heftrucks of andere grote machines over tijdens de hanndeling van containers. ’t Ontwerp erlaubt óm de operationele kosten te verlaagge, te bespaore op tied en de logistieke flexibiliteit te verbeterge. Door ’t vereenvoudige hanteren en vervoere van goederen, verbetert ConFoot-leg CF de betrouwbaarheid en snelheid van de wereldwijde toevoerketting.
+  De ConFoot-leg CF biedt aanzienlijke operationele voordeil veur bedrijven die zich bezighalle mit containertransport en logistiek. Door et mogelijk te make dat containers op de poten blieve staon wanneëch ze wachten veur ontladen, kin de wachttied van chauffeurs verminder wèrre en de benutting van 't wagenpark optimaliseerd. Chauffeurs kinne containers afleveren en direkt doorrijje nao de volgende opdracht, in plaots van te wachte veur laadtijd of ontlading.
+  
+  Daarnaast kinne containers met CF-poten gebruukd wèrre as waardevolle bijkomend opbergruimte as se neet in transit zin. Se blieve gereed veur verplaatsing op elk moment – sjimpelweg de trailer under de container rèn, en de reis gaat veróts. Dit veelzijdige karakter make de CF tot een ideale oplossing veur bedrijven die hun logistieke efficiëntie en opbergruimte wils verbeteren.
 
-  ## Hoe ConFoot-leg CF Werkt
+  ## Hoe 't Woerke
 
-  ### Kernmechanisme
+  De ConFoot-leg CF bevestig zich stevig aan de hoekcastings van de container en bied stabiele ondersteuning tijdens 't laden, ontladen of opbergen. De poten höbbe ein aanpassingsbereik van 1.043 mm tot 1.448 mm, wat diverse positioneermogelikhede in verschille operationele omgevingen detog maakt. Elke poot weegt 24 kg, wat 't hanteren behòfbaar maakt veur operateurs, en het systeem bied een lichte lastecapaciteit van 34 ton.
 
-  ConFoot-leg CF gebruukt een simpel, mer effectief ontwerp. De beenen worden stevig bevestigd aan de hoeken van stándaard containers mit ’n krachtig klemmechanisme dat voor optimale stabiliteit zorgt. Gemaakt van lichtgewicht, mer duurzame materialen, weegt elk been slechts 24 kg, wat 't mogelijk maakt det 't door één persoan bediend kan worden. ’t Bevestigingsproces verloopt rap, zónder dat er speciale gereedschappen of zwaere apparatuur nodig zijn. Eenmaal bevestigd, vormt 't been een stabiele ondergrond veur het laden, lossen of tijdelijk opslaan van containers.
+  Ut installatieproces is eenvoudig:
+  1. Plaats de CF-poten bij de hoekcastings van de container
+  2. Activeer 't sluitmechanisme om de poten stevig te veranker
+  3. Pas de höögte aan nao de specifieke vereiste
+  4. Laat de trailer zakke en rèn wech, zodat de container veilig ondersteund blift op de poten
 
-  De hoogte van de beenen is verstelbaar van 1.043 mm tot 1.448 mm. Dit verstelbare bereik maakt 't systeem geschikt veur diverse operationele noden, zodat 't werkt mit containers van verschillende groottes en in diverse omgevingen. Deze veelzijdigheid maakt de hanndeling van containers eenvoudiger in uiteenlopende logistieke opstellingen, van havens tot magazijnen.
-
-  ### Voordelen van 't Mechanisme
-
-  1. **Vermindert Afhankelijkheid van Zwaere Machinerie**: ConFoot-leg CF beseit de noodzaak veur kranen of heftrucks, wat de operationele kosten verlaeht en de milieubelasting verlaag.
-  2. **Verbetert Veiligheid**: ’t Systeem stabiliseert containers tijdens de hanndeling, waardoor de kans op ongelukken of schade verkleind wordt.
-  3. **Verhoogt Efficiëntie**: Dankzij 't lichtgewicht ontwerp en de makkelijke installatie kan de werking rap vorderge, ook in gebieden mit beperkte infrastructuur.
-  4. **Verhoogde Draagbaarheid**: De beenen zijn makkelik te vervoere en kinne in afgelege of afgelegen opstellingen gebruuk worden, wat ze uiterst veelzijdig maakt.
+  Wanneëch 't tied is um de container te verplaatsen, rèn simpelweg de trailer wederom under de container, bevestig de container aan de trailer, verwijder de poten en ga door met de reis.
 
   ## Toepassings van ConFoot-leg CF
 
-  ### Waar ConFoot-leg CF Gebruikt Woard
+  ### Transportbedrijven
+  Transportbedrijven profiteere flink van de mogelijkheid van de CF um de benutting van 't wagenpark te optimaliseren. Chauffeurs kinne containers afleveren bij klanten en direkt doorrijje nao de volgende opdracht in plaots van te wachte, wat de produktieve capaciteit van bestaande trailerwagens verhoogt en de operationele kosten verlaagt.
 
-  ConFoot-leg CF verbetert de operaties in logistiek en transport aanzienlijk en verandert de manier waarop containers gehanteerd wod. Door z’n lichtgewicht en draagbare ontwerp is ’t mogelijk om containers te laden, lossen en verplaatsen zónder dat er kranen of heftrucks nodig zeen. Dit is vooral handig in afgelege gebieden of daar woer zwaere machinerie niet beschikbaar is, wat de processen soepeler maakt en de kosten verlaeht. Tegelijkertijd helpt 't havens, magazijnen en distributiecentra efficiënter te werken door de benodigde tijd en arbeid te verminderen.
+  ### Opslag en Distributie
+  Veur opslag- en distributieoperaties biedt de CF waardevolle flexibiliteit in 't beheer van containerstromen. Containers kinne op tijdelijke opbergruimte op de poten geplaatst wèrre, wat bijkomende bufferkapaciteit schept in piekmomenten. Dit vermindert opstoppingen bij laadkade en maak et mogelijk om laden en ontladen efficiënter te plannen.
 
-  ### Kleine Plaatsen Waar Kranen Niet Gebruikt Kinne Woere
+  ### Productiefaciliteiten
+  Fabrieken en productielocaties kinne containers met CF-poten gebruukd wèrre as flexibele bijkomend opbergruimte veur grondstoffen of afgewerkte producten. Door de containers náhe bij de productie op te stelle, kinne materialen eenvoudiger berike wèrre, wat de handlingkosten verlaagt en de productie-efficiëntie verbetert.
 
-  ConFoot-leg CF is 'n praktische keuze veur kleinere locaties waar kranen niet ingezet kinne wod, zoals in havens, magazijnen en distributiecentra. ’t Biedt 'n betrouwbare en kostenefficiënte oplossing veur de hanndeling van containers in zulke omgevingen, en is derens ideaal veur ondernemings die goederen in afgelege lokaties verhuure en opslaon mösse.
+  ### Retailoperaties
+  Winkelbedrijven kinne CF-poten benut als seizoensgebonden opbergingsoplossing, met containers strategisch geplaatst veur het beheer van de voorraad in piekperioden. Dit biedt een kostenefficiënte manier om bijkomende capaciteit te creëren zónder dat er vaste uitbreidingskosten nodig zin.
 
-  ### Modulare Constructie en Opslag van Apparatuur
+  ## Technische Specificaties
 
-  ConFoot-leg CF is ek 'n praktische keus veur modulare bouwprojecten en biedt betrouwbare oplossingen veur tijdelijke opstellingen. Bouteams gebruike 't um gereedschap, machines en prefab materialen veilig en efficiënt op te slaan en te verplaatsen. De draagbaarheid en eenvoud van 't systeem maak 't ideaal veur bouwplaatsen die rap in- en opgebouwe mött worde. Tevens zorgt 't voor 't veilige beheer van apparatuur in modulare zorgfaciliteiten, zodat er snel opgetreden kan wod in diverse settings.
+  - **Lastecapaciteit**: 34 ton
+  - **Gewicht**: 24 kg per poot
+  - **Aanpassingsbereik**: 1.043 mm tot 1.448 mm
+  - **Materiaal**: Hoë kwaliteitsstaal met robuuste afwerking
+  - **Compatibiliteit**: Standaerd container hoekcastings
 
-  De flexibele en efficiënte opzet van ConFoot-leg CF maakt 't de ideale keuze in veural industrieën, door workflows te optimaliseren en de inzet van middelen maximaal te benutten.
-
-  ### Voordelen en Beperkings
-
-  #### Voordelen
-
-  ConFoot-leg CF biedt verscheidene voordelen bij de hanndeling van containers. ’t Lichtgewicht ontwerp, met elk been dat slechts 24 kg weegt, maakt 't makkelik te vervoere en te installeren. Elk been biedt ondersteuning tot 30 ton, en zorgt zo voor de benodigde stabiliteit in diverse logistieke operaties. Het instelbare hoogtebereik (1.043 mm tot 1.448 mm) zorgt ervoor dat 't systeem geschikt is veur verschillende containerbehoefte, wat de veelzijdigheid verhoogt. Bovendien verlaeht de draagbare aard de behoefte an zwaere machines zoals kranen of heftrucks, wat leidt tot aanzienlijke kostenbesparingen en een toename van de operationele efficiëntie. Daarnaast verlaeht 't milieuvriendelijke ontwerp de CO₂-uitstoot, wat bijdraagt óm duurzaamheidinspannings.
-
-  #### Beperkings
-
-  Ondanks alle voordelen kent ConFoot-leg CF ook enkele beperkingsmomente. 't Systeem is namelijk enkel kompatibel mit bepaalde container-types, wat de toepassing in sommige logistieke scenario's kan limiteren. Bovendien, alhoewel de handmatige opzet simpel is, is 't mogelijk nie optimaal integreerbaar in hoogautomatiserde workflows, wat voor uitdagingen kan zorge in operaties die sterk op mechanisatie reken. Deze factoren behoeve goed afgewogen te worde as men de inzet van ConFoot-leg CF overweegt in complexe toevoerkettingen.
-
-  ## Toekomstige Ontwikkelingen
-
-  ### Huidig Onderzoek
-
-  Onderzoekers werken daaraan de structurele capaciteiten van ConFoot-leg CF nog verder te verhebbe. De bedoeling is de laadcapaciteit te verhogen óver de huidige limiet van 30 ton, zodat ook zwaardere schepencontainers hantere kinne wod. Tevens ligt de focus op het optimaliseren van de materiaalsamenstelling, zódat het product duurzamer wordt te blijven, terwijl 't toch lichtgewicht en draagbaar is. Daarnaast worden er ook mogelijkheden onderzocht óm het systeem te personaliseren voor specifieke behoeften in de industrie, zoals containers met afwijkende afmetingen of speciale cargotypen.
-
-  ### Vooruitblikkende Innovaties
-
-  Toekomstige ontwikkelingen veur ConFoot-leg CF omvatten de implementatie van IoT-technologie (Internet of Things) óm real-time monitoring te bieden van de stabiliteit en positie van containers. Dit stelt operators in staat de conditie van containers op afstand te controleren, wat de veiligheid en efficiëntie verder verbetert. Een andere geplande innovatie is automatisering: het ontwerp van zelfaanpassende beenen die containers automatisch uitlijnen en stabiliseren. Dit vermindert de noodzaak voor handmatige aanpassingen en kan de stilstandstijd tot een minimum beperken. Deze ontwikkelingen beogen de operationele processen nog soepeler te maken en te zorgen dat ConFoot-leg CF aan de voorhoede blijft in de wereld van containerhanndeling.
-
-  Deze technologische vernieuwingen zullen ConFoot-leg CF in staat stel'n de standaard te bepalen voor efficiëntie en innovatie in de logistieke sector.
+  De ConFoot-leg CF is een praktische oplossing um transport en opslagoperaties te stroomlijne en biedt bedrijven de mogelikheid um kosten en tied optimaal te benutten. Door et mogelijk te make dat containers loat wachte veur ontladen en tegelijk gebruukd wèrre as bijkomend opbergruimte, helpe de CF bedrijven um meer efficiëntie en flexibiliteit te bewerkstellige in 't containerbeheer.
 ---

@@ -1,101 +1,100 @@
 ---
 title: "ConFoot CFU"
-subtitle: "Universālais konteineru pēdas risinājums"
-mainImage: "/images/products/confoot-cfu-main.jpg"
+subtitle: "Konteinera kāja ar regulējamu augstumu"
+mainImage: "/images/products/confoot-leg-cfu-main.jpg"
 gallery:
-  - "/images/products/confoot-cfu-1.jpg"
-  - "/images/products/confoot-cfu-2.jpg"
-  - "/images/products/confoot-cfu-3.jpg"
-shortDescription: "ConFoot CFU ir universāla konteineru pēda, kas paredzēta daudzpusīgai konteineru apstrādei dažādās vidēs."
-technicalDescription: "ConFoot CFU ir izstrādāts no augstas kvalitātes tērauda un aprīkots ar mūsu patentēto bloķēšanas mehānismu, lai nodrošinātu drošu piestiprināšanos konteineru stūru kalpreņiem."
+  - "/images/products/confoot-leg-cfu-1.jpg"
+  - "/images/products/confoot-leg-cfu-2.jpg"
+  - "/images/products/confoot-leg-cfu-3.jpg"
+shortDescription: "ConFoot CFU ir augstumu regulējama konteinera kāja, kas ļauj pielāgot konteinera augstumu no zemes līmeņa līdz 1,5 metriem, kam nav nepieciešams papildu aprīkojums konteinera apstrādei."
+technicalDescription: "ConFoot CFU izgatavots no augstas kvalitātes tērauda un aprīkots ar mūsu patentēto bloķēšanas mehānismu drošai stiprināšanai uz konteinera stūrveida stiprinājumiem. Tas nodrošina elastīgu konteineru izmantošanu dažādos vidēs un dažādiem mērķiem."
 videoID: "HDhFIRA-oZU"
 specifications:
   - name: "Svars"
-    value: "24 kg"
-  - name: "Ielādes spēja"
-    value: "34 tonnas"
-  - name: "Izmēri"
-    value: "45 × 30 × 25 cm"
-  - name: "Materiāls"
+    value: "46 kg, kad salikts (atsevišķa detaļa svars mazāks par 25 kg)"
+  - name: "Slodzes kapacitāte"
+    value: "20 tonnas"
+  - name: "Regulēšanas diapazons"
+    value: "0–1500 mm"
+  - name: "Materials"
     value: "Augstas kvalitātes tērauds"
 price: "6.350 EUR"
 priceVAT: "7.684 EUR"
-pricingNotes: "Pieejamas apjoma atlaides. Lai saņemtu pielāgotus piedāvājumus, sazinieties ar mums."
+pricingNotes: "Pieejamas apjoma atlaides. Sazinieties ar mums individuālo piedāvājumu saņemšanai."
 buyLink: "/contact"
 howToUse: |
-  1. Novietojiet CFU zem konteineru stūra
+  1. Novietojiet CFU zem konteinera stūra
   2. Aktivizējiet bloķēšanas mehānismu
-  3. Pārbaudiet drošu piestiprināšanos
-  4. Atkārtojiet visiem nepieciešamajiem stūriem
+  3. Pielāgojiet augstumu pēc vajadzības (no zemes līmeņa līdz virs metra)
+  4. Pārbaudiet drošu stiprināšanu
+  5. Atkārtojiet visos nepieciešamajos stūros
 benefits:
-  - title: "Universāla saderība"
-    description: "Darbojas ar visiem standarta kravu konteineriem, neatkarīgi no ražotāja"
-  - title: "Ātra uzstādīšana"
-    description: "Var uzstādīt ar vienas operātora palīdzību mazāk nekā 5 minūtēs uz vienību"
-  - title: "Telpas efektivitāte"
-    description: "Kompakts dizains ļauj glabāt ierīci šaurās telpās, kad netiek izmantota"
-  - title: "Izmaksu efektivitāte"
-    description: "Samazina nepieciešamību pēc specializētas celšanas iekārtas, tādējādi ietaupot darbības izmaksas"
-  - title: "Daudzpusīgas pielietojuma iespējas"
-    description: "Lietojams dažādās nozarēs, tostarp loģistikā, ražošanā un būvniecībā"
-  - title: "Uzlabota darba plūsma"
-    description: "Vienkāršo konteineru apstrādes procesus, uzlabojot darbības efektivitāti"
+  - title: "Nav nepieciešams papildu aprīkojums"
+    description: "Veiciet pilnu konteinera apstrādi, izmantojot tikai CFU konteineru kājas, kas novērš vajadzību pēc smaga aprīkojuma."
+  - title: "Augstuma regulēšana"
+    description: "Viegli pielāgojiet konteinera augstumu no zemes līmeņa līdz virs metra (0–1500 mm)."
+  - title: "Pārvaldāms svars"
+    description: "Sastāv no vairākām detaļām, kuru individuālais svars ir mazāks par 25 kg, padarot to viegli pārvaldāmu."
+  - title: "Daudzpusīgs pielietojums"
+    description: "Piemērots dažādām nozarēm, tostarp transporta uzņēmumiem, aizsardzības spēkiem, ražošanas objektiem, mazumtirdzniecības ķēdēm, ostām un humanitārajai palīdzībai."
+  - title: "Elastīga izmantošana"
+    description: "Ļauj elastīgi izmantot konteinerus dažādos vidēs un dažādiem mērķiem."
+  - title: "Optimizēta darbplūsma"
+    description: "Vienkāršo konteinera apstrādes procesus, uzlabojot operacionālo efektivitāti."
 articleContent: |
   ## Kas ir ConFoot CFU?
-
-  ConFoot CFU ir universāls konteineru pēdas risinājums, kas radīts, lai nodrošinātu maksimālu daudzpusību un savietojamību ar dažādu tipu konteineriem. Šis inovatīvais sistēma piedāvā uzticamu un efektīvu veidu, kā apstrādāt konteinerus bez nepieciešamības izmantot smago tehniku vai specializētas iekārtas. CFU modelis izceļas ar spēju darbotos ar gandrīz jebkuru standarta kravu konteineru, padarot to par ideālu izvēli uzņēmumiem, kas strādā ar dažādu tipu konteineriem.
-
+  
+  ConFoot CFU ir risinājums ar regulējamu augstumu konteinera kājā, kas nodrošina maksimālu daudzpusību un elastību konteinera apstrādē. Šī inovatīvā sistēma ļauj pielāgot konteinera augstumu no zemes līmeņa līdz virs metra (0–1500 mm), bez nepieciešamības pēc papildu aprīkojuma. CFU modelis izceļas ar spēju darbot ar standarta kravas konteineriem dažādos vidēs un dažādiem mērķiem, padarot to par ideālu izvēli uzņēmumiem no vairākām nozarēm.
+  
   ## Kā tas darbojas
-
-  ConFoot CFU tiek piestiprināts tieši pie konteineru stūru kalpreņiem, nodrošinot stabilu pamatu iekraušanai, izkraušanai un pagaidu glabāšanai. Tā universālais dizains garantē savietojamību ar gandrīz visiem standarta kravu konteineriem, padarot to par ideālu risinājumu uzņēmumiem, kas strādā ar dažādiem konteineru tipiem. Sistēmas vienkāršā piestiprināšanas mehānika ļauj ātri uzstādīt un noņemt CFU, būtiski samazinot laiku un resursus, kas nepieciešami konteineru apstrādes operācijām.
-
-  ## Kā darbojas ConFoot CFU
-
-  ### Galvenā mehānika
-
-  ConFoot CFU izmanto inovatīvu universālo piestiprināšanas sistēmu, kas droši savieno ar konteineru stūru kalpreņiem neatkarīgi no ražotāja. Šī daudzpusība tiek sasniegta ar īpaši izstrādātu saspriegšanas mehānismu, kas pielāgojas dažādām stūru kalpreņu konfigurācijām. Izgatavots no augstas kvalitātes tērauda, katrs elements nodrošina izcilu izturību, vienlaikus paliekot viegli pārvaldāmam, lai vienu operāciju varētu veikt viens operātors.
-
-  Piestiprināšanas process ir vienkāršs un prasa minimālu apmācību. Operātori var novietot CFU zem konteineru stūra, ieslēgt bloķēšanas mehānismu un pārbaudīt drošu piestiprināšanos pirms turpināšanas. Šī vienkāršība ļauj ātri uzstādīt CFU dažādās darba vidēs, sākot no aizņemtiem ostām līdz attāliem būvlaukumiem.
-
-  ### Mehānikas priekšrocības
-
-  1. **Universāla pielietojamība**: CFU pielāgojamais dizains darbojas ar konteineriem no visiem vadošajiem ražotājiem, novēršot savietojamības problēmas.
-  2. **Vienkārša ekspluatācija**: Intuitīvā piestiprināšanas sistēma ir viegli apgūt, tādējādi samazinot apmācību laikus un operacionālās kļūdas.
-  3. **Laika efektivitāte**: Konteineru apstrādes operācijas tiek pabeigtas daļā no laika, kas nepieciešams tradicionālām metodēm, kurās izmanto smago tehniku.
-  4. **Resursu optimizācija**: Samazinot atkarību no specializētām iekārtām, CFU nodrošina efektīvāku resursu izmantošanu.
-
-  CFU mehānika ir nozīmīgs sasniegums konteineru apstrādes tehnoloģijā, piedāvājot risinājumu, kas apvieno daudzpusību, vienkāršību un efektivitāti vienā produktā.
-
+  
+  ConFoot CFU tiek piestiprināts tieši pie konteinera stūrveida stiprinājumiem, nodrošinot stabilu pamatu ielādei, izkraušanai un pagaidu uzglabāšanai. Tā regulējams dizains nodrošina elastību, novietojot konteinerus optimālā augstumā atbilstoši jūsu vajadzībām. Sistēma sastāv no vairākiem elementiem, kuru individuālais svars nepārsniedz 25 kg, padarot to viegli pārvaldāmu operātoriem, savukārt kopējais kāju svars, kad salikts, ir 46 kg. Vienkāršais stiprināšanas mehānisms ļauj ātri uzstādīt un noņemt ierīci, būtiski samazinot laiku un resursus, kas nepieciešami konteinera apstrādes operācijām.
+  
   ## ConFoot CFU pielietojums
-
-  ### Daudzveidīgas loģistikas operācijas
-  ConFoot CFU izceļas dažādu loģistikas operāciju vidū, kur regulāri tiek apstrādāti dažāda veida konteineri. Tā universālā savietojamība padara to īpaši vērtīgu multimodālajos transporta mezglos, kur sanāk konteineri no dažādiem ražotājiem un kravu līnijām. Sistēmas spēja darboties ar dažāda veida konteineriem novērš nepieciešamību pēc vairākiem specializētiem risinājumiem, vienkāršojot operācijas un samazinot iekārtu izmaksas.
-
-  ### Mazākās izplatīšanas centri
-  Mazākiem izplatīšanas centriem, kuriem nav iespējams attaisnot pastāvīgu konteineru apstrādes iekārtu iegādi, ConFoot CFU nodrošina ideālu risinājumu. Tā pārnēsājamā daba un vienkāršā ekspluatācija ļauj šīm iestādēm efektīvi pārvaldīt konteineru piegādes, nemaksājot par dārgām infrastruktūrām. Šī pieejamība atver jaunas iespējas uzņēmumiem, kuri vēlas paplašināt savas izplatīšanas iespējas bez būtiskiem kapitāla izdevumiem.
-
+  
+  ### Transporta uzņēmumi
+  ConFoot CFU izceļas transporta operācijās, kur nepieciešama augstuma regulēšana un elastība. Transporta uzņēmumi var izmantot CFU kājas, lai viegli ielādētu, izkrautu un novietotu konteinerus, bez papildu smaga aprīkojuma, tā vienkāršojot operācijas un samazinot iekārtu izmaksas.
+  
+  ### Aizsardzības spēki
+  Aizsardzības spēkiem CFU nodrošina pārnesamu un daudzpusīgu risinājumu ātrai konteinera bāzētu iekārtu izvietošanai dažādos reljefa un vides apstākļos. Augstuma regulēšanas iespēja ļauj optimāli novietot pat nevienmērīgā virsmā.
+  
   ### Ražošanas objekti
-  Ražošanas objekti gūst labumu no CFU spējas veidot elastīgus ražošanas izkārtojumus. Nodrošinot konteineru precīzu novietojumu, sistēma veicina just-in-time krājumu pārvaldību un efektīvus ražošanas procesus. Konteineru ātra pārvietošana arī atbalsta agilus ražošanas procesus, kas prasa biežas darba vides un resursu sadales pārkonfigurēšanas iespējas.
-
-  ConFoot CFU pielāgojamība padara to par neatņemamu instrumentu modernajās loģistikas un ražošanas operācijās, nodrošinot nepieciešamo elastību, lai atbilstu mainīgajām tirgus prasībām un operacionālajām vajadzībām.
-
-  ### Priekšrocības un ierobežojumi
-
-  #### Priekšrocības
-
-  ConFoot CFU piedāvā būtiskas priekšrocības konteineru apstrādes operācijās. Tā universālā savietojamība novērš nepieciešamību pēc vairākiem specializētiem risinājumiem, tādējādi samazinot iekārtu izmaksas un vienkāršojot krājumu pārvaldību. Sistēmas mobilitāte ļauj to izmantot dažādās vietās, nodrošinot darbības elastību, ar ko fiksētas iekārtas nevar konkurēt. Turklāt CFU vienkāršā ekspluatācija samazina apmācību prasības un ļauj ātri ieviest risinājumu jaunās vidēs. Izturīgā konstrukcija nodrošina ilgtermiņa uzticamību, kamēr kompaktais dizains minimizē glabāšanas prasības, kad sistēma netiek izmantota.
-
-  #### Ierobežojumi
-
-  Neskatoties uz tās daudzpusību, ConFoot CFU ir arī daži ierobežojumi, kas jāņem vērā. Sistēmas manuālā daba var nebūt piemērota augsta apjoma operācijām, kur automatizēti risinājumi varētu būt efektīvāki. Lai gan CFU būtiski samazina nepieciešamību pēc smagas tehnikas, tas pilnībā to neaizstāj visos konteineru apstrādes scenārijos. Papildus tam ļoti nevienmērīga virsma var radīt izaicinājumus stabilai uzstādīšanai, kas dažos gadījumos prasa papildu vietas sagatavošanu. Šos faktorus jāizvērtē, apsverot CFU piemērotību konkrētām darba vidēm.
-
-  ## Nākotnes attīstība
-
-  ### Plānotie uzlabojumi
-  ConFoot CFU turpina attīstīties ar vairākiem plānotiem uzlabojumiem nākotnē. Izstrādes centri ir vērsti uz katra elementa svara samazināšanu, vienlaikus saglabājot vai palielinot ielādes spēju. Tiek pētītas materiālu zinātnes inovācijas, lai iekļautu modernus kompozītmateriālus ar izcilu stiprības un svara attiecību. Turklāt tiek plānotas ergonomiskas izmaiņas, lai vēl vairāk vienkāršotu piestiprināšanas procesu un samazinātu operātoru nogurumu ilgstošas ekspluatācijas laikā.
-
-  ### Integrācijas iespējas
-  Nākotnes ConFoot CFU versijās tiks iekļautas uzlabotas integrācijas iespējas ar noliktavu pārvaldības sistēmām un loģistikas izsekošanas platformām. Tiek izstrādāti digitālie sensori, kas reāllaikā monitorēs ielādes sadalījumu un stabilitāti, nodrošinot vērtīgus datus drošības un efektivitātes optimizācijai. Šīs inteliģentās funkcijas ļaus CFU kļūt par daļu no savienotā loģistikas ekosistēmas, atbalstot datu virzītu lēmumu pieņemšanu un prognozēto apkopes grafikus.
-
-  Pastāvīgās attīstības pasākumi nodrošina, ka ConFoot CFU turpinās atbilst mainīgajām loģistikas un ražošanas industrijas prasībām, saglabājot savu pozīciju kā vadošs risinājums daudzpusīgai konteineru apstrādei.
+  Ražošanas objekti gūst labumu no CFU spējām radīt elastīgus ražošanas plānojumus ar regulējamu konteinera augstumu. Nodrošinot, ka konteineri tiek precīzi izvietoti vajadzīgajā vietā un atbilstošā augstumā, sistēma veicina efektīvu ražošanas plūsmu un krājumu pārvaldību.
+  
+  ### Mazumtirdzniecības ķēdes
+  Mazumtirdzniecības operācijas var izmantot CFU kājas pagaidu vai sezonāliem uzglabāšanas risinājumiem, ar iespēju pielāgot konteinera augstumu atbilstoši ielādes dokiem vai citiem infrastruktūras prasībām.
+  
+  ### Osti
+  Ostu vidē CFU nodrošina elastību konteinera apstrādē un pagaidu uzglabāšanā, ļaujot efektīvi izmantot telpu un resursus, bez pilnīgas atkarības no smaga krāvēju aprīkojuma.
+  
+  ### Humanitārā palīdzība
+  Humanitārās palīdzības operācijām CFU piedāvā praktisku risinājumu ātrai konteinera bāzētu iekārtu izvietošanai izaicinošos apstākļos, ar iespēju regulēt augstumu, pielāgojoties dažādu reljefa veidu un operatīvajām prasībām.
+  
+  ## ConFoot CFU priekšrocības
+  
+  ### Nav nepieciešams papildu aprīkojums
+  CFU novērš vajadzību pēc cormiprēm, skrejceļiem vai cita smaga aprīkojuma konteinera apstrādei, tādējādi samazinot operacionālās izmaksas un atkarību no specializēta aprīkojuma.
+  
+  ### Augstuma regulēšanas iespēja
+  Ar regulēšanas diapazonu no 0 līdz 1500 mm, CFU nodrošina nepārspējamu elastību konteineru izvietošanā optimālā augstumā dažādiem pielietojumiem un vidēm.
+  
+  ### Pārvaldāms svars
+  Neskatoties uz tā robusto konstrukciju un 20 tonnu slodzes kapacitāti, CFU ir izstrādāts ar operatoru ērtības prātā. Atsevišķu elementu svars nepārsniedz 25 kg, kas padara tā salikšanu un novietošanu vieglu.
+  
+  ### Daudzpusīgas pielietojuma iespējas
+  CFU dizains padara to piemērotu plašam nozares un pielietojumu lokam, sākot no loģistikas un ražošnas līdz aizsardzībai un humanitārajai palīdzībai.
+  
+  ### Darbības elastība
+  Nodrošinot, ka konteineri var tikt izmantoti dažādos vidēs un dažādiem mērķiem, CFU paplašina standarta kravas konteineru lietošanas iespējas, pārsniedzot tradicionālās transporta un uzglabāšanas funkcijas.
+  
+  ## Tehniskās specifikācijas
+  
+  - Slodzes kapacitāte: 20 tonnas
+  - Kopējais svars: 46 kg, kad salikts
+  - Atsevišķu komponentu svars: atsevišķi mazāk par 25 kg
+  - Regulēšanas diapazons: 0–1500 mm
+  - Materials: Augstas kvalitātes tērauds ar izturīgu apdari
+  - Saderība: Standarta konteinera stūrveida stiprinājumi
+  
+  ConFoot CFU ir nozīmīgs solis uz priekšu konteinera apstrādes tehnoloģijā, piedāvājot risinājumu, kas apvieno augstuma regulējamību, daudzpusību un operatīvo vienkāršību vienā produktā.
 ---

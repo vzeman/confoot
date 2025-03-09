@@ -46,8 +46,8 @@ Sobota - Neděle: Zavřeno
 ## Technická podpora
 
 Pokud máte technické otázky nebo potřebujete podporu k produktům ConFoot, stáhněte si prosím naše uživatelské příručky:
-- [Stáhnout uživatelskou příručku CF a CFP](/wp-content/uploads/2021/07/confoot_navod-k-pouziti_CZ.pdf)
-- [Stáhnout uživatelskou příručku CFU](/wp-content/uploads/2022/02/confoot_CFU_navod-k-pouziti_CZ.pdf)
+- [Stáhnout uživatelskou příručku CF a CFP](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Stáhnout uživatelskou příručku CFU](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## Potřebujete kontejner?
 
