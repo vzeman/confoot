@@ -7,7 +7,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}">
+  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
   
   <!-- CSS using the proper asset pipeline -->
   {{ partial "head/css.html" . }}
