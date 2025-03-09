@@ -25,7 +25,8 @@
           <div class="product-card-description">
             {{ .Params.shortDescription | markdownify }}
           </div>
-          <div class="product-card-price">{{ .Params.price }}</div>
+          <div class="product-card-price">{{ .Params.price }} ({{ i18n "excl_vat" }})</div>
+          <div class="product-card-price">{{ .Params.priceVAT }} ({{ i18n "vat_included" }})</div>
           <a href="{{ .RelPermalink }}" class="btn btn-primary">{{ i18n "learn_more" | default "Learn More" }}</a>
         </div>
       </div>
