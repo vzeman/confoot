@@ -22,6 +22,7 @@ languages:
     params:
       description: "Simplify shipping container logistics with Confoot"
       flag: "🇪🇺"
+      bcp47Lang: "en-GB"
     menu:
       main:
         - identifier: home
@@ -50,6 +51,7 @@ languages:
     params:
       description: "Zjednodušte logistiku přepravních kontejnerů s Confoot"
       flag: "🇨🇿"
+      bcp47Lang: "cs-CZ"
     menu:
       main:
         - identifier: home
@@ -74,6 +76,7 @@ languages:
     params:
       description: "Zjednodušte logistiku prepravných kontajnerov s Confoot"
       flag: "🇸🇰"
+      bcp47Lang: "sk-SK"
     menu:
       main:
         - identifier: home
@@ -98,6 +101,7 @@ languages:
     params:
       description: "Απλοποιήστε την εφοδιαστική αλυσίδα εμπορευματοκιβωτίων με την Confoot"
       flag: "🇬🇷"
+      bcp47Lang: "el-GR"
     menu:
       main:
         - identifier: home
@@ -122,6 +126,7 @@ languages:
     params:
       description: "Pojednostavite logistiku kontejnera za prijevoz s Confoot"
       flag: "🇭🇷"
+      bcp47Lang: "hr-HR"
     menu:
       main:
         - identifier: home
@@ -146,6 +151,7 @@ languages:
     params:
       description: "Supaprastinkite konteinerių logistiką su Confoot"
       flag: "🇱🇹"
+      bcp47Lang: "lt-LT"
     menu:
       main:
         - identifier: home
@@ -170,6 +176,7 @@ languages:
     params:
       description: "Упростите логистику транспортных контейнеров с Confoot"
       flag: "🇷🇺"
+      bcp47Lang: "ru-RU"
     menu:
       main:
         - identifier: home
@@ -194,6 +201,7 @@ languages:
     params:
       description: "Vienkāršojiet konteineru loģistiku ar Confoot"
       flag: "🇱🇻"
+      bcp47Lang: "lv-LV"
     menu:
       main:
         - identifier: home
@@ -218,6 +226,7 @@ languages:
     params:
       description: "Poenostavite logistiko transportnih zabojnikov s Confoot"
       flag: "🇸🇮"
+      bcp47Lang: "sl-SI"
     menu:
       main:
         - identifier: home
@@ -242,6 +251,7 @@ languages:
     params:
       description: "Simplificați logistica containerelor de transport cu Confoot"
       flag: "🇷🇴"
+      bcp47Lang: "ro-RO"
     menu:
       main:
         - identifier: home
@@ -261,11 +271,12 @@ languages:
     languageName: Deutsch (Liechtenstein)
     weight: 12
     contentDir: content/li
-    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    title: Confoot - Vereinfachen Sie die Logistik von Transportcontainern
     baseURL: https://www.confoot.li
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇱🇮"
+      bcp47Lang: "de-LI"
     menu:
       main:
         - identifier: home
@@ -285,11 +296,12 @@ languages:
     languageName: Deutsch (Österreich)
     weight: 13
     contentDir: content/at
-    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    title: Confoot - Vereinfachen Sie die Logistik von Transportcontainern
     baseURL: https://www.confoot.at
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇦🇹"
+      bcp47Lang: "de-AT"
     menu:
       main:
         - identifier: home
@@ -309,11 +321,37 @@ languages:
     languageName: Deutsch (Schweiz)
     weight: 14
     contentDir: content/ch
-    title: Confoot - Vereinfachen Sie die Logistik von Frachtcontainern
+    title: Confoot - Vereinfachen Sie die Logistik von Transportcontainern
     baseURL: https://www.confoot.ch
     params:
       description: "Vereinfachen Sie die Logistik von Frachtcontainern mit Confoot"
       flag: "🇨🇭"
+      bcp47Lang: "de-CH"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Produkte
+          url: /products
+          weight: 2
+        - identifier: about
+          name: Über uns
+          url: /about
+          weight: 3
+
+  de:
+    languageName: Deutsch
+    weight: 15
+    contentDir: content/de
+    title: Confoot - Vereinfachen Sie die Logistik von Transportcontainern
+    baseURL: https://www.confoot.de
+    params:
+      description: "Vereinfachen Sie die Logistik von Transportcontainern mit Confoot"
+      flag: "🇩🇪"
+      bcp47Lang: "de-DE"
     menu:
       main:
         - identifier: home
@@ -331,13 +369,14 @@ languages:
 
   pt:
     languageName: Português
-    weight: 15
+    weight: 16
     contentDir: content/pt
     title: Confoot - Simplifique a logística de contentores de transporte
     baseURL: https://www.confoot.pt
     params:
       description: "Simplifique a logística de contentores de transporte com Confoot"
       flag: "🇵🇹"
+      bcp47Lang: "pt-PT"
     menu:
       main:
         - identifier: home
@@ -355,13 +394,14 @@ languages:
 
   es:
     languageName: Español
-    weight: 16
+    weight: 17
     contentDir: content/es
     title: Confoot - Simplifique la logística de contenedores de transporte
     baseURL: https://www.confoot.es
     params:
       description: "Simplifique la logística de contenedores de transporte con Confoot"
       flag: "🇪🇸"
+      bcp47Lang: "es-ES"
     menu:
       main:
         - identifier: home
@@ -379,13 +419,14 @@ languages:
 
   it:
     languageName: Italiano
-    weight: 17
+    weight: 18
     contentDir: content/it
     title: Confoot - Semplifica la logistica dei container di trasporto
     baseURL: https://www.confoot.it
     params:
       description: "Semplifica la logistica dei container di trasporto con Confoot"
       flag: "🇮🇹"
+      bcp47Lang: "it-IT"
     menu:
       main:
         - identifier: home
