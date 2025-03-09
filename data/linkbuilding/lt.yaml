@@ -1,0 +1,61 @@
+keywords:
+  - keyword: "ConFoot"
+    url: "/"
+    exact: false
+    priority: 1
+    title: "Sužinokite daugiau apie ConFoot konteinerių kojas"
+  - keyword: "konteinerių kojos"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 3
+    title: "Sužinokite daugiau apie ConFoot konteinerių kojas"
+  - keyword: "ConFoot CF"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 5
+    title: "ConFoot CF konteinerių kojos - Specifikacijos ir detalės"
+  - keyword: "ConFoot CFP"
+    url: "/products/confoot-leg-cfp"
+    exact: false
+    priority: 5
+    title: "ConFoot CFP konteinerių kojos - Specifikacijos ir detalės"
+  - keyword: "ConFoot CFU"
+    url: "/products/confoot-cfu"
+    exact: false
+    priority: 5
+    title: "ConFoot CFU konteinerių kojos - Specifikacijos ir detalės"
+  - keyword: "konteinerių tvarkymas"
+    url: "/blog/benefits-of-confoot-container-legs"
+    exact: false
+    priority: 2
+    title: "Atraskite ConFoot konteinerių kojų privalumus efektyviam konteinerių tvarkymui"
+  - keyword: "oy confoot ltd"
+    url: "/about"
+    exact: false
+    priority: 1
+    title: "Sužinokite daugiau apie ConFoot Ltd"
+  - keyword: "ConFoot CFL"
+    url: "/products/confoot-cfl"
+    exact: false
+    priority: 5
+    title: "ConFoot CFL konteinerių kojos - Specifikacijos ir detalės"
+  - keyword: "transportavimo konteineriai"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Pirkite naudotus arba naujus transportavimo konteinerius"
+  - keyword: "HZ Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Pirkite naudotus arba naujus transportavimo konteinerius"
+  - keyword: "HZ-Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Pirkite naudotus arba naujus transportavimo konteinerius"
+  - keyword: "konteinerių kojos"
+    url: "/products/"
+    exact: false
+    priority: 1
+    title: "Pasirinkite geriausias konteinerių kojas"

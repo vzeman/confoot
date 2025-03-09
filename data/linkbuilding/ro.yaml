@@ -1,0 +1,61 @@
+keywords:
+  - keyword: "ConFoot"
+    url: "/"
+    exact: false
+    priority: 1
+    title: "Aflați mai multe despre picioarele pentru containere ConFoot"
+  - keyword: "picioare pentru containere"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 3
+    title: "Aflați mai multe despre picioarele pentru containere ConFoot"
+  - keyword: "ConFoot CF"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 5
+    title: "Picioare pentru containere ConFoot CF - Specificații și detalii"
+  - keyword: "ConFoot CFP"
+    url: "/products/confoot-leg-cfp"
+    exact: false
+    priority: 5
+    title: "Picioare pentru containere ConFoot CFP - Specificații și detalii"
+  - keyword: "ConFoot CFU"
+    url: "/products/confoot-cfu"
+    exact: false
+    priority: 5
+    title: "Picioare pentru containere ConFoot CFU - Specificații și detalii"
+  - keyword: "manipulare containere"
+    url: "/blog/benefits-of-confoot-container-legs"
+    exact: false
+    priority: 2
+    title: "Descoperiți beneficiile picioarelor pentru containere ConFoot pentru o manipulare eficientă"
+  - keyword: "oy confoot ltd"
+    url: "/about"
+    exact: false
+    priority: 1
+    title: "Aflați mai multe despre ConFoot Ltd"
+  - keyword: "ConFoot CFL"
+    url: "/products/confoot-cfl"
+    exact: false
+    priority: 5
+    title: "Picioare pentru containere ConFoot CFL - Specificații și detalii"
+  - keyword: "containere de transport"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Cumpărați containere de transport folosite sau noi"
+  - keyword: "HZ Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Cumpărați containere de transport folosite sau noi"
+  - keyword: "HZ-Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Cumpărați containere de transport folosite sau noi"
+  - keyword: "picioare pentru containere"
+    url: "/products/"
+    exact: false
+    priority: 1
+    title: "Alegeți cele mai bune picioare pentru containere"

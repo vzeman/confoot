@@ -1,0 +1,61 @@
+keywords:
+  - keyword: "ConFoot"
+    url: "/"
+    exact: false
+    priority: 1
+    title: "Zjistěte více o nohách pro kontejnery ConFoot"
+  - keyword: "nohy pro kontejnery"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 3
+    title: "Zjistěte více o nohách pro kontejnery ConFoot"
+  - keyword: "ConFoot CF"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 5
+    title: "Nohy pro kontejnery ConFoot CF - Specifikace a detaily"
+  - keyword: "ConFoot CFP"
+    url: "/products/confoot-leg-cfp"
+    exact: false
+    priority: 5
+    title: "Nohy pro kontejnery ConFoot CFP - Specifikace a detaily"
+  - keyword: "ConFoot CFU"
+    url: "/products/confoot-cfu"
+    exact: false
+    priority: 5
+    title: "Nohy pro kontejnery ConFoot CFU - Specifikace a detaily"
+  - keyword: "manipulace s kontejnery"
+    url: "/blog/benefits-of-confoot-container-legs"
+    exact: false
+    priority: 2
+    title: "Objevte výhody noh pro kontejnery ConFoot pro efektivní manipulaci s kontejnery"
+  - keyword: "oy confoot ltd"
+    url: "/about"
+    exact: false
+    priority: 1
+    title: "Zjistěte více o společnosti ConFoot Ltd"
+  - keyword: "ConFoot CFL"
+    url: "/products/confoot-cfl"
+    exact: false
+    priority: 5
+    title: "Nohy pro kontejnery ConFoot CFL - Specifikace a detaily"
+  - keyword: "přepravní kontejnery"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Kupte použité nebo nové přepravní kontejnery"
+  - keyword: "HZ Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Kupte použité nebo nové přepravní kontejnery"
+  - keyword: "HZ-Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Kupte použité nebo nové přepravní kontejnery"
+  - keyword: "nohy pro kontejnery"
+    url: "/products/"
+    exact: false
+    priority: 1
+    title: "Vyberte nejlepší nohy pro kontejnery"

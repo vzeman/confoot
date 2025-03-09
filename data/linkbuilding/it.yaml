@@ -1,0 +1,61 @@
+keywords:
+  - keyword: "ConFoot"
+    url: "/"
+    exact: false
+    priority: 1
+    title: "Scopri di più sui supporti per container ConFoot"
+  - keyword: "supporti per container"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 3
+    title: "Scopri di più sui supporti per container ConFoot"
+  - keyword: "ConFoot CF"
+    url: "/products/confoot-leg-cf"
+    exact: false
+    priority: 5
+    title: "Supporti per container ConFoot CF - Specifiche e dettagli"
+  - keyword: "ConFoot CFP"
+    url: "/products/confoot-leg-cfp"
+    exact: false
+    priority: 5
+    title: "Supporti per container ConFoot CFP - Specifiche e dettagli"
+  - keyword: "ConFoot CFU"
+    url: "/products/confoot-cfu"
+    exact: false
+    priority: 5
+    title: "Supporti per container ConFoot CFU - Specifiche e dettagli"
+  - keyword: "movimentazione container"
+    url: "/blog/benefits-of-confoot-container-legs"
+    exact: false
+    priority: 2
+    title: "Scopri i vantaggi dei supporti per container ConFoot per una movimentazione efficiente"
+  - keyword: "oy confoot ltd"
+    url: "/about"
+    exact: false
+    priority: 1
+    title: "Scopri di più su ConFoot Ltd"
+  - keyword: "ConFoot CFL"
+    url: "/products/confoot-cfl"
+    exact: false
+    priority: 5
+    title: "Supporti per container ConFoot CFL - Specifiche e dettagli"
+  - keyword: "container marittimi"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Acquista container marittimi usati o nuovi"
+  - keyword: "HZ Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Acquista container marittimi usati o nuovi"
+  - keyword: "HZ-Containers"
+    url: "https://www.hz-containers.com"
+    exact: false
+    priority: 1
+    title: "Acquista container marittimi usati o nuovi"
+  - keyword: "supporti per container"
+    url: "/products/"
+    exact: false
+    priority: 1
+    title: "Scegli i migliori supporti per container"
