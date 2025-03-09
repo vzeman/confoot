@@ -43,7 +43,7 @@ Tschechiä
 Mäntig - Fritig: 9:00 - 17:00 (CET/CEST)  
 Samstig - Sunntig: Gschlosse
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 ## Technischer Support
 

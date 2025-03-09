@@ -1,7 +1,25 @@
-{{ $address := .Get "address" | default "Průmyslová 154, 674 01 Třebíč, Czech Republic" }}
+{{/* 
+  OpenStreetMap shortcode (named googlemap for backward compatibility)
+  
+  Parameters:
+  - lat: Latitude coordinate (required)
+  - lon: Longitude coordinate (required)
+  - height: The height of the map (default: 400px)
+  - width: The width of the map (default: 100%)
+  - zoom: The zoom level (default: 15)
+*/}}
+
+{{ $lat := .Get "lat" }}
+{{ $lon := .Get "lon" }}
 {{ $height := .Get "height" | default "400px" }}
 {{ $width := .Get "width" | default "100%" }}
 {{ $zoom := .Get "zoom" | default "15" }}
+
+{{ $minLon := sub (float $lon) 0.02 }}
+{{ $minLat := sub (float $lat) 0.01 }}
+{{ $maxLon := add (float $lon) 0.02 }}
+{{ $maxLat := add (float $lat) 0.01 }}
+{{ $bbox := printf "%f,%f,%f,%f" $minLon $minLat $maxLon $maxLat }}
 
 <div class="map-container" style="width: {{ $width }}; height: {{ $height }}; margin-bottom: 2rem; border-radius: 8px; overflow: hidden; border: 1px solid #ddd;">
   <iframe 
@@ -10,9 +28,9 @@
     style="border:0; display: block;" 
     loading="lazy" 
     allowfullscreen 
-    src="https://www.openstreetmap.org/export/embed.html?bbox={{ if eq $address "Průmyslová 154, 674 01 Třebíč, Czech Republic" }}15.852909088134767%2C49.19881022136854%2C15.892391204833986%2C49.21732050895796{{ else if eq $address "Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" }}14.339485168457033%2C50.07940769159795%2C14.378967285156252%2C50.09787361252045{{ else }}15.852909088134767%2C49.19881022136854%2C15.892391204833986%2C49.21732050895796{{ end }}&amp;layer=mapnik&amp;marker={{ if eq $address "Průmyslová 154, 674 01 Třebíč, Czech Republic" }}49.208%2C15.873{{ else if eq $address "Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" }}50.088%2C14.359{{ else }}49.208%2C15.873{{ end }}">
+    src="https://www.openstreetmap.org/export/embed.html?bbox={{ $bbox }}&amp;layer=mapnik&amp;marker={{ $lat }}%2C{{ $lon }}">
   </iframe>
 </div>
 <div style="font-size: 0.8rem; text-align: right; margin-top: -1.8rem; margin-bottom: 1.8rem;">
-  <a href="https://www.openstreetmap.org/{{ if eq $address "Průmyslová 154, 674 01 Třebíč, Czech Republic" }}?mlat=49.208&mlon=15.873#map=15/49.208/15.873{{ else if eq $address "Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" }}?mlat=50.088&mlon=14.359#map=15/50.088/14.359{{ else }}?mlat=49.208&mlon=15.873#map=15/49.208/15.873{{ end }}" target="_blank" style="color: #666; text-decoration: none;">View larger map</a>
+  <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&amp;mlon={{ $lon }}#map={{ $zoom }}/{{ $lat }}/{{ $lon }}" target="_blank" style="color: #666; text-decoration: none;">View larger map</a>
 </div>

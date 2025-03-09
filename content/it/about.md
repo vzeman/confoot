@@ -26,13 +26,13 @@ Lunedì - Venerdì: 9.00 - 17.00
 Průmyslová 154  
 674 01 Třebíč
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 **Indirizzo dell’azienda:**  
 Slavníkova 2357/9, Břevnov (Praga 6), 169 00 Praga  
 iscritta nel registro delle imprese, al n. sp.: C 240707, presso il Tribunale della Città di Praga
 
-{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praga 6, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="50.0848364" lon="14.3623594" height="400px" zoom="15" >}}
 
 ID: 03975177  
 VAT: CZ03975177

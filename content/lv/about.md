@@ -26,13 +26,13 @@ Pirmdiena - Piektdiena: 9.00 - 17.00
 Průmyslová 154  
 674 01 Třebíč
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 **Uzņēmuma adrese:**  
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha  
 reģistrēts o. r., zem sp.zn.: C 240707, kas ir reģistrēts Prahas pils mēroga tiesā
 
-{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="50.0848364" lon="14.3623594" height="400px" zoom="15" >}}
 
 ID: 03975177  
 PVN: CZ03975177

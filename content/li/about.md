@@ -26,13 +26,13 @@ Maandag – Vrieje: 9.00 – 17.00
 Průmyslová 154  
 674 01 Třebíč
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Tsjechje" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 **Bedräfsadres:**  
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha  
 ingeschreven in ’t o. r., under sp.zn.: C 240707, geführt bie ’t Stadsgerech in Praha
 
-{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Tsjechje" height="400px" zoom="15" >}}
+{{< googlemap lat="50.0848364" lon="14.3623594" height="400px" zoom="15" >}}
 
 ID: 03975177  
 BTW: CZ03975177

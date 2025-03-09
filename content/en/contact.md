@@ -43,7 +43,7 @@ Czech Republic
 Monday - Friday: 9:00 AM - 5:00 PM (CET/CEST)  
 Saturday - Sunday: Closed
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 ## Technical Support
 

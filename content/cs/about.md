@@ -26,13 +26,13 @@ Pondělí - Pátek: 9.00 - 17.00
 Průmyslová 154  
 674 01 Třebíč
 
-{{< googlemap address="Průmyslová 154, 674 01 Třebíč, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 **Sídlo společnosti:**  
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha  
 zapsaná v obchodním rejstříku, pod sp.zn.: C 240707, vedeném u Městského soudu v Praze
 
-{{< googlemap address="Slavníkova 2357/9, Břevnov, 169 00 Praha 6, Czech Republic" height="400px" zoom="15" >}}
+{{< googlemap lat="50.0848364" lon="14.3623594" height="400px" zoom="15" >}}
 
 IČ: 03975177  
 DIČ: CZ03975177
@@ -42,7 +42,7 @@ DIČ: CZ03975177
 **Přehled společnosti Oy Confoot Ltd:**  
 Oy Confoot Ltd je finská společnost, která se specializuje na návrh a výrobu inovativních, odnímatelných kontejnerových nohou pro přepravní kontejnery. Jejich produkty mají za cíl zjednodušit manipulaci a přepravu kontejnerů, což je činí cenným přínosem pro logistiku a dodavatelské řetězce.
 
-HZ KONTEJNERY zastupuje prodej a marketing ve více evropských zemích s cílem rozšířit prodejní a distribuční síť značky ConFoot. Než jsme začali s prodejem produktů ConFoot, důkladně jsme otestovali všechny dostupné produkty na trhu s kontejnerovými nohami, abychom zákazníkům dodávali pouze špičkové výrobky. Analyzovali jsme nejen samotný produkt, ale i zázemí a historii společnosti Oy Confoot Ltd.
+HZ KONTEJNERY zastupuje prodej a marketing ve více evropských zemích s cílem rozšířit prodejní a distribuční síť značky ConFoot. Než jsme začali s prodejem produktů ConFoot, důkladně jsme otestovali všechna dostupná produkty na trhu s kontejnerovými nohami, abychom zákazníkům dodávali pouze špičkové výrobky. Analyzovali jsme nejen samotný produkt, ale i zázemí a historii společnosti Oy Confoot Ltd.
 
 **Stručná historie společnosti Oy Confoot Ltd:**
 
@@ -172,9 +172,9 @@ Obchodní model Confoot se soustředí na poskytování vysoce kvalitních, nák
 
 ### 4. Načasování
 
-Načasování vstupu Confoot na trh a jeho expanze se jeví jako příznivé. Globální námořní obchod stále roste, poháněn rostoucím objemem obchodu a složitější logistikou. Jakmile se organizace snaží nalézt efektivní a přenosná řešení pro manipulaci s kontejnery, inovativní produkty Confootu velmi dobře odpovídají potřebám trhu. Jejich řešení jsou obzvláště relevantní v regionech s nedostatečnou infrastrukturou, čímž vytvářejí příležitosti ke spolupráci s humanitárními organizacemi a dalšími sektory, kde je potřeba adaptabilních logistických řešení.
+Načasování vstupu Confoot na trh a jeho expanze se jeví jako příznivé. Globální námořní obchod stále roste, poháněn rostoucím objemem obchodu a složitější logistikou. Jakmile se organizace snaží nalézt efektivní a přenosná řešení pro manipulaci s kontejnery, inovativní produkty ConFootu velmi dobře odpovídají potřebám trhu. Jejich řešení jsou obzvláště relevantní v regionech s nedostatečnou infrastrukturou, čímž vytvářejí příležitosti ke spolupráci s humanitárními organizacemi a dalšími sektory, kde je potřeba adaptabilních logistických řešení.
 
-Celkově je Oy Confoot Ltd strategicky postaven na rostoucím trhu, podpořen solidní technologickou základnou, efektivní distribuční strategií a obchodním modelem zaměřeným na zákaznická řešení. Důraz na inovace a řešení reálných logistických problémů je řadí mezi klíčové hráče v oblasti manipulace s kontejnery.
+Celkově je Oy Confoot Ltd strategicky postaven na rostoucím trhu, podpořen solidní technologickou základnou, efektivní distribuční strategií a obchodním modelem zaměřeným na zákaznická řešení. Důraz na inovace a řešení reálných logistických problémů je řadí mezi klíčové hráče při řešení provozních výzev v oblasti kontejnerové logistiky.
 
 ## Ekonomika
 
@@ -182,7 +182,7 @@ Oy Confoot Ltd se specializuje na vývoj kontejnerových nohou pro logistické o
 
 1. **Jednotková ekonomika a rozpis nákladů:**  
    
-   - Hlavními nákladovými položkami u produktů Oy Confoot Ltd jsou materiály (vysokpevnostní ocel), výrobní procesy a logistika spojená s distribucí. Standardní model CF má nosnost 34 tun a každá noha váží pouhých 24 kg, což umožňuje nižší náklady na přepravu v porovnání s těžšími konkurenty.  
+   - Hlavními nákladovými položkami u produktů Oy Confoot Ltd jsou materiály (vysokopevnostní ocel), výrobní procesy a logistika spojená s distribucí. Standardní model CF má nosnost 34 tun a každá noha váží pouhých 24 kg, což umožňuje nižší náklady na přepravu v porovnání s těžšími konkurenty.  
    - S rozšiřováním společnosti během následujících 3–5 let se očekává, že se díky ekonomii z rozsahu sníží náklady na jednotku, zejména v oblasti zadávání materiálů a výrobní efektivity. Konkurenti obvykle nabízejí těžší a objemnější alternativy, které vyžadují specializované zvedací vybavení, což zvyšuje celkové logistické náklady. Lehký design Confootu tak poskytuje konkurenční výhodu v cenové politice.
    
 2. **Příjmy:**  
