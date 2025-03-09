@@ -9,16 +9,18 @@
     <nav class="hidden md:flex space-x-6">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium no-underline{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
           {{ .Name }}
         </a>
       {{ end }}
     </nav>
 
     <div class="flex items-center space-x-4">
-      <a href="{{ "contact" | relLangURL }}" class="hidden md:inline-flex bg-yellow-500 text-gray-800 px-4 py-2 rounded-md text-sm font-bold hover:bg-yellow-400 transition-colors">
+      <!-- Desktop Contact Button -->
+      <a href="{{ "contact" | relLangURL }}" class="bg-[#ffde15] text-gray-800 px-4 py-2 rounded-md text-sm font-bold hover:bg-yellow-400 transition-colors no-underline hidden md:inline-flex" id="desktop-contact-btn">
         {{ i18n "contact_us" | default "Contact Us" }}
       </a>
+      <!-- Mobile Menu Button -->
       <button name="mobile-menu-toggle" id="mobile-menu-button" class="md:hidden flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -31,13 +33,27 @@
   <div id="mobile-menu" class="md:hidden hidden mt-4 pb-4">
     <nav class="flex flex-col space-y-4">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium no-underline{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
           {{ .Name }}
         </a>
       {{ end }}
-      <a href="{{ "contact" | relLangURL }}" class="mobile-contact-btn bg-yellow-500 text-white px-6 py-3 rounded-md text-base font-medium hover:bg-yellow-600 transition-colors inline-flex items-center justify-center mt-2">
+      <!-- Mobile Contact Button -->
+      <a href="{{ "contact" | relLangURL }}" class="bg-[#ffde15] text-gray-800 px-6 py-3 rounded-md text-base font-medium hover:bg-yellow-400 transition-colors inline-flex items-center justify-center mt-2 no-underline">
         {{ i18n "contact_us" | default "Contact Us" }}
       </a>
     </nav>
   </div>
 </div>
+
+<style>
+  /* Hide desktop contact button on mobile, show on desktop */
+  #desktop-contact-btn {
+    display: none;
+  }
+  
+  @media (min-width: 768px) {
+    #desktop-contact-btn {
+      display: inline-flex;
+    }
+  }
+</style>

@@ -1,0 +1,18 @@
+/* Custom CSS overrides for ConFoot site */
+
+/* Remove underlines from all links and buttons */
+a, button {
+  text-decoration: none !important;
+}
+
+/* Ensure Contact Us button has the correct background color */
+.bg-\[\#ffde15\] {
+  background-color: #ffde15 !important;
+}
+
+/* Ensure Contact Us button is visible on desktop */
+@media (min-width: 768px) {
+  #desktop-contact-btn {
+    display: inline-flex !important;
+  }
+}

@@ -1510,11 +1510,6 @@ h4, h5, h6 {
 
 /* Mobile menu styles */
 @media (max-width: 767px) {
-  /* Ensure hero contact button is hidden on mobile */
-  .hero-contact-btn {
-    display: none !important;
-  }
-  
   /* Style for the contact button in mobile menu */
   .mobile-contact-btn {
     margin-top: 1rem;
@@ -1563,11 +1558,6 @@ h4, h5, h6 {
 
 /* Mobile menu styles */
 @media (max-width: 767px) {
-  /* Ensure hero contact button is hidden on mobile */
-  .hero-contact-btn {
-    display: none !important;
-  }
-  
   /* Style for the contact button in mobile menu */
   .mobile-contact-btn {
     margin-top: 1rem;
@@ -1587,4 +1577,8 @@ h4, h5, h6 {
     overflow-wrap: break-word;
     hyphens: auto;
   }
+}
+
+.hero-contact-btn {
+  display: block !important;
 }

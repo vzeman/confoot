@@ -15,12 +15,37 @@
   <!-- CSS using the proper asset pipeline -->
   {{ partial "head/css.html" . }}
   
+  <!-- Custom CSS -->
+  {{ if templates.Exists "partials/head/custom-css.html" }}
+    {{ partial "head/custom-css.html" . }}
+  {{ end }}
+  
   <!-- Lazy video loading CSS -->
   {{ $lazyVideoCSS := resources.Get "css/lazy-videos.css" | resources.Minify }}
   <link rel="stylesheet" href="{{ $lazyVideoCSS.RelPermalink }}">
   
   <!-- Include JS using the proper asset pipeline -->
   {{ partial "head/js.html" . }}
+  
+  <!-- Inline styles to ensure consistent styling -->
+  <style>
+    /* Remove underlines from all links and buttons */
+    a, button {
+      text-decoration: none !important;
+    }
+    
+    /* Ensure Contact Us button has the correct background color */
+    .bg-\[\#ffde15\], #desktop-contact-btn {
+      background-color: #ffde15 !important;
+    }
+    
+    /* Ensure Contact Us button is visible on desktop */
+    @media (min-width: 768px) {
+      #desktop-contact-btn {
+        display: inline-flex !important;
+      }
+    }
+  </style>
 </head>
 <body class="flex flex-col min-h-screen">
   <header class="bg-white shadow-sm">
