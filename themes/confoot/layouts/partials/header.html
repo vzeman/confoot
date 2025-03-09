@@ -19,7 +19,7 @@
     <!-- Language Switcher -->
     <div class="flex items-center space-x-4">
       <div class="relative group">
-        <button class="flex items-center space-x-1 text-sm font-bold">
+        <button name="language-switcher" class="flex items-center space-x-1 text-sm font-bold">
           <span>{{ i18n "language" }}: {{ .Site.Language.LanguageName }}</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
@@ -35,7 +35,7 @@
       </div>
 
       <!-- Mobile Menu Button -->
-      <button id="mobile-menu-button" class="md:hidden flex items-center font-bold">
+      <button name="mobile-menu-toggle" id="mobile-menu-button" class="md:hidden flex items-center font-bold">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
         </svg>
