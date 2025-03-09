@@ -2,18 +2,18 @@
 <section class="hero bg-yellow-50 py-16">
   <div class="container mx-auto px-4">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-      <div>
+      <div class="hero-text-box">
         <h1>{{ .Title }}</h1>
         <p class="text-xl text-gray-700 mb-8">{{ .Description }}</p>
-        <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-          <a href="{{ "products" | relLangURL }}" class="bg-yellow-500 text-white px-6 py-3 rounded-md text-base font-medium hover:bg-yellow-600 transition-colors inline-flex items-center justify-center">
-            {{ i18n "view_products" | default "View Products" }}
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <div class="sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center">
+          <a href="{{ "products" | relLangURL }}" class="bg-yellow-500 text-white py-3 rounded-md text-base font-medium hover:bg-yellow-600 transition-colors inline-flex items-center whitespace-nowrap self-center">
+            <span class="px-[10px]">{{ i18n "view_products" | default "View Products" }}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-[10px] flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
             </svg>
           </a>
-          <a href="{{ "contact" | relLangURL }}" class="border border-yellow-500 text-yellow-500 px-6 py-3 rounded-md text-base font-medium hover:bg-yellow-50 transition-colors inline-flex items-center justify-center">
-            {{ i18n "contact_us" | default "Contact Us" }}
+          <a href="{{ "contact" | relLangURL }}" class="hero-contact-btn border border-yellow-500 text-yellow-500 py-3 rounded-md text-base font-medium hover:bg-yellow-50 transition-colors items-center whitespace-nowrap hidden sm:inline-flex self-center">
+            <span class="px-[10px]">{{ i18n "contact_us" | default "Contact Us" }}</span>
           </a>
         </div>
       </div>

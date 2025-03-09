@@ -9,19 +9,16 @@
     <nav class="hidden md:flex space-x-6">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="text-gray-800 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-[#ffde15]{{ end }}" style="transition: color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.color='#ffde15'" onmouseout="this.style.color='{{ if $currentPage.IsMenuCurrent "main" . }}#ffde15{{ else }}{{ end }}'">
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
           {{ .Name }}
         </a>
       {{ end }}
     </nav>
 
     <div class="flex items-center space-x-4">
-      <!-- Contact Button -->
-      <a href="{{ "contact" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-4 py-2 rounded-md text-sm font-bold hover:bg-[#e6d675] transition-colors">
+      <a href="{{ "contact" | relLangURL }}" class="hidden md:inline-flex bg-yellow-500 text-gray-800 px-4 py-2 rounded-md text-sm font-bold hover:bg-yellow-400 transition-colors">
         {{ i18n "contact_us" | default "Contact Us" }}
       </a>
-
-      <!-- Mobile Menu Button -->
       <button name="mobile-menu-toggle" id="mobile-menu-button" class="md:hidden flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -34,10 +31,13 @@
   <div id="mobile-menu" class="md:hidden hidden mt-4 pb-4">
     <nav class="flex flex-col space-y-4">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" class="text-gray-800 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-[#ffde15]{{ end }}" style="transition: color 0.2s ease-in-out; text-decoration: none;" onmouseover="this.style.color='#ffde15'" onmouseout="this.style.color='{{ if $currentPage.IsMenuCurrent "main" . }}#ffde15{{ else }}{{ end }}'">
+        <a href="{{ .URL }}" class="text-gray-800 hover:text-yellow-500 font-medium{{ if $currentPage.IsMenuCurrent "main" . }} text-yellow-500{{ end }}">
           {{ .Name }}
         </a>
       {{ end }}
+      <a href="{{ "contact" | relLangURL }}" class="mobile-contact-btn bg-yellow-500 text-white px-6 py-3 rounded-md text-base font-medium hover:bg-yellow-600 transition-colors inline-flex items-center justify-center mt-2">
+        {{ i18n "contact_us" | default "Contact Us" }}
+      </a>
     </nav>
   </div>
 </div>
