@@ -30,42 +30,52 @@ body {
   flex-direction: column;
 }
 
+/* Blog Post Image Styles - Exclude YouTube thumbnails */
+.prose img:not(.lazy-video-thumb-img) {
+  border-radius: 12px;
+  width: 50%;
+  height: auto;
+  margin: 1rem;
+  float: right;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.prose img:not(.lazy-video-thumb-img):nth-of-type(odd) {
+  float: left;
+  margin-left: 0;
+  margin-right: 1.5rem;
+}
+
+.prose img:not(.lazy-video-thumb-img):nth-of-type(even) {
+  float: right;
+  margin-right: 0;
+  margin-left: 1.5rem;
+}
+
+.prose img:not(.lazy-video-thumb-img):hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Clear floats after images to prevent layout issues */
+.prose h2, .prose h3, .prose h4 {
+  clear: both;
+}
+
+/* Ensure proper spacing around YouTube embeds */
+.prose .lazy-video-container {
+  margin: 2rem 0;
+  clear: both;
+  width: 100%;
+}
+
 /* Global Heading Styles */
 h1, h2, h3, h4, h5, h6 {
   color: var(--color-heading);
   font-weight: bold;
   margin-bottom: 0.5em;
   line-height: 1.2;
-}
-
-/* Heading styles with padding */
-h1 {
-  padding-top: 2rem;
-  padding-bottom: 1.5rem;
-  font-weight: 700;
-  line-height: 1.2;
-  font-size: 3rem;
-}
-
-h2 {
-  padding-top: 1.5rem;
-  padding-bottom: 1rem;
-  font-weight: 700;
-  line-height: 1.3;
-}
-
-h3 {
-  padding-top: 1.25rem;
-  padding-bottom: 0.75rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-h4, h5, h6 {
-  padding-top: 1rem;
-  padding-bottom: 0.5rem;
-  font-weight: 600;
-  line-height: 1.4;
 }
 
 /* Layout */
