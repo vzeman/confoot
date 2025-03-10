@@ -90,4 +90,4 @@ articleContent: |
   - **Kompatibilitás**: Standard tengeri konténer saroköntvényei
 
   A ConFoot-leg CFP innovatív megoldást jelent a rakodó dokk műveletek számára, amely lehetővé teszi a vállalkozásoknak logisztikai folyamataik optimalizálását, az erőforrások jobb kihasználását és a rugalmas, további tárolókapacitás kialakítását. A termékek közvetlen betöltését a gyártásból a konténerekbe, valamint a pótkocsik más feladatokra való felszabadítását biztosítva a CFP segít elérni a nagyobb hatékonyságot és költséghatékonyságot a konténerkezelési műveletek során.
-...
+---
