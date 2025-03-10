@@ -24,6 +24,8 @@ languages:
       flag: "🇪🇺"
       bcp47Lang: "en-GB"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Shipping Container Legs"
+      chatbotMessagePlaceholderText: "Ask me anything about shipping container legs"
     menu:
       main:
         - identifier: home
@@ -54,6 +56,8 @@ languages:
       flag: "🇨🇿"
       bcp47Lang: "cs-CZ"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Nohy pro přepravní kontejnery"
+      chatbotMessagePlaceholderText: "Zeptejte se mě na cokoliv o nohách pro přepravní kontejnery"
     menu:
       main:
         - identifier: home
@@ -84,6 +88,8 @@ languages:
       flag: "🇸🇰"
       bcp47Lang: "sk-SK"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Nohy pre prepravné kontajnery"
+      chatbotMessagePlaceholderText: "Opýtajte sa ma čokoľvek o nohách pre prepravné kontajnery"
     menu:
       main:
         - identifier: home
@@ -114,6 +120,8 @@ languages:
       flag: "🇬🇷"
       bcp47Lang: "el-GR"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Πόδια Εμπορευματοκιβωτίων Αποστολής"
+      chatbotMessagePlaceholderText: "Ρωτήστε με οτιδήποτε για τα πόδια εμπορευματοκιβωτίων αποστολής"
     menu:
       main:
         - identifier: home
@@ -144,6 +152,8 @@ languages:
       flag: "🇭🇷"
       bcp47Lang: "hr-HR"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Noge za transportne kontejnere"
+      chatbotMessagePlaceholderText: "Pitajte me bilo što o nogama za transportne kontejnere"
     menu:
       main:
         - identifier: home
@@ -174,6 +184,8 @@ languages:
       flag: "🇱🇹"
       bcp47Lang: "lt-LT"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Gabenimo konteinerių kojos"
+      chatbotMessagePlaceholderText: "Klauskite manęs bet ko apie gabenimo konteinerių kojas"
     menu:
       main:
         - identifier: home
@@ -204,6 +216,8 @@ languages:
       flag: "🇷🇺"
       bcp47Lang: "ru-RU"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Опоры для транспортных контейнеров"
+      chatbotMessagePlaceholderText: "Спросите меня что угодно об опорах для транспортных контейнеров"
     menu:
       main:
         - identifier: home
@@ -234,6 +248,8 @@ languages:
       flag: "🇱🇻"
       bcp47Lang: "lv-LV"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Pārvadāšanas konteineru kājas"
+      chatbotMessagePlaceholderText: "Jautājiet man jebko par pārvadāšanas konteineru kājām"
     menu:
       main:
         - identifier: home
@@ -264,6 +280,8 @@ languages:
       flag: "🇸🇮"
       bcp47Lang: "sl-SI"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Noge za transportne zabojnike"
+      chatbotMessagePlaceholderText: "Vprašajte me karkoli o nogah za transportne zabojnike"
     menu:
       main:
         - identifier: home
@@ -294,6 +312,8 @@ languages:
       flag: "🇷🇴"
       bcp47Lang: "ro-RO"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Picioare pentru Containere de Transport"
+      chatbotMessagePlaceholderText: "Întreabă-mă orice despre picioarele pentru containere de transport"
     menu:
       main:
         - identifier: home
@@ -324,6 +344,8 @@ languages:
       flag: "🇱🇮"
       bcp47Lang: "de-LI"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Versand-Containerbeine"
+      chatbotMessagePlaceholderText: "Fragen Sie mich alles über Versand-Containerbeine"
     menu:
       main:
         - identifier: home
@@ -354,6 +376,8 @@ languages:
       flag: "🇦🇹"
       bcp47Lang: "de-AT"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Versand-Containerbeine"
+      chatbotMessagePlaceholderText: "Fragen Sie mich alles über Versand-Containerbeine"
     menu:
       main:
         - identifier: home
@@ -384,6 +408,8 @@ languages:
       flag: "🇨🇭"
       bcp47Lang: "de-CH"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Versand-Containerbeine"
+      chatbotMessagePlaceholderText: "Fragen Sie mich alles über Versand-Containerbeine"
     menu:
       main:
         - identifier: home
@@ -414,6 +440,8 @@ languages:
       flag: "🇩🇪"
       bcp47Lang: "de-DE"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Versand-Containerbeine"
+      chatbotMessagePlaceholderText: "Fragen Sie mich alles über Versand-Containerbeine"
     menu:
       main:
         - identifier: home
@@ -444,6 +472,8 @@ languages:
       flag: "🇵🇹"
       bcp47Lang: "pt-PT"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Pernas para Contentores de Envio"
+      chatbotMessagePlaceholderText: "Pergunte-me qualquer coisa sobre pernas para contentores de envio"
     menu:
       main:
         - identifier: home
@@ -474,6 +504,8 @@ languages:
       flag: "🇪🇸"
       bcp47Lang: "es-ES"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Patas para Contenedores de Envío"
+      chatbotMessagePlaceholderText: "Pregúntame cualquier cosa sobre patas para contenedores de envío"
     menu:
       main:
         - identifier: home
@@ -504,6 +536,8 @@ languages:
       flag: "🇮🇹"
       bcp47Lang: "it-IT"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Gambe per Container di Spedizione"
+      chatbotMessagePlaceholderText: "Chiedimi qualsiasi cosa sulle gambe per container di spedizione"
     menu:
       main:
         - identifier: home
@@ -534,6 +568,8 @@ languages:
       flag: "🇭🇺"
       bcp47Lang: "hu-HU"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Szállítási konténer lábak"
+      chatbotMessagePlaceholderText: "Kérdezzen bármit a szállítási konténer lábakról"
     menu:
       main:
         - identifier: home
@@ -564,6 +600,8 @@ languages:
       flag: "🇫🇷"
       bcp47Lang: "fr-FR"
       ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Pieds pour Conteneurs d'Expédition"
+      chatbotMessagePlaceholderText: "Demandez-moi n'importe quoi sur les pieds pour conteneurs d'expédition"
     menu:
       main:
         - identifier: home
