@@ -8,8 +8,9 @@ export async function onRequest(context) {
     
     // Get the path from the URL
     const urlString = context.request.url;
-    const pathMatch = urlString.match(/https?:\/\/[^\/]+(\/.*)/);
-    const path = pathMatch ? pathMatch[1] : '/';
+    const url = new URL(urlString);
+    const path = url.pathname;
+    const queryString = url.search; // Preserve query parameters
     
     // Default to English
     let lang = 'en';
@@ -86,7 +87,7 @@ export async function onRequest(context) {
         return new Response(null, {
           status: 301, // Permanent redirect
           headers: {
-            'Location': cleanPath,
+            'Location': cleanPath + queryString, // Preserve query parameters
             'Cache-Control': 'max-age=3600'
           }
         });
@@ -100,7 +101,7 @@ export async function onRequest(context) {
         return new Response(null, {
           status: 301, // Permanent redirect
           headers: {
-            'Location': cleanPath,
+            'Location': cleanPath + queryString, // Preserve query parameters
             'Cache-Control': 'max-age=3600'
           }
         });
@@ -111,12 +112,13 @@ export async function onRequest(context) {
     // Rewrite the URL internally to include the language prefix
     
     // Create a new request with the language prefix added to the path
-    const url = new URL(context.request.url);
+    const newUrl = new URL(context.request.url);
     const langPath = `/${lang}${path === '/' ? '/' : path}`;
-    url.pathname = langPath;
+    newUrl.pathname = langPath;
+    // Query parameters are automatically preserved in the URL object
 
     // Create a new request with the modified URL
-    const newRequest = new Request(url.toString(), {
+    const newRequest = new Request(newUrl.toString(), {
       method: context.request.method,
       headers: context.request.headers,
       body: context.request.body,
@@ -127,7 +129,7 @@ export async function onRequest(context) {
     const response = await context.env.ASSETS.fetch(newRequest);
     
     // Add cache control headers based on file type
-    const url_path = url.pathname.toLowerCase();
+    const url_path = newUrl.pathname.toLowerCase();
     let cacheControl;
     
     // Set one month (31 days) cache for static assets
