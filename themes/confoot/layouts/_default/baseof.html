@@ -10,8 +10,8 @@
   {{ partial "head/analytics.html" . }}
   
   <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon.png" | relURL }}">
-  <link rel="shortcut icon" href="{{ "/images/favicon.ico" | relURL }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon-32x32.png" | absURL }}">
+  <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
   <!-- CSS using the proper asset pipeline -->
   {{ partial "head/css.html" . }}
   
@@ -288,7 +288,7 @@
     cookieConsent: true,
     flowVariable: {	"langouage_code": "{{ site.Language.Params.bcp47Lang }}", "current_url": "{{ .Permalink }}"},
     showHeader: '{"title":"www.HZ-Containers.com","description":"{{ site.Language.Params.chatbotShowHeaderDescription }}"}',
-    customOptions: '{"headerLogoImageUrl":"{{ "/images/favicon.png" | absURL }}","messagesHeaderLogoImageUrl":"{{ "/images/confoot-logo.jpg" | absURL }}","avatarAssistantImageUrl":"{{ "/images/favicon.png" | absURL }}","theme":"light","chatBubbleBackground":"#ffde15","chatBubbleIconColor":"#000000","headerText":"{{ site.Language.Params.chatbotHeaderText }}","messagePlaceholderText":"{{ site.Language.Params.chatbotMessagePlaceholderText }}"}',
+    customOptions: '{"headerLogoImageUrl":"{{ "/images/favicon-32x32.png" | absURL }}","messagesHeaderLogoImageUrl":"{{ "/images/confoot-logo.jpg" | absURL }}","avatarAssistantImageUrl":"{{ "/images/favicon-32x32.png" | absURL }}","theme":"light","chatBubbleBackground":"#ffde15","chatBubbleIconColor":"#000000","headerText":"{{ site.Language.Params.chatbotHeaderText }}","messagePlaceholderText":"{{ site.Language.Params.chatbotMessagePlaceholderText }}"}',
   }); });
   </script>
   <!-- End of FlowHunt integration -->
