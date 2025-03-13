@@ -49,7 +49,7 @@ languages:
   us:
     languageName: English (US)
     weight: 1
-    contentDir: content/en
+    contentDir: content/us
     title: Confoot - Simplify shipping container logistics
     baseURL: https://www.confoot.us
     params:
