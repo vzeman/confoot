@@ -12,12 +12,37 @@
     {{ $title := default $keyword .title }}
     {{ $exact := default false .exact }}
     
-    {{/* Use a more specific pattern that only matches text content, not text in HTML attributes */}}
+    {{/* Only process content if the keyword is not inside an existing link */}}
     {{ $pattern := printf `(>[^<]*?)(\b%s\b)([^<]*?<)` $keyword }}
     {{ $replacement := printf `$1<a href="%s" class="auto-link" data-priority="%d" title="%s">$2</a>$3` $url $priority $title }}
     
-    {{/* Replace only the first occurrence within content, not in attributes */}}
-    {{ $contentStr = replaceRE $pattern $replacement $contentStr 1 }}
+    {{/* Split the content into segments */}}
+    {{ $segments := split $contentStr "<a " }}
+    {{ $newContent := index $segments 0 }}
+    
+    {{/* Process each segment */}}
+    {{ range $index, $segment := $segments }}
+      {{ if gt $index 0 }}
+        {{/* This segment contains a link - find the end of the link */}}
+        {{ $linkParts := split $segment "</a>" }}
+        {{ if gt (len $linkParts) 1 }}
+          {{/* Preserve the link part without changes */}}
+          {{ $newContent = printf "%s<a %s</a>" $newContent (index $linkParts 0) }}
+          
+          {{/* Apply replacements only to the text after the link */}}
+          {{ $afterLink := delimit (after 1 $linkParts) "</a>" }}
+          {{ $newContent = printf "%s%s" $newContent (replaceRE $pattern $replacement $afterLink 1) }}
+        {{ else }}
+          {{/* No closing tag found, treat as normal text */}}
+          {{ $newContent = printf "%s<a %s" $newContent $segment }}
+        {{ end }}
+      {{ else }}
+        {{/* First segment - apply replacement */}}
+        {{ $newContent = replaceRE $pattern $replacement $newContent 1 }}
+      {{ end }}
+    {{ end }}
+    
+    {{ $contentStr = $newContent }}
   {{ end }}
 {{ end }}
 
