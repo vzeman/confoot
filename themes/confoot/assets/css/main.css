@@ -71,8 +71,15 @@ body {
 }
 
 /* Global Heading Styles */
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   color: var(--color-heading);
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+}
+
+h3, h4, h5, h6 {
+  color: var(--color-gray-800);
   font-weight: bold;
   margin-bottom: 0.5em;
   line-height: 1.2;

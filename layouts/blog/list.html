@@ -89,9 +89,14 @@
       max-height: 4.5em;
     }
 
-    /* Ensure all heading tags have red color */
-    h1, h2, h3, h4, h5, h6 {
+    /* Ensure only h1 and h2 have red color */
+    h1, h2 {
       color: var(--color-heading);
+    }
+    
+    /* Set h3, h4, h5, h6 to use gray color */
+    h3, h4, h5, h6 {
+      color: var(--color-gray-800);
     }
     
     /* Override any other styles that might affect heading colors in blog cards */
