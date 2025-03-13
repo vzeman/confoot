@@ -45,6 +45,39 @@ languages:
           name: About
           url: /about
           weight: 4
+          
+  us:
+    languageName: English (US)
+    weight: 1
+    contentDir: content/en
+    title: Confoot - Simplify shipping container logistics
+    baseURL: https://www.confoot.us
+    params:
+      description: "Simplify shipping container logistics with Confoot"
+      flag: "🇺🇸"
+      bcp47Lang: "en-US"
+      ga_measurement_id: "G-XL659W13CP"
+      chatbotHeaderText: "ConFoot - Shipping Container Legs"
+      chatbotMessagePlaceholderText: "Type your question here..."
+      chatbotShowHeaderDescription: "Let me help you with Shipping Container Legs"
+    menu:
+      main:
+        - identifier: home
+          name: ConFoot
+          url: /
+          weight: 1
+        - identifier: products
+          name: Products
+          url: /products
+          weight: 2
+        - identifier: blog
+          name: Blog
+          url: /blog
+          weight: 3
+        - identifier: about
+          name: About
+          url: /about
+          weight: 4
 
   cs:
     languageName: Čeština

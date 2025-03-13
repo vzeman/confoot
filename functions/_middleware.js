@@ -19,6 +19,8 @@ export async function onRequest(context) {
     const domainLanguageMap = {
       'confoot.eu': 'en',
       'www.confoot.eu': 'en',
+      'confoot.us': 'us',
+      'www.confoot.us': 'us',
       'confoot.cz': 'cs',
       'www.confoot.cz': 'cs',
       'confoot.sk': 'sk',
