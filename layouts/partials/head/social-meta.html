@@ -1,0 +1,34 @@
+<!-- Social Media Meta Tags -->
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{{ if eq .Type "blog" }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.summary }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+<!-- Image selection logic -->
+{{ $ogImage := "" }}
+{{ if eq .Type "blog" }}
+  {{ if .Params.image }}
+    {{ $ogImage = .Params.image | absURL }}
+  {{ end }}
+{{ else if eq .Type "products" }}
+  {{ if .Params.mainImage }}
+    {{ $ogImage = .Params.mainImage | absURL }}
+  {{ end }}
+{{ end }}
+
+<!-- Default image fallback -->
+{{ if eq $ogImage "" }}
+  {{ $ogImage = "/images/confoot-social-share.jpg" | absURL }}
+{{ end }}
+
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.summary }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="twitter:image" content="{{ $ogImage }}">

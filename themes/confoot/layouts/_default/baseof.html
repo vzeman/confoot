@@ -6,6 +6,11 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   
+  <!-- Social Media Meta Tags -->
+  {{ if templates.Exists "partials/head/social-meta.html" }}
+    {{ partial "head/social-meta.html" . }}
+  {{ end }}
+  
   <!-- Google Analytics -->
   {{ partial "head/analytics.html" . }}
   
