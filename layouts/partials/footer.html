@@ -1,3 +1,34 @@
+  <!-- Container Offer Banner -->
+  <div class="container mx-auto px-4 mt-10">
+    <div id="container-banner" style="height: 300px; position: relative;" class="rounded-lg overflow-hidden shadow-lg">
+      <!-- Background image is set in CSS -->
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; max-width: 600px;">
+        <div style="background-color: rgba(0, 0, 0, 0.7); padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);" class="text-white">
+          <h3 class="text-2xl font-bold mb-4">HZ-Containers</h3>
+          <p class="mb-6 text-sm leading-relaxed">
+            {{ i18n "container_description" }}
+          </p>
+          <a href="https://www.hz-containers.com/{{ if eq .Site.Language.Lang "us" }}en{{ else }}{{ .Site.Language.Lang }}{{ end }}/" target="_blank" rel="noopener noreferrer" 
+             style="background-color: #e53e3e; display: inline-block; font-weight: bold; padding: 12px 24px; border-radius: 8px; transition: all 0.3s;"
+             onmouseover="this.style.backgroundColor='#cc0000'; this.style.transform='scale(1.05)';" 
+             onmouseout="this.style.backgroundColor='#e53e3e'; this.style.transform='scale(1)';"
+             class="text-white">
+            {{ i18n "buy_shipping_container" }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    #container-banner {
+      background-image: url('{{ "images/hz-container-offer.jpg" | relURL }}');
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+
+
 <div class="container mx-auto px-4 py-10">
   <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
     <!-- Company Info -->
@@ -76,7 +107,6 @@
       </div>
     </div>
   </div>
-
 
   <!-- Legal Links -->
   <div class="border-t border-gray-200 mt-10 pt-6 text-center">
