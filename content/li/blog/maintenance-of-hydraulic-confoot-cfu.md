@@ -1,0 +1,1 @@
+Could you please clarify what you mean by “li”? Do you mean Limburgish or another language? Once I know the target language, I'll be happy to help with the translation.

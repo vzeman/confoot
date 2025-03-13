@@ -1,0 +1,1 @@
+It looks like you haven't provided the text you'd like me to translate. Could you please clarify or provide the text you need translated?

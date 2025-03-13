@@ -1,0 +1,1 @@
+Traduceți acest text în limba română:

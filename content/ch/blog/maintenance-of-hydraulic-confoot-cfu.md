@@ -1,0 +1,1 @@
+It looks like you haven’t provided the text you’d like translated. Could you please provide the text you want to be translated into Swiss German?

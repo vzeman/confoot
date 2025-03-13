@@ -1,0 +1,1 @@
+Preložte toto do slovenčiny:

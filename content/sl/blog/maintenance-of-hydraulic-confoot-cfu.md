@@ -1,0 +1,1 @@
+I noticed that no text was provided for translation. Could you please provide the text you would like me to translate into Slovenian?

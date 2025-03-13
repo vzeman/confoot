@@ -1,0 +1,1 @@
+It seems that there is no text provided for translation. Could you please supply the text you'd like me to translate into Hungarian?

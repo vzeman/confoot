@@ -1,0 +1,1 @@
+It seems there's no text provided to translate. Could you please share the text you would like me to translate into Italian?

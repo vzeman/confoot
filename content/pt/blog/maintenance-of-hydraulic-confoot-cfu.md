@@ -1,0 +1,1 @@
+I noticed that there isn’t any text included. Could you please provide the text you’d like me to translate into Portuguese?

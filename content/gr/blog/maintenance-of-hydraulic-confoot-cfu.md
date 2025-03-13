@@ -1,0 +1,1 @@
+It seems you haven't provided any text to translate. Could you please clarify what text you'd like me to translate into Greek?

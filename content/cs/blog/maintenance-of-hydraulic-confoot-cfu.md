@@ -1,0 +1,1 @@
+Přelož toto do češtiny:

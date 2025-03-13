@@ -1,0 +1,1 @@
+It seems there isn’t any text provided to translate. Could you please supply the text you'd like me to translate into Croatian?

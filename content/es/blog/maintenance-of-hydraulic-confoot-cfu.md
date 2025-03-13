@@ -1,0 +1,1 @@
+It seems that the text you want translated was not included. Could you please provide the complete text you would like me to translate into Spanish?
