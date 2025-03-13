@@ -134,8 +134,24 @@ export async function onRequest(context) {
     const url_path = newUrl.pathname.toLowerCase();
     let cacheControl;
     
-    // Set one month (31 days) cache for static assets
-    cacheControl = 'public, max-age=2678400'; // 31 days with revalidation
+    // Set different cache durations based on file extension or path pattern
+    if (url_path.includes('/blog/')) {
+      // Set 24 hours cache for blog pages
+      cacheControl = 'public, max-age=86400'; // 24 hours
+    } else if (
+      url_path.endsWith('.html') || 
+      url_path.endsWith('.xml') || 
+      url_path.endsWith('/') || 
+      !url_path.includes('.')
+    ) {
+      // Set 7 days cache for HTML and XML files
+      // Also apply to paths ending with / or paths without file extensions
+      // as these are typically served as HTML
+      cacheControl = 'public, max-age=604800'; // 7 days
+    } else {
+      // Set one month (31 days) cache for all other static assets
+      cacheControl = 'public, max-age=2678400'; // 31 days
+    }
     
     // Clone the response and add the cache control header
     const newResponse = new Response(response.body, response);
