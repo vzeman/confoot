@@ -8,7 +8,11 @@
 
   // Set default consent to 'denied' until user provides consent
   gtag('consent', 'default', {
-    'analytics_storage': 'denied'
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'wait_for_update': 500,
   });
   
   gtag('config', '{{ . }}');
