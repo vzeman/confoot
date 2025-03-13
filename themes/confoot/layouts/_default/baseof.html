@@ -81,8 +81,6 @@
     // Initialize gallery image switchers
     initGallerySwitchers();
     
-    // Log that initialization is complete
-    console.log('ConFoot image handlers initialized');
   });
 
   /**
@@ -180,21 +178,17 @@
    * Initialize gallery image switchers for product galleries
    */
   function initGallerySwitchers() {
-    console.log('Initializing gallery switchers');
     
     // Get all gallery thumbnails
     const thumbnails = document.querySelectorAll('.gallery-thumbnail');
     if (thumbnails.length === 0) {
-      console.log('No gallery thumbnails found');
       return;
     }
     
-    console.log(`Found ${thumbnails.length} gallery thumbnails`);
     
     // Get the main product image
     const mainProductImage = document.getElementById('main-product-image');
     if (!mainProductImage) {
-      console.log('Main product image not found');
       return;
     }
     
@@ -215,8 +209,6 @@
           console.error('No data-image attribute found on thumbnail');
           return;
         }
-        
-        console.log('Switching to image:', imageUrl);
         
         // Simple approach - directly update the main image src
         mainProductImage.src = imageUrl;

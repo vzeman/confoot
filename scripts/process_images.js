@@ -61,26 +61,22 @@ async function processImage(imagePath) {
   
   ensureDirectoryExists(outputDir);
   
-  console.log(`Processing: ${relativePath}`);
   
   try {
     // Get image metadata
     const metadata = await sharp(imagePath).metadata();
     const originalWidth = metadata.width;
     
-    console.log(`  Original size: ${originalWidth}px width`);
     
     // Process each target size
     for (const targetWidth of TARGET_SIZES) {
       // Skip if target size is larger than original
       if (targetWidth > originalWidth) {
-        console.log(`  Skipping ${targetWidth}px (original is smaller: ${originalWidth}px)`);
         continue;
       }
       
       // Skip 100px version for very small images where it wouldn't make sense
       if (targetWidth === 100 && originalWidth < 150) {
-        console.log(`  Skipping ${targetWidth}px (original is too small: ${originalWidth}px)`);
         continue;
       }
       
@@ -101,7 +97,6 @@ async function processImage(imagePath) {
         .toFormat('webp', { quality: QUALITY })
         .toFile(outputWebpPath);
       
-      console.log(`  Created ${targetWidth}px: ${outputFilename} and ${outputWebpFilename}`);
     }
     
     return {
