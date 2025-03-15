@@ -10,39 +10,27 @@
     {{ $url := .url }}
     {{ $priority := default 1 .priority }}
     {{ $title := default $keyword .title }}
-    {{ $exact := default false .exact }}
     
-    {{/* Only process content if the keyword is not inside an existing link */}}
-    {{ $pattern := printf `(>[^<]*?)(\b%s\b)([^<]*?<)` $keyword }}
-    {{ $replacement := printf `$1<a href="%s" class="auto-link" data-priority="%d" title="%s">$2</a>$3` $url $priority $title }}
+    {{/* Process paragraphs only */}}
+    {{ $paragraphs := findRE "<p[^>]*>.*?</p>" $contentStr -1 }}
+    {{ $newContentStr := $contentStr }}
     
-    {{/* Split the content into segments */}}
-    {{ $segments := split $contentStr "<a " }}
-    {{ $newContent := index $segments 0 }}
-    
-    {{/* Process each segment */}}
-    {{ range $index, $segment := $segments }}
-      {{ if gt $index 0 }}
-        {{/* This segment contains a link - find the end of the link */}}
-        {{ $linkParts := split $segment "</a>" }}
-        {{ if gt (len $linkParts) 1 }}
-          {{/* Preserve the link part without changes */}}
-          {{ $newContent = printf "%s<a %s</a>" $newContent (index $linkParts 0) }}
+    {{ range $paragraphs }}
+      {{ $paragraph := . }}
+      
+      {{/* Skip if paragraph contains links or is a header */}}
+      {{ if not (findRE "<a " $paragraph) }}
+        {{ if not (findRE "<h[1-6]" $paragraph) }}
+          {{ $pattern := printf `\b%s\b` $keyword }}
+          {{ $replacement := printf `<a href="%s" class="auto-link" data-priority="%d" title="%s">%s</a>` $url $priority $title $keyword }}
           
-          {{/* Apply replacements only to the text after the link */}}
-          {{ $afterLink := delimit (after 1 $linkParts) "</a>" }}
-          {{ $newContent = printf "%s%s" $newContent (replaceRE $pattern $replacement $afterLink 1) }}
-        {{ else }}
-          {{/* No closing tag found, treat as normal text */}}
-          {{ $newContent = printf "%s<a %s" $newContent $segment }}
+          {{ $newParagraph := replaceRE $pattern $replacement $paragraph 1 }}
+          {{ $newContentStr = replace $newContentStr $paragraph $newParagraph }}
         {{ end }}
-      {{ else }}
-        {{/* First segment - apply replacement */}}
-        {{ $newContent = replaceRE $pattern $replacement $newContent 1 }}
       {{ end }}
     {{ end }}
     
-    {{ $contentStr = $newContent }}
+    {{ $contentStr = $newContentStr }}
   {{ end }}
 {{ end }}
 

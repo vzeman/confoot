@@ -2,7 +2,7 @@
 title: "Lifespan of ConFoot Container Legs"
 date: 2025-03-14T10:30:00+01:00
 draft: false
-image: "/images/blog/confoot-container-legs.jpg"
+image: "/images/blog/confoot-maintenance.jpg"
 summary: "The lifespan of ConFoot container legs."
 ---
 
@@ -16,7 +16,7 @@ ConFoot specifically recommends the following maintenance procedures to maximize
 4.  **Lubrication:** Apply appropriate lubrication to moving parts to prevent rust and ensure smooth operation. Be careful not to over-lubricate, as excessive lubrication can attract dirt and debris, which can be counterproductive.
 5.  **Annual Expert Inspection:** ConFoot recommends having a qualified inspector perform a detailed annual check-up. This inspection should include both visual and functional testing, as well as a thorough examination of all mechanical components.
 
-{{< lazy-image src="/images/blog/technicka-specifikace-nohy-confott-CF.jpg" >}}
+![ConFoot container legs technical specifications](/images/blog/technicka-specifikace-nohy-confott-CF.png)
 
 By consistently following these maintenance guidelines, you can significantly extend the lifespan of your ConFoot container legs and ensure they continue to perform reliably. Neglecting maintenance can lead to premature wear and tear, potentially shortening their lifespan and increasing the risk of operational issues.
 
