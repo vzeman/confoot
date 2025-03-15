@@ -1,6 +1,6 @@
 ---
 title: "Szállítási konténerlábak"
-description: "Egyszerűsítse a szállítási konténerek logisztikáját a ConFoot megoldásaival"
+description: "Confoot - szállítási konténerlábak"
 ---
 
 # ConFoot - Szállítási konténerlábak

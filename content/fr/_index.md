@@ -1,6 +1,6 @@
 ---
 title: "Pieds pour Conteneurs de Transport"
-description: "Simplifiez la logistique des conteneurs de transport avec les solutions ConFoot"
+description: "Confoot - pieds pour conteneurs de transport"
 ---
 
 # ConFoot - Pieds pour Conteneurs de Transport
