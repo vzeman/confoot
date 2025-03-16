@@ -1,94 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Standartinė konteinerio kojelė"
+subtitle: "Standartinė konteinerio koja"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF yra mūsų standartinis konteinerio kojelis, kuris sumažina konteinerių perkėlimo ir iškrovimo laiką, leidžiant konteineriams būti paliktiems laukiant iškrovimo, todėl vairuotojai neprivalo laukti."
-technicalDescription: "CF modelis leidžia konteinerius naudoti kaip papildomą saugyklą, tuo pačiu išlikdamas pasirengusiam būti perkeltam bet kuriuo metu – tiesiog užvažiuokite priekabą po konteineriu ir kelionė tęsiasi."
+shortDescription: "ConFoot-leg CF yra mūsų standartinis konteinerio kojų modelis, kuris sutrumpina konteinerių pervežimo ir iškraunimo laiką, leidžiant konteineriams palikti laukiančius iškraunimo, kad vairuotojams nereikėtų laukti."
+technicalDescription: "CF modelis leidžia konteinerius naudoti kaip papildomą saugojimo erdvę, tuo pačiu metu visada būdamas pasirengęs pervežimui – tiesiog pastumkite priekabą po konteineriu, ir kelionė tęsiasi."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Svoris"
-    value: "24 kg už kojelę"
-  - name: "Krovos talpa"
-    value: "34 tonnos"
+    value: "24 kg už koją"
+  - name: "Krovinio talpa"
+    value: "34 tonos"
   - name: "Reguliavimo diapazonas"
     value: "1,043 mm iki 1,448 mm"
   - name: "Medžiaga"
     value: "Aukštos kokybės plienas"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Galimos kiekio nuolaidos. Susisiekite su mumis dėl detalių."
+pricingNotes: "Galimi kiekių nuolaidos. Susisiekite dėl išsamesnės informacijos."
 buyLink: "/contact"
 howToUse: |
-  1. Pritvirtinkite CF kojelę prie konteinerio kampinių liejinių
+  1. Pozicionuokite CF koją prie konteinerio kampo surinkimo elemento
   2. Suaktyvinkite užrakinimo mechanizmą
-  3. Reguliuokite aukštį, jei reikia, intervale nuo 1,043 mm iki 1,448 mm
+  3. Jei reikia, sureguliuokite aukštį diapazone nuo 1,043 mm iki 1,448 mm
   4. Pakartokite visiems reikiamiems kampams
-  5. Nuleiskite priekabą ir išvažiuokite, palikdami konteinerį ant kojelių
+  5. Nuleiskite priekabą ir važiuokite, palikdami konteinerį ant kojų
 benefits:
   - title: "Laiko taupymas"
-    description: "Sumažina konteinerių perkėlimo ir iškrovimo laiką, nes konteineriai gali likti laukiant iškrovimo."
+    description: "Sutrumpina konteinerių pervežimo ir iškraunimo laiką, nes konteineriai gali būti palikti laukti iškraunimo"
   - title: "Vairuotojų efektyvumas"
-    description: "Vairuotojams nereikia laukti iškrovimo metu, atlaisvinant juos kitoms užduotims."
-  - title: "Papildoma saugykla"
-    description: "Konteineriai gali būti naudojami kaip papildoma saugykla, kai nėra transportavimo metu."
-  - title: "Visada pasirengta judėti"
-    description: "Konteineriai visuomet yra pasirengę būti perkeliami – tiesiog užvažiuokite priekabą po konteineriu, ir kelionė tęsiasi."
-  - title: "Universalios taikymo sritys"
-    description: "Tinka bendram naudojimui, saugojimui, tankiniams konteineriams ir įvairioms pramonės šakoms."
-  - title: "Išlaidų optimizavimas"
-    description: "Optimizuoja išlaidas ir laiko panaudojimą, racionalizuojant transporto ir saugojimo veiklą."
+    description: "Vairuotojams nereikia laukti iškraunimo metu, todėl jie gali užsiimti kitomis užduotimis"
+  - title: "Papildomas saugojimas"
+    description: "Konteineriai gali būti naudojami kaip papildoma saugykla, kai nepervežami"
+  - title: "Paruoštas judėjimui"
+    description: "Konteineriai visada pasiruošę būti pervežami – tiesiog pastumkite priekabą po konteineriu, kad tęstumėte kelionę"
+  - title: "Universalūs pritaikymai"
+    description: "Tinka bendram naudojimui, saugojimui, tanko konteineriams ir įvairioms pramonės šakoms"
+  - title: "Sąnaudų optimizavimas"
+    description: "Optimizuoja sąnaudas ir laiko naudojimą, supaprastinant transporto ir saugojimo operacijas"
 articleContent: |
   ## Kas yra ConFoot-leg CF?
 
-  ConFoot-leg CF yra standartinis konteinerio kojelio modelis, sukurtas optimizuoti transporto, saugojimo ir logistikos operacijas. Šis universalus sprendimas sumažina konteinerių perkėlimo ir iškrovimo laiką, leidžiant konteineriams palikti laukiant iškrovimo, todėl vairuotojai neturi laukti. CF modelis paverčia konteinerius lanksčiais saugojimo vienetais, kurie visuomet yra pasirengę būti perkeliami, kai tik to reikia.
+  ConFoot-leg CF yra standartinis konteinerio kojų modelis, sukurtas supaprastinti transporto, saugojimo ir logistikos operacijas. Šis universalus sprendimas sumažina konteinerių pervežimo ir iškraunimo laiką, leidžiant konteineriams palikti laukiančius iškraunimo, todėl vairuotojams nereikia laukti. CF modelis paverčia konteinerius lankstoma saugykla, kuri visada pasiruošusi pervežimui, kai tik to prireikia.
 
-  ## Pagrindiniai privalumai transporto ir logistikos srityse
+  ## Pagrindiniai transporto ir logistikos pranašumai
 
-  ConFoot-leg CF suteikia reikšmingų veiklos pranašumų įmonėms, veikiančioms konteinerių transporto ir logistikos srityje. Leidžiant konteineriams būti paliktiems ant kojelių laukiant iškrovimo, galima optimizuoti vairuotojų darbo laiką ir parkų naudojimą. Vairuotojai gali pristatyti konteinerius ir iš karto tęsti kitą užduotį, taip pašalinant brangius laukimo periodus krovimo ir iškrovimo operacijų metu.
+  ConFoot-leg CF suteikia reikšmingų operacinių pranašumų verslams, veikiančioms konteinerių transporto ir logistikos srityje. Leidžiant konteineriams būti paliktiems ant kojų, kol jie laukia iškraunimo, galima optimizuoti vairuotojų laiką ir transporto priemonių panaudojimą. Vairuotojai gali pristatyti konteinerius ir iš karto tęsti savo kitą užduotį, taip išvengiant brangių laukimo laikotarpių, kurių metu vyksta kraunimo ir iškraunimo operacijos.
 
-  Be to, konteineriai, aprūpinti CF kojeliais, gali tarnauti kaip vertinga papildoma saugykla, kai nėra transportavimo metu. Jie visuomet yra pasirengę būti perkeliami – tiesiog užvažiuokite priekabą po konteineriu, ir kelionė tęsiasi. Ši universalumo savybė daro CF idealų sprendimą įmonėms, siekiančioms padidinti logistikos efektyvumą ir saugojimo pajėgumą.
+  Be to, konteineriai, aprūpinti CF kojomis, gali tarnauti kaip vertinga papildoma saugykla, kai jie nepervežami. Jie visada pasiruošę būti pervežami – tiesiog pastumkite priekabą po konteineriu, ir kelionė tęsiasi. Ši universalumas daro CF idealų sprendimą verslams, siekiantiems pagerinti savo logistikos efektyvumą ir saugojimo pajėgumą.
 
   ## Kaip tai veikia
 
-  ConFoot-leg CF saugiai tvirtinama prie konteinerio kampinių liejinių, užtikrinant stabilų palaikymą, kai konteineris yra pasiruošęs krovimui, iškrovimui ar saugojimui. Kojelės turi reguliavimo diapazoną nuo 1,043 mm iki 1,448 mm, leidžiant jas pritaikyti įvairiomis eksploatacinėmis sąlygomis. Kiekviena kojelė sveria 24 kg, kas leidžia operatoriams jas patogiai tvarkyti, o sistema suteikia reikšmingą krovos talpą – 34 tonnas.
+  ConFoot-leg CF tvirtai pritvirtinamas prie konteinerio kampo surinkimo elementų, suteikdamas stabilų palaikymą, kai konteineris yra pozicionuojamas kraunimui, iškraunimui ar saugojimui. Kojos turi reguliavimo diapazoną nuo 1,043 mm iki 1,448 mm, leidžiančią jas pritaikyti įvairiomis darbo sąlygomis. Kiekviena koja sveria 24 kg, todėl jas lengva tvarkyti, o sistema užtikrina reikšmingą 34 tonų krovinio talpą.
 
   Montavimo procesas yra paprastas:
-  1. Pritvirtinkite CF kojeles prie konteinerio kampinių liejinių
-  2. Suaktyvinkite užrakinimo mechanizmą, kad kojelės būtų tvirtai pritvirtintos
-  3. Reguliuokite aukštį pagal savo specifinius poreikius
-  4. Nuleiskite priekabą ir išvažiuokite, palikdami konteinerį saugiai atramą ant kojelių
+  1. Pozicionuokite CF kojas prie konteinerio kampo surinkimo elementų
+  2. Suaktyvinkite užrakinimo mechanizmą, kad pritvirtintumėte kojas
+  3. Nuoreguliuokite aukštį pagal jūsų konkrečius poreikius
+  4. Nuleiskite priekabą ir važiuokite, palikdami konteinerį saugiai ant kojų
 
-  Kai ateis laikas perkeli konteinerį, tiesiog užvažiuokite priekabą po juo, pritvirtinkite konteinerį prie priekabos, nuimkite kojeles ir tęskite kelionę.
+  Kai ateina laikas pervežti konteinerį, tiesiog pastumkite priekabą atgal po juo, pritvirtinkite konteinerį prie priekabos, nuimkite kojas ir tęskite kelionę.
 
   ## ConFoot-leg CF panaudojimo sritys
 
   ### Transporto įmonės
+  Transporto įmonės labai pasinaudoja CF gebėjimu optimizuoti transporto parką. Vairuotojai gali pristatyti konteinerius klientų vietose ir iš karto tęsti savo kitą užduotį, o ne laukti kraunimo/iškraunimo operacijų metu. Šis efektyvumas žymiai didina esamų priekabų parko produktyvumą ir mažina operacines sąnaudas.
 
-  Transporto įmonės žymiai pasinaudoja CF gebėjimu optimizuoti parkų naudojimą. Vairuotojai gali pristatyti konteinerius klientų vietose ir iš karto tęsti kitą užduotį, o ne laukti krovimo/iškrovimo operacijų metu. Šis efektyvumas gali žymiai padidinti esamų priekabų parkų produktyvumą ir sumažinti veiklos sąnaudas.
+  ### Sandėliavimas ir platinimas
+  Sandėliavimo ir platinimo operacijoms CF suteikia vertingos lankstumo konteinerių srautų valdyme. Konteineriai gali būti įrengti laikinose saugojimo zonose ant kojų, sukuriant papildomą buferinę talpą piko metu. Tai sumažina spūstis kraunamose zonose ir leidžia efektyviau suplanuoti kraunimo bei iškraunimo darbus.
 
-  ### Sandėliavimas ir distribucija
+  ### Gamybos įrenginiai
+  Gamybos įrenginiai gali naudoti konteinerius su CF kojomis kaip lanksčią papildomą saugyklą žaliavoms ar pagamintiems produktams. Pozicionuodami konteinerius arti gamybos zonų, medžiagos yra lengvai prieinamos, taip sumažinamos tvarkymo išlaidos ir gerinamas gamybos efektyvumas.
 
-  Sandėliavimo ir distribucijos operacijoms CF suteikia vertingą lankstumą valdant konteinerių srautus. Konteineriai gali būti išdėstyti laikinose saugojimo zonose ant kojelių, sukuriant papildomą atsargą piko metu. Tokiu būdu sumažėja susispringimas krovinių pakrovimo zonose ir leidžiamas efektyvesnis krovimo bei iškrovimo operacijų tvarkaraštis.
+  ### Mažmeninės prekybos operacijos
+  Mažmeninės prekybos įmonės gali pasinaudoti CF kojomis sezoniniams saugojimo sprendimams, kai konteineriai yra strategiškai išdėstyti, palaikant atsargų valdymą piko metu. Šis požiūris suteikia ekonomišką papildomą pajėgumą, nereikalaujant nuolatinės patalpų plėtros.
 
-  ### Gamybos įstaigos
+  ## Techninės specifikacijos
 
-  Gamybos įstaigos gali naudoti konteinerius, aprūpintus CF kojeliais, kaip lanksčią papildomą saugyklą žaliavoms ar gaminiams. Išdėstant konteinerius arti gamybos zonų, medžiagos bus lengvai pasiekiamos pagal poreikį, taip sumažinant tvarkymo sąnaudas ir gerinant gamybos efektyvumą.
-
-  ### Mažmeninė prekyba
-
-  Mažmeninės įmonės gali panaudoti CF kojeles sezono saugojimo sprendimams, kai konteineriai yra išdėstyti strategiškai patogiose vietose, palaikant atsargų valdymą piko metu. Šis sprendimas suteikia ekonomišką papildomą talpą be poreikio nuolat plėsti objektus.
-
-  ## Techniniai duomenys
-
-  - **Krovos talpa**: 34 tonnos
-  - **Svoris**: 24 kg už kojelę
-  - **Reguliavimo diapazonas**: 1,043 mm iki 1,448 mm
+  - **Krovinio talpa**: 34 tonos
+  - **Svoris**: 24 kg už koją
+  - **Reguliavimo diapazonas**: nuo 1,043 mm iki 1,448 mm
   - **Medžiaga**: Aukštos kokybės plienas su patvaria danga
-  - **Suderinamumas**: Standartiniai konteinerių kampinių liejinių elementai
+  - **Suderinamumas**: Su standartiniais konteinerių kampo surinkimo elementais
 
-  ConFoot-leg CF yra praktiškas sprendimas, skirtas optimizuoti transporto ir saugojimo veiklą, siūlant įmonėms būdą sumažinti sąnaudas bei laiko sąnaudas. Leidžiant konteineriams likti laukiantiems iškrovimo ir būti naudojami kaip papildoma saugykla, CF padeda pasiekti didesnį efektyvumą ir lankstumą konteinerių tvarkymo operacijose.
+  ConFoot-leg CF yra praktiškas sprendimas supaprastinti transporto ir saugojimo operacijas, suteikiantis verslams galimybę optimizuoti sąnaudas bei laiko naudojimą. Leidžiant konteineriams laukti iškraunimo ir naudojant juos kaip papildomą saugyklą, CF padeda įmonėms pasiekti didesnį efektyvumą ir lankstumą konteinerių tvarkymo procesuose.
 ---

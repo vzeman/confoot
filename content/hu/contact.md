@@ -1,59 +1,59 @@
 ---
-title: Lépj Kapcsolatba Velünk
+title: Kapcsolatfelvétel
 layout: contact
-description: Vedd fel a kapcsolatot a ConFoot csapatával érdeklődések, megrendelések és támogatás ügyében.
+description: Vegye fel a kapcsolatot a ConFoot csapatával kérdéseivel, rendeléseivel és támogatási igényeivel.
 ---
 
-## Itt Vagyunk, Hogy Segítsünk
+## Itt vagyunk, hogy segítsünk
 
-Köszönjük, hogy érdeklődik a ConFoot konténerláb megoldások iránt. Csapatunk készen áll arra, hogy segítsen bármilyen kérdés, rendelési érdeklődés vagy támogatási igény esetén.
+Köszönjük, hogy érdeklődik a ConFoot konténerláb megoldások iránt. Csapatunk készséggel áll rendelkezésére bármilyen kérdés, rendelési érdeklődés vagy támogatási igény esetén.
 
-## Rendelési Folyamat
+## Rendelési folyamat
 
 A ConFoot konténerlábak beszerzése egyszerű:
 
-1. **Érdeklődés**: Vegye fel velünk a kapcsolatot telefonon vagy e-mailben az igényei szerint
-2. **Konzultáció**: Csapatunk segít kiválasztani a megfelelő ConFoot megoldást az Ön szükségleteihez
-3. **Árajánlat**: Részletes árajánlatot adunk az igényeinek megfelelően
-4. **Rendelés Megerősítése**: Miután jóváhagyta az árajánlatot, megerősítjük a rendelését
-5. **Gyártás és Szállítás**: A rendelését feldolgozzuk és elküldjük az Ön által megadott helyre
-6. **Támogatás**: Csapatunk az esetleges vásárlás utáni támogatásban is rendelkezésére áll
+1. **Érdeklődés**: Vegye fel velünk a kapcsolatot telefonon vagy e-mailben igényeinek megosztása érdekében
+2. **Konzultáció**: Csapatunk segít kiválasztani az Ön igényeinek megfelelő ConFoot megoldást
+3. **Árajánlat**: Részletes árajánlatot készítünk az igényei alapján
+4. **Rendelés megerősítése**: Miután jóváhagyta az árajánlatot, megerősítjük a rendelését
+5. **Gyártás és szállítás**: Rendelését feldolgozzuk, és a megadott helyszínre kiszállítjuk
+6. **Támogatás**: Csapatunk a vásárlás utáni támogatással is rendelkezésére áll
 
-Nagy tételű rendelések vagy speciális igények esetén testreszabott megoldásokat és árazást kínálunk. Kérjük, közvetlenül vegye fel a kapcsolatot értékesítési csapatunkkal az Ön speciális igényeinek megbeszéléséhez.
+Nagyobb mennyiségű rendelések vagy speciális igények esetén egyedi megoldásokat és árakat kínálunk. Kérjük, vegye közvetlenül fel a kapcsolatot értékesítési csapatunkkal, hogy megbeszélhessük az Ön speciális igényeit.
 
-## Kapcsolati Információk
+## Elérhetőségek
 
 **HZ KONTEJNERY s.r.o.**  
 Székhely: Slavníkova 2357/9, Břevnov (Praha 6)  
 169 00 Praha  
-Cseh Köztársaság
+Csehország
 
-**Működési Iroda:**  
+**Működési iroda:**  
 Průmyslová 154  
 674 01 Třebíč  
-Cseh Köztársaság
+Csehország
 
 **Telefon:** +420 608 830 863  
 **E-mail:** [info@hz-containers.com](mailto:info@hz-containers.com)  
-**Cégazonosító:** IČ: 03975177, DIČ: CZ03975177  
-**Cégjegyzék:** Bejegyezve a Kereskedelmi Nyilvántartásban, fájl száma: C 240707, melyet a Prágai Városi Bíróság tart fenn
+**Üzleti azonosító:** IČ: 03975177, DIČ: CZ03975177  
+**Cégbejegyzés:** Bejegyzve a Kereskedelmi Nyilvántartásban a C 240707 fájlszám alatt, melyet a Prágai Városi Bíróság vezet
 
-## Nyitvatartási Idők
+## Nyitvatartás
 
 Hétfő - Péntek: 9:00 - 17:00 (CET/CEST)  
 Szombat - Vasárnap: Zárva
 
 {{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
-## Műszaki Támogatás
+## Műszaki támogatás
 
-Ha műszaki kérdése van vagy támogatásra van szüksége a ConFoot termékeivel kapcsolatban, kérjük, töltse le használati útmutatóinkat:
-- [CF és CFP Használati Útmutató Letöltése](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
-- [CFU Használati Útmutató Letöltése](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
+Amennyiben műszaki kérdései vannak, vagy támogatásra van szüksége a ConFoot termékeihez, kérjük, töltse le a használati útmutatóinkat:
+- [CF és CFP használati útmutató letöltése](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [CFU használati útmutató letöltése](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
-## Szüksége van Egy Konténerre?
+## Kell egy konténer?
 
-Ha szállítmányozási konténerek vásárlásán gondolkodik, kérjük látogassa meg értékesítési weboldalunkat:
+Ha hajózási konténerek vásárlásán gondolkodik, kérjük, látogasson el értékesítési weboldalunkra:
 [www.hz-containers.com](https://www.hz-containers.com)
 
 Várjuk megkeresését!

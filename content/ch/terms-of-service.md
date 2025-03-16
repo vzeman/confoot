@@ -7,77 +7,81 @@ layout: page
 
 # Nutzigsbedingige
 
-## 1. Iifüerig
+## 1. Iibruch
 
-Willkomme bi ConFoot ("mir", "öis" oder "uns"). Dur d'Besuech oder Benützig vo üse Website, vo üse Produkt oder vo üse Dienscht stimmts derzue zue, dass du a däne Nutzigsbedingige gebunde bisch. Bitte lues die Bedingige gnau, bevor du üsi Dienscht bruchsch.
+Willkomme bi ConFoot ("mir", "üsi", oder "eus"). Indem du uf üseri Website, üseri Produkt oder Dienscht zugreifsch bzw. die bruchsch, stimmisch der zue, dass du di a die Nutzigsbedingige (nachfolgend "Bedingige") bisch bunde. Bitte lueg die Bedingige gnau dur, bevor du üseri Dienscht bruuchsch.
 
-## 2. Aahnahm vo de Bedingige
+## 2. Aakzeptierig vo de Bedingige
 
-Dur dr Zugriff uf üsi Website, s'Bstelle vo üse Produkt oder d'Benützig vo üse Dienscht bestützisch du, dass du d'Bedingige gläse, verstande und akzeptiersch. Falls du nöd mit däne Bedingige iizügestimmisch, bruuch bitte nöd üsi Dienscht.
+Wänn du uf üseri Website zugreifsch, üseri Produkt bschtellsch oder üseri Dienscht bruchsch, bestätisch, dass du die glese hesch,’s verstande hesch und damit einverstande bisch, di a die Bedingige z’haltä. Wenn du mit de Bedingige nöd einverstande bisch, bruchsch üseri Dienscht bitte nöd.
 
 ## 3. Produkt und Dienscht
 
-### 3.1 Produktinformation
-Alli Produktbeschriebe, Spezifikatioune und Priesinformatione chönd ohni Vorwarsch ändered wärde. Mir gähnd üs Müeh, dass alli Information uf üsi Website korrekt sind, aber mir chönd nöd garantierä, dass sie håi fehlerfrei sind.
+### 3.1 Informatione zum Produkt
 
-### 3.2 Bstellige und Chauf
-Alli Bstellige sind vo de Annahm und Verfügbarkeit abhängig. Mir behalte üs s'Recht vor, e Bstellig abzlehne oder d'Menge z'beschränke. D'Pris chönd ohni Vorwarnig ändered wärde.
+Alli Produktbeschriebe, Spezifikatiöne und Priisinfo chönd ohni Vorwarnig ändered werde. Mir säged unser Möglichs, dass alli Information uf üseri Website so korrekt wie müglech si, aber mir chönd nöd garantiere, dass alli Info fehlerfrei si.
 
-## 4. Rächti am geistige Eigentum
+### 3.2 Bestellig und Chauf
+
+Alli Bestellige sind vo de Annahm und vo de Verfügbarhait abhängig. Mir räzerväd uns s’Recht, jedi Bestellig abzlehne oder d’Mängi z’begränze. Priis chönd ohni Vorwarnig ändered werde.
+
+## 4. Iintellektuelli Eigentumsrächti
 
 ### 4.1 Eigentum
-All Inhalt uf üsi Website – inklusiv Text, Grafik, Logo, Bild und Software – ghört ConFoot oder ihre Inhaltslieferante und isch dur internationali Copyright-Gsetze schützt.
 
-### 4.2 Gebrauchsbeschränkige
-Ohni üsi vorher schriftlichi Zuestimmig derfsch du nöd üse geistige Eigentum verfiilä, verteile, ändere, usstelle oder bruuche.
+Alli Inhalter uf üseri Website, iwwär Text, Grafik, Logo, Bilder und Software, ghöred zue ConFoot oder sine Inhaltslieferante und si deshalb durch internationali Copyright-Gsetz gschützt.
 
-## 5. Nutzerverhalte
+### 4.2 Nutzigsbeschränkige
 
-Wänn du üsi Website oder Dienscht bruchsch, stimmst du de Folgendä zue:
-- Nöd gäge alli geltendi Gsetzg oder Regle verstosse
-- Nöd anderi Rächti i d'Wäg stelle
-- Nöd d'Funktioun vo üsi Website oder Dienscht störe
-- Nöd falschi oder irrefüerendi Informatione abgä
-- Nöd a jedere Aktivität teilnoh, wo üsi System oder anderi Nutzer chönne schade
+Du derfsch üses iintellektuells Eigentum nöd ohni üsi vorher schriftlichi Zueschtig reproduziere, verbreite, ändere, aazeige oder bruuchä.
 
-## 6. Beschränkig vo de Haftig
+## 5. Verhalte vo de Nutzende
 
-Soweit s'Gsetz's erlaabt, isch ConFoot nöd haftbar für indirekti, beiläge, spezielli, folgendi oder strafende Schade, inklusiv – aber nöd beschränkt uf – Profit-, Date-, Nutzigs- oder Rufverluscht.
+Wänn du üseri Website oder Dienscht bruchsch, stimmisch der zue, nöd:
+- geltendi Gsetz oder Regle z’bräche,
+- d’Recht vo andre z’verläta,
+- de Betrib vo üseri Website oder Dienscht z’störe,
+- falschi oder irreführendi Informatione aazeige,
+- oder di an Aktivitäte z’ihänge, wo üsi System oder anderi Nutzendi schädige chönnt.
 
-## 7. Garantielehning
+## 6. Haftigsbegrenzig
 
-Üsi Produkt und Dienscht wärdet „wie sie sind“ zur Verfüegig gstellt, ohni irgendeini Garantii – weder ausdrücklich no impliziert. Das bezieht sich unter anderm uf d'impliziti Garantii vo Verchaufbarkeit, Eignig für es bestimmts Ziel oder nöd Verletzige.
+So wit s’Gsetz es erlaubt, isch ConFoot nöd haftbar für indirekti, beiläufigi, spezielli, folgebezoge oder strafende Schade – dazu ghöred zum Bispiel em Gwinn-, Date-, Nutzigs- oder Rufverlust.
 
-## 8. Schadensersatz
+## 7. Garantieausschluss
 
-Du verstosch derzue, ConFoot, sini Verantwortlige, Direktore, Mitarbeitende und Agenten schadlos z’halte, z'verteidige und schadä ersatz z'leiste für all Fälder, Verbindligkeite, Schade, Verlüscht, Kosten oder Ufwände, wo us dinere Nutzig vo üse Dienscht oder dr Nichteihalte vo däne Bedingige entstöh.
+Üsi Produkt und Dienscht werded "wie si" bereitgstellt, ohni irgendeini Garantii – weder explizit no implizit. Das gilt unter anderem für d’impliziti Garantii vo Wettbewerbsfähigkeit, Tauglichkeit für e bestimmte Zweck oder Nöd-Verletzig.
 
-## 9. Informatione zu elektronische Verkaufsbelege
+## 8. Schadefrei-Stelle
 
-Gemäss em tschechische Gsetz über elektronische Verkaufsbelege isch de Verchoufer debii, em Chäufer e Quittig uszgeh. Zäme mit däm mues de Verchoufer d'Bezahlig online bim Steuerverwalt registriere; im Fall vo technischa Störig, denn spötestens innerhalb vo 48 Stunde.
+Du stimmisch der zue, ConFoot, sini Funktionär, Direktorä, Mitarbeiter und Agänt schadefrei z’stelle, sie z’verteidige und schadefrei z’ha, für all Aaträg, Haftige, Schade, Verlust, Kostä oder Uusgabe, wo durs din Gebrauch vo üseri Dienscht oder d’Verletzig vo däne Bedingige entstönd.
 
-## 10. Streitbeilegig mit Konsumente
+## 9. Informatione zu elektronische Verkaufsufzeichnige
 
-D’tschechischi Handelsinspektionsbehörde überwacht d’Einhalte vom Gsetz Nr. 634/1992 Coll. über de Konsumenteschutz, wie ne betrafä. Konsumente chönd Reklamatione iireiche, wo d'Abgmacht und d'Erfüllig vo Verträg betreffe.
+Gemäss em tschechische Gsetz über elektronische Verkaufsufzeichnige isch de Verchäufer d’Pflicht, em Chauf e Beleg uszstelle. Zugleich mues er de bezahlte Betrag online bim Steuermanager registriere; im Fall vo technischer Panne, denn spöter nöd als innerhalb vo 48 Stunde.
 
-Falls sich e Streit zwüsche em Verchoufer und em Konsument us eme abgmachte Vertrag ergeit, wo nöd iiverträitig glöst werde cha, cha de Konsument e Vorschlag zur aussergerichtliche Streitbeilegig bim tschechische Handelsinspektionsbehörde, Zentralinspektion – ADR-Abteilig, iireiche. Die isch z’finde unter dr Adress: Štěpánská 15, 120 00 Prag 2, E-Mail: adr@coi.cz, Web: adr.coi.cz, und überwacht d’Einhalte vom Gsetz Nr. 634/1992 Coll. über de Konsumenteschutz, wie ne betrafä.
+## 10. Verbraucherstreitigsbeilegig
 
-## 11. Geltends Gsetz
+D’tschechischi Handelsinspektionsbehörde überwacht d’Einhaltig vo em Gsetz Nr. 634/1992 Sb. zum Verbraucherischutz, i de gänderte Fassung. Verbraucher chönd Beschwerde iireiche, wo d’Abschloss und Erfüllig vo Verträg betreffed, bi däm Aufsichtsorgan.
 
-Däne Bedingige sind drartig uuszlegt und gelte i Übereinstimmig mit de Gsetz vo dr Tschechische Republik, ohni dass d’Kollisionsnorme berücksichtigt wärde.
+Wänn es zu enem Streit zwüschem Verchäufer und em Verbraucher us em abgschlossne Vertrag chunnt, wo nöd per Übereinkunft glöst werde chan, cha de Verbraucher en Vorschlag für e aussergerichtligi Streitbeilegig bim tschechische Handelsinspektionsbehörde, Zentraliinspektion – ADR Departement, iireiche. Die isch z’finde: Štěpánská 15, 120 00 Prague 2; E-Mail: adr@coi.cz; Web: adr.coi.cz. Die Behörde überwacht d’Einhaltig vom Gsetz Nr. 634/1992 Sb. zum Verbraucherischutz, i de gänderte Fassung.
 
-## 12. Änderige vo däne Bedingige
+## 11. Aawändigsrecht
 
-Mir behalte üs s'Recht vor, däne Bedingige jederziit z'ändere. Änderige wärde sofort wirksam, sobald sie uf üsi Website gstellt sind. Dini witeri Nutzig vo üse Dienscht nach Änderige zeigt, dass du d'änderte Version akzeptiersch.
+Die Bedingige sind unterworfe und werde i Übereinstimmig mit de Gsetzlichkeite vo de Tschechische Republik usinterpretiert, ohni, dass d’Kollisione im Gsetz berücksichtigt werded.
 
-## 13. Kontaktinformation
+## 12. Änderige vo de Bedingige
 
-Falls du Froge zu däne Bedingige hesch, nimm bitte Kontakt uf mit üs:
+Mir räzerväd uns s’Recht, di Bedingige jederziit z’ändere. Änderige trätted sofort i Kraft, sobald sie uf üseri Website veröffentlicht sind. Dini wiiteri Nutzung vo üseri Dienscht nach Änderige zeigt, dass du d’änderte Bedingige akzeptiersch.
+
+## 13. Kontaktinformatione
+
+Wänn du Froge zu däne Bedingige hesch, nimm bitte Kontakt mit üs uf:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
-Tschechischi Republik
+Tschechische Republik
 
 E-Mail: info@confoot.eu  
-Telefon: +420 568 850 850
+Tel: +420 568 850 850

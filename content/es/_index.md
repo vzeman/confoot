@@ -1,6 +1,6 @@
 ---
-title: "Patas para Contenedores de Envío"
-description: "Confoot - patas para contenedores de envío"
+title: "Patas para contenedores"
+description: "Confoot - patas para contenedores"
 date: 2025-03-06T12:26:40+01:00
 draft: false
 ---

@@ -9,70 +9,70 @@ layout: page
 
 ## 1. Uvod
 
-Dobrodošli na ConFoot ("mi", "naš" ali "nas"). Z dostopom do naše spletne strani, izdelkov ali storitev soglašate s temi Pogoji uporabe ("Pogoji"). Prosimo, preberite te pogoje pozorno, preden začnete uporabljati naše storitve.
+Dobrodošli v ConFoot ("mi", "naš" ali "nas"). Z dostopom do naše spletne strani, izdelkov ali storitev soglašate s temi Pogoji uporabe ("Pogoji"). Prosimo, da si te Pogoje natančno preberete pred uporabo naših storitev.
 
 ## 2. Sprejem pogojev
 
-S tem, ko dostopate do naše spletne strani, naročate naše izdelke ali uporabljate naše storitve, potrjujete, da ste prebrali, razumeli in se strinjate, da ste zavezani tem Pogojev. Če se s temi pogoji ne strinjate, vas prosimo, da ne uporabljate naših storitev.
+Z dostopom do naše spletne strani, naročanjem naših izdelkov ali uporabo naših storitev potrjujete, da ste prebrali, razumeli in se strinjate z obveznostmi, določenimi v teh Pogojih. Če se s pogoji ne strinjate, prosimo, da ne uporabljate naših storitev.
 
 ## 3. Izdelki in storitve
 
-### 3.1 Informacije o izdelku
-Vsi opisi izdelkov, specifikacije in ceniki so lahko predmet sprememb brez predhodnega obvestila. Trudimo se, da so vse informacije na naši spletni strani pravilne, vendar ne moremo zagotoviti popolne breznapake.
+### 3.1 Podatki o izdelkih
+Vsi opisi izdelkov, tehnične specifikacije in informacije o cenah se lahko brez predhodnega obvestila spremenijo. Trudimo se, da so vse informacije na naši spletni strani pravilne, vendar ne moremo zagotoviti, da so podatki popolnoma brez napak.
 
 ### 3.2 Naročila in nakupi
-Vsa naročila so pogojena z odobritvijo in razpoložljivostjo. Pridržujemo si pravico, da zavrnemo katerokoli naročilo ali omejimo količine. Cene so lahko predmet sprememb brez predhodnega obvestila.
+Vsa naročila so predmet potrditve in razpoložljivosti. Pridržujemo si pravico, da zavrnemo katerokoli naročilo ali omejimo količine. Cene se lahko spremenijo brez predhodnega obvestila.
 
 ## 4. Pravice intelektualne lastnine
 
 ### 4.1 Lastništvo
-Vsa vsebina na naši spletni strani, vključno z besedili, grafikami, logotipi, slikami in programsko opremo, je last podjetja ConFoot ali njegovih dobaviteljev vsebin in je zaščitena z mednarodnimi zakoni o avtorskih pravicah.
+Vsa vsebina na naši spletni strani, vključno z besedili, grafikami, logotipi, slikami in programsko opremo, je last ConFoot ali njegovih dobaviteljev vsebin in je zaščitena z mednarodnimi zakoni o avtorskih pravicah.
 
 ### 4.2 Omejitve uporabe
-Naše intelektualne lastninske pravice ne smete reproducirati, distribuirati, spreminjati, prikazovati ali uporabljati brez našega predhodnega pisnega soglasja.
+Brez našega predhodnega pisnega soglasja ne smete reproducirati, distribuirati, spreminjati, prikazovati ali uporabljati naše intelektualne lastnine.
 
-## 5. Vedenje uporabnika
+## 5. Vedenje uporabnikov
 
-Ob uporabi naše spletne strani ali storitev se strinjate, da ne boste:
-- kršili veljavnih zakonov ali predpisov
-- posegali v pravice drugih
-- motili delovanja naše spletne strani ali storitev
-- posredovali napačnih ali zavajajočih informacij
-- se ukvarjali s katerokoli dejavnostjo, ki bi lahko škodovala našim sistemom ali drugim uporabnikom
+Pri uporabi naše spletne strani ali storitev se strinjate, da ne boste:
+- kršili veljavnih zakonov ali predpisov,
+- posegali v pravice drugih,
+- motili delovanja naše spletne strani ali storitev,
+- posredovali lažnih ali zavajajočih informacij,
+- se ukvarjali z dejavnostmi, ki bi lahko škodovale našim sistemom ali drugim uporabnikom.
 
 ## 6. Omejitev odgovornosti
 
-V največji zakonsko dovoljeni meri ConFoot ne odgovarja za nobeno posredno, naključno, posebno, posledično ali kazensko škodo, vključno, vendar ne omejeno na izgubo dobička, podatkov, uporabe ali ugleda.
+V največji dovoljeni meri, dovoljeni z zakonom, ConFoot ne bo odgovoren za nobeno posredno, naključno, posebno, posledično ali kazensko škodo, vključno, vendar ne omejeno na izgubo dobička, podatkov, uporabe ali ugleda.
 
-## 7. Odklon jamstva
+## 7. Izjava o odpovedi jamstvu
 
-Naši izdelki in storitve so zagotovljeni "takšni, kot so", brez kakršnih koli jamstev, izrecnih ali implicitnih, vključno, vendar ne omejeno na implicitna jamstva o primernosti za prodajo, primernosti za določen namen ali nekršenje pravic.
+Naši izdelki in storitve so zagotovljeni "takšni, kot so", brez kakršnih koli jamstev, izrecnih ali implicitnih, vključno z implicitnimi jamstvi o primernosti za trgovsko uporabo, primernosti za določen namen ali nesporočljivosti.
 
 ## 8. Odškodninska obveznost
 
-Strinjate se, da boste zavarovali, branili in ograjali ConFoot, njegove vodilne kadre, direktorje, zaposlene in zastopnike pred katerimikoli zahtevki, obveznostmi, škodami, izgubami, stroški ali izdatki, ki izhajajo iz vaše uporabe naših storitev ali kršitve teh pogojev.
+Strinjate se, da boste odškodnovali, branili in držali ConFoot, njegove odgovorne osebe, direktorje, zaposlene in agente brez oblike škode zaradi morebitnih zahtevkov, obveznosti, škod, izgub, stroškov ali izdatkov, ki izhajajo iz vaše uporabe naših storitev ali kršitve teh Pogoj.
 
-## 9. Informacije o elektronskih prodajnih zapisih
+## 9. Podatki o elektronskih prodajnih zapisih
 
-V skladu s češkim zakonom o elektronskih prodajnih zapisih je prodajalec dolžan izdati račun kupcu. Hkrati mora prodajalec prejeto plačilo registrirati pri davčnem upravitelju prek spleta; v primeru tehnične okvare pa najkasneje v 48 urah.
+V skladu s češkim zakonom o elektronskih prodajnih zapisih mora prodajalec kupcu izdati račun. Hkrati je prodajalec dolžan prejeta plačila registrirati pri davčnem upravitelju preko spleta; v primeru tehnične okvare pa najkasneje v roku 48 ur.
 
-## 10. Reševanje potrošniških sporov
+## 10. Reševanje sporov med potrošniki
 
-Češki inšpekcijski urad za trgovino nadzira spoštovanje Zakona št. 634/1992 z. zakon, o varstvu potrošnikov (v veljavni različici). Potrošniki lahko vložijo pritožbe, povezane s sklenitvijo in izvedbo pogodb, pri tem nadzornem organu.
+Češki inšpekcijski nadzor nad spoštovanjem Zakona št. 634/1992 Zb., o varstvu potrošnikov, v spremenjeni obliki, izvaja nadzor nad njegovim spoštovanjem. Potrošniki lahko vložijo pritožbe glede sklepanja in izvajanja pogodb pri tem nadzornem organu.
 
-Če se med prodajalcem in potrošnikom, ki sta sklenila pogodbo, pojavi spor, ki ga ni mogoče rešiti sporazumno, lahko potrošnik predloži predlog za izvensodniško rešitev spora Češkemu inšpekcijskemu uradu za trgovino, Centralnemu inšpektoratu - Oddelek za ADR, na naslovu Štěpánská 15, 120 00 Praha 2, e-pošta: adr@coi.cz, splet: adr.coi.cz, ki nadzira spoštovanje Zakona št. 634/1992 z. zakon o varstvu potrošnikov (v veljavni različici).
+Če pride do spora med prodajalcem in potrošnikom iz sklenjene pogodbe, ki ga ni mogoče rešiti sporazumno, lahko potrošnik predlaga izven sodnega postopka reševanje spora pri Češki inšpekciji za trgovino, Centralni inšpekciji - Oddelek ADR, s sedežem na naslovu Štěpánská 15, 120 00 Praha 2, e-pošta: adr@coi.cz, splet: adr.coi.cz, ki izvaja nadzor nad spoštovanjem Zakona št. 634/1992 Zb., o varstvu potrošnikov, v spremenjeni obliki.
 
-## 11. Veljavno pravo
+## 11. Veljavna zakonodaja
 
-Ti pogoji se urejajo in razlagajo v skladu z zakonodajo Češke republike, ne glede na kolizijske norme.
+Ti Pogoji so urejeni in razlagani v skladu z zakonodajo Češke republike, ne glede na načela kolizije zakonov.
 
 ## 12. Spremembe pogojev
 
-Pridržujemo si pravico, da kadar koli spremenimo te pogoje. Spremembe začnejo veljati takoj z objavo na naši spletni strani. Vaša nadaljnja uporaba naših storitev po kakršnih koli spremembah pomeni vaše sprejetje spremenjenih pogojev.
+Pridržujemo si pravico, da kadar koli spremenimo te Pogoje. Spremembe začnejo veljati takoj po objavi na naši spletni strani. Vaša nadaljnja uporaba naših storitev po kakršnih koli spremembah pomeni, da sprejemate spremenjene Pogoje.
 
 ## 13. Kontaktni podatki
 
-Če imate kakršnakoli vprašanja v zvezi s temi pogoji, nas prosimo kontaktirajte na:
+Če imate kakršnakoli vprašanja glede teh pogojev, nas prosimo kontaktirajte na:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  

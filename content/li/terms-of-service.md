@@ -1,83 +1,78 @@
 ---
-title: "Dienstealgemeine Veurwaarde"
+titel: "Dienstevoorskrieve"
 date: 2025-03-07T16:32:00+01:00
 draft: false
 layout: page
 ---
 
-# Dienstealgemeine Veurwaarde
+# Dienstevoorskrieve
 
-## 1. Introductie
+## 1. Inleiding
 
-Welkom bie ConFoot ("wie," "ons," of "os"). Door os website te betrede of os producte óf diensten te gebroeke, gaet se instemmen mit de deze Dienstealgemeine Veurwaarde ("Veurwaarde"). Lees deze Veurwaarde good door veur t' gebroek van os diensten.
+Welkom bie ConFoot ("wie", "ons" of "us"). Door toegang te kriege tot óz website, producten of dienste, ga je akkoord mit deze Dienstevoorskrieve ("Voorskrieve"). Lees deze Voorskrieve a.U.B. goed door veur dat ge óz dienste gebruukt.
 
-## 2. Aanvaording van de Veurwaarde
+## 2. Aanvaording van de Voorskrieve
 
-Door os website te betrede, os producte te bestelle of os diensten te gebroeke, erkense dat se de Veurwaarde al geleze, verstaon en instemmen mit t' beplekte daj door deze Veurwaarde gebonden wèr. Es se neet instemms, gebroek dan os diensten neet.
+Door het bezoeken van óz website, 't bestellen van óz producten of 't gebruukt van óz dienste, bevestigse dat ge de Voorskrieve gelezen, begrepen en akkoard bint. As se neet akkoard bint, kösse ós dienste neet gebruukt.
 
-## 3. Producte en Dienste
+## 3. Producten en Dienste
 
 ### 3.1 Productinformatie
-Alle productombeschrijvinge, specificaties en priesinformatie kinne óngerwege waere gewijzigd óhne waarschuwing. Wie make redelike pogings um te zeen det alle informatie op os website accuraat is, mer wie kinne neet garandeere det alles foutloos is.
+Alle productbeskriëvings, specificaties en prijzinformatie kinne ótveranderd worde zin sonder voorafige aankündiging. Wie doen ós beste om te verseker dat alle informatie op óz website korrekt is, mer wie kinne neet garandere dat alles foutloos is.
 
-### 3.2 Bestellinge en Aankope
-Alle bestellinge zien onderhevig an acceptatie en beschikbaarheid. Wie behòlde os 't rèt daj iemel bestelle kinne weigere óf de hoeveelhede kinne limiteere. Priese kinne óngerwege gewezige waere óhne waarschuwing.
+### 3.2 Bestelle en Aankope
+Alle bestelle binne óngerhevg an de goedkeuring en beschikbaarheid. Wie behouden 't regt om e bestelling te weigere of de hoeveelheden te begrenze. Priezen kinne ótveranderd worde zin, merne et zal sonder voorafige aankündiging ómfalle.
 
-## 4. Intellektuele Eigendomsrätta
+## 4. Intellektuële Eigendomsrechte
 
-### 4.1 Eigendom
-Alle inhoud op os website, waaronder tekst, grafieken, logo’s, ôafbeeldinge en software, hölt van ConFoot of van zien contentleveraars en is besjtert deur internasionele auteursrechwetgeving.
+### 4.1 Bezit
+Alle inhoud op óz website – insluitend tekst, grafieken, logo’s, beelden en software – is eigendom van ConFoot of zien intellektuële leverancière en is beskerejt deur internationale auteursrechtwetten.
 
-### 4.2 Gebroeksbeperking
-Doe kin de intellektuele eigendom neet reproduceren, distribuere, óf aanpassen, neet tentoonstelle óf gebroeke zonder os voorafgaande schriftelike toestem.
+### 4.2 Gebruuksbeperking
+Ge voeg óz intellektuële eigendomsrechte neet reproduceere, distribuere, aanpassen, tentoonstelle of gebruukt zonder vooraf schriftelijke toestemming.
 
-## 5. Gedrag van Gebroekers
+## 5. Gebroekersgedrag
 
-Bis doe os website óf diensten gebroeke, gaet se akkoer daj neet:
-- De toepasbele wetten óf regeltjes overtrede
-- De rechte van aanderen schende
-- De werking van os website óf diensten hindere
-- Valse óf misleidende informatie inschieëve
-- Zich bezig hale mit enige activiteit die os systemen óf andere gebroekers schade kán doen
+Wanneer ge óz website of dienste gebruukt, ga je akkoord mit ’t volgende neet te doon:
+- Overschreide van geldende wetten of reglementen
+- Inbreke op de rechten van angere
+- Het belemmeren van ’t werking van óz website of dienste
+- Het inleveren van vals of misleidende informatie
+- Deelname aan en activiteiten die óz systemen of angere gebroekers schade kinne beröke
 
-## 6. Aanspraakbeperking
+## 6. Beperkking van Aanspraak
 
-In de maog det door de wet toegelaat is, is ConFoot neet aansprakelijk veur enig indirecte, toevallige, spesjale, gevolgsschade of strafschade, oersjluiting van verlies van winst, gegevens, gebroek of goodwill.
+Voor zover wettelijk mogelik, is ConFoot neet aansprakelijk veur indirecte, toevallige, bijzondere, gevolg- of bestraffende schade, inbegriepe verlies van winst, data, gebruuk of goodwill.
 
 ## 7. Garantieafwijzing
 
-Os producte en diensten zeen gelevert "as is" zunder enige garanties, noch explicit óf impliek, oersjluitende de impliekte garanties van verhandelbaarheid, geskiktheid veur een bepaald doele of non-overtreding.
+Óz producten en dienste worde “as is” geleverd, zónder enige expliciete of impliciete garanties, insluitend maar neet beperkt tot de impliciete garanties van verhandelbaarheid, geschiktheid veur een bepaald doel of niet-inbreuk op rechten.
 
 ## 8. Schadeloosstelling
 
-Se gaet akkoer daj ConFoot, zien bestuursleden, directeuren, werkers en agenten schadeloos stelt, verdedigt en vrijhield van aendra claims, aansprakelikhede, schade, verlies, kosten of uitgaves die voortkomme uut dien gebroek van os diensten óf ’t schenden van deze Veurwaarde.
+Ge stemt ermee in om ConFoot, zien bestuurder, directeur, werknemers en agenten schadeloos te stelle, te verdedige en te behoede veur enige aanspraken, aansprakelijkheden, schade, verliezen, kosten of uitgaven die voortkomme bie ’t gebruukt van óz dienste of ’t overtreden van deze Voorskrieve.
 
-## 9. Informatie euver Elektronische Verkoopsregisters
+## 9. Informatie over Elektronische Verkoopbewijzen
 
-Euver de Tsjechische wet op elektronische verkoopsregisters is de verkoper verplicht um ein bon aan de koper te uutgève. Tezelfde tied moet de verkoper de ontvangen betaling online registrere bie de belastingadministrator; in 't geval van een technische misfunctie, dan neet laoter dan binnen 48 uur.
+Conform de Tsjechische wet op elektronische verkoopbewijzen is de verkoper verpligt om e ontvangstbewijs te verstrekken aon de koper. Tegelelijkt moet de verkoper de ontvangen betaling ónline registrere bij de belastingdienst; in t geval van technische problemen dan neet later dan binnen 48 heur.
 
-## 10. Consumentesk Geschillenbesleuteling
+## 10. Oplosse van Consumentengeschillen
 
-De Tsjechische Handelsinspectiediens hoult de naleving van Wet nr. 634/1992 Coll., aangaand Consumentbescherming, zoals gewiesigd up. Consumenten kinne klage indiende oew de aenslöting en uitvoering van contracten bie dit toezichthoudend orgaan.
+De Tsjechische Autoriteit veur Handelsinspectie ziet toe op de naleving van de wet Nr. 634/1992 Coll., aangaande de consumentenbescherming, zoals herzien. Consumenten kinne klachten indiene over ’t sluiten en uitvoeren van contracten bie dit toezichthoudend orgaan.
 
-Es d'r ein geschil ópstét tussen de verkoper en de consument oew een geconkludeerd contract dat neet deur overeenstemming oplós kin waere, kin de consument ein voorstel indiende veur 'n buitengerechtelijke oplossing van 't geschil bie de Tsjechische Handelsinspectiediens, Centrale Inspectie - ADR Afdeling, geveur op:
-Štěpánská 15,  
-120 00 Prague 2  
-e-mail: adr@coi.cz  
-web: adr.coi.cz  
-det toezichthoudt op de naleving van Wet nr. 634/1992 Coll., aangaand Consumentbescherming, zoals gewiesigd up.
+As ‘t neet lukt om ‘t geschil tussen de verkoper en de consument, voortkomme bie e afgesloten contract, in onderlinge overeenstemming op te losse, kin de consument een voorstel indiene veur ’n buitengerechtelijke schikking bij de Tsjechische Handelsinspectie, Centrale Inspectie – ADR Afdeling, gelegen te Štěpánská 15, 120 00 Praag 2, e-mail: adr@coi.cz, website: adr.coi.cz, die toeziet op de naleving van de wet Nr. 634/1992 Coll., betreffende consumentenbescherming, zoals herzien.
 
-## 11. Toepasselijke Wet
+## 11. Toepasselijk Recht
 
-Deze Veurwaarde zien gereguleerd en geïnterpreteerd in 't sameveur van de wetten van de Tsjechische Republiek, óchne dat er rekening geneum wordt met eventueel conflicterende wetsbepalingen.
+Deze Voorskrieve zyn onderworpe aan en geïnterpreteerd óngeloofg van de wetten van de Tsjechische Republiek, ongeacht de conflictsbepalings.
 
-## 12. Wiezigs an de Veurwaarde
+## 12. Veranderingen van de Voorskrieve
 
-Wie behòlde os 't rèt daj deze Veurwaarde op elk moment kinne wiezige. De wiezige weure direkt in werking treete bij publicatie op os website. Doe blieve os diensten gebruike noa aanderinge, duidt dit op de akkoer mit de aangepaste Veurwaarde.
+Wie behouden ’t regt om deze Voorskrieve op elk moment te wijzigen. Wijziginge treure onmiddellijk in werking ná het plaatsen op óz website. ’t Voortgezette gebruukt van ós dienste na enige wijzigingen betekent dat ge de aangepaste Voorskrieve accepteert.
 
 ## 13. Contactinformatie
 
-As se vraage höbbe oew deze Veurwaarde, neem dan óngs contact op:
+As ge vraoge hès over deze Voorskrieve, neem dan gerust contact op met ós via:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  

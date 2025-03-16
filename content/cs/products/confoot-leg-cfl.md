@@ -6,85 +6,85 @@ gallery:
   - "/images/products/confoot-leg-cfl-1.jpg"
   - "/images/products/confoot-leg-cfl-2.jpg"
   - "/images/products/confoot-leg-cfl-3.jpg"
-shortDescription: "ConFoot-leg CFL je navržena speciálně pro rámové kontejnery, perfektně se přizpůsobuje rámům, což umožňuje využít kontejnery jako úložiště pro kapaliny a další materiály."
-technicalDescription: "Model CFL je vyvinut pro kulové kontejnery, které se používají k přepravě kapalin náročných na odolnost vůči vysokému tlaku, neboť kulový tvar nejlépe rozkládá tlak, ale pro přepravu vyžaduje kolem sebe rámovou konstrukci."
+shortDescription: "ConFoot-leg CFL je navržena speciálně pro rámové kontejnery, dokonale se přizpůsobí rámům, což umožňuje využití kontejnerů jako skladů pro kapaliny a další materiály."
+technicalDescription: "Model CFL je navržen pro sférické kontejnery, které se používají k přepravě kapalin vyžadujících odolnost vůči vysokému tlaku, jelikož sférický tvar tlak nejlépe rozkládá, ale vyžaduje okolní rámy, aby byl kontejner přepravitelný."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Hmotnost"
     value: "24 kg za nohu"
   - name: "Nosnost"
     value: "30 tun"
-  - name: "Nastavitelný rozsah"
+  - name: "Rozsah nastavení"
     value: "1 043 mm až 1 448 mm"
   - name: "Materiál"
     value: "Ocel nejvyšší kvality"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "K dispozici jsou slevy při větším objemu. Pro bližší informace nás kontaktujte."
+pricingNotes: "K dispozici jsou množstevní slevy. Kontaktujte nás pro více informací."
 buyLink: "/contact"
 howToUse: |
-  1. Umístěte nohu CFL do rohu rámu kontejneru
+  1. Umístěte nohu CFL na roh rámu kontejneru
   2. Aktivujte zajišťovací mechanismus
-  3. V případě potřeby nastavte výšku v rozmezí od 1 043 mm do 1 448 mm
+  3. V případě potřeby nastavte výšku v rozsahu od 1 043 mm do 1 448 mm
   4. Opakujte pro všechny potřebné rohy
-  5. Spusťte přívěs a odjeďte, přičemž kontejner zůstane na nohách
+  5. Spusťte návěs a odjeďte, čímž necháte kontejner na nohou
 benefits:
   - title: "Perfektní přizpůsobení rámu"
-    description: "Navrženo tak, aby dokonale sedlo do rámů kulových kontejnerů"
-  - title: "Úložiště pro kapaliny"
-    description: "Umožňuje využití kontejnerů jako úložiště pro kapaliny vyžadující vysokou odolnost vůči tlaku"
+    description: "Navrženo tak, aby se dokonale přizpůsobilo rámům sférických kontejnerů"
+  - title: "Skladování kapalin"
+    description: "Umožňuje využití kontejnerů jako skladů pro kapaliny vyžadující odolnost vůči vysokému tlaku"
   - title: "Speciální design"
-    description: "Navrženo speciálně pro jedinečné požadavky rámových kontejnerů"
-  - title: "Všestranné použití"
-    description: "Vhodné pro různé průmyslové obory, které vyžadují specializované skladování a manipulaci s kontejnery"
+    description: "Navrženo specificky pro jedinečné požadavky rámových kontejnerů"
+  - title: "Univerzální využití"
+    description: "Vhodné pro různá odvětví vyžadující specializované skladování a manipulaci s kontejnery"
   - title: "Okamžitá mobilita"
-    description: "Kontejnery jsou vždy připraveny k přesunu – stačí zaparkovat přívěs pod kontejnerem a pokračovat v cestě"
+    description: "Kontejnery jsou vždy připraveny k přesunu – stačí zařidit návěs pod kontejner a pokračovat v cestě"
   - title: "Optimalizace nákladů"
-    description: "Optimalizuje náklady a čas díky možnosti specializované manipulace s kontejnery bez dodatečného vybavení"
+    description: "Optimalizuje náklady a využití času umožněním specializované manipulace s kontejnery bez dalšího vybavení"
 articleContent: |
   ## Co je ConFoot-leg CFL?
 
-  ConFoot-leg CFL je specializované řešení kontejnerové nohy, navržené specificky pro rámové kontejnery. Na rozdíl od standardních přepravních kontejnerů potřebují kulové kontejnery používané pro přepravu kapalin vyžadujících vysokou odolnost vůči tlaku kolem sebe rám, protože kulový tvar nejlépe rozkládá tlak, ale pro přepravu vyžaduje rámovou konstrukci. Model CFL je navržen tak, aby se těmto rámům dokonale přizpůsobil, což umožňuje využít tyto specializované kontejnery jako úložiště pro kapaliny a další materiály vyžadující tlakovou odolnost.
+  ConFoot-leg CFL je specializované řešení kontejnerových nohou navržené speciálně pro rámové kontejnery. Na rozdíl od standardních námořních kontejnerů, sférické kontejnery používané pro přepravu kapalin vyžadujících odolnost vůči vysokému tlaku potřebují kolem sebe rámy, aby byly přepravitelné, protože sférický tvar tlak nejlépe rozkládá. Model CFL je navržen tak, aby se dokonale přizpůsobil těmto rámům, což umožňuje použití těchto specializovaných kontejnerů jako skladovacích zařízení pro kapaliny a další materiály vyžadující odolnost vůči tlaku.
 
-  ## Klíčové výhody specializované manipulace s kontejnery
+  ## Klíčové výhody pro specializovanou manipulaci s kontejnery
 
-  ConFoot-leg CFL přináší významné provozní výhody firmám, které pracují s rámovými kontejnery, zejména s těmi určenými pro přepravu a skladování kapalin. Umožněním umístění těchto specializovaných kontejnerů na nohy můžete vytvořit flexibilní úložná řešení pro kapaliny a další materiály citlivé na tlak, aniž by bylo třeba budovat trvalou infrastrukturu.
+  ConFoot-leg CFL poskytuje významné provozní výhody pro firmy, které manipulují s rámovými kontejnery, zejména těmi používanými pro přepravu a skladování kapalin. Umožněním umístění těchto specializovaných kontejnerů na nohy lze vytvořit flexibilní skladovací řešení pro kapaliny a další materiály citlivé na tlak, aniž by byla nutná trvalá infrastruktura.
 
-  Model CFL umožňuje optimalizovat provoz specializovaných kontejnerů, poskytující bezpečnou podporu rámovým kontejnerům při nakládce, vykládce a skladování. Tato univerzálnost činí z CFL ideální řešení pro odvětví, která se spoléhají na přepravu a skladování kapalin a dalších materiálů vyžadujících kontejnery odolné vůči tlaku.
+  Model CFL umožňuje firmám optimalizovat jejich operace se specializovanými kontejnery a poskytuje způsob, jak bezpečně podepřít rámové kontejnery během nakládání, vykládání a skladování. Tato univerzálnost činí z CFL ideální řešení pro odvětví spojená s přepravou a skladováním kapalin a dalších materiálů vyžadujících kontejnery odolné vůči tlaku.
 
   ## Jak to funguje
 
-  ConFoot-leg CFL se bezpečně připojuje k rámům specializovaných kontejnerů a poskytuje stabilní oporu, zatímco je kontejner připraven k nakládce, vykládce nebo skladování. Nohy mají nastavitelný rozsah od 1 043 mm do 1 448 mm, což umožňuje flexibilní umístění v různých provozních podmínkách. Každá noha váží 24 kg, což usnadňuje manipulaci obsluhou, a systém současně poskytuje značnou nosnost 30 tun.
+  ConFoot-leg CFL se bezpečně připevňuje k rámům specializovaných kontejnerů a poskytuje stabilní oporu, zatímco je kontejner připraven pro nakládání, vykládání nebo skladování. Nohy nabízejí nastavitelný rozsah od 1 043 mm do 1 448 mm, což umožňuje univerzální umístění v různých provozních prostředích. Každá noha váží 24 kg, což umožňuje jejich snadnou manipulaci, přičemž systém poskytuje značnou nosnost až 30 tun.
 
-  Instalace je jednoduchá:
+  Instalační proces je jednoduchý:
   1. Umístěte nohy CFL do rohů rámu kontejneru
-  2. Aktivujte zajišťovací mechanismus pro zajištění nohou
-  3. Nastavte výšku podle vašich specifických požadavků
-  4. Spusťte přívěs a odjeďte, přičemž kontejner zůstane bezpečně podepřen na nohách
+  2. Aktivujte zajišťovací mechanismus k upevnění nohou
+  3. Podle potřeby nastavte výšku dle vašich specifických požadavků
+  4. Spusťte návěs a odjedete, čímž necháte kontejner bezpečně podepřený o nohy
 
-  Když je čas kontejner přesunout, stačí přívěs znovu umístit pod něj, zajistit kontejner k přívěsu, odstranit nohy a pokračovat v cestě.
+  Když přijde čas přesunout kontejner, stačí zařidit návěs zpět pod něj, zajistit kontejner k návěsu, sejmout nohy a pokračovat v cestě.
 
-  ## Aplikace produktu ConFoot-leg CFL
+  ## Aplikace ConFoot-leg CFL
 
   ### Chemický průmysl
-  Chemický průmysl výrazně profitje ze schopnosti CFL bezpečně podepírat kontejnery určené pro skladování a přepravu chemikálií a tekutých materiálů. Umožněním umístění těchto specializovaných kontejnerů na nohy mohou společnosti vytvořit flexibilní skladovací řešení, která zachovávají integritu tlaku citlivých materiálů a zároveň optimalizují využití prostoru.
+  Chemický průmysl výrazně těží z možnosti CFL bezpečně podepřít kontejnery používané pro skladování a přepravu chemikálií a kapalných materiálů. Umožněním umístění těchto specializovaných kontejnerů na nohy mohou společnosti vytvářet flexibilní skladovací řešení, která zachovávají integritu materiálů citlivých na tlak, a zároveň optimalizovat využití prostoru.
 
-  ### Ropa a plyn
-  V odvětví ropy a plynu přináší CFL cennou flexibilitu při manipulaci s kontejnery určenými pro různé ropné produkty. Schopnost bezpečně umístit tyto kontejnery na nohy umožňuje efektivnější nakládku a vykládku a také vytváří dočasnou skladovací kapacitu během špičkových provozních období.
+  ### Ropný a plynárenský sektor
+  Pro ropný a plynárenský sektor nabízí CFL cennou flexibilitu při manipulaci s kontejnery používanými pro různé ropné produkty. Schopnost bezpečně umístit tyto kontejnery na nohy umožňuje efektivnější nakládací a vykládací operace a také vytvoření dočasné skladovací kapacity během špičkových provozních období.
 
   ### Potravinářský a nápojový průmysl
-  Potravinářský a nápojový průmysl může využít nohy CFL pro kontejnery určené k přepravě a skladování tekutých potravinářských produktů. Stabilita a spolehlivost systému zajišťuje, že tyto citlivé materiály mohou být bezpečně manipulovány a skladovány bez rizika kontaminace nebo poškození.
+  Potravinářský a nápojový průmysl může využít nohy CFL pro kontejnery používané při přepravě a skladování tekutých potravin. Stabilita a spolehlivost systému zajišťují, že tyto citlivé materiály mohou být bezpečně manipulovány a skladovány bez rizika kontaminace či poškození.
 
-  ### Úprava a zásobování vodou
-  Provoz úpravy a zásobování vodou může těžit z možnosti CFL podepírat kontejnery určené pro skladování a přepravu chemikálií pro úpravu vody a dalších tekutých materiálů. Tato schopnost umožňuje flexibilnější a efektivnější řízení těchto nezbytných zdrojů.
+  ### Úprava a dodávka vody
+  Provoz úpravy a dodávky vody může těžit z možnosti CFL podepřít kontejnery používané pro skladování a přepravu chemikálií pro úpravu vody a dalších kapalných materiálů. Tato schopnost umožňuje flexibilnější a efektivnější správu těchto nezbytných zdrojů.
 
   ## Technické specifikace
 
-  - **Nosnost**: 30 tun
-  - **Hmotnost**: 24 kg za nohu
-  - **Nastavitelný rozsah**: 1 043 mm až 1 448 mm
-  - **Materiál**: Ocel nejvyšší kvality s odolným povrchem
-  - **Kompatibilita**: Speciální rámové kontejnery, zejména ty určené pro přepravu kapalin
+  - Nosnost: 30 tun
+  - Hmotnost: 24 kg za nohu
+  - Rozsah nastavení: 1 043 mm až 1 448 mm
+  - Materiál: Ocel nejvyšší kvality s odolnou úpravou povrchu
+  - Kompatibilita: Speciální rámové kontejnery, zejména ty určené pro přepravu kapalin
 
-  ConFoot-leg CFL představuje specializované řešení pro manipulaci s rámovými kontejnery a nabízí podnikům způsob, jak optimalizovat provoz s kulovými kontejnery určenými pro kapaliny a další materiály vyžadující odolnost vůči tlaku. Díky možnosti bezpečné podpory těchto specializovaných kontejnerů na nohou pomáhá CFL podnikům dosáhnout vyšší efektivity a flexibilnosti v oblasti manipulace s kontejnery.
+  ConFoot-leg CFL představuje specializované řešení pro manipulaci s rámovými kontejnery, které firmám nabízí způsob, jak optimalizovat procesy spojené se sférickými kontejnery určenými pro kapaliny a další materiály vyžadující odolnost vůči tlaku. Umožněním bezpečné podpory těchto specializovaných kontejnerů na nohou pomáhá CFL firmám dosáhnout vyšší efektivity a flexibility v manipulaci s kontejnery.
 ---

@@ -1,127 +1,127 @@
 ---
-title: "Ochrana osobných údajov"
-description: "Informácie o spracovaní vašich osobných údajov"
+title: "Zásady ochrany osobných údajov"
+description: "Informácie o spracúvaní vašich osobných údajov"
 layout: "page"
 ---
 
 # Spracovanie osobných údajov
 
-## PODMIENKY SPRACOVANIA OSOBNÝCH ÚDAJOV
+## PODMIENKY SPRACÚVANIA OSOBNÝCH ÚDAJOV
 
-Týmto vám poskytujeme informácie o spracovaní vašich osobných údajov v súlade s Nariadením (EÚ) 2016/679 Európskeho parlamentu a Rady o ochrane fyzických osôb pri spracovaní osobných údajov a o voľnom pohybe takýchto údajov a o zrušení smernice 95/46/ES (ďalej len „GDPR“).
+Týmto vám poskytujeme informácie o spracúvaní vašich osobných údajov v súlade s Nariadením Európskeho parlamentu a Rady (EÚ) 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov a o zrušení smernice 95/46/ES (ďalej len „GDPR“).
 
-## Kto je prevádzkovateľom vašich osobných údajov?
+## Kto je správcom vašich osobných údajov?
 
-Obchodná spoločnosť HZ KONTEJNERY s.r.o., IČO: 03975177, spisová značka: C 240707 vedená Okresným súdom v Prahe, sídlo: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, prevádzková kancelária: Průmyslová 154, 674 01 Třebíč, telefón: +420 608 830 863, emailová adresa: info@hz-containers.com (ďalej len „prevádzkovateľ“).
+Obchodná spoločnosť HZ KONTEJNERY s.r.o., IČO: 03975177, Zápisová značka: C 240707 vedená Mestským súdom v Prahe, so sídlom: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, prevádzkovou kanceláriou: Průmyslová 154, 674 01 Třebíč, telefón: +420 608 830 863, email: info@hz-containers.com (ďalej len „správca“).
 
-Neurčili sme povinného zamestnanca pre ochranu údajov.
+Nomen sme vymenovali poverenú osobu pre ochranu údajov.
 
-## Aké osobné údaje spracovávame?
+## Aké osobné údaje spracúvame?
 
-- Titul, meno a priezvisko, dátum narodenia, rodné číslo, daňové identifikačné číslo, bydlisko, adresa sídla, dodacia adresa (ďalej len „identifikačné údaje“);
+- Titul, meno a priezvisko, dátum narodenia, osobné identifikačné číslo, daňové identifikačné číslo, adresa trvalého pobytu, adresa sídla, adresa pre doručenie (ďalej len „identifikačné údaje“);
 - Emailová adresa, telefón, fax (ďalej len „kontaktné údaje“);
-- Cookies a IP adresa (ďalej len „neidentifikovateľné údaje“).
+- Súbory cookie a IP adresa (ďalej len „neidentifikovateľné údaje“).
 
-## Ako dlho a prečo spracovávame vaše osobné údaje?
+## Ako dlho a prečo spracúvame vaše osobné údaje?
 
-Osobné údaje spracovávame so súhlasom alebo bez neho, v závislosti od účelu spracovania osobných údajov. Ak právne konáme s právnickou osobou, spracovávame identifikačné a kontaktné údaje zástupcu právnickej osoby rovnakým spôsobom ako údaje fyzickej osoby.
+Osobné údaje spracúvame so súhlasom aj bez súhlasu, v závislosti od účelu ich spracovania. Ak legálne konáme voči právnickej osobe, spracúvame identifikačné a kontaktné údaje zástupcu právnickej osoby rovnako, ako keby išlo o fyzickú osobu.
 
-### Osobné údaje, ktoré spracovávame so súhlasom
+### Osobné údaje, ktoré spracúvame so súhlasom
 
-Na základe vášho súhlasu spracovávame identifikačné a kontaktné údaje, aby sme mohli:
-- zasielať naše ponuky písomne (prostredníctvom emailu alebo pošty);
-- komunikovať naše ponuky telefonicky;
-- umožniť registrovaným zákazníkom opakované nákupy.
+Na základe vášho súhlasu spracúvame identifikačné a kontaktné údaje, aby sme mohli:
+- Posielať naše ponuky písomne (emailom alebo poštou);
+- Komunikovať ohľadom našich ponúk telefonicky;
+- Umožniť registrovaným zákazníkom opakované nákupy.
 
-Pre tieto účely spracovávame identifikačné a kontaktné údaje až do odvolania súhlasu.
+Na tieto účely spracúvame identifikačné a kontaktné údaje až do odvolania súhlasu.
 
-Na základe vášho súhlasu spracovávame neidentifikovateľné údaje (pri prehliadaní webových stránok), aby sme mohli:
-- správne zobrazovať webové stránky;
-- odstrániť nefunkčné časti webu;
-- monitorovať návštevnosť webových stránok;
-- vytvárať štatistiky a správy o návštevnosti a merať účinnosť reklamy.
+Na základe vášho súhlasu spracúvame neidentifikovateľné údaje (pri návšteve webových stránok), aby sme mohli:
+- Správne zobrazovať webové stránky;
+- Opravovať nefunkčné časti webu;
+- Monitorovať návštevnosť webu;
+- Vytvárať štatistiky a správy o návštevnosti a merať efektivitu reklamy.
 
-Pre tieto účely spracovávame neidentifikovateľné údaje až do odvolania súhlasu (súhlas sa udeľuje nastavením prehliadača, aby webová stránka mohla ukladať cookies na koncové zariadenie). V zásade nevytvárame individuálne profily online aktivít; nespojujeme spracované údaje s konkrétnou osobou.
+Na tieto účely spracúvame neidentifikovateľné údaje až do odvolania súhlasu (súhlas je udelený nastavením prehliadača na povolenie ukladania súborov cookie na koncové zariadenie). Všeobecne nevytvárame individuálne profily online aktivít; nespojujeme spracúvané údaje s konkrétnou osobou.
 
-### Osobné údaje, ktoré spracovávame bez vášho súhlasu
+### Osobné údaje, ktoré spracúvame bez vášho súhlasu
 
-Na základe nášho oprávneného záujmu, v súvislosti s právnymi úkonmi zameranými na uzatvorenie zmluvy, spracovávame identifikačné a kontaktné údaje, aby sme mohli:
-- komunikovať o veciach právneho vzťahu zmluvy, ktorá sa má uzatvoriť;
-- zaznamenávať požiadavky v súvislosti so zmluvou, ktorá sa má uzatvoriť;
-- uzatvárať zmluvu;
-- hľadať ponuky v prípade, že má byť opätovne predložená na schválenie identická ponuka.
+Na základe nášho oprávneného záujmu, v súvislosti s právnymi úkonmi smerujúcimi k uzatvoreniu zmluvy, spracúvame identifikačné a kontaktné údaje, aby sme mohli:
+- Komunikovať o predmetoch právneho vzťahu vznikajúceho z uzatvorenej zmluvy;
+- Zaznamenať požiadavky v súvislosti s uzatváranou zmluvou;
+- Uzatvoriť zmluvu;
+- Hľadať ponuky v prípade, že má byť identická ponuka opätovne predložená na akceptáciu.
 
-Pre tieto účely spracovávame identifikačné a kontaktné údaje po dobu 1 roka od uplynutia lehoty na prijatie ponuky, alebo od dátumu podania ponuky, ak nie je lehota špecifikovaná.
+Na tieto účely spracúvame identifikačné a kontaktné údaje počas 1 roka od uplynutia lehoty na akceptáciu ponuky, alebo od dátumu predloženia ponuky, ak nie je stanovená lehota.
 
-Na základe plnenia zmluvy spracovávame identifikačné a kontaktné údaje na účely:
-- uplatňovania práv a povinností vyplývajúcich zo zmluvného vzťahu;
-- komunikácie o plnení uzatvorenej zmluvy;
-- zabezpečenia čiastočnej dodávky v súvislosti s plnením uzatvorenej zmluvy (napríklad preprava);
-- identifikácie platby;
-- vybavovania žiadostí (napríklad reklamácií).
+Na základe plnenia zmluvy spracúvame identifikačné a kontaktné údaje za účelom:
+- Uplatňovania práv a povinností vyplývajúcich zo zmluvného vzťahu;
+- Komunikácie o plnení podľa uzatvorenej zmluvy;
+- Zabezpečenia čiastočnej dodávky v súvislosti s plnením podľa uzatvorenej zmluvy (napríklad doprava);
+- Identifikácie platby;
+- Riešenia požiadaviek (napríklad sťažností).
 
-Pre tieto účely spracovávame identifikačné a kontaktné údaje po dobu 3 rokov od dátumu uzatvorenia zmluvy, alebo od dátumu dodania tovaru či služieb na základe uzatvorenej zmluvy, podľa toho, čo nastane neskôr.
+Na tieto účely spracúvame identifikačné a kontaktné údaje počas 3 rokov od dátumu uzatvorenia zmluvy, alebo od dátumu dodania tovaru či služieb podľa uzatvorenej zmluvy, podľa toho, ktorý termín nastane neskôr.
 
-Na základe nášho oprávneného záujmu spracovávame identifikačné a kontaktné údaje na účely:
-- ochrany našich právnych nárokov (v prípadných súdnych alebo správnych konaniach);
-- vedenia vnútorných záznamov a kontrol.
+Na základe nášho oprávneného záujmu spracúvame identifikačné a kontaktné údaje za účelom:
+- Ochrany našich právnych nárokov (v prípadných súdnych alebo správnych konaniach);
+- Vedenia interných záznamov a kontrol.
 
-Pre tieto účely spracovávame identifikačné údaje až do uplynutia zákonných lehoty pre premlčanie, t. j. 10 rokov a navíc 1 rok po ich uplynutí, pokiaľ ide o nároky uplatnené na konci premlčacej doby alebo až do premlčania našich nárokov, ak je premlčacia doba počas uvedenej lehoty pozastavená alebo prerušená.
+Na tieto účely spracúvame identifikačné údaje až do uplynutia zákonných lehot, t. j. 10 rokov a 1 rok po ich uplynutí ak ide o nároky uplatnené na konci lehoty, alebo až do obmedzenia našich nárokov, ak je lehota počas uvedenej doby pozastavená alebo prerušená.
 
-Z dôvodu splnenia zákonných povinností spracovávame identifikačné a kontaktné údaje, aby sme mohli plniť povinnosti vyplývajúce z týchto právnych predpisov:
+V dôsledku dodržiavania zákonných povinností spracúvame identifikačné a kontaktné údaje, aby sme mohli splniť povinnosti vyplývajúce z týchto právnych predpisov:
 - Zákon č. 89/2012 Z.z., Občiansky zákonník;
 - Zákon č. 634/1992 Z.z., o ochrane spotrebiteľa;
 - Zákon č. 235/2004 Z.z., o dani z pridanej hodnoty;
 - Zákon č. 563/1991 Z.z., o účtovníctve.
 
-Pre tieto účely spracovávame identifikačné údaje po dobu 10 rokov od ukončenia právneho vzťahu zo uzatvorenej zmluvy alebo do ukončenia príslušného konania, ak bolo zahájené v uvedenej lehote a nebolo ukončené skôr.
+Na tieto účely spracúvame identifikačné údaje počas 10 rokov od ukončenia právneho vzťahu z uzatvorenej zmluvy alebo až do ukončenia príslušného konania, ak bolo zahájené počas uvedenej doby a nedošlo k jeho ukončeniu pred uplynutím tejto lehoty.
 
-## Komu poskytujeme vaše osobné údaje?
+## Komu odovzdávame vaše osobné údaje?
 
-V súvislosti s plnením zmluvy môžeme poskytovať osobné údaje iným subjektom, ktoré sa podieľajú na plnení na základe uzatvorenej zmluvy:
+V súvislosti s plnením zmluvy môžeme odovzdať osobné údaje iným subjektom, ktoré sa podieľajú na plnení podľa uzatvorenej zmluvy:
 - Subjektom prevádzkujúcim platobné systémy za účelom zabezpečenia platby (banky a platobné inštitúcie);
-- Subjektom poskytujúcim prepravu (zmluvní prepravcovia);
-- Našim dodávateľom, ak je to potrebné pre plnenie uzatvorenej zmluvy.
+- Subjektom zabezpečujúcim prepravu (dopravcovia podľa zmluvy);
+- Našim dodávateľom, ak je to potrebné pre plnenie podľa uzatvorenej zmluvy.
 
-V súvislosti s našimi oprávnenými záujmami a pri plnení zákonných povinností môžeme poskytovať osobné údaje aj iným subjektom, ako napríklad:
+V súvislosti s našimi oprávnenými záujmami a pri plnení zákonných povinností môžeme odovzdať osobné údaje aj iným subjektom, ako napríklad:
 - Účtovníkom, daňovým poradcov a audítorom (účtovníctvo a daňové poradenstvo);
-- Advokátom, notárom, súdnym znalcom, tlmočníkom (ochrana našich právnych nárokov);
-- Poisťovniam (plnenie poistnej zmluvy);
+- Právnikom, notárom, exekútorským kanceláriám, súdnym znalcov a tlmočníkom (ochrana našich právnych nárokov);
+- Poistovniam (plnenie podľa poistnej zmluvy);
 - Poskytovateľom cloudových služieb;
-- Dodávateľom IT technológií a sieťových služieb a administrátorom;
-- Súdom, orgánom štátnej správy a iným verejným orgánom.
+- Dodávateľom a správcom IT technológií a sietí;
+- Súdom, orgánom štátnej správy a ďalším verejným orgánom.
 
-Neidentifikovateľné údaje získané na základe súhlasu môžeme poskytovať aj iným subjektom, ako napríklad:
+Neidentifikovateľné údaje získané na základe súhlasu môžu byť odovzdané aj iným subjektom, ako napríklad:
 - Reklamným a sociálnym sieťam;
 - Dodávateľom reklamných a marketingových služieb;
-- Dodávateľom IT technológií a sieťových služieb a administrátorom.
+- Dodávateľom a správcom IT technológií a sietí.
 
-V rámci poskytovania údajov môžeme vaše údaje poskytovať aj do tretích krajín mimo Európskeho hospodárskeho priestoru, ktoré zabezpečujú primeranú úroveň ochrany osobných údajov, alebo ak príjemca prevezme záväzok dodržiavať štandardné zmluvné doložky vydané Európskou komisiou (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
+V rámci prenosu údajov môžeme vaše údaje odovzdať aj do tretích krajín mimo Európskeho hospodárskeho priestoru, ktoré zabezpečujú primeranú úroveň ochrany osobných údajov, alebo ak príjemca súhlasí s dodržiavaním štandardných zmluvných doložiek vydaných Európskou komisiou (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
 
 ## Z akých zdrojov získavame osobné údaje?
 
-Zvyčajne spracovávame osobné údaje, ktoré nám sú poskytnuté v súvislosti s uzatvorením zmluvy alebo pri komunikácii s nami.
+Obvykle spracúvame osobné údaje, ktoré nám sú poskytnuté v súvislosti s uzatvorením zmluvy alebo pri komunikácii s nami.
 
-Môžeme získať dodatočné informácie od bánk alebo poskytovateľov platobných služieb, ako napríklad čísla platobných účtov.
+Mohli by sme získať dodatočné informácie od bánk alebo poskytovateľov platobných služieb, napríklad čísla platobných účtov.
 
-V niektorých prípadoch máme právo získať osobné údaje z verejných registrov, najmä v súvislosti s našimi oprávnenými záujmami.
+V niektorých prípadoch máme nárok získať osobné údaje z verejných registrov, najmä v súvislosti s našimi oprávnenými záujmami.
 
-## Aké práva máte v súvislosti so spracovaním osobných údajov?
+## Aké práva máte pri spracúvaní osobných údajov?
 
-Som povinní vás informovať aj o vašich právach v súvislosti so spracovaním osobných údajov. Vo všetkých záležitostiach týkajúcich sa spracovania vašich osobných údajov nás môžete kontaktovať na emailovej adrese info@hz-containers.com. Vašu žiadosť spracujeme bez zbytočného odkladu, najneskôr však do jedného mesiaca. V mimoriadnych prípadoch máme právo túto lehotu predĺžiť o ďalšie dva mesiace, o čom vás v prípade potreby budeme informovať.
+Sme tiež povinní vás informovať o vašich právach v súvislosti so spracúvaním osobných údajov. Vo všetkých záležitostiach týkajúcich sa spracúvania vašich osobných údajov nás môžete kontaktovať na emailovej adrese info@hz-containers.com. Vašu žiadosť spracujeme bez zbytočného odkladu, najneskôr však do jedného mesiaca. V mimoriadnych prípadoch máme právo predĺžiť túto lehotu o ďalšie dva mesiace, o čom vás v prípade potreby informujeme.
 
-1. Máte právo na prístup k osobným údajom, t. j. právo získať od nás informácie o (i) aké osobné údaje o vás spracovávame, (ii) na aký účel, (iii) na akú dobu, (iv) odkiaľ ich získavame, (v) komu ich poskytujeme, (vi) kto ich spracováva okrem nás, (vii) či dochádza k automatizovanému rozhodovaniu vrátane profilovania; (viii) aké ďalšie práva máte týkajúce sa ich spracovania; preto si môžete vyžiadať potvrdenie, či určité osobné údaje o vás spracúvame, a ak áno, máte právo získať prístup k týmto osobným údajom. Môžete si od nás vyžiadať kópiu spracovaných osobných údajov; prvú kópiu vám poskytneme bez poplatku, ďalšie kópie za poplatok. Pri úprave vašich práv nesmie dôjsť k narušeniu práv a slobôd iných osôb;
+1. Máte právo na prístup k osobným údajom, t. j. právo získať od nás informácie o tom, (i) aké osobné údaje o vás spracúvame, (ii) na aký účel, (iii) na akú dobu, (iv) odkiaľ ich získavame, (v) komu ich odovzdávame, (vi) kto ich spracúva okrem nás, (vii) o skutočnosti, že dochádza k automatizovanému rozhodovaniu vrátane profilovania, (viii) aké ďalšie práva máte v súvislosti s ich spracúvaním; preto nás môžete požiadať o potvrdenie, či sú niektoré z vašich osobných údajov spracúvané, a ak áno, máte právo na prístup k týmto údajom. Môžete nás požiadať o kópiu spracúvaných osobných údajov; prvú kópiu vám poskytneme bez poplatku, ďalšie kópie za poplatok. Pri uplatnení tohto práva však nesmie byť narušené právo a sloboda iných osôb.
 
-2. Máte právo na opravu alebo doplnenie osobných údajov, ak zistíte, že spracúvame nepresné alebo nesprávne údaje;
+2. Máte právo na opravu alebo doplnenie osobných údajov, ak zistíte, že ich spracúvame nepresne alebo nesprávne;
 
-3. Máte právo na vymazanie osobných údajov, čo splníme bez zbytočného odkladu, ak je splnená aspoň jedna z týchto podmienok: (i) osobné údaje už nepotrebujeme na stanovený účel spracovania; (ii) odvoláte súhlas so spracovaním osobných údajov a ide o osobné údaje, pre ktoré je súhlas nevyhnutný a neexistuje žiadny iný právny dôvod na spracovanie; (iii) po vašom námitku proti spracovaniu osobných údajov na základe nášho oprávneného záujmu zistíme, že už nemáme oprávnené záujmy, ktoré by odôvodňovali takéto spracovanie; (iv) spracovanie osobných údajov prestalo byť v súlade s všeobecne záväznými predpismi. Toto sa neuplatní, ak osobné údaje potrebujeme na určenie, uplatnenie alebo obhajobu našich právnych nárokov;
+3. Máte právo na vymazanie vašich osobných údajov, čo vyhovoríme bez zbytočného odkladu, ak je splnený jeden z nasledujúcich dôvodov: (i) osobné údaje už nepotrebujeme na uvedený účel spracovania; (ii) odvoláte súhlas so spracovaním osobných údajov, a ide o údaje, pre ktoré je súhlas nevyhnutný, pričom neexistuje iný zákonný dôvod na ich spracovanie; (iii) po vašej námietke proti spracovaniu osobných údajov na základe našich oprávnených záujmov zistíme, že už nemáme oprávnené dôvody na takéto spracovanie; (iv) spracovanie osobných údajov prestalo byť v súlade s všeobecne záväznými predpismi. Toto sa neuplatní, ak údaje potrebujeme na určenie, uplatnenie alebo obhajobu právnych nárokov;
 
-4. Máte právo na obmedzenie spracovania osobných údajov, čo vám v určitých prípadoch umožňuje požiadať o označenie vašich osobných údajov ako sporných a o to, aby takéto údaje neboli spracovávané po určitú dobu; túto požiadavku musíme vyhovieť, pokiaľ: (i) popierate presnosť osobných údajov do doby, kým sa nedohodneme, ktoré údaje sú správne; (ii) spracovávame osobné údaje bez dostatočného právneho základu, ale namiesto vymazania si vyžiadate len ich obmedzenie; (iii) osobné údaje nám už nie sú potrebné na stanovené účely spracovania, ale vy ich vyžadujete na určenie, uplatnenie alebo obhajobu vašich právnych nárokov; (iv) ak namietate proti ich spracovaniu. Počas obdobia, počas ktorého preverujeme, či je váš námitka opodstatnená, sme povinní spracovanie vašich osobných údajov obmedziť;
+4. Máte právo na obmedzenie spracúvania osobných údajov, čo vám v niektorých prípadoch umožňuje požadovať, aby boli vaše osobné údaje označené a aby s nimi nebolo nakladané spracovanie počas obmedzeného obdobia; túto požiadavku musíme vyhovieť, keď: (i) popierate presnosť údajov až do dohody o tom, ktoré údaje sú správne; (ii) spracúvame osobné údaje bez dostatočného právneho základu, a namiesto vymazania požadujete iba ich obmedzenie; (iii) údaje už nepotrebujeme na uvedené účely, ale vy ich vyžadujete na určenie, uplatnenie alebo obhajobu vašich právnych nárokov; (iv) ak vznesiete námietku proti spracovaniu. Počas obdobia, kedy zisťujeme, či je vaša námitka opodstatnená, sme povinní spracúvanie vašich údajov obmedziť;
 
-5. Máte právo na prenositeľnosť údajov, t. j. právo získať od nás všetky vaše osobné údaje, ktoré ste nám poskytli a ktoré spracovávame na základe vášho súhlasu alebo na základe plnenia zmluvy; poskytneme vám ich v štruktúrovanom, bežne používanom a strojovo čitateľnom formáte;
+5. Máte právo na prenosnosť údajov, t. j. právo získať od nás všetky vaše osobné údaje, ktoré ste nám poskytli a ktoré spracúvame na základe vášho súhlasu alebo v rámci plnenia zmluvy; tieto údaje vám poskytneme v štruktúrovanom, bežne používanom a strojovo čitateľnom formáte;
 
-6. Máte právo namietať spracovaniu osobných údajov, ktoré prebieha na základe nášho oprávneného záujmu, alebo ak ste nám udelili súhlas so spracovaním osobných údajov. Spracovanie osobných údajov ukončíme, pokiaľ nepreukážeme závažné oprávnené dôvody na pokračovanie takéhoto spracovania;
+6. Máte právo namietať proti spracovaniu osobných údajov, ktoré prebieha na základe našich oprávnených záujmov, alebo ak ste nám udelili súhlas so spracovaním. Prestaneme s ich spracovaním, pokiaľ nebudeme mať vážne oprávnené dôvody pokračovať v tomto spracovaní;
 
-7. Máte právo kedykoľvek odvolať súhlas, ktorý ste nám udelili so spracovaním osobných údajov;
+7. Máte právo kedykoľvek odvolať súhlas, ktorý ste nám udelili na spracovanie osobných údajov;
 
-8. Máte právo podať sťažnosť príslušnému dozornému orgánu. Toto právo môžete uplatniť najmä v prípade, že sa domnievate, že vaše osobné údaje spracúvame neoprávnene alebo v rozpore s všeobecne záväznými právnymi predpismi. Sťažnosť môžete podať Úradu pre ochranu osobných údajov (www.uoou.cz).
+8. Máte právo podať sťažnosť príslušnému dozornému orgánu. Toto právo môžete uplatniť najmä v prípade, že máte podozrenie, že osobné údaje spracúvame bez oprávnenia alebo v rozpore s všeobecne záväznými právnymi predpismi. Sťažnosť môžete podať Úradu pre ochranu osobných údajov (www.uoou.cz).

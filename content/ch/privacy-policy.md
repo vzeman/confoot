@@ -1,127 +1,146 @@
 ---
-title: "Privatsphär Richtlinie"
-description: "Informatione zur Verarbetig vo dinere persöndlige Date"
+title: "Privatsphärrichtlini"
+description: "Informatione zue dr Verarbetig vo dine persönliche Date"
 layout: "page"
 ---
 
-# Verarbetig vo persöndlige Date
+# Verarbetig vo persönliche Date
 
-## BEDINGIGE FÜR D'VERARBETIG VON PERSÖNDLIGE DATE
+## BEDINGIGE FÜR D'VERARBEITIG VON PERSÖNLICHE DATE
 
-Mir informiered dich daüber, wie mir dini persöndlige Date verarbetet, i Übereinstimmig mit dr Verordnig (EU) 2016/679 vom Europäesche Parlament und em Rat, betreffend dr Schtutz vo natürliche Persönd i Bezug uf d'Verarbetig vo persöndlige Date und dr freie Bewegig vo dene Date, und wo d'Direktiv 95/46/EC ufghebt (nachhär "GDPR").
+Mir informiere dich da mit iiber dr Verarbetig vo dine persönliche Date iiber de Verordnig (EU) 2016/679 vom Europäische Parlament und vom Rat zum Schutz vo de natürleche Persone im Zämmehang mit dr Verarbetig vo persönliche Date und dr freie Bewegig vo de Date – und händ d Richtlinie 95/46/EC ufgehobe (nachfolgend "DSGVO" genannt).
 
-## Wär isch dr Verantwortlech vo dine persöndlige Date?
+## Wer isch dr Verantwortlich für dini persönliche Date?
 
-Ds Gschäftsunternehmä HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Akte-Nr.: C 240707 (verwaltet vom Gemeindegericht in Prag), Sitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Betriebsbüro: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail: info@hz-containers.com (nachhär: "Verantwortlech").
+D'Firma HZ KONTEJNERY s.r.o., ID-Nr.: 03975177, Akten-Nr.: C 240707 (eingetrage bim Gemeindegericht i Prag), Sitz: Slavníkova 2357/9, Břevnov, 169 00 Prag 6, Betriebsbüro: Průmyslová 154, 674 01 Třebíč, Telefon: +420 608 830 863, E-Mail-Adresse: info@hz-containers.com (nachfolgend: "Verantwortlich").
 
-Mir hend kei Datenschutzbeauftragte abgstellt.
+Mir händ kei Datenschutzbeauftragte ernannt.
 
-## Welche persöndlige Date mir verarbetet
+## Welche persönliche Date verarbeite mir?
 
-- Titel, Vorname und Nachname, Geburtsdatum, Persöndlichkeitsnummer, Steuer-Identifikationsnummer, Wohnadress, Sitz bzw. Registrationsadress, Lieferadress (nachher "Identifikationsdate");
-- E-Mail-Adress, Telefon, Fax (nachher "Kontaktdate");
-- Cookies und IP-Adress (nachher "nid-identifizierte Date").
+- Titel, Vorname und Nachname, Geburtsdatum, persönle Identifikationsnummer, Steueridentifikationsnummer, Wohnsitz, Sitz (bzw. Firmenadresse) und Lieferadress (nachfolgend "Identifikationsdate");
+- E-Mail-Adresse, Telefon, Fax (nachfolgend "Kontaktdaten");
+- Cookies und IP-Adress (nachfolgend "nich-identifizierte Date").
 
-## Wie lang und warum mir dini persöndlige Date verarbetet
+## Wie lang und warum verarbeite mir dini persönliche Date?
 
-Mir verarbetet persöndlige Date mit oder ohni din Einverstandnis, je nachdem welche Zweck dr Dateverarbetig erfüllt. Wenn mir mit ere juristische Person schaffe, verarbetet mir d'Identifikations- und Kontaktdate vom Vertreter uf gliichi Wis wie bi ere natürleche Person.
+Mir verarbeite persönliche Date mit oder ohni dini Einwilligung, abhängig vom jeweilige Zweck der Verarbetig. Wenn mir mit ere juristische Person z'tue hend, verarbeite mir d'Identifikations- und Kontaktdaten vom bevollmächtigte Vertreter – so wi mir das bi ere natürleche Person mache.
 
-### Persöndlige Date, wo mir mit din Einverstandnis verarbetet
+### Persönliche Date, wo mir mit dinere Einwilligung verarbeite
 
-Basierend uf dim Einverstandnis verarbetet mir d'Identifikations- und Kontaktdate, damit mir:
-- üseri Offerte schriblich versände (per E-Mail oder Post);
-- üseri Offerte am Telefon erläuteret;
-- registrierte Chundene d'Möglichkeit gäh, Wiederchaufe z'mache.
+Basierend uf dinere Einwilligung verarbeite mir Identifikations- und Kontaktdaten, damit mir chönd:
+- Üsi Offerte schriftlich verschicke (per E-Mail oder Post);
+- Üsi Offerte per Telefon kommuniziere;
+- Registrierte Chunde mehfach z'bschaffe.
 
-Für die Zweck verarbetet mir d'Identifikations- und Kontaktdate, bis du din Einverstandnis zruggzoge hesch.
+Für die Zwecke verarbeite mir d'Identifikations- und Kontaktdaten, bis du din Widerruf abgeisch.
 
-Basierend uf din Einverstandnis verarbetet mir nid-identifizierte Date (wenn du Websitä bsuechsch), damit mir:
-- d'Site korrekt aazeige chönd;
-- nid-funktionieri Teil vo dr Site repariere chönd;
-- dr Site-Verkehr überwache chönd;
-- Statistike und Verkehrsbericht erstelle und d'Wirksamkeit vo Werbung mässe chönd.
+Basierend uf dinere Einwilligung verarbeite mir au nich-identifizierte Date (wenn du Websitte bsuechscht), damit mir chönd:
+- Websitte korrekt aazeige;
+- Niefunktionali Partii vo dr Website behobe;
+- Dr Traffic uf dr Website überwache;
+- Statistike und Traffic-Bericht erstelle und d'Wärchig vo dr Werbig messe.
 
-Für die Zweck verarbetet mir nid-identifizierte Date, bis du din Einverstandnis zruggzoge hesch (din Einverstandnis wird erteilt, wenn du din Browser so iischaltisch, dass d'Site Cookies uf dim Endgerät cha speichere). Im Allgmeine erstelled mir kei individuelli Profile vo dim Online-Verhalte und verknüpft d'verarbetete Date nöd mit ere bestimmete Persoon.
+Für diese Zwecke verarbeite mir d'nich-identifizierbari Date, bis du dini Einwilligung zruggzogsch (d'Einwilligung wird i de Browser-Instellig geh, wo dr Website erlaubt, Cookies uf dim Endgerät z'speichere). Grundsätzlech erstelle mir kei individuell Profile vo dinere Online-Aktivität und verknüpfe d'verarbeiteten Date nöd mit ere spezifische Persoon.
 
-### Persöndlige Date, wo mir ohni din Einverstandnis verarbetet
+### Persönliche Date, wo mir ohni dinere Einwilligung verarbeite
 
-Basierend uf üsem berechtigte Interesse und im Zämehang mit rechtliche Ajetioune, wo uf dr Vertragsabschluss abzieled, verarbetet mir d'Identifikations- und Kontaktdate, damit mir:
-- über s'Gschäftsobjekt vom z'abschliessende Vertrag kommuniziere chönd;
-- Aaforderige im Zämehang mit em Vertrag ufzeichne chönd;
-- en Vertrag abschliesse chönd;
-- Offerte sueche, falls es identischs Angebot zur Akzeptanz wider emol iibrunge wird.
+Basierend uf üsem berechtigte Interesse im Zämmehang mit rächtliche Handlige, wo dr Abschluss vo ere Vertrag zum Ziel hend, verarbeite mir Identifikations- und Kontaktdaten, damit mir chönd:
+- Übere Inhalt vo dr rächtliche Bezog zum z'abschliessende Vertrag kommuniziere;
+- Aaforderige im Zämmehang mit em z'abschliessende Vertrag erfasse;
+- E Vertrag abschliesse;
+- Offerte sueche, falls en identischi Offerte nochmals vorleged wird.
 
-Für die Zweck verarbetet mir d'Identifikations- und Kontaktdate für e Zeitraum vo 1 Jahr ab em Ablauf vo dr Frist zur Akzeptanz vo dr Offerte oder ab em Datum vo dr Iibruech, falls kei Frist explizit aagee wird.
+Für diese Zwecke verarbeite mir d'Identifikations- und Kontaktdaten für e Zeitraum vo 1 Jahr ab em Ablauf vo dr Annahmsfrist für d'Offerte, oder ab em Datum, wo d'Offerte iigereicht worde isch (falls kei Frist aagee isch).
 
-Basierend uf dr Erfüllig vo enem Vertrag verarbetet mir d'Identifikations- und Kontaktdate, um:
-- dini Rechte und Pflichte, wo usem Vertrag entstöh, umsetze z'chönne;
-- über d'Erfüllig im Zämehang mit em abgeschlossene Vertrag z'kommuniziere;
-- e liitigi Teillieferig im Zämehang mit dr Vertragserfüllig (zum Bispill Transport) z'gwährleiste;
-- d'Zahlig zuordne;
-- Aaforderige (zum Bispill Chläger) z'bearbeite.
+Basierend uf dr Vertragserfüllig verarbeite mir Identifikations- und Kontaktdaten zum Zweck vo:
+- D’Usüebig vo Rechtest und Pflichte usem Vertrag;
+- dr Kommunikation bezüglich dr Erfüllig vom abgeschlossene Vertrag;
+- dr Sicherstellig vo ere Teillieferig im Zämmehang mit dr Vertragserfüllig (zum Bispil Transport);
+- dr Identifikatioun vo de Zahlung;
+- dr Bearbeitig vo Aafrogä (zum Bispil Reklamatione).
 
-Für diese Zweck verarbetet mir d'Identifikations- und Kontaktdate für e Zeitraum vo 3 Jahr ab em Datum vom Vertragsabschluss oder ab em Datum vo dr Lieferung vo Ware bzw. Dienschtleistige im Zämehang mit em Vertrag – je nachdem, welches Datum später isch.
+Für diese Zwecke verarbeite mir d'Identifikations- und Kontaktdaten für e Zeitraum vo 3 Jahr ab em Datum vom Vertragsschluss oder ab em Datum vo de Lieferig vo Ware oder Dienschtleistige – je nachdem, welchs spöter isch.
 
-Basierend uf üsem berechtigte Interesse verarbetet mir d'Identifikations- und Kontaktdate, um:
-- üsi rechtliche Forderige z'schütze (im erfolgverspräche Geriich- oder Verwaltungsverfahren);
-- interne Uufzeichnige und Kontrole dürzfüehre.
+Basierend uf üsem berechtigte Interesse verarbeite mir Identifikations- und Kontaktdaten zum Zweck vo:
+- dr Schütz vo üse rächtliche Anspruch (im mögliche Gerichts- oder Verwaltungsverfahren);
+- dr Fahri vo interni Aufzeichnige und Kontrollen.
 
-Für die Zweck verarbetet mir d'Identifikationsdate bis dr Ablauf vo dr gesetzlich vorgegebene Verjährigsfriste, also 10 Jahr und zusätzlich 1 Jahr nach em Ablauf in Bezog uf Forderige, wo am Schluss vo dr Frist geltend gmacht worde sind oder bis zur Verjährig vo üse Forderige – falls d'Frist zwüschezitlich ufghebelet oder unterbroche wird.
+Für diese Zwecke verarbeite mir d'Identifikationsdate, bis d'gesetzliche Verjährigsfrist ablouft – das heisst 10 Jahr und plus 1 Jahr nach Ablauf vo dr Frist (bezüglich d'Anspruch, wo genau am Letzti Tag geltend gmacht worde sind) oder bis d'Verjährig vo üse Anspruch, falls d'Frist ufgschobe oder unterbroche worde isch.
 
-Wäge dr Erfüllig vo gesetzliche Verpflichtige verarbetet mir d'Identifikations- und Kontaktdate, um folgende gesetzliche Verpflichtige einzuhalten:
-- Gesetz Nr. 89/2012 Coll., Zivilgesetzbuch;
-- Gesetz Nr. 634/1992 Coll., über de Konsumenteschutz;
-- Gesetz Nr. 235/2004 Coll., über d'MwSt;
-- Gesetz Nr. 563/1991 Coll., über d'Rechnigslegung.
+Wäge dr Erfüllig vo rächtliche Verpflichtige verarbeite mir d'Identifikations- und Kontaktdaten, damit mir d'Verpflichtige usemene rächtliche Regle erfölle:
+- Akt Nr. 89/2012, Bürgerlichs Gesetzbuch;
+- Akt Nr. 634/1992, zum Schutz vo de Verbrauchär;
+- Akt Nr. 235/2004, iiber d'Vermehrti Wärtsteuer;
+- Akt Nr. 563/1991, iiber d'Rechnigslegig.
 
-Für die Zweck verarbetet mir d'Identifikationsdate für e Zeitraum vo 10 Jahr ab dr Beendigig vo dr rechtliche Bezihig us em abgschlossene Vertrag oder bis s'Ende vom entsprechende Verfahren, falls s'Verfahren während däne Zeitraum iigleit wird und nöd früehzeitig abschlosse wird.
+Für diese Zwecke verarbeite mir d'Identifikationsdate für e Zeitraum vo 10 Jahr ab em Abbruch vo dr rächtliche Bezog usem abgeschlossene Vertrag oder bis zum Ändi vom jeweilige Verfahren (falls das während däm Zeitraum aagfange worde isch und nöd vorher abschlosse isch).
 
-## A welem mir dini persöndlige Date wiitrage
+## An wele leitet mir dini persönliche Date wyter?
 
-I Zämehang mit dr Vertragserfüllig chönd mir dini persöndlige Date wiitrage a anderi Partei, wo an dr Vertragserfüllig mitwirke:
-- Partei, wo Zahlungssystem betreuet, um d'Zahlig sicherz'stelle (Banke und Zahlungsinstitute);
-- Partei, wo Transport-Dienschtleistige erbringe (Vertragsbeförderer);
-- üsi Lieferante, falls das fir d'Verarbetig vo dr Vertrag nötig isch.
+Im Zämmehang mit dr Vertragserfüllig chönd mir persönliche Date wyterleite a anderi Partei, wo bi dr Erfüllig usem abgeschlossene Vertrag mitwirked:
+- Organisatione, wo Zahltssysteme betreibe, zum Zweck dr Sicherstellig vo de Zahlig (Banke und Zahlungseinrichtige);
+- Organisatione, wo Transport leistet (vertraglich Spediteure);
+- Üsi Lieferante, falls das nötig isch für d'Erfüllig usem abgeschlossene Vertrag.
 
-I Zämehang mit üsem berechtigte Interesse und zur Erfüllig vo gesetzliche Verpflichtige chönd mir dini persöndlige Date o wiitrage a anderi Partei, wie zum Bispill:
-- Buchhalter, Steuerberater und Revisor (Buchfüerig und steuerlechi Beratung);
-- Affoziäti, Notare, Inkassounternehmige, Gerichtsgutachter, Übersetzer (zum Schtze vo üse rechtliche Forderige);
-- Versicherigsgesellschaften (zur Vertragserfüllig vo enem Versicherungskontrakt);
-- Cloud-Service-Anbieter;
-- IT-Technologie- und Netzwerkanbieter sowie Administratoren;
-- Gerichte, staatlich Verwaltigsorgan und anderi öffentliche Behörde.
+Im Zämmehang mit üse berechtigte Interesse und zur Erfüllig vo rächtliche Verpflichtige chönd mir persönliche Date au wyterleite a anderi Organisatione, wie z. B.:
+- Buchhalter, Steuerberater und Revisione (bei de Rechnigs- und Steuerberatung);
+- Anwälte, Notare, Inkassounternehme, Gerichtsexperte, Dolmetscher (zum Schütz vo üse rächtliche Anspruch);
+- Versicherigsunternehmen (bei dr Erfüllig usem Versicherigsvertrag);
+- Cloud-Dienstleister;
+- IT-Technologie- und Netzwerklieferante sowie Administratoren;
+- Gericht, staatlich Verwaltungsorgane und anderi öffentlechi Behörde.
 
-Nid-identifizierte Date, wo uf din Einverstandnis beruhend erfasst worde sind, chönd mir wiitrage a anderi Partei, wie zum Bispill:
-- Werbe- und Soziale Netzwerke;
-- Lieferante vo Werbe- und Marketingdienscht;
-- IT-Technologie- und Netzwerkanbieter sowie Administratoren.
+Nich-identifizierbari Date, wo uf dinere Einwilligung basiere, chönd mir wyterleite a anderi Partei, wie z. B.:
+- Werbig und soziale Netzwerke;
+- Lieferante vo Werbig- und Marketingdienschte;
+- IT-Technologie- und Netzwerklieferante sowie Administratoren.
 
-Im Zämehang mit dr Wiitrag vo Date chönd mir dini Date o wiitrage in Drittländer us em europäesche Wirtschaftsraum, wo e adäquats Schtutzniveau für persöndlige Date gewährleiste, oder falls dr Empfänger sich verpflichtet, dr Standard-Vertragsklausle vo dr Europäesche Kommission (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087) einzhalte.
+Im Zämmehang mit dr Wyterleitig vo Date chönd mir dini Date au in Drittstaaten (usserhalb vom Europäische Wirtschaftsraum) wyterleite, wo es adäquats Schutzniveau für persönliche Date gewährleiste, oder falls dr Empfänger sich verpflichtet, di standard Vertragsklausel vo dr Europäische Kommission (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087) yizhalte.
 
-## Vo wele Quelle mir persöndlige Date erhalte
+## Vo wele Quelle bechömed mir di persönliche Date?
 
-In dr Regel verarbetet mir persöndlige Date, wo du üs im Zämehang mit em Vertragsabschluss oder bi de Kommunikation iiberchunn hesch.
+Grundsätzlech verarbeite mir jene persönliche Date, wo du üns im Zämmehang mit em Abschluss vo em Vertrag oder bi dr Kommunikation mit üns überischti.
+  
+Mir chönd zuesätzlichi Informatione us Banke oder vo Zahlungsdiensteleverante (wie z. B. Zahligskontonummer) erhalte.
 
-Mir chönd zuesätzlech Informationä vo Banke oder Zahlungsdienstleister erhalte, wie z. B. d'Zahlungskontonummer.
+In einige Fäll sind mir au berechtigt, persönliche Date us öffentliche Register z'bezieh.
 
-In einzelne Fäll sind mir au berechtigt, persöndlige Date us öffentliche Register z'erhalte – vor allem, wenn das üses berechtigte Interesse betrifft.
+## Welche Rechte hesch, bsunderd i de Verarbetig vo persönliche Date?
 
-## Welche Rechte hesch, wenn dini persöndlige Date verarbetet werde
+Mir sind au verpflichtet, dich iiber dini Rechte im Zämmehang mit dr Verarbetig vo persönliche Date z'informiere. Für alli Aafrogä, wo d'Verarbetig vo dine persönliche Date betreffe, chasch dich unter dr E-Mail-Adresse info@hz-containers.com bi üs melde. Mir bearbeite dini Aafrog ohni unzumutbari Verzögerig, aber höchstens innerhalb vo eme Monet. In usnahmeweise Fäll sind mir berechtigt, die Frist um bis zu zwei Monet z'verlängere – wo mir dich, falls nötig, in Kenntnis setzed.
 
-Mir send au verpflichtet, di über dini Rechte im Zämehang mit dr Verarbetig vo dinere persöndlige Date z'informiere. Für all Fragestellig, wo d'Verarbetig vo dinere persöndlige Date betrifft, chasch dich a üs wende unter dr E-Mail-Adresse info@hz-containers.com. Mir werde dini Aafrog so schnäll wie mögli bearbeite, aber höchstens innerhalb vo 1 Monet. In ussergwöhnliche Fäll sind mir berechtigt, die Frist um bis zu 2 Monet z'verlängere – in dem Fall informiered mir dich entsprechend.
+1. Du hesch s'Recht uf Zuegriff uf dini persönliche Date, das heisst s'Recht, vo üs z'erhalte:
+   (i) weli persönliche Date mir vo dir verarbeite,
+   (ii) zum welache Zweck,
+   (iii) für wie lang,
+   (iv) wo mir die bechömed,
+   (v) an wele mir sie wyterleite,
+   (vi) wär sie usserhalb vo üs verarbeited,
+   (vii) dass automatismi Entscheidig stattfindet (inklusive Profiling);
+   (viii) und welchi weitere Rechte du im Zämmehang mit dr Verarbetig hesch.
+   Drum chasch bi üs um Bestätigung bitte, ob (und welche) dini persönliche Date verarbeited wärded – falls ja, hesch du s'Recht uf Zuegriff. Du chasch au um es Exemplar vo de verarbeitete persönliche Date bitte; d'ersti Kopie stellid mir gratis zur Verfüegig, weider Exemplar chömed uf e Gebühr.
 
-1. Du hesch s'Recht uf Aafrog (Access) zu dine persöndlige Date, also s'Recht, vo üs Informationä z'erhalte über (i) welchi persöndlige Date mir über dich verarbetet, (ii) für welche Zweck, (iii) für wie lang, (iv) wo mir sie erhalte, (v) a wele mir sie wiitrage, (vi) wer sie zusätzlich zu üs verarbetet, (vii) dass automatschi Entscheidigsfindig stattfindet, inklusive Profiling; (viii) welchi andere Rechte du im Zämehang mit dr Verarbetig vo dine Date hesch. Drum chasch du bi üs aafrage, ob einigi vo dine persöndlige Date verarbetet werde – falls ja, hesch du s'Recht uf Aafrog zu däne Date. Du chasch au e Kopie vo de verarbetete persöndlige Date aafrage; d’erschte Kopie wird dir gratis zur Verfüegig gstellt, weider Kopie chönd mit ere Gebüehr abgebt werde. Däzue mues aber d'Bezihige zu dene Date und d'Rechte vo anderi Persone berücksichtigt werde;
+2. Du hesch s'Recht uf Richtigstellig oder Ergänzig vo dine persönliche Date, falls du feschtstellisch, dass mir sie falsch oder ungenau verarbeite.
 
-2. Du hesch s'Recht uf Richtigig oder Ergänzig vo dine persöndlige Date, falls du feststellst, dass mir Date falsch oder unkorrekt verarbetet hei;
+3. Du hesch s'Recht, dini persönliche Date löschen z'lah. Mir erfülle dä Widerruf ohni unzumutbari Verzögerig, wenn mindestens eine vo dene Gründ vorlieget:
+   (i) mir bruuched dini persönliche Date nümme für dr specifiziere Zweck;
+   (ii) du zruggziehsch d'Einwilligung für d'Verarbetig und es handelt sich um Date, wo e Einwilligung nötig isch und kei andere rächtliche Grundlage vorhande isch;
+   (iii) nachdem du d'Verarbetig vo dina Date uf Basis vo üsem berechtigte Interesse widersprichsch und mir feschtstellid, dass es kei berechtigte Interesse meh git, die Date z'verarbeite;
+   (iv) oder wenn d'Verarbetig vo dine persönliche Date nid meh im Einklang mit allgmeine bindende Vorschrifte isch.
+   (Das gilt nöd, falls mir dini Date für d'Festlegig, d'Usüebig oder dr Schütz vo dina rächtliche Anspruch bruuched.)
 
-3. Du hesch s'Recht, dini persöndlige Date läsze z'lösche. Mir werde d'Löschung ohne unnötigi Verzögerig umsetze, wenn mindestes ois vo dene Grunde erfüllt isch: (i) mir bruuched dini Date nümme für den Zweck, für den sie erfasst worde sind; (ii) du zruggzogs din Einverstandnis für d'Verarbetig, und es handelt sich um solche Date, wo dä Einverstandnis nöötig isch und kei anderer rechtliche Grund vorläbt; (iii) nachdem du d'Verarbetig vo dine Date im Rahmen üses berechtigte Interesse widersprichsch, funded mir, dass mir kei berechtigte Interesse meh hei, wo die Verarbetig rechtfertige; (iv) d'Verarbetig vo dine Date isch nümme i Übereinstimmig mit allgemein verbindliche Rechtsvorschrifte. Das gilt allerdings nöd, falls mir dini Date für d'Gstellletig, Usüebig oder de Verteidigig vu rechtliche Forderige bruuched;
+4. Du hesch s'Recht uf Einschränkig vo dr Verarbetig vo dine persönliche Date. Das heisst, in bestimmte Fäll chaasch du bitte, dass dini Date markiert werde und für en chliini Zyt nöd weiter verarbeited werde. Mir mached das, wenn:
+   (i) du d'Richtigkeit vo de persönliche Date bestreitisch, bis mir einig sind, welche Date korrekt sind;
+   (ii) mir persönliche Date ohne genüegendi rächtliche Grundlage verarbeite und du statt Lösche nur e Einschränkig bschtigsch;
+   (iii) mir date nümme für dr specifiziere Zweck bruuched, du sie aber für d'Festlegig, d'Usüebig oder dr Schütz vo dina Anspruch nöd missen möchtisch;
+   (iv) oder falls du d'Verarbetig widersprichsch.
+   Solange mir prüefed, ob din Widerspruch gerechtfertigt isch, mached mir e Pause und schränked d'Verarbetig dine persönliche Date eifach ii.
 
-4. Du hesch s'Recht, d'Verarbetig vo dine persöndlige Date z'beschränke. Das heisst, in bestimmte Fäll chasch du aafrage, dass dini Date markiert werde und für e beschränkte Ziit nöd weiter verarbetet werde; mir müend dem nachchöme, wenn: (i) du d'Richtigkeit vo dine Date bis zur Klärig bestreitsch; (ii) mir Date ohne ausreichendi rechtlechi Grundlage verarbetet hei und du, anstatt sie z'lösche, nume ihre Verarbeitung beschränkt wünschisch; (iii) mir dini Date nümme für dr ursprünglich verfolgte Zweck bruuched hei, du sie aber für d'Gstellletig, Usüebig oder d'Verteidigig vu dinere rechtliche Forderig nötig hesch; (iv) falls du dr Verarbetig widersprichsch. Während dr Ziit, in der mer dine Widerspruch prüefed, sind mir verpflichtet, d'Verarbetig vo dine Date z'beschränke;
+5. Du hesch s'Recht uf Dateportabilität, das heisst ds Recht, vo üs all dini Date z'kriege – all das, wo du üs iibertragt hesch und wo mir uf Basis vo dinere Einwilligung oder im Zämmehang mit em Vertrag verarbeite – in eme strukturierten, gängige und maschine-lesbare Format.
 
-5. Du hesch s'Recht uf Datenportabilität, also s'Recht, vo üs all dini persöndlige Date, wo du üs iiberchunn hesch und wo mir uf Basis vo dim Einverstandnis oder dr Vertragserfüllig verarbetet hei, in eme strukturierte, gängige und maschinenlesbare Format z'erhalte;
+6. Du hesch s'Recht, d'Verarbetig vo dina persönliche Date z'widerspreche, wenn sie uf Basis vo üsem berechtigte Interesse erfolget oder wenn du eis willigst hesch. Mir werde d'Verarbetig dä Date stoppe, falls mir kei drängendi berechtigte Grund gseh, weiter z'mache.
 
-6. Du hesch s'Recht, dr Verarbetig vo dine persöndlige Date, wo uf üsem berechtigte Interesse beruht oder wo uf dim Einverstandnis basiert, z'widerspreche. Mir werde d'Verarbetig ufhebe, ausser mir hei ernsthaft berechtigte Gründe, wo e Witeri-Verarbetig rechtfertiget;
+7. Du hesch s'Recht, d'Einwilligung, wo du üs zur Verarbetig vo dina persönliche Date geh hesch, jederziit zruggzzieh.
 
-7. Du hesch s'Recht, din Einverstandnis, wo du üs für d'Verarbetig vo dine persöndlige Date geh hesch, jederziit zruggz'zie;
-
-8. Du hesch s'Recht, en Beschwerte bi dr zuständige Aufsichtsbehörde z'iireiche. Das chasch du vor allem mache, falls du der Meinig bisch, dass mir dini persöndlige Date ohni Berechtigig oder i Widerlig mit allgemein verbindliche Rechtsvorschrifte verarbetet hei. Direkt chasch du dich a das Amt für Datenschutz wende (www.uoou.cz).
+8. Du hesch s'Recht uf e Beschwerde bi dr zuständige Aufsichtsbehörde. Das isch vor allem der Fall, wenn du d'Meinung hesch, dass mir dini persönliche Date ohni Berechtigung oder entgegen dr allgemein bindende rächtliche Vorschrifte verarbeite. Du chasch e Beschwerde bi dr Behörde für Perséinlich Date Schütz (www.uoou.cz) yyreiche.

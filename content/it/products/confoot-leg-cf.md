@@ -1,90 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Piede Container Standard"
+subtitle: "Piede standard per container"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF è il nostro modello standard di piede per container che riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciare i container in attesa di scarico in modo che gli autisti non debbano attendere."
-technicalDescription: "Il modello CF permette di utilizzare i container come spazio di stoccaggio aggiuntivo pur rimanendo pronti per essere movimentati in qualsiasi momento: basta guidare il rimorchio sotto il container e il viaggio continua."
+shortDescription: "ConFoot-leg CF è il nostro modello standard di piede per container che riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciarli in attesa di scarico in modo che gli autisti non debbano attendere."
+technicalDescription: "Il modello CF consente di utilizzare i container come spazio di stoccaggio aggiuntivo, rimanendo pronti ad essere spostati in qualsiasi momento: basta posizionare il rimorchio sotto il container e il viaggio continua."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Peso"
     value: "24 kg per piede"
-  - name: "Capacità di carico"
+  - name: "Portata di carico"
     value: "34 tonnellate"
-  - name: "Intervallo di regolazione"
-    value: "1.043 mm a 1.448 mm"
+  - name: "Intervallo regolabile"
+    value: "Da 1.043 mm a 1.448 mm"
   - name: "Materiale"
     value: "Acciaio di alta qualità"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Sconti volumetrici disponibili. Contattaci per i dettagli."
+pricingNotes: "Sconti volume disponibili. Contattaci per maggiori dettagli."
 buyLink: "/contact"
 howToUse: |
-  1. Posizionare il piede CF sulla staffa d'angolo del container
+  1. Posizionare il piede CF sul cast angolare del container
   2. Attivare il meccanismo di bloccaggio
-  3. Regolare l'altezza, se necessario, entro l'intervallo di 1.043 mm a 1.448 mm
+  3. Regolare l'altezza, se necessario, all'interno dell'intervallo da 1.043 mm a 1.448 mm
   4. Ripetere per tutti gli angoli necessari
-  5. Abbassare il rimorchio e procedere, lasciando il container sui piedini
+  5. Abbassare il rimorchio e allontanarsi, lasciando il container sui piedi
 benefits:
-  - title: "Risparmio di Tempo"
-    description: "Riduce il tempo necessario per spostare e scaricare i container, poiché questi possono essere lasciati in attesa di scarico"
-  - title: "Efficienza per gli Autisti"
-    description: "Gli autisti non devono attendere durante lo scarico, liberandoli per altre attività"
-  - title: "Spazio di Stoccaggio Aggiuntivo"
+  - title: "Risparmio di tempo"
+    description: "Riduce il tempo necessario per spostare e scaricare i container, poiché possono essere lasciati in attesa di scarico"
+  - title: "Efficienza dell'autista"
+    description: "Gli autisti non devono attendere durante lo scarico, permettendo loro di dedicarsi ad altre mansioni"
+  - title: "Stoccaggio aggiuntivo"
     description: "I container possono essere utilizzati come spazio di stoccaggio aggiuntivo quando non sono in transito"
-  - title: "Mobilità Immediata"
-    description: "I container sono sempre pronti per essere movimentati: basta guidare il rimorchio sotto il container per proseguire il viaggio"
-  - title: "Applicazioni Versatili"
-    description: "Adatto all'uso generale, per stoccaggio, container cisterna e varie altre industrie"
-  - title: "Ottimizzazione dei Costi"
-    description: "Ottimizza i costi e il tempo impiegato semplificando le operazioni di trasporto e stoccaggio"
+  - title: "Mobilità immediata"
+    description: "I container sono sempre pronti ad essere spostati: basta condurre il rimorchio sotto il container per proseguire il viaggio"
+  - title: "Applicazioni versatili"
+    description: "Adatti per uso generale, stoccaggio, container cisterna e vari settori industriali"
+  - title: "Ottimizzazione dei costi"
+    description: "Ottimizza i costi e l'utilizzo del tempo razionalizzando le operazioni di trasporto e stoccaggio"
 articleContent: |
-  ## Che cos'è il ConFoot-leg CF?
+  ## Cos'è ConFoot-leg CF?
 
-  Il ConFoot-leg CF è il modello standard di piede per container progettato per semplificare le operazioni di trasporto, stoccaggio e logistica. Questa soluzione versatile riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciare i container in attesa di scarico, in modo che gli autisti non debbano attendere. Il modello CF trasforma i container da spedizione in unità di stoccaggio flessibili, pronte per essere trasportate quando necessario.
+  ConFoot-leg CF è il modello standard di piede per container progettato per ottimizzare le operazioni di trasporto, stoccaggio e logistica. Questa soluzione versatile riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciarli in attesa di scarico, il che significa che gli autisti non devono attendere. Il modello CF trasforma i container in unità di stoccaggio flessibili che rimangono pronti per essere trasportati ogni volta che è necessario.
 
-  ## Vantaggi Chiave per il Trasporto e la Logistica
+  ## Principali vantaggi per il trasporto e la logistica
 
-  Il ConFoot-leg CF offre vantaggi operativi significativi per le aziende coinvolte nel trasporto e nella logistica dei container. Consentendo di lasciare i container sui piedini in attesa di scarico, è possibile ottimizzare il tempo degli autisti e l'utilizzo della flotta. Gli autisti possono depositare i container e proseguire immediatamente verso il prossimo incarico, eliminando lunghi periodi di attesa durante le operazioni di carico e scarico.
+  Il ConFoot-leg CF offre vantaggi operativi significativi per le imprese coinvolte nel trasporto e nella logistica dei container. Consentendo di lasciare i container sui piedi in attesa di scarico, si può ottimizzare il tempo degli autisti e l'utilizzo della flotta. Gli autisti possono depositare i container e proseguire immediatamente con il loro prossimo incarico, eliminando i costosi periodi di attesa durante le operazioni di carico e scarico.
 
-  Inoltre, i container dotati di piedini CF possono fungere da prezioso spazio di stoccaggio aggiuntivo quando non sono in transito. Rimangono pronti per essere movimentati in qualsiasi momento: basta guidare un rimorchio sotto il container e il viaggio continua. Questa versatilità rende il CF una soluzione ideale per le aziende che cercano di aumentare l'efficienza logistica e la capacità di stoccaggio.
+  Inoltre, i container dotati di piedi CF possono servire come prezioso spazio di stoccaggio aggiuntivo quando non sono in transito. Rimangono pronti ad essere spostati in qualsiasi momento: basta posizionare un rimorchio sotto il container e il viaggio continua. Questa versatilità rende il CF una soluzione ideale per le aziende che desiderano migliorare l'efficienza logistica e la capacità di stoccaggio.
 
-  ## Come Funziona
+  ## Come funziona
 
-  Il ConFoot-leg CF si attacca in modo sicuro alle staffe d'angolo del container, fornendo un supporto stabile mentre il container viene posizionato per il carico, lo scarico o lo stoccaggio. I piedini presentano un intervallo di regolazione da 1.043 mm a 1.448 mm, che consente un posizionamento versatile in vari ambienti operativi. Ogni piedino pesa 24 kg, rendendoli gestibili per gli operatori, mentre il sistema garantisce una notevole capacità di carico di 34 tonnellate.
+  Il ConFoot-leg CF si fissa saldamente ai cast angolari dei container, offrendo un supporto stabile mentre il container viene posizionato per il carico, lo scarico o lo stoccaggio. I piedi vantano un intervallo regolabile da 1.043 mm a 1.448 mm, permettendo un posizionamento versatile in vari ambienti operativi. Ogni piede pesa 24 kg, rendendoli maneggevoli per gli operatori, mentre il sistema offre una notevole capacità di carico di 34 tonnellate.
 
   Il processo di installazione è semplice:
-  1. Posizionare i piedini CF sulle staffe d'angolo del container
-  2. Attivare il meccanismo di bloccaggio per fissare i piedini
+  1. Posizionare i piedi CF sui cast angolari del container
+  2. Attivare il meccanismo di bloccaggio per fissare i piedi
   3. Regolare l'altezza secondo le specifiche necessità
-  4. Abbassare il rimorchio e procedere, lasciando il container saldamente supportato dai piedini
+  4. Abbassare il rimorchio e allontanarsi, lasciando il container saldamente supportato dai piedi
 
-  Quando è il momento di movimentare il container, basta guidare il rimorchio nuovamente sotto di esso, fissare il container al rimorchio, rimuovere i piedini e proseguire il viaggio.
+  Quando è il momento di spostare il container, basta far tornare il rimorchio sotto di esso, fissare il container al rimorchio, rimuovere i piedi e proseguire il viaggio.
 
   ## Applicazioni del ConFoot-leg CF
 
-  ### Aziende di Trasporto
-  Le aziende di trasporto possono beneficiare notevolmente della capacità del CF di ottimizzare l'utilizzo della flotta. Gli autisti possono depositare i container presso le sedi dei clienti e proseguire immediatamente verso il successivo incarico, anziché attendere le operazioni di carico/scarico. Questa efficienza può aumentare sensibilmente la capacità produttiva delle flotte di rimorchi esistenti e ridurre i costi operativi.
+  ### Aziende di trasporto
+  Le aziende di trasporto traggono notevoli benefici dalla capacità del CF di ottimizzare l'utilizzo della flotta. Gli autisti possono depositare i container presso le sedi dei clienti e proseguire immediatamente con il loro prossimo incarico, anziché attendere le operazioni di carico/scarico. Questa efficienza può aumentare significativamente la capacità produttiva delle flotte di rimorchi esistenti e ridurre i costi operativi.
 
-  ### Operazioni di Magazzinaggio e Distribuzione
-  Per le operazioni di magazzinaggio e distribuzione, il CF offre una flessibilità preziosa nella gestione dei flussi dei container. I container possono essere posizionati in aree di stoccaggio temporaneo su piedini, creando una capacità tampone aggiuntiva durante i periodi di punta. Questo approccio riduce la congestione nei terminal di carico e consente una programmazione più efficiente delle operazioni di carico e scarico.
+  ### Magazzinaggio e distribuzione
+  Per le operazioni di magazzinaggio e distribuzione, il CF offre una preziosa flessibilità nella gestione dei flussi di container. I container possono essere posizionati in aree di stoccaggio temporaneo su piedi, creando una capacità tamponatura aggiuntiva durante i periodi di picco. Questo approccio riduce la congestione ai moli di carico e consente una programmazione più efficiente delle operazioni di carico e scarico.
 
-  ### Stabilimenti di Produzione
-  Gli stabilimenti di produzione possono utilizzare i container dotati di CF come spazio aggiuntivo flessibile per materie prime o prodotti finiti. Posizionando i container vicino alle aree produttive, i materiali possono essere facilmente accessibili quando necessario, riducendo i costi di movimentazione e migliorando l'efficienza produttiva.
+  ### Impianti di produzione
+  Gli impianti di produzione possono utilizzare i container dotati di CF come spazio di stoccaggio aggiuntivo flessibile per materie prime o prodotti finiti. Posizionando i container vicino alle aree di produzione, i materiali possono essere facilmente accessibili quando necessario, riducendo i costi di movimentazione e migliorando l'efficienza produttiva.
 
-  ### Attività Commerciali al Dettaglio
-  Le attività commerciali al dettaglio possono sfruttare i piedini CF per soluzioni di stoccaggio stagionale, con i container posizionati in punti strategici per supportare la gestione dell'inventario durante i periodi di punta. Questo approccio offre una capacità aggiuntiva economicamente vantaggiosa, senza la necessità di espansioni permanenti degli stabilimenti.
+  ### Commercio al dettaglio
+  Le aziende del settore retail possono utilizzare i piedi CF per soluzioni di stoccaggio stagionali, posizionando i container in località strategiche per supportare la gestione dell'inventario durante i periodi di picco. Questo approccio offre una capacità aggiuntiva a costi contenuti senza la necessità di espandere permanentemente le strutture.
 
   ## Specifiche Tecniche
 
-  - **Capacità di Carico**: 34 tonnellate
-  - **Peso**: 24 kg per piedino
-  - **Intervallo di Regolazione**: 1.043 mm a 1.448 mm
+  - **Portata di carico**: 34 tonnellate
+  - **Peso**: 24 kg per piede
+  - **Intervallo regolabile**: Da 1.043 mm a 1.448 mm
   - **Materiale**: Acciaio di alta qualità con finitura resistente
-  - **Compatibilità**: Staffe d'angolo standard per container
+  - **Compatibilità**: Cast angolari standard per container da trasporto
 
-  Il ConFoot-leg CF rappresenta una soluzione pratica per semplificare le operazioni di trasporto e stoccaggio, offrendo alle aziende un modo per ottimizzare costi e tempi. Consentendo di lasciare i container in attesa di scarico e di utilizzarli come spazio di stoccaggio aggiuntivo, il CF aiuta le aziende a raggiungere una maggiore efficienza e flessibilità nella gestione dei container.
+  Il ConFoot-leg CF rappresenta una soluzione pratica per razionalizzare le operazioni di trasporto e stoccaggio, offrendo alle aziende un modo per ottimizzare i costi e l'utilizzo del tempo. Consentendo di lasciare i container in attesa di scarico e di utilizzarli come spazio di stoccaggio aggiuntivo, il CF aiuta le imprese a raggiungere una maggiore efficienza e flessibilità nelle operazioni di movimentazione dei container.
 ---

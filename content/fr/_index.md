@@ -1,8 +1,6 @@
 ---
-title: "Pieds pour Conteneurs de Transport"
-description: "Confoot - pieds pour conteneurs de transport"
+title: "Pieds pour conteneurs maritimes"
+description: "Confoot - pieds pour conteneurs maritimes"
+date: 2025-03-06T12:26:40+01:00
+draft: false
 ---
-
-# ConFoot - Pieds pour Conteneurs de Transport
-
-Solutions ConFoot pour la manipulation des conteneurs de transport

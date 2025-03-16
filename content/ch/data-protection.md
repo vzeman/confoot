@@ -5,96 +5,96 @@ draft: false
 layout: page
 ---
 
-# Dateischutz-Richtlinie
+# Dateischutzrichtlinie
 
-## Iifüerig
+## Ileitig
 
-Bi ConFoot setze mir üs dezue, dini persöndlechi Date z'schütze und dini Privatsphär z'respektiere. Die Dateischutz-Richtlinie beschreibt, wie mir dini persöndlechi Date sammle, bruuchä, verarbeite und speicherä, wänn du üsi Website bsuechisch, üsi Produkt chaufisch oder üsi Dienschtleistige in Anspruch nimmisch.
+Bi ConFoot isch es ois Anliegen, dini persöndliche Date z'schtelle und dini Privatsphär z'respektiere. Die Dateischutzrichtlinie erklärt, wie mir dini persöndliche Date sammle, bruche, verarbeite und speichere, wänn du üsi Website bsuechsch, üsi Produkte chaufisch oder üsi Dienschtleistige nutzt.
 
-## Dateikontroller
+## Dateiverantwortlicher
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
-Tschechiä
+Czech Republic
 
 Email: info@confoot.eu  
-Telefon: +420 568 850 850
+Phone: +420 568 850 850
 
 ## Date, wo mir sammle
 
-Mir chönnted di folgende Artä persöndlechi Date sammle:
+Mir chöimed diä folgende Arte vo persöndliche Date:
 
-### Informationä, wo du üs gähsch:
-- Kontaktinformationä (Name, E-Mail-Adress, Telefonummär, Postadress)
-- Firmainformationä (Firmaname, Amt)
-- Uuftrags- und Transaktionsinformationä
-- Kommunikationen mit üs (inklusive Aafraagä und Rückmäldige)
+### Informatione, wo du üs git:
+- Kontaktinformatione (Name, E-Mail-Adress, Telefon-Nummer, Postadress)
+- Firmainformatione (Firmanaame, Position)
+- Bestell- und Transaktionsinformatione
+- Kommunikations mit üs (inklusiv Aafrog und Rückmäldig)
 
-### Informationä, wo mir automatisch sammle:
-- Technischi Date (IP-Adress, Browsertyp, Geräteinformationä)
-- Nutzigdate (wie du üsi Website bruchisch)
-- Cookie-Date (lueg zue üserer Cookie-Richtlinie für meh Detail)
+### Informatione, wo mir automatisch sammled:
+- Technischi Date (IP-Adrässe, Browsertyp, Gerätinformation)
+- Nutzigsdate (wie du üsi Website bruchsch)
+- Cookie-Date (lueg zue üserer Cookie-Policy für meh Detail)
 
-## Wie mir dini Date bruuchä
+## Wie mir dini Date bruche
 
-Mir bruuchä dini persöndlechi Date für di folgende Zuewingä:
+Mir bruched dini persöndliche Date für diä folgende Zueweck:
 
-- Zur Bereitstellig und Verwaltung vo üse Produkt und Dienschtleistige
-- Zur Abwicklig und Erfüllig vo dim Uuftrag
-- Zur Kommunikation mit dir über dim Uuftrag oder dini Aafraagä
-- Zur Verbesserung vo üserer Website, üsen Produkt und Dienschtleistige
-- Zum Erfülle vo gesetzlichi Verpflichtige
-- Zum Schütze vo üsi Rächt und Intressä
+- Üsi Produkte und Dienschte zur Verfüegig stelle und z verwalte
+- Dini Bestellige verarbeite und usführe
+- Mit dir i Kontakt trete in Bezog uf dini Bestellige oder Aafroe
+- Üsi Website, Produkte und Dienschte verbessere
+- Den gesetzliche Verpflichtige nachchöme
+- Üsi Rächt und Interessen schütze
 
-## Gesetzligi Grundlag für d'Verarbeitig
+## Rechtligi Grundlag für d'Verarbetig
 
-Mir verarbeitä dini persöndlechi Date uf de folgende gesetzliche Basis:
+Mir verarbeited dini persöndliche Date uf grundlag vo diä folgende Rechtsgrundlage:
 
-- Uuftragserfüllig (wenn d'Verarbeitig nödig isch, um e Uuftrag z'erfülle)
-- Berechtigti Intress (um üsi Dienschtleistige z'verbessere und Kundensupport aazbiete)
-- Gesetzligi Verpflichtig (um de geltende Gsetz und Regle z'befolge)
-- Dini Zueschtimmig (wo du explizit i d'Verarbeitig zugestimmt hesch)
+- Erfülgig vo eme Vertrag (wenn d'Verarbetig nöidig isch, um e Bestellig uszführe)
+- Rechtmässigi Interess (um üsi Dienschte z verbessere und Kundebetreuig zur Verfüegig z stelle)
+- Gsetzligi Verpflichtig (um de geltende Gsetz und Regle z erfülle)
+- Zustimmig (wenn du drügg ausdrückt zugestimmt häsch zur Verarbetig)
 
-## Dateibehaltig
+## Speicherdauer vo Date
 
-Mir behalted dini persöndlechi Date nume so lang, wie se nödig sind, um di Zuewingä z'erfülle, für di d'Date gsammelt worde sind, inklusiv all gesetzlichi, buchhalterischi oder Berichtspflichtigi Vorgabä.
+Mir speichered dini persöndliche Date nur so lang, wie nödig isch, um d'Zweck z erfülle, für welche se gsammlt worde sind – inklusiv all gesetzlichi, buchhalterischi oder Berichtspflichte.
 
 ## Dini Rächt
 
-Gemäss de geltende Dateischutzgsetzig hesch di folgende Rächt:
+Unter de geltende Dateischutzgsetz häsch du diä folgende Rächt:
 
-- Rächt uf d'Zugriff uf dini persöndlechi Date
-- Rächt uf d'Berichtigig vo unkorrekten Date
-- Rächt uf d'Löschung ("Rächt, vergässe z'wärde")
-- Rächt uf einschränkigi Verarbitig
-- Rächt uf d'Dateportabilität
-- Rächt, d'Verarbitig z'binne
-- Rächt, d'Zueschtimmig zruggz'zoge
-- Rächt, e Beschwerd bi ener überwachende Behördig iizreiche
+- Srecht uf Aazug zu dine persöndliche Date
+- Srecht uf Berichtigig vo inkorrekte Date
+- Srecht uf Lösig ("s'Recht, vergässe z werde")
+- Srecht uf Beschränkig vo de Verarbetig
+- Srecht uf Dateportabilität
+- Srecht, dich gg d'Verarbetig z wehre
+- Srecht, d'Zustimmig zruggzzieh
+- Srecht, e Beschwerde bi ere Aufsichtsbehördig iizreiche
 
-Zum Usüebe vo öpper vo däne Rächt, nimm bitte Kontakt mit üs uf wie im Abschnitt "Kontaktinformationä" ufgä.
+Zum Uusüebe vo öpper vo däne Rechten, kontaktier uns bitte über d'Angabä im Abschnitt "Kontaktinformatione".
 
-## Dateischutz
+## Date-Sicherhait
 
-Mir setzed adäquati technischi und organisatorischi Maßnahmä ii, um dini persöndlechi Date vor unautorisierter oder unerlaubter Verarbitig, versehentlichem Verlust, Zerstöörig oder Schade z'schütze.
+Mir setzed geeigneti technischi und organisatorischi Massnahme i, um dini persöndliche Date vor unbefugtä oder unrechtmässiger Verarbetig, versehentlichem Verluscht, Zerstöörig oder Schaad z'schütze.
 
-## Internazionali Übertragige
+## Internationale Übertragige
 
-Dini persöndlechi Date chönnted i Länder transferiert und verarbeited werde, wo nöd unbedingt dim Wohnsitzland entspräche. Die Länder chönnted Dateischutzgsetz händ, wo anders sind als di Gsetzmässigkeit i dim Land.
+Dini persöndliche Date chönd in anderi Länder übertragä und verarbeited werde, wo nid in dim Wohnsitzland liäge. Die Länder chönd Dateischutzgsetz ha, wo andersch sind als die in dim Land.
 
-## Änderige a däre Richtlinie
+## Änderige an dere Richtlinie
 
-Mir chönntä die Dateischutz-Richtlinie vo Zyt zu Zyt aktulisierä. D'aktualisiert Version wird mit em aktualisiert "Zuletzt aktualisiert"-Datum aagezeigt und isch gälti, sobald sie verfügbar isch.
+Mir chönd die Dateischutzrichtlinie vo Zyt z Zyt aktualisiere. D'aktualisiert Version wird dür es aktualisierts "Last updated"-Datum aazzeigt und wird glich wirksam, sobald si verfügbar isch.
 
-## Kontaktinformationä
+## Kontaktinformatione
 
-Falls du Froge hesch zu däre Dateischutz-Richtlinie, nimm bitte Kontakt uf mit üsem Dateischutzbeauftrager:
+Falls du Fraagä zu däre Dateischutzrichtlinie hesch, kontaktier bitte üse Dateischutzbeauftragte unter:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
-Tschechiä
+Czech Republic
 
 Email: info@confoot.eu  
-Telefon: +420 568 850 850
+Phone: +420 568 850 850

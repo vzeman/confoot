@@ -7,9 +7,9 @@ layout: page
 
 # Datenschutzrichtlinie
 
-## Einleitung
+## Einführung
 
-Bei ConFoot haben wir uns verpflichtet, Ihre personenbezogenen Daten zu schützen und Ihre Privatsphäre zu respektieren. Diese Datenschutzrichtlinie erklärt, wie wir Ihre personenbezogenen Daten erfassen, verwenden, verarbeiten und speichern, wenn Sie unsere Website besuchen, unsere Produkte kaufen oder unsere Dienstleistungen in Anspruch nehmen.
+Bei ConFoot verpflichten wir uns, Ihre personenbezogenen Daten zu schützen und Ihre Privatsphäre zu respektieren. Diese Datenschutzrichtlinie erklärt, wie wir Ihre personenbezogenen Daten erfassen, nutzen, verarbeiten und speichern, wenn Sie unsere Website besuchen, unsere Produkte kaufen oder unsere Dienstleistungen in Anspruch nehmen.
 
 ## Datenverantwortlicher
 
@@ -21,75 +21,75 @@ Tschechische Republik
 E-Mail: info@confoot.eu  
 Telefon: +420 568 850 850
 
-## Erhobene Daten
+## Von uns gesammelte Daten
 
 Wir können die folgenden Arten personenbezogener Daten erheben:
 
-### Informationen, die Sie uns bereitstellen:
-- Kontaktinformationen (Name, E-Mail-Adresse, Telefonnummer, Postanschrift)
+### Informationen, die Sie uns zur Verfügung stellen:
+- Kontaktinformationen (Name, E-Mail-Adresse, Telefonnummer, Postadresse)
 - Firmeninformationen (Firmenname, Position)
 - Bestell- und Transaktionsinformationen
-- Mitteilungen an uns (einschließlich Anfragen und Feedback)
+- Kommunikation mit uns (einschließlich Anfragen und Feedback)
 
-### Informationen, die wir automatisch erheben:
+### Informationen, die wir automatisch erfassen:
 - Technische Daten (IP-Adresse, Browsertyp, Geräteinformationen)
-- Nutzungsdaten (wie Sie unsere Website nutzen)
-- Cookie-Daten (siehe unsere Cookie-Richtlinie für weitere Details)
+- Nutzungsdaten (wie Sie unsere Website verwenden)
+- Cookie-Daten (weitere Details finden Sie in unserer Cookie-Richtlinie)
 
 ## Wie wir Ihre Daten verwenden
 
-Wir nutzen Ihre personenbezogenen Daten zu folgenden Zwecken:
+Wir nutzen Ihre personenbezogenen Daten für die folgenden Zwecke:
 
 - Zur Bereitstellung und Verwaltung unserer Produkte und Dienstleistungen
-- Zur Bearbeitung und Erfüllung Ihrer Bestellungen
+- Zur Bearbeitung und Abwicklung Ihrer Bestellungen
 - Zur Kommunikation mit Ihnen bezüglich Ihrer Bestellungen oder Anfragen
 - Zur Verbesserung unserer Website, Produkte und Dienstleistungen
 - Zur Einhaltung gesetzlicher Verpflichtungen
 - Zum Schutz unserer Rechte und Interessen
 
-## Rechtsgrundlage der Verarbeitung
+## Rechtsgrundlage für die Verarbeitung
 
-Wir verarbeiten Ihre personenbezogenen Daten auf Grundlage der folgenden Rechtsgrundlagen:
+Wir verarbeiten Ihre personenbezogenen Daten auf Grundlage der folgenden rechtlichen Grundlagen:
 
-- Erfüllung eines Vertrags (wenn die Verarbeitung zur Abwicklung einer Bestellung erforderlich ist)
-- Berechtigte Interessen (zur Verbesserung unserer Dienstleistungen und Bereitstellung von Kundensupport)
-- Gesetzliche Verpflichtung (zur Einhaltung geltender Gesetze und Vorschriften)
-- Einwilligung (wenn Sie ausdrücklich der Verarbeitung zugestimmt haben)
+- Vertragserfüllung (wenn die Verarbeitung zur Erfüllung einer Bestellung notwendig ist)
+- Berechtigte Interessen (zur Verbesserung unserer Dienstleistungen und zur Bereitstellung des Kundenservices)
+- Gesetzliche Verpflichtung (zur Einhaltung anwendbarer Gesetze und Vorschriften)
+- Einwilligung (wenn Sie ausdrücklich in die Verarbeitung eingewilligt haben)
 
-## Aufbewahrung von Daten
+## Datenspeicherung
 
-Wir speichern Ihre personenbezogenen Daten nur so lange, wie es für die Zwecke, zu denen sie erhoben wurden, erforderlich ist – einschließlich zur Erfüllung etwaiger gesetzlicher, buchhalterischer oder berichtspflichtiger Anforderungen.
+Wir speichern Ihre personenbezogenen Daten nur so lange, wie es für die Zwecke, für die sie erhoben wurden, erforderlich ist, einschließlich der Erfüllung gesetzlicher, buchhalterischer oder berichtspflichtiger Anforderungen.
 
 ## Ihre Rechte
 
-Nach geltendem Datenschutzrecht haben Sie folgende Rechte:
+Nach den geltenden Datenschutzgesetzen haben Sie folgende Rechte:
 
 - Recht auf Auskunft über Ihre personenbezogenen Daten
 - Recht auf Berichtigung unrichtiger Daten
-- Recht auf Löschung („Recht auf Vergessenwerden“)
+- Recht auf Löschung ("Recht auf Vergessenwerden")
 - Recht auf Einschränkung der Verarbeitung
 - Recht auf Datenübertragbarkeit
-- Widerspruchsrecht gegen die Verarbeitung
+- Recht auf Widerspruch gegen die Verarbeitung
 - Recht auf Widerruf der Einwilligung
 - Recht auf Beschwerde bei einer Aufsichtsbehörde
 
-Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter den im Abschnitt „Kontaktinformationen“ angegebenen Details.
+Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter den im Abschnitt "Kontaktinformationen" angegebenen Details.
 
 ## Datensicherheit
 
 Wir setzen angemessene technische und organisatorische Maßnahmen ein, um Ihre personenbezogenen Daten vor unbefugter oder unrechtmäßiger Verarbeitung, versehentlichem Verlust, Zerstörung oder Beschädigung zu schützen.
 
-## Internationale Übermittlungen
+## Internationale Datenübermittlungen
 
-Ihre personenbezogenen Daten können in Länder übertragen und dort verarbeitet werden, in denen abweichende Datenschutzgesetze als in Ihrem Wohnsitzland gelten. In diesen Ländern können unterschiedliche Datenschutzbestimmungen zur Anwendung kommen.
+Ihre personenbezogenen Daten können in Länder außerhalb Ihres Wohnsitzlandes übermittelt und dort verarbeitet werden. Diese Länder können Datenschutzgesetze haben, die von den Gesetzen Ihres Landes abweichen.
 
 ## Änderungen dieser Richtlinie
 
-Wir können diese Datenschutzrichtlinie gelegentlich aktualisieren. Die aktualisierte Version wird durch ein aktualisiertes Datum „Zuletzt aktualisiert“ gekennzeichnet und tritt in Kraft, sobald sie zugänglich ist.
+Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Die aktualisierte Version wird durch ein aktualisiertes Datum "Zuletzt aktualisiert" kenntlich gemacht und tritt in Kraft, sobald sie zugänglich ist.
 
 ## Kontaktinformationen
 
-Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie bitte unseren Datenschutzbeauftragten unter:
+Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, wenden Sie sich bitte an unseren Datenschutzbeauftragten unter:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  

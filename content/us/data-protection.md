@@ -25,13 +25,13 @@ Phone: +420 568 850 850
 
 We may collect the following types of personal data:
 
-### Information you provide to us:
+### Information You Provide to Us:
 - Contact information (name, email address, phone number, postal address)
 - Company information (company name, position)
 - Order and transaction information
 - Communications with us (including inquiries and feedback)
 
-### Information we automatically collect:
+### Information We Automatically Collect:
 - Technical data (IP address, browser type, device information)
 - Usage data (how you use our website)
 - Cookie data (see our Cookie Policy for more details)

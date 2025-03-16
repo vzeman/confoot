@@ -9,9 +9,9 @@ layout: page
 
 ## Introduzione
 
-In ConFoot, ci impegniamo a proteggere i tuoi dati personali e a rispettare la tua privacy. La presente Politica di Protezione dei Dati spiega come raccogliamo, utilizziamo, trattiamo e conserviamo i tuoi dati personali quando visiti il nostro sito web, acquisti i nostri prodotti o utilizzi i nostri servizi.
+Da ConFoot, siamo impegnati a proteggere i tuoi dati personali e a rispettare la tua privacy. Questa Politica di Protezione dei Dati spiega come raccogliamo, utilizziamo, trattiamo e conserviamo i tuoi dati personali quando visiti il nostro sito web, acquisti i nostri prodotti o utilizzi i nostri servizi.
 
-## Titolare del Trattamento
+## Titolare del Trattamento dei Dati
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
@@ -27,57 +27,57 @@ Potremmo raccogliere i seguenti tipi di dati personali:
 
 ### Informazioni che ci fornisci:
 - Informazioni di contatto (nome, indirizzo email, numero di telefono, indirizzo postale)
-- Informazioni aziendali (nome dell'azienda, posizione ricoperta)
+- Informazioni sulla società (nome della società, posizione)
 - Informazioni relative agli ordini e alle transazioni
 - Comunicazioni con noi (comprese richieste e feedback)
 
 ### Informazioni che raccogliamo automaticamente:
 - Dati tecnici (indirizzo IP, tipo di browser, informazioni sul dispositivo)
-- Dati di utilizzo (modalità di utilizzo del nostro sito web)
-- Dati dei cookie (consulta la nostra Politica sui Cookie per ulteriori dettagli)
+- Dati di utilizzo (come utilizzi il nostro sito web)
+- Dati sui cookie (vedi la nostra Cookie Policy per maggiori dettagli)
 
 ## Come Utilizziamo i Tuoi Dati
 
-Utilizziamo i tuoi dati personali per le seguenti finalità:
+Utilizziamo i tuoi dati personali per i seguenti scopi:
 
-- Fornire e gestire i nostri prodotti e servizi
-- Elaborare ed evadere i tuoi ordini
-- Comunicare con te in merito ai tuoi ordini o alle tue richieste
-- Migliorare il nostro sito web, i prodotti e i servizi
-- Rispettare gli obblighi legali
-- Proteggere i nostri diritti e interessi
+- Per fornire e gestire i nostri prodotti e servizi
+- Per elaborare e gestire i tuoi ordini
+- Per comunicare con te riguardo ai tuoi ordini o richieste
+- Per migliorare il nostro sito web, i nostri prodotti e i nostri servizi
+- Per adempiere agli obblighi legali
+- Per proteggere i nostri diritti e interessi
 
 ## Base Giuridica per il Trattamento
 
-Trattiamo i tuoi dati personali sulla base delle seguenti motivazioni legali:
+Trattiamo i tuoi dati personali sulla base dei seguenti presupposti giuridici:
 
 - Esecuzione di un contratto (quando il trattamento è necessario per evadere un ordine)
-- Interessi legittimi (per migliorare i nostri servizi e fornire assistenza ai clienti)
-- Obbligo legale (per conformarci alle leggi e ai regolamenti applicabili)
+- Interessi legittimi (per migliorare i nostri servizi e fornire assistenza al cliente)
+- Obbligo legale (per rispettare le leggi e le normative applicabili)
 - Consenso (quando hai espresso esplicitamente il tuo consenso al trattamento)
 
 ## Conservazione dei Dati
 
-Conserviamo i tuoi dati personali solo per il tempo necessario a soddisfare le finalità per cui sono stati raccolti, inclusi eventuali obblighi legali, contabili o di rendicontazione.
+Conserviamo i tuoi dati personali solo per il tempo strettamente necessario agli scopi per cui sono stati raccolti, compresa la soddisfazione di eventuali requisiti legali, contabili o di rendicontazione.
 
 ## I Tuoi Diritti
 
-Ai sensi delle leggi sulla protezione dei dati vigenti, hai i seguenti diritti:
+In base alle leggi vigenti in materia di protezione dei dati, hai i seguenti diritti:
 
 - Diritto di accesso ai tuoi dati personali
-- Diritto alla rettifica dei dati inesatti
+- Diritto di rettifica dei dati inesatti
 - Diritto alla cancellazione ("diritto all'oblio")
 - Diritto di limitazione del trattamento
 - Diritto alla portabilità dei dati
 - Diritto di opposizione al trattamento
 - Diritto di revocare il consenso
-- Diritto di presentare un reclamo all'autorità di controllo
+- Diritto di presentare un reclamo a un'autorità di controllo
 
-Per esercitare uno di questi diritti, ti preghiamo di contattarci utilizzando i dettagli forniti nella sezione "Informazioni di Contatto".
+Per esercitare uno di questi diritti, ti preghiamo di contattarci utilizzando le informazioni fornite nella sezione "Informazioni di contatto".
 
 ## Sicurezza dei Dati
 
-Adottiamo misure tecniche e organizzative appropriate per proteggere i tuoi dati personali da trattamenti non autorizzati o illeciti, nonché da perdita accidentale, distruzione o danni.
+Implementiamo misure tecniche e organizzative appropriate per proteggere i tuoi dati personali contro trattamenti non autorizzati o illeciti, perdita accidentale, distruzione o danni.
 
 ## Trasferimenti Internazionali
 
@@ -85,11 +85,11 @@ I tuoi dati personali possono essere trasferiti e trattati in paesi diversi da q
 
 ## Modifiche a Questa Politica
 
-Potremmo aggiornare questa Politica di Protezione dei Dati di tanto in tanto. La versione aggiornata sarà indicata dalla data "Ultimo aggiornamento" e diventerà effettiva non appena sarà resa disponibile.
+Potremmo aggiornare questa Politica di Protezione dei Dati di volta in volta. La versione aggiornata sarà indicata da una nuova data di "Ultimo aggiornamento" e diventerà efficace non appena sarà resa accessibile.
 
 ## Informazioni di Contatto
 
-Se hai domande su questa Politica di Protezione dei Dati, ti preghiamo di contattare il nostro Responsabile della Protezione dei Dati a:
+Se hai domande riguardanti questa Politica di Protezione dei Dati, contatta il nostro Responsabile della Protezione dei Dati al seguente indirizzo:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  

@@ -5,13 +5,13 @@ draft: false
 layout: page
 ---
 
-# Zásady ochrany údajov
+# Politika ochrany údajov
 
 ## Úvod
 
-V ConFoot sme zaviazaní chrániť vaše osobné údaje a rešpektovať vaše súkromie. Tieto Zásady ochrany údajov vysvetľujú, ako zhromažďujeme, používame, spracúvame a ukladáme vaše osobné údaje, keď navštívite naše webové stránky, zakúpite naše produkty alebo využijete naše služby.
+V spoločnosti ConFoot sme záväzaní chrániť vaše osobné údaje a rešpektovať vaše súkromie. Táto Politika ochrany údajov vysvetľuje, ako zhromažďujeme, používame, spracúvame a ukladáme vaše osobné údaje, keď navštívite naše webové stránky, zakúpite naše produkty alebo využijete naše služby.
 
-## Správca údajov
+## Prevádzkovateľ údajov
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
@@ -25,71 +25,71 @@ Telefón: +420 568 850 850
 
 Môžeme zhromažďovať nasledujúce typy osobných údajov:
 
-### Informácie, ktoré nám poskytnete:
+### Údaje, ktoré nám poskytnete:
 - Kontaktné údaje (meno, emailová adresa, telefónne číslo, poštová adresa)
 - Informácie o spoločnosti (názov spoločnosti, pozícia)
 - Informácie o objednávkach a transakciách
 - Komunikácia s nami (vrátane dopytov a spätnej väzby)
 
-### Informácie, ktoré zhromažďujeme automaticky:
+### Údaje, ktoré zhromažďujeme automaticky:
 - Technické údaje (IP adresa, typ prehliadača, informácie o zariadení)
 - Údaje o používaní (ako využívate naše webové stránky)
-- Údaje o cookie (pozri našu Politiku cookies pre viac podrobností)
+- Údaje o cookies (pozri našu Politiku cookies pre viac podrobností)
 
 ## Ako používame vaše údaje
 
 Vaše osobné údaje používame na nasledujúce účely:
 
-- Na poskytovanie a správu našich produktov a služieb
-- Na spracovanie a vybavenie vašich objednávok
-- Na komunikáciu s vami ohľadom vašich objednávok alebo dopytov
-- Na zlepšenie našich webových stránok, produktov a služieb
-- Na splnenie zákonných povinností
-- Na ochranu našich práv a záujmov
+- Poskytovanie a spravovanie našich produktov a služieb
+- Spracovanie a vybavenie vašich objednávok
+- Komunikáciu s vami ohľadom vašich objednávok alebo dopytov
+- Zlepšovanie našich webových stránok, produktov a služieb
+- Plnenie právnych povinností
+- Ochranu našich práv a záujmov
 
-## Právny základ spracúvania
+## Právny základ spracovania
 
-Vaše osobné údaje spracúvame na základe nasledujúcich právnych dôvodov:
+Vaše osobné údaje spracovávame na základe nasledujúcich právnych základov:
 
-- Plnenie zmluvy (keď je spracúvanie nevyhnutné na vybavenie objednávky)
-- Oprávnené záujmy (na zlepšenie našich služieb a poskytovanie zákazníckeho servisu)
-- Zákonná povinnosť (na dodržiavanie platných zákonov a predpisov)
-- Súhlas (ak ste výslovne súhlasili so spracúvaním)
+- Plnenie zmluvy (ak je spracovanie nevyhnutné na uskutočnenie objednávky)
+- Zákonné záujmy (na zlepšenie našich služieb a poskytovanie zákazníckej podpory)
+- Právna povinnosť (na dodržiavanie platných zákonov a predpisov)
+- Súhlas (ak ste výslovne súhlasili so spracovaním)
 
 ## Uchovávanie údajov
 
-Vaše osobné údaje uchovávame len toľko, koľko je potrebné na naplnenie účelov, na ktoré boli zhromaždené, vrátane splnenia akýchkoľvek zákonných, účtovných alebo reportovacích požiadaviek.
+Vaše osobné údaje uchovávame len po dobu nevyhnutnú na plnenie účelov, na ktoré boli zhromaždené, vrátane splnenia jakýchkoľvek právnych, účtovných alebo hlásiacich požiadaviek.
 
 ## Vaše práva
 
 Podľa platných zákonov o ochrane údajov máte nasledujúce práva:
 
 - Právo na prístup k vašim osobným údajom
-- Právo na opravu nepresných údajov
-- Právo na vymazanie („právo byť zabudnutý“)
-- Právo na obmedzenie spracúvania
+- Právo na nápravu nepresných údajov
+- Právo na výmaz ("právo byť zabudnutý")
+- Právo na obmedzenie spracovania
 - Právo na prenositeľnosť údajov
-- Právo namietať proti spracúvaniu
+- Právo namietať proti spracovaniu
 - Právo odvolať súhlas
 - Právo podať sťažnosť u dozorného orgánu
 
-Ak chcete uplatniť niektoré z týchto práv, kontaktujte nás pomocou údajov uvedených v sekcii "Kontaktné informácie".
+Ak chcete uplatniť niektoré z týchto práv, kontaktujte nás prosím pomocou kontaktných údajov uvedených v sekcii "Kontaktné informácie".
 
 ## Bezpečnosť údajov
 
-Zavádzame primerané technické a organizačné opatrenia na ochranu vašich osobných údajov pred neoprávneným alebo nezákonným spracúvaním, náhodnou stratou, zničením alebo poškodením.
+Zavádzame primerané technické a organizačné opatrenia na ochranu vašich osobných údajov pred neoprávneným alebo nezákonným spracovaním, náhodnou stratou, zničením alebo poškodením.
 
-## Medzinárodné prevody
+## Medzinárodné prenosy
 
-Vaše osobné údaje môžu byť prevedené do krajín iných, než v ktorej bydlíte, a môžu byť tam spracúvané. Tieto krajiny môžu mať zákony o ochrane údajov, ktoré sa líšia od zákonov vašej krajiny.
+Vaše osobné údaje môžu byť prenášané do krajín iných ako krajina vášho bydliska a spracovávané tam. Tieto krajiny môžu mať zákony na ochranu údajov, ktoré sa líšia od zákonov vašej krajiny.
 
-## Zmeny v týchto zásadách
+## Zmeny tejto politiky
 
-Této Zásady ochrany údajov môžeme časom aktualizovať. Aktualizovaná verzia bude označená novým dátumom "Naposledy aktualizované" a začne platiť, akonáhle bude dostupná.
+Túto Politiku ochrany údajov môžeme časom aktualizovať. Aktualizovaná verzia bude označená aktualizovaným dátumom "Posledná aktualizácia" a účinnosť nadobudne okamžite po jej sprístupnení.
 
 ## Kontaktné informácie
 
-Ak máte akékoľvek otázky ohľadom týchto Zásad ochrany údajov, kontaktujte nášho povereného pracovníka pre ochranu údajov na:
+Ak máte akékoľvek otázky týkajúce sa tejto Politiky ochrany údajov, kontaktujte nášho poverenca pre ochranu údajov na:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  

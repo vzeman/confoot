@@ -1,27 +1,27 @@
 ---
-title: Kontaktier eus
+title: Kontaktier Üs
 layout: contact
-description: Nimm Kontakt uf mit em ConFoot Team für Fraag, Bestellige und Support.
+description: Nimm Kontakt uf mit em ConFoot-Team für Aafraag, Bestellig und Unterstützig.
 ---
 
-## Mir sind da zum Helfe
+## Mir sind da zum Hälfe
 
-Merci viu mau für dini Interess an de ConFoot Containerfüessli-Lösige. Üses Team isch parat, dir z' helfe mit allne Fraag, Bestelligs-Fraag oder Support, wo du hesch.
+Merci für dis Interessä a ConFoot-Behälter-Fuess-Lösige. Üsers Team isch parat, dir bi allne Froge, Bestelligs-Aafraag oder Unterstützigsbedürfnisse z’ hälfe.
 
-## Bestelligs-Process
+## Bestelligsablauf
 
-S'Bestelle vo dine ConFoot Containerfüessli isch ganz eifach:
+Es isch eifach, dini ConFoot-Behälter-Füess z’ becho:
 
-1. **Fraag:** Nimm uf mit eus per Telefon oder E-Mail und gib eus dini Vorgabe.
-2. **Beratig:** Üses Team hilft dir, d'richtigi ConFoot-Lösung für dini Bedürfnis z'wähle.
-3. **Offerte:** Mir schicke dir en detallierti Offerte, wo genau uf dini Vorgabe basiert.
-4. **Bestelligsbestätigig:** Sobald du d'Offerte akzeptiersch, bestätige mir dini Bestellig.
-5. **Produktion & Versand:** Dini Bestellig wird produzieret und an din Standort verschickt.
-6. **Support:** Au nach em Chauf stah mir dir für allne weitere Unterstützigs-Afroge zur Verfüegig.
+1. **Aafraag**: Nimm per Telefon oder E-Mail Kontakt uf und gib eus dini Wünsch.
+2. **Beratig**: Üsers Team hilf der, d’rächtigi ConFoot-Lösung für dini Bedürfnis usezsuächä.
+3. **Offerte**: Mir schicked der e Detail-Offerte uf Basis vo dine Vorgabe.
+4. **Bestelligsbestatig**: Sobald du d’Offerte akzäsch, bestätiged mir dini Bestellig.
+5. **Produktion & Verschtig**: Dini Bestellig wird produziert und zu dinere Adresse gschickt.
+6. **Unterstützig**: Üsers Team isch au no nach em Aekauf für Unterstützig do.
 
-Für Bulk-Bestellige oder spezifischi Wünsch biete mir kundegspassi Lösige und Priisoptionen a. Bitte nimm direkt mit em Vertrieb Kontakt uf, um dini specifiche Bedürfnis z' bespreche.
+Für Grossbestellige oder spezielli Wünsch biete mir massgschneidereti Lösige und Priisoptione a. Bitte nimm direkten Kontakt uf mit üsem Verchaufs-Team, um dini spezifische Bedürfnis z’ bespreche.
 
-## Kontaktinfo
+## Kontaktinformation
 
 **HZ KONTEJNERY s.r.o.**  
 Hauptsitz: Slavníkova 2357/9, Břevnov (Praha 6)  
@@ -35,25 +35,25 @@ Tschechiä
 
 **Telefon:** +420 608 830 863  
 **E-Mail:** [info@hz-containers.com](mailto:info@hz-containers.com)  
-**Firmen-ID:** IČ: 03975177, DIČ: CZ03975177  
-**Firmenregistrierig:** Iigträgt im Handelsregister unter de Nummer: C 240707, underhaltet vo em Stadtgericht i de Praga
+**Unternehmens-ID:** IČ: 03975177, DIČ: CZ03975177  
+**Handelsregister:** Eitragä im Handelsregister unter Nr.: C 240707, verwaltet vom Stadtsgericht in Prag
 
-## Geschäftsyzyte
+## Öffnigsziite
 
-Mäntig - Fritig: 9:00 - 17:00 (CET/CEST)  
-Samstig - Sunntig: Gschlosse
+Måndag - Fritag: 9:00 - 17:00 (CET/CEST)  
+Samstig - Sunntig: Zue
 
 {{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
-## Technischer Support
+## Technischi Unterstützig
 
-Für technisci Fraag oder Support bezüglich dinere ConFoot-Produkte, lad bitte üsi Bruucheranleitige abe:
-- [Lad dä CF und CFP Bruucheranleitig abe](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
-- [Lad dä CFU Bruucheranleitig abe](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
+Für technisci Froge oder falls du Unterstützig bi dina ConFoot-Produkten bruchsch, lad bitte üsi Benutzerhandbuecher abe:
+- [CF und CFP Benutzerhandbuech abe lade](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [CFU Benutzerhandbuech abe lade](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
-## Bruchsch no en Container?
+## Bruchsch en Container?
 
-Wenn du en Shipping-Container chaufe wittisch, bsuech bitte üsi Vertriebs-Website:
+Wenn du am überlege bisch, Versandcontainer z’choufe, besuch bitte üsi Verchaufs-Website:
 [www.hz-containers.com](https://www.hz-containers.com)
 
-Mir freue eus uf dini Nachricht!
+Mir fröied eus, vo dir z’ghöre!

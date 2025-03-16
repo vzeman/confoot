@@ -1,221 +1,221 @@
 ---
-title: "Üsers"
+title: "Üeber üs"
 date: 2025-03-07T10:35:00+01:00
 draft: false
 ---
 
-HZ KONTEJNERY s.r.o. isch de Zulieferer vo de finnische Firma ConFoot Ltd worde für d’tšechische und slowakische Republike und hät d’Zämmearbeit spöter uf mehri europäischi Länder uusgweitet.  
-Dr finnische Hersteller ConFoot hät das Produkt patentiert und bietet sini Produkte i ganz Europa aa.  
-S’Umsetze vo Containern isch no nie so eifach gsi wie mit de ConFoot-Produkte. E Satz vo 4 Teile cha vo nume einere Persone bedient wärde.  
-ConFoot-Produkte werde zum Umtrage vo Shipping-Containern brucht.  
-Zurzit biete mir drei Produkt-Varianten aa.  
-Das CF-Set isch z’ne vo de Bestseller uf em Markt.  
-S’CFP-Set wird vor allem derfür brucht, Shipping-Container direkt am Ramp z’stelle, wo me de Container sicher stah lah cha.  
-D’Tragfähigkeit vo enem Satz vo 4 Teile isch 30 Tonn. Neui Modelle hei e Tragfähigkeit vo 34 Tonn.
+HZ KONTEJNERY s.r.o. isch zum Lieferant vo dr finnische Firma ConFoot Ltd worde für d’tschechischi und slowakischi Republik, und d’Zämmearbäit het mer spöter uf mehri europäischi Länder usgedehnt. Dr finnische Hersteller ConFoot hät das Produkt patentiert und bietet sini Produkte i ganz Europa a. E Containertransport isch no nie so eifach gsi wie mit de ConFoot-Produkte. Jede Set mit 4 Teile cha vo nume einere Persone bedient wäre. ConFoot-Produkte wärdet zum Überfüere vo Schiffcontainer verwendet. Mir biete aktuell drei Produktvariante a. S’CF-Set isch unter de meist verkauften uf em Markt. S’CFP-Set wird vor allem bruucht, um Schiffcontainer direkt an de Rampe z’plaziere, woni de Container suicher stah chönd. D’Ladekapazität vo enem 4-teilige Set isch 30 Tonne. Neui Modelle händ e Ladekapazität vo 34 Tonne.
 
-Shipping-Container send e unerlässliche Bestandteilig vo em maritime Transport.  
-Vom Hafen chunnt de Container grad zu dir, wo er umglade wird.  
-Wenn du ConFoot sin patentierte Produkt für Containertransfer bruchsch, sparsch e mängisch Ziit – Ziit, wo hüt niemert gnueg het.  
-Isch es nid besser, die gspart Ziit für anderi Arbeit oder d’Familie z’investiere?  
-D’Entscheidig liit bi dir...
+Schiffcontainer si e wesentlechi Bestandteilig vo dr maritime Transport. Vom Hafen chunnt de Container direkt zu Ihne, woni überfüert werde. Wenn Sie ds patentierti Produkt vo ConFoot für d’Überfüerig vo Containern bruucht, spari Sie vil Ziit – und Ziit hott heute niemert gnueg. Wär ned besser, die gsparte Ziit für anderi Arbeite oder für d’Familie z’nutze? D’Entscheedig liegt bi Ihne...
 
-Mir freue ois uf e mögliche Zämmearbeit!
+Mir freue üs uf e möglici Zusammenarbeit!
 
-S’Team vo HZ KONTEJNERY s.r.o.
+Das Team vo HZ KONTEJNERY s.r.o.
 
-## Contact
+## Kontakt
 
 **mail:** info@hz-containers.com  
 **Tel:** +420 608 830 863
 
-**Arbetsziite:**  
-Mäntig – Fritig: 9.00 - 17.00
+**Arbeitsziite:**  
+Mäntig – Friitig: 9.00 – 17.00
 
-**Adress:**  
+**Adres:**  
 Průmyslová 154  
 674 01 Třebíč
 
 {{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
-**Firmenadress:**  
+**Unternehmensadres:**  
 Slavníkova 2357/9, Břevnov (Praha 6), 169 00 Praha  
-z'ämelade i o. r., unter däm Zeichen: C 240707, gfüehrt bim Mästsche vo dr Stadt in Prag
+i Handelsregister iiigträgt, Unternummer: C 240707, gfüert vom Stadtsgericht i Praga
 
 ID: 03975177  
-VAT: CZ03975177
+MwSt: CZ03975177
 
 {{< googlemap lat="50.0848364" lon="14.3623594" height="400px" zoom="15" >}}
 
-## Analys vo Oy Confoot Ltd – D Firma vo de Containerfüess
+## Analyse vo de Oy Confoot Ltd – D’Containerfüess-Firma
 
-**Ibersicht über Oy Confoot Ltd:**  
-Oy Confoot Ltd isch e finnischi Firma, wo sich uf d'Entwicklig und d'Härstellig vo innovative, abnehmbare Containerfüess für Shipping-Containern spezialisiert het. Ihre Produkte sind deruf usglegt, d'Handhabig und dr Transport vo Containern z'verifache, so dass sie e wertvolli Ressource i de Logistik- und Lieferkette-Operatione sin.
+**Übersicht über Oy Confoot Ltd:**  
+Oy Confoot Ltd isch e finnische Firma, wo sich uf d’Entwécklig und d’Herstellig vo innovative, abnehmbari Containerfüess für Schiffcontainer spezialisiert het. Ihre Produkte si drum druf und draa, d’Handhabig und de Transport von Containern z’vereinfachä – und so e wertvolli Unterstützig i dr Logistik und bim Supply-Chain-Betrieb.
 
-HZ Containers verantwortet de Vertrieb und s'Marketing i mehere europäischi Länder, um s'Vertriebs- und Distributionsnetz vom ConFoot-Label z'verbessere. Bevor mir aafange händ, ConFoot-Produkte z'verkaufe, händ mir alli uf em Markt verfüegbare Produkte vo Containerfüess gründlich teste, um sicherz'stelle, dass mir üsä Chunde nume Top-Qualität liefere. Mir händ nöd nume s'Produkt analysiert, sondern au dr Hintergrund und d'Gschicht vo Oy Confoot Ltd.
+HZ KONTEJNERY vertritt dr Vertrieb und s’Marketing in mehri europäischi Länder, um s’Vertriebs- und Verteilsnetz vom ConFoot-Label z’stärche. Bevor mir d’ConFoot-Produkte verchaufe händ, händ mir alli uf em Markt verfüegbari Produkte für Containerfüess gründlich getestet, zum sicherzstelle, dass mir üse Chunde nume Top-Qualität liefere. Mir händ nöd nume ds Produkt, sondern o dr Hintergrund und d’Gschicht vo Oy Confoot Ltd analysiert.
 
-**Kurzi Gschicht vo Oy Confoot Ltd:**
+**Kurz gschnitte Gschicht vo Oy Confoot Ltd:**
 
 - **2011:** Oy Confoot Ltd isch i Finnland gründet worde.  
-- **2013:** D'Firma het mit de kommerziälle Betrieb aafange, nach langi Forsche und Entwicklig, wo über e Jahrzehnt daure hät.  
-- **2013–2024:** ConFoot het e Palette vo patentierte Produkte entwicklet, wo i de Logistikbranche sehr beliebt worde send – u.a. für d’finnische Verteidigigsstreitkräfte und IKEA.  
-- **2024:** D'Firma isch verkouft worde, was uf Wachschtum und s’Interesse vo grössere Akteure i dr Logistik hindeutet.
+- **2013:** D’Firma het d’kommerzielli Tätigkeit nach umfangriiche Forsche und Entwicklig, wo über es Jahrzehnt daueret hät, ufgnoh.  
+- **2013–2024:** ConFoot het e Palette vo patentierte Produkte entwicklet, wo in dr Logistikindustrie populär worde sind – und hät verschiedeni Kunden bedient, unter anderi d’Finnische Verteidigigsstreitkrafte und IKEA.  
+- **2024:** D’Firma isch verchauft worde, was s’Wachstum und s’Interesse vo grösseri Unternehme im Logistiksektor widerspiegelt.
 
-**Bemerkenswerti Leistige:**
+**Bemerkenswürdig Leistige:**
 
-- **Innovatives Produkt:** D'ConFoot-Füess send so entworfe, dass eini Persone sie bediene cha – so chasch en 30-Tonn-Container in Churzziit allei stah lah.  
-- **Patentierti Technologi:** S'uniigi Design vo de ConFoot-Füess isch patentiert, was d'Nacherahmig verhindere söll und üsi Innovation unterstreicht.  
-- **Chunde-Basis:** D'Firma het e vielfältigi Chundebasis i verschiedene Branche ufbaut, wie Transport, Einzelhandel und humanitäri Hilf, mit bedeutende Chünde wie Lear Corporation und Orion Engineered Carbons.  
-- **Einhalted vo europäischi Sicherheitsstandards:** D'Produkte entspräche dr europäischi Maschinenrichtlinie 2006/42/EG bezüglich dr Sicherheit.  
-- **Nachhaltigkeit:** S'leichte Design vo de Füess trägt zu niderigere Transportkoschte und eme reduzierte Umweltauswirkig bi, will sie d'Logistik optimiered und d'Zahl vo notwendige Traschtöne für d'Containerhandhabig vermindere.
+- **Innovatives Produkt:** D’ConFoot-Füess si so entworfe, dass nume eini Persone sie bediene cha – und so isches möglich, 30-Tonne-Container in Minute suicher stah z’stelle.  
+- **Patentierti Technologie:** Das einzigartigi Design vo de ConFoot-Füess isch patentiert, was sie vor Imitation schützt und ihre Innovation unterstreicht.  
+- **Kundebasis:** D’Firma hät e vielfältigi Kundebasis i verschiedeni Branche – unter anderi im Transport, Handel und in dr humanitäre Hilf –, mit bekannte Kunde wie Lear Corporation und Orion Engineered Carbons.  
+- **Europäischi Sicherheitsnormen:** D’Produkte erfülle d’europäischi Maschinenrichtlinie 2006/42/EC bezüglich de Sicherheit.  
+- **Nachhaltigkeit:** S’leichti Design vo de Füess trägt zu niderige Transportkoste und eme reduzierte Umweltauswirkig bi, will d’Logistik abglichen und d’Anzahl dervo nötige Transporte vermindert wird.
 
-Die umfassendi Ibersicht git e detaillierte Einblick in Oy Confoot Ltd, hebt ihri Impakt uf d'Logistikbranche hervor und zeigt ihre Leistige i de letschte Johr.
+Die umfassendi Übersicht gibt e detaillierte Einblick in Oy Confoot Ltd, und hebt ihri Wirkung uf d’Logistikindustrie und ihri Leistige im Laufe vo dr Zyt hervor.
 
-## Problem & Lösig
+## Problem & Lösung
 
-**Firmannam:** Oy Confoot Ltd
+**Firmenname:** Oy Confoot Ltd
 
 **Problem:**  
-Oy Confoot Ltd erkennt e erheblichs Problem i dr Shipping- und Logistikbranche betreffend d'Stabilität und d'Sicherheit vo Shipping-Containern während em Transport und dr Lagerig. Dr Hauptaspekt isch s'Risiko, dass Container umchalle, wänn se ohni rächt Containerheber ghandlet werde – das cha zu gfährliche Unfälle, möglichi Verletzige und beträchtligi finanzieli Verlüscht führe, wäge beschädigter Ladig und Verspötig im Betrib. Die Instabilität wird oft no verschlimmert dur unzüügligi Unterstützigssysteme bi dr Handhabig, em Staple und Transport.
+Oy Confoot Ltd erkennt e erheblichs Problem in dr Schifffahrts- und Logistikbranche bezüglich dr Stabilität und dr Sicherheit vo Schiffcontainer während em Transport und dr Lagerig. Dr Hauptpunkt isch s’Risiko, dass Container umkippe, wänn sie ohne adäquati Containerheber bewegt werde – was zu gefährliche Unfälle, möglicha Verletzige und erhebligi finanzielli Verlüscht (durch beschädigti Fracht und Betriebsverzögerige) führe cha. Die Instabilität wird oft dür unzureichendi Unterstützigssystem im Umgang mit em Staple, Umsetze und Transport verschärft.
 
-**Lösig:**  
-Um das Problem z'b egliche, het Oy Confoot Ltd innovative Lösige für Containerfüess entwicklet, wo dr Support und d'Stabilität vo Shipping-Containern verbessered. Ihre Strategie basiert uf robuste und fortschrittlichi Designs für Containerfüess, wo e überlegeni Unterstützig biete, s'Umchalle verhindere und e sichere Handhabig gewährleiste. S’patentierti Design vereinfacht s’Hebe und d’Positionierig vo Containern, so dass’s d’Notwendigkeit für schwärchi Maschinerie usfällt und d'Betriebseffizienz verbässert wird. Die Lösig erhöht nid nume d'Sicherheit, sondern trägt au zur Kosteneffizienz i Logistikbetriebe bi – e wertvolli Innovation i dr Branche.
+**Lösung:**  
+Zum d’Problematik behandle, het Oy Confoot Ltd innovative Containerfüess entwickelt, wo dr Unterstützung und Stabilität vo Schiffcontainer beträchtlich verbessere soll. Ihre Vorgehwiis besteht darin, robusti und fortschrittlichi Designs für Containerfüess zu konzipiere, wo überlegeni Stabilität biete – und so s’Umkippe verhinderet wird. Ds patentierti Design vo de Containerfüess vereinfacht s’Ufhebe und d’Positionierig vo Containern, wodurch s’Bedürfnis für schweri Maschinä entfällt und d’Effizienz im Betrieb verbessert wird. Die Lösig stärkt nid nume d’Sicherheit, sondern trägt o zur Kosteneffizienz im logisteschi Betrieb bi – und ist drum en wichtige Fortschritt i dr Branche.
 
-## Markt
+## Maaark
 
-**Firma-Analyse: Oy Confoot Ltd**
+**Unternehmensanalyse: Oy Confoot Ltd**
 
 1. **Segment & Fokus:**  
-   – **Segment:** Oy Confoot Ltd tätigt im Logistik- und Transportsektor, mit speziellem Fokus uf d'Entwicklig vo Containerfüess.  
-   – **Ziil-Kunde:** Di Hauptkunde vo Oy Confoot Ltd send Shipping-Companys, Logistikdienstleister und Vertriebszentren, wo zuverlässigi und haltbari Containerlösige für ihre Betriebe bruched.
+     
+   - **Segment:** Oy Confoot Ltd tätigt im Logistik- und Transportsektor und konzentriert sich speziell uf d’Entwécklig vo Containerfüess.  
+   - **Zielchunde:** D’Hauptzielchunde vo Oy Confoot Ltd sind Speditionsfirmen, Logistikanbieter und Distributionszentren, wo robuste und zuverlässigi Containerlösige füre ihre Betriebe bruuche.
 
-2. **Ziilmarkt:**  
-   Dr Ziilmarkt bestoot us Unternehmen, wo im Transport und in dr Logistik tätig sind und Container für de Warenversand bruched – dazu ghöred maritimi Shipping-Companys, Spediteure und Firma, wo im internationale Handel aktiv send.
+2. **Zielmaaark:**  
+     
+   - Dr Zielmaaark vo Oy Confoot Ltd umfasst Unternehme, wo im Transport und in dr Logistik tätig sind und Container für d’Frachtversändig bruuche – also unter anderi maritime Spediteure, Frachtführer und Firmen, wo im internationale Handel aktiv sind.
 
-3. **Hintergrund zum Markt:**  
-   D'Container-Shipping-Industrie het durch d’Globalisierung und dr Zuehame vo internationalem Handel e beträchtlichs Wachschtum erlebt. D’Nofrog nach effiziente Logistiklösige het zu Innovatione i dr Container-Technologie gführt, wo u.a. d’Notwendigket für robusti und adaptierbari Containerfüess mit sich bringt.
+3. **Hintergrund vom Maaark:**  
+     
+   - D’Schiffcontainerindustrie het durch d’Globalisierung und de Zuechod im internationale Handel e enorms Wachstum erlebt. Dr Bedarf an effiziente Logistiklösige het zu Innovatione in dr Containertechnologie gführt – inklusive robusten und flexibel einsetzbare Containerfüess.
 
-4. **Marktgrossi:**  
-   Dr globale Container-Shipping-Markt wird uf mehri hundert Milliarde Dollar geschätzt, und d’Prognose deute uf wiiters Wachschtum – aagetriebe dur e-Commerce und globali Lieferkette. Dr Markt für Containerfüess isch en Teil vo däm, wird aber wahrschinlich mit dr steigende Nofrog nach Containerbruuche zomache wächse.
+4. **Marktgrösse:**  
+     
+   - Dr globale Schiffcontainermaaark wird uf mehri hundert Milliarden Dollar geschätzt – und de Teilbereich für Containerfüess wird erwartet mit em zunehmende Gebrauch vo Containern weiter z’wachse.
 
-5. **Markt-Chancä:**  
-   Chancen für Oy Confoot Ltd enthalte d’Erweitung von ihre Produktpalette – z. B. dür fortschrittligi Materialie, wo d'Haltbarkeit verbessered und s'Gewicht reduziere, d’Entwicklig vo “smarte” Containerfüess mit integrierter Tracking-Technologie und dr Eintritt in entstarchendi Märkt, wo d’Containerbruuche witer steiged.
+5. **Marktmöglichkeiten:**  
+     
+   - Chancen für Oy Confoot Ltd beinhaldet d’Erweiterig vo dr Produktpalette, z. B. mit fortschrittliche Materialien, wo d’Haltbarkeit erhöhe und s’Gewicht verringere, d’Entwécklig vo smarten Containerfüess mit Tracking-Technologie und dr Eintritt in neu entstehendi Märkt, wo d’Containerverwendung im Umbruch isch.
 
 ## Team
 
-1. **Mia Pietarinen** – Inhaberin und Unternehmerin: Mia Pietarinen isch d'neui Inhaberin vo ConFoot, wo d'Firma übernäh het, um ihre Betriebe und Produktpalette z'erwächse.  
-2. **Timo Akela** – Gründer: Timo Akela wird als de Gründer vo ConFoot anerkannt und wird d’Erfindig vo de ConFoot-Füess in Zämeschaff mit Ingenieure vo de Metropolia Universität i Helsinki zugeschriibe.  
-3. **Heikki Lehmuskoski** – Vorstandsmitglied: Heikki Lehmuskoski isch es Vorstandsmitglied und trägt zur strategische Ausriichnig und dr Führuig vo dr Firma bi.  
-4. **Lauri Lehtoviita** – Finanzchef: Lauri Lehtoviita isch dr Finanzchef und spielt e entscheide Rolle bim Management vo de Finanze und dr strategische Plane vo dr Firma.  
-5. **Robert Latvala** – Internationaler Marketing Manager: Robert Latvala isch zuständig für d’internationale Marketingstrategie vo ConFoot und konzentriert sich druf, ihre Marktpräsenz z'erwächse.
+1. **Mia Pietarinen** – Eigentümerin und Unternehmerin: Mia Pietarinen isch di neui Inhaberin vo ConFoot, wo d’Firma übernoh hät, um ihre Operatione und Produktpalette z’erweitere.  
+2. **Timo Akela** – Gründer: Timo Akela wird als Gründer vo ConFoot anerkannt und hät in Zäme-arbet mit de Ingenieure vo dr Metropolia Uni i Helsinki d’ConFoot-Füess erfunde.  
+3. **Heikki Lehmuskoski** – Verwaltungsratsmitglied: Heikki Lehmuskoski isch Mitglied im Verwaltungsrat und trägt zur strategische Richtig und Unternehmensführung bi.  
+4. **Lauri Lehtoviita** – Finanzdirektor: Lauri Lehtoviita isch verantwortliich für d’Finanze und spielt en wichtige Roll in dr strategische Planung vo dr Firma.  
+5. **Robert Latvala** – Internationaler Marketingmanager: Robert Latvala leitet d’internationale Marketingstrategie vo ConFoot mit em Ziel, d’Marktpräsenz z’erweitere.
 
-Für witers Detail chasch ihre LinkedIn-Profile und Firmenannouncements uf Plattformen wie WorldCargo News ahloufe.
+Für witeri Detail chönd Sie ihri LinkedIn-Profile und Firmenankündigungen uf Plattformen wie WorldCargo News abluege.
 
-## Produkt und Dienstleistige
+## Produkte und Dienschtleistige
 
-**Firmannam:** Oy Confoot Ltd (ConFoot)
+**Firmenname:** Oy Confoot Ltd (ConFoot)
 
-**Hauptprodukt und Dienstleistige:**  
-Oy Confoot Ltd isch spezialisiert uf d'Entwicklung vo innovative Containerfüess, wo unerlässlich send für d’Schtabilisiere und d’Unterstützig vo Shipping-Containern während em Transport und dr Lagerig. Ihre Hauptprodukte enthalte verschideni Modelle vo Containerfüess, wo für unterschiedlichi Aawändige designed send. Da sind d'wichtigste Produkte, wo ConFoot aabietet:
+**Hauptprodukt oder -dienschtleistige vo dr Firma:**  
+Oy Confoot Ltd spezialisiert sich uf d’Entwécklig vo innovative Containerfüess, wo für d’Stabilisierung und d’Sicherheit vo Schiffcontainer während em Transport und de Lagerig unabdingbar sind. Ihre Hauptprodukte umfassed verschiedeni Modelle vo Containerfüess, wo für unterschiedlichi Applikatione designt sind. Da simmer d’wichtigste Produkte vom ConFoot:
 
 1. **CF – Standardmodell**  
-   - Tragfähigkeit: 34 Tonn  
-   - Gewicht: 24 kg  
-   - Verstellbereich: 1.043 mm bis 1.448 mm
+     
+   - Tragfähigkeit: 34 Tonne  
+   - Gwicht: 24 kg  
+   - Verstellbari Bereich: 1'043 mm bis 1'448 mm
 
-2. **CFP – Lösig für Ladebereich**  
-   - Tragfähigkeit: 30 Tonn  
-   - Gewicht: 24 kg  
-   - Verstellbereich: wie bim Standardmodell
+2. **CFP – Lösung für d’Ladebucht**  
+     
+   - Tragfähigkeit: 30 Tonne  
+   - Gwicht: 24 kg  
+   - Verstellbari Bereich: Wie bim Standardmodell
 
 3. **CFU – Höhenkontrollmodus**  
-   - Tragfähigkeit: 20 Tonn  
-   - Gesamtgewicht: 46 kg
+     
+   - Tragfähigkeit: 20 Tonne  
+   - Gesamtgwicht: 46 kg
 
-4. **CFL – Modell für gerahmti Container**  
-   - Tragfähigkeit: 30 Tonn  
-   - Verstellbereich: wie bim Standardmodell
+4. **CFL – Modell für Rahmencontainer**  
+     
+   - Tragfähigkeit: 30 Tonne  
+   - Verstellbari Bereich: Wie bim Standardmodell
 
-D’Vorteil vom Einsatz vo de ConFoot-Füess send unter anderem e gesteigereti Effizienz, meh Sicherheit und Mobilität. Sie erlaube e schnälli und eifachi Containerhandhabig, ohni dass’s d’Notwendigkeit für Krane oder schwärchi Maschinerie git – was zu niderigere Betriebskoschte und optimierte Logistikabläufe führt.
+D’Vorteil vo de ConFoot-Füess liit in dr erhöhte Effizienz, Sicherheit und Mobilität. Sie erlaube e schnälli und eifachi Containerhandhabig, ohne dass en Kran oder schweri Gerät bruucht werde mues – und senked so d’Betriebskoste und verbessered d’Logistikprozesse.
 
-**Produktalternativen und Konkurrentä:**  
-ConFoot stoot uf Konkurrenz vo verschiedene Firma, wo au Lösungen für Containerhandhabig aabiete. E chliine Uuszug vo bedeitende Wettbewerber sind:
-  
-- **HZ Containers:** Bietet ähnlechi Containerhandhabigs-Systeme, inklusiv hydraulischi Systeme, wo s’Hebe und Sänke vo Containern eifacher mache – mit em Fokus uf Effizienz und Sicherheit. HZ Containers isch e globaler Wiederverkäufer vo Shipping-Containern und vo Produkten, wo mit alternative Aawändig vo diesen Containern z'tue hend. Da HZ Containers aau ConFoot-Produkte i mehere europäischi Länder widerverkauft, wird sie nöd als direkter Wettbewerber zellt.  
+**Produktalternative und Konkurrenz:**  
+ConFoot steht in dr Konkurrenz zu verschiedene Unternehe, wo o Containerhandhabigslösige aabiete. Eppis vo de erwähnenswerti Konkurrenz sin:
 
-- **Kalmar und Liebherr:** Die Firma aabiete Geräte für Containerhandhabig, aber in dr Regel mit schwärchere Maschinerie und oft zu höcherne Koschte.
+- **HZ Containers:** Bietet ähnlichi Systeme für d’Containerhandhabig, inklusiv hydraulischi System für s’leichteri Hube und Absenke vo Container – immer mit em Fokus uf Effizienz und Sicherheit. HZ Containers isch e globaler Wiederverkäufer vo Schiffcontainer und assoziierti Produkte, wo alternativ für de Containergebrauch dürgfüehrt werde. Da HZ Containers o Wiederverkäufer vo ConFoot-Produkte i mehri europäischi Länder isch, zellt es nid als direkte Konkurrenz.
+    
+- **Kalmar und Liebherr:** Die Unternehe liefere Gerät für Containerhandhabig, was allerdings meist schwereri Maschinä involviert und so potenziell höhere Koste verursacht.
 
-**Vorteil gegenüber de Wettbewerber:**  
-- **Eifachi Handhabig:** D’ConFoot-Füess chönd vo einere Persone in nume e paar Minute installiert werde – das macht sie benutzerfreundlich und reduziert d’Abhängigkeit vo schwärchere Maschinerie.  
-- **Portabilität und leichts Design:** Mit nume 24 kg pro Fuss send die Füess erheblich leichter als vil Alternativen, was de Transport und d'Handhabig vereinfacht.  
-- **Kosteneffizienz:** Dr Wegfall vo Kranen und anderer schwärcher Gerät senkt d'Betriebskoschte und steigert d'Profitabilität vo Logistik- und Transportunternehme.  
-- **Vielfältigi Aawändige:** D'ConFoot-Füess chönd i verschiedene Szenarie bruucht werde – vo Logistik über Bau bis zu humanitärer Hilf, was ihre Einsatzmöglichkeite enorm erweitert.
+**Vorteil gegenüber dr Konkurrenz:**  
+ConFoot het folgende Vorteil:
 
-Zämegfaasst: ConFoot sini innovative Aawändig zur Containerhandhabig, kombiniert mit em stärke Fokus uf Effizienz, Sicherheit und Kostensenkig, positioniert sie uf em Markt als e führendi Option – ideal für Unternehmige, wo ihre Containertransport und -lagerig optimieren wend.
+- **Eifachi Bedienig:** D’ConFoot-Füess chöi vo nume einere Person in e paar Minute montiert werde – was Nutzigiheit und e Reduktion vo de Abhängigkeit vo schweren Maschinen brucht.  
+- **Portabilität und leichts Gwicht:** Mit nume 24 kg pro Fuess sin d’ConFoot-Füess de verre leichti als vill alternative, was Transport und Handhabig enorm erleichtert.  
+- **Kosteneffizienz:** S’Wegfall vo Kran und schweri Zusatzgerät senked d’Betriebskoste und erhöht d’Profitabilität vo Undernehme in dr Logistik und im Transport.  
+- **Vielfältigi Applikatione:** D’ConFoot-Füess chöi in verschiedene Szenarien verwendet werde – vo Logistik über Bau bis zu humanitärer Hilf – und erweitere so ihri Marktfähigkeit.
 
-## Gang an de Markt
+Zämefassend: D’innovative Herangewiis vo ConFoot für d’Containerhandhabig, kombiniert mit em Fokus uf Effizienz, Sicherheit und Kostensenkig, positioniert sie im Vergleich zu de Konkurrenz sehr positiv. Ihre robuste Produktpalette und einzigartigi Vorteil mache sie zum bevorzugte Partner für Undernehme, wo ihre Containertransport- und Lagerigprozesse optimiere wänd.
 
-**Übersicht vo dr Firma: Oy Confoot Ltd**  
+## Go To Market
 
-Oy Confoot Ltd isch e finnischi Firma, wo sich uf d'Entwicklung vo innovative Containerfüess spezialisiert het – en essentielle Bestandteilig für d'Schtabilität und d'Sicherheit vo Shipping-Containern. Ihre Produkte adressiere vielseitigi logistische Herausforderige, besonders im Kontext vo dr wachsende globalen Shipping-Branche.
+**Unternehmensübersicht: Oy Confoot Ltd**
 
-1. Technology Readiness Level (TRL)  
-   ConFoot sini Containerfüess, speziell s'CFU-Modell, hei en Technology Readiness Level (TRL) erreicht, wo uf en fortschrittlichi Entwicklig hiweist. S'CFU-Modell isch CE-zertifiziert, das heisst, es entsprächt de europäischi Sicherheitsstandards und isch für de kommerzielle Einsatz bereit. Das Modell cha Container mit bis zu 20 Tonn hebe, so dass sie sicher uf em Boden abgsetzt oder uf Trailer mobilisiert werde – und das mit eme manuälle Hydrauliksystem. Ds robuste, aber leichti Design setzet uf Stabilität, ohne an Stärke z'verliere, und ermöglicht so d'Bedienig durch nume eini Persone. Dr Fokus uf portable und zuverlässigi Lösige unterstreicht ihre technologische Reife und positioniert sie günstig uf em Markt.
+Oy Confoot Ltd isch e finnische Firma, wo sich uf d’Entwécklig vo innovative Containerfüess spezialisiert het – e Komponente, wo für d'Stabilität und d'Sicherheit vo Schiffcontainer unabdingbar isch. Ihre Produkte adressiere unterschiedliche logistische Herausforderungen, vor allem i de global wachsendä Schifffahrtsindustrie.
 
-2. Go to Market-/Vertriebsstrategie  
-   ConFoot het e Vertriebnetzwerk in über 20 Länder ufbaut, was d'Durchdringig im Markt i verschiedene Regione – u.a. i Europa, Südamerika und Afrika – erleichtert. Ihre Strategie richtet sich uf Branchen, wo portable Containerhandhabigs-Lösige bruched, wie Logistik, Bau und humanitäri Hilfsorganisatione. S’CFU-Modell adressiert speziell operative Herausforderungen i Gebiete mit mangelnder Infrastruktur und erweitert so ihre Attraktivität. D'Firma legt zusätzlich gross Wert uf kurzi Lieferziite, indem si Lager in dr Fabrik und bi de Händler underhält – s’Schtellt sicher, dass si prompt uf d'Marktnofrog reagiere chönd.
+### 1. Technologiereifegrad (TRL)
 
-3. Geschäftsmodell  
-   Dr Erfolgsfaktor vo ConFoot liit i ihrem Geschäftsmodell, das sich drum dreht, hochwährigi und kosteneffiziente Containerhandhabigs-Lösige z'biete. Ihre Produktpalette umfasst verschiedene Modelle – wie s'CF (34t Kapazität), s'CFP (30t Kapazität) und s'CFL-Modell –, wo uf unterschiedlichi operative Bedürfnis usgrichtet send. D'Preisstrategie isch wettbewerbsfähig und fokussiert sich uf de Wert, den d'Kostensenkig und d'Optimierig vo de Lieferketten für d'Chunde bringt. Zudem biete si au individuell Aapassige für ihre Füess a, um spezifischi Chundenbedürfnis z'erfülle – was zusätzlich en Serviceaspekt und potenzielle Umsatz generiert.
+D’Containerfüess vo ConFoot, insbesondere s’CFU-Modell, hend en Technologiereifegrad erreicht, wo uf en fortschrittlechi Entwicklungsstand hinwiese. S’CFU-Modell isch CE-zertifiziert, was bedütet, dass es d’europäischi Sicherheitsnormen erfüllt und für de kommerziälle Gebrauch parat isch. Das Modell cha Container hebe, wo bis zu 20 Tonne wiege, und erlaabt, sie suicher uf de Bode abzsetze oder uf Anhänger z’lade – mit enem manuelle hydraulische System. Ds robuste, aber leichti Design ermöglicht d’Bedienig vo nume einere Persone, ohne dass s’Gewicht oder d'Stärke kompromittiert wird. Dr Fokus vo dr Firma uf portable und zuverlässigi Lösige unterstreicht ihri technologische Reife und positioniert sie sehr guet im Markt.
 
-4. Timing  
-   Dr Zeitpunkt für de Markteintritt und d’Expansion vo ConFoot schiint ideal z’passa. D'globale Shipping-Branche wächst wiiter, aagetriebe dur steigendi Handelsvolumä und komplexi logistische Abläufe. Wenn Organisatione effiziente und portable Lösige für d'Containerhandhabig sueched, passe ConFoot sini innovative Produkte perfekt zu de Nofroge im Markt. Insbesonders in Regioon mit infrastrukturelle Hindernisse schaffe ihre Lösige neui Partnerschafte – etwa mit humanitäre Organisatione oder andere Sektor, wo flexible Logistik bruuche.
+### 2. Go-to-Market/Distributionsstrategie
 
-Zämegfaasst isch Oy Confoot Ltd strategisch guet positioniert i enem wachsende Markt – basierend uf e solide technologische Basis, en effektive Vertriebsstrategie und es Geschäftsmodell, wo uf de Kunde zentriert isch. Der Fokus uf Innovation und d’Adressierig vo reale logistische Problem hebt sie als e wichtigen Akteur i dr Containerhandhabig hervor.
+ConFoot hät e Vertriebsnetz in über 20 Länder ufbaut, was de Marktzugang in verschiedeni Region – unter anderi Europa, Südamerika und Afrika – enorm erleichtert. Ihre Strategie beinhaltet, Industriezweige z’identifiziere, wo portable Containerhandhabigslösige bruuche, wie z. B. Logistik, Bau und Organisatione für humanitärer Hilf. S’CFU-Modell adressiert vor allem d’operativen Herausforderungen i Gebite, wo Infrastrukturen nid optimal ufgstellt sind – und erweitert so dr Marktapell. D’Firma legt o en hohe Priorität uf schnäu Lieferzite, indem si Lagerbestand i dr Fabrik und bi de Händler pflegt. Die Strategie stellt sicher, dass si flexibel uf de Marktbedarf reagierä chönne.
 
-## Ökonomie
+### 3. Geschäftsmodell
 
-Oy Confoot Ltd entwickelt Containerfüess für Logistikbetriebe und liefert portable sowie kosteneffiziente Lösige für d'Containerhandhabig. Da chasch detailliert erfahre, wie ihre Unit-Ökonomie, de Umsatz und d'Rezonanz ausschaut:
+S’Geschäftsmodell vo ConFoot basiert uf em Angebot vo hochwertigi und kosteneffiziente Containerhandhabigslösige. Ihre Palette umfasst verschiedeni Modelle – s’CF (34-Tonne Kapazität), s’CFP (30-Tonne Kapazität) und s’CFL –, wo a unterschiedliche betriebliche Bedürfnisse angepasst sind. D’Preisstrategie isch wettbewerblich usgreicht und fokussiert sich uf de Mehrwert, wo durch d’Reduktion vo Kosten und d’Optimierig vo de Lieferkette für de Kunde entstösst. Zudeem wird o individuelle Anpassig für d’Füess ermöglicht, was en zusätzliche Service und möglici Umsatzgenerierig bringt.
 
-1. **Unit-Ökonomie und Kostenzusammenstellig:**  
-   – Di wichtigste Kostentreiber für Oy Confoot Ltd sin d'Materialie (hochzächtiger Stahl), d'Fertigungsprozesse und d'Logistik im Vertrieb. S'Standardmodell CF het e Kapazität vo 34 Tonn und wiegt nume 24 kg pro Fuss – das führt zu niderigere Versandkoschte im Vergleich zu de schwereri Wettbewerber.  
-   – Mit dr Expansion i de nöchste 3–5 Jahr wird erwartet, dass Economies of Scale de Stückpreis senked – vor allem i de Materialbeschaffung und de Herstellungs-Effizienz. Wettbewerber händ oftmals schwereri und voluminösere Alternative, wo mit höcherne Transport- und Handhabigs-Koschte verbunde sind – das verschafft ConFoot en prägnanten Preisvorteil.  
-   – E Vergleich zeigt, dass obgleich alternativi Produkt ähnlichi Kapazität aabiete, d’höcheri Gewichts oft spezielles Hebe-Equipment nötig mache – und so d’Logistikkoschte insgesamt erhöhe. ConFoot sini leichti Bauwiis erlaubt d’Bedienig durch nume eini Persone und reduziert d'Abhängigkeit vo schwärcher Gerät.
+### 4. Timing
+
+Dr richtige Zeitpunkt fürs i-Markt cho und d’Expansion vo ConFoot scheint ideal: D’global Schifffahrtsindustrie wachst stetig, getrieben dur steigendi Handelsvolumä und komplexeri logistische Abläuf. Während Undernehme effiziente und portable Lösung sueche, passt ConFoot mit sine innovative Produkte super zue de Marktbedürfnisse. Vor allem in Regionen mit infrastrukturelle Herausforderungen bietet das Produktchancä – und schafft so Möglichkeiten für Partnerschafte mit humanitärer Organisation und andere Sektore, wo flexible Logistiklösige bruuche.
+
+Insgesamt isch Oy Confoot Ltd strategisch guet positioniert in enem wachsendä Maaark, untermauert dur e solide technologische Basis, en effektivi Vertriebsstrategie und es kundenorientiertes Geschäftsmodell. Ihr Engagement für Innovation und d’Bewältigung vo reale logistische Herausforderungen stellt sie als en wichtige Akteur im Bereich Containerhandhabig dar.
+
+## Wirtschaftlichkeit
+
+Oy Confoot Ltd spezialisiert sich uf d’Entwécklig vo Containerfüess für logistische Operatione und bietet portable und kosteneffiziente Lösungen für d’Handhabig vo Schiffcontainer. Da simmer mit de Detail i de Unit Economics, em Umsatz und de Marktdurchbruch:
+
+1. **Unit Economics und Kostenaufschlüsselig:**  
+     
+   - D’Hauptkostetreiber vo de Produkte sin Material (hochfester Stahl), Herstellungsprozesse und d’Logistik für d’Distribution. S’Standardmodell (CF) het e Kapazität vo 34 Tonne und wiegt nume 24 kg pro Fuess – was z’niedrige Transportkoste führt im Vergleich zu schwerere Konkurrente.  
+   - Mit em Wachstum vo dr Firma i de nöächste 3-5 Jahr wird erwartet, dass d’Economies of Scale d’Stückkosten senke – vor allem im Materialeinkauf und i dr Produktionseffizienz. D’Konkurrente biete oft schwereri und sperrige Alternativen, was zu erhöhte Transport- und Handlingkoste führt – so chunt ConFoot e klare Preisvorteil.
+   - E Vergleich zeigt, dass obwoll Alternativen ähnlichi Kapazität biete, ihr meh gewichtigs Design speciälle Hebemaschine erfordert – und das erhöht d’Logistikkoste. D’leichti Konstruktion vo ConFoot ermöglichts, dass e einzelne Bedienperson usekommt.
 
 2. **Umsatz:**  
-   – Aktuell generiert Oy Confoot Ltd Umsatz durch de Verkauf vo ihre Containerfüess, und d'Prognose deutet uf en signifikante Wachsstum in de nöchste 3–5 Jahr. Mit dr Einfüerig vo neie Modelle wie s'CFU (20t Kapazität) wird erwarte, dass d'Marktpräsenz erweitert wird und de Umsatz steigend isch.  
-   – Au wen Schlüssel-Umsatzzahle und Zuekunftsprognose nöd offelegt send, deutet alles druf hin, dass d'Firma mit em steigende Bedürfnis nach effiziente Logistiklösige vor allem in unterentwicklete Regioon en höhere Kundenakzeptanz erfahre wird.
+     
+   - Oy Confoot Ltd erwirtschaftet aktuell Umsatz über de Verkauf vo ihre Containerfüess und Prognose erwarten e signifikante Wachstum in de nöächste 3-5 Jahr. D’Einführung vo neui Modelle wie s’CFU (mit 20-Tonne Kapazität) wird erwartet, dr Markt z’erweitere und d’Verkäufe z’steigere. Strategisch isch d’Firma positioniert, um i Europa, Südamerika und Afrika, wo d’Nachfrag nach portabler Containerhandhabigslösige wächst, erfolgrich zu expandiere.
+   - Wichtigi Umsatzkennzahle und Prognose, wenngleich nöd offenzlegt, deute defür, dass d’Kundennachfrag mit em zunehmende Bedürfnis nach effiziente Logistiklösige steigt.
 
-3. **Traktion:**  
-   – Wichtigi Meilensteine sind dr erfolgreiche Launch vo mehreren Produktlinien, inklusiv em CFU-Modell – wo positive Rückmeldige für sini vielseitigi Aawändig i verschidene Branche, u.a. in dr humanitäre Hilf, ibracht het.  
-   – D'Firma het es Vertriebnetzwerk i über 20 Länder ufbaut und isch in de Verhandlige für zäme Arbet mit diverse Sektor. Das positioniert ConFoot als e zentrale Akteur für d'Lösung vo betrieblichen Herausforderungen i dr Containerlogistik.  
-   – Vor chli isch d'Firma verkouft worde, was uf en strategische Neuausrichtung hinweist – mit em Potenzial für meh Investments und witeri Entwicklig vo ihre innovative Lösige.
+3. **Traction:**  
+     
+   - Wichtigi Meilensteine für Oy Confoot Ltd sin d’Einführung vo mehere Produktlinien, insbesondere s’CFU-Modell, wo positivi Rückmäldige für sini vielseitigi Anwendung – u.a. in dr humanitäre Hilf – erhalte hät.
+   - D’Firma het e Vertriebsnetz in über 20 Länder usgstaute und isch ständig i de Dialog mit verschiedenene Sektore für potenziali Partnerschafte – so positioniert si sich als en wichtige Lösigsanbieter für containerbasierte Logistik.
+   - Vor chürzem isch d’Firma verchauft worde, was uf e strategischi Neuausrichtig hindeutet, die in Zukunft z’erhöhte Investitione und Weiterentwicklig vo ihre Produkte mit sich bringe cha.
 
-Isgsamt sticht Oy Confoot Ltd im Logistiksektor us dank ihre innovative und kosteneffiziente Containerhandhabigs-Lösige – und isch parat, in de nöchste Johr sowohl Umsatz als au d'Marktpräsenz z'wachse.
+Insgesamt sticht Oy Confoot Ltd i dr Logistikbranche durch ihri innovative und kosteneffiziente Containerhandhabigslösige hervor – und isch optimal positioniert für Umsatzwachstum und e erhöhti Marktpräsenz i de nöächste Johr.
 
-## Skalierbarkeit, Risiko, Verteidigigsfähigkeit
+## Skalierbarkeit, Risiken, Verteidigig
 
-**Firmannam: Oy Confoot Ltd**
+**Firmenname: Oy Confoot Ltd**
 
 **Skalierbarkeit:**  
-Oy Confoot Ltd het e vielversprechends Potential, global zu skalieren. D'Firma, spezialisiert uf d'Entwicklig vo Containerfüess, spielt e wesentlechi Rollä i dr Shipping- und Logistikbranche. Angesichts em unermüdliche Wachschtum im globale Handel und dr stetig zunehmende Abhängigkeit vo containerisiertem Shipping, cha Oy Confoot Ltd ihre Betriebe international usbaue. Natürlich müend au Herausforderige wie unterschiedliche regulatorische Vorgabe in verschidene Länder, Konkurrenz vo etablierti Player und de Bedarf an erheblichem Investment in Produktion und Vertriebskapazität berücksichtigt werde. Zämegfaasst isch d'Skalierbarkeit vielversprechend, aber sorgfälti Planung und Ressourcezuteilig sind entscheidend, um diese Herausforderung z'meistre.
+Oy Confoot Ltd het es grosse Potential für globale Skalierbarkeit. D’Firma spezialisiert sich uf d’Entwécklig vo Containerfüess – e unabdingbar Komponente in dr Schifffahrt und dr Logistik. Mit em kontinuierliche Wachstum im globale Handel und de immer höcher werdende Abhängigkeit vo containerisiertem Transport, cha Oy Confoot Ltd ihri Operatione international usbaue. Natirlich chömed au Herausforderige, wie unterschiedlichi regulatorische Vorgab, starker Wettbewerb vo etablierten Playern und dr Bedarf an erhebliche Investitione in Produktion und Distribution – aber insgesamt isch d’Skalierbarkeit vielversprechend, wenn mer de Ressource guet iisetzt.
 
 **Verteidigigsfähigkeit:**  
-S'Geschäftsmodell vo Oy Confoot Ltd gilt als robust und gut verteidigbar. Zum enerschte tätigt d'Firma in eme Nischenmarkt, wo spezialisierti Produkte – mit hoher technischer Kompetenz und Innovation – bruched werded. Die Spezialisierig schafft e Hürde für neui Wettbewerber, wo d'Qualität und Zuverlässigkeit vom ConFoot-Sortiment nöd so eifach erreiche chönd. Zude, d'Firma het en enge Beziehung zu wichtige Player i dr Shippingbranche ufbaut – das stärkt ihre Marktposition und schreckt Konkurrenz ab. Fortlaufende Investitione in Forsche und Entwicklig sorged derfür, dass Oy Confoot Ltd stets vor de Branchentrend liegt und ihre Produktpalette kontinuierlich verbässert – und so wird ihre Verteidigigsfähigkeit immer stärker.
+S’Geschäftsmodell vo Oy Confoot Ltd gilt als gut verteidigbar, und das aus mehrere Grund:  
+Zerscht tätigt d’Firma in en Nischenmarkt mit spezialisierten, technisch anspruchsvollen Produkte – und das schafft e Eintrittsbarriere für Neuankömmlinge. Zudem het d’Firma langfristigi Beziehungen zu de wichtigi Akteure i dr Schifffahrt, was ihri Position stärkt und Konkurrenz abschreckt. Dr anderi Punkt isch, dass kontinuierle Investments in F&E dr Undernehmer ermöglicht, immer uf em neuste Stand vo de Technologietrends z’blibe und ihre Produkte stetig z’verbessere – und das erhöht ihre Verteidigigsfähigkeit.
 
-**Wichtigsti Risiko:**  
-Oy Confoot Ltd steht vor einige zentrale Risiko, wo ihre Betriebe und Marktposition beeinflusse chönd:
+**Wichtigsti Risiken:**  
+Oy Confoot Ltd muess sich mit mehrere wesentleche Risiken auseinandersetze, wo ihri Operation und ihri Marktposition beeeinflussä chönne:
+1. **Wettbewerb:** Dr Markt für Containerfüess wird immer kompetitiver, mit neue Wettbewerber und etablierten Firmen, wo um Marktanteil kämpfe – was zu Preisdruck und reduzierten Margene führt.  
+2. **Regulatorischi Herausforderungen:** Dr Eintritt in internationale Märkt bringt unterschiedliche Regulierige und Compliance-Anfoderige mit sich, was d’Operation verkompliziere und di Koste erhöhe cha.  
+3. **Wirtschaftlichi Schwankige:** D’Schifffahrt isch sehr empfindlich gegenüber wirtschaftliche Abschwünge, was d’Nachfrag nach Containerlösige spürbar beeinflusse cha.  
+4. **Störungen in dr Lieferkette:** Globale Probleme i dr Lieferkette – etwa dur geopolitischi Spannige oder Pandemien – chönd d’Produktion und Lieferzyte verunfache, was d’Kundenzfriede und di finanzielle Situation negativ beeinflussä cha.
 
-1. **Marktkonkurrenz:**  
-   Dr Markt für Containerfüess wird immer wettbewerbsfähiger – neui Akteure und etablierti Unternehmen streite intensiv um Marktanteile. Das cha zu Preiskämpfe und zu nideriger Gewinnmarge führe.
-
-2. **Regulatorischi Herausforderige:**  
-   Mit dr Expansion i international Märkte chönne unterschiedlichi regulatorische Vorgabe und Compliance-Anforderung zu komplizierte Betriebsabläufe und erhöhte Kosten führe.
-
-3. **Wirtschaftlichi Schwankige:**  
-   D'Shippingbranche reagiert empfindlich uf wirtschaftlichi Abschwünge, was d'Nofrog nach Containerfüess und somit dr Umsatz negativ beeinflussed.
-
-4. **Störige i dr Lieferkette:**  
-   Globale Unterbrüch – z. B. dür geopolitischi Spannige oder Pandemien – chönd d'Produktion und Lieferpläne behindere, was d'Chundezfriedeheit und d'Finanzleistä schmälert.
-
-Oy Confoot Ltd het e erhebliches Potential für globali Skalierung und e robusts, verteidigbar Geschäftsmodell. Trotzdem muess d'Firma wachsam und proaktiv si im Management vo de zentrale Risiko, wo mit ihre Betriebe z'tue hend.
+Oy Confoot Ltd het grosses Potential für globali Skalierbarkeit und e stark verteidigigsfähigs Geschäftsmodell – aber es isch wichtig, dass d’Firma wachsam und proaktiv de genannte Risiken managet.
 

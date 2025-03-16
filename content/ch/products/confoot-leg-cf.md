@@ -1,90 +1,90 @@
 ---
 title: "ConFoot-leg CF"
-subtitle: "Standard Container-Füssli"
+subtitle: "Standard Containerfüess"
 mainImage: "/images/products/confoot-leg-cf-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cf-1.jpg"
   - "/images/products/confoot-leg-cf-2.jpg"
   - "/images/products/confoot-leg-cf-3.jpg"
-shortDescription: "ConFoot-leg CF isch üses Standardmodell vom Containerfüssli, wo d'Zyt fürs Vermove und Ulfahre vo Containern reduziert. So chönd Container bim Ulfahre warte bliibe, und d'Fahrer muesed nid lang warte."
-technicalDescription: "Mit em CF Modell chönd Container als zusätzleche Lagerplatzi brucht werde, und sin zu jeder Zit parat zum Vermove – fahrt eifach de Anhänger under de Container, und d'Reis goht wiiter."
+shortDescription: "ConFoot-leg CF isch üses Standard-Modell vo Containerfüess, wo d Zit reduziert, wo bruucht wird, um Container z bewege und uszulade. Dä Vorteil isch, dass d Container wartend glätte chönd, so dass d Fahrer nöd laam warde."
+technicalDescription: "S CF-Modell erlaabt, dass Container als zusätzlichi Lager bruucht werde chönd und jederzit für de Transport parat bliibe – fahre eifach dä Anhänger unter dä Container, und d Reis geit witer."
 videoID: "C2KwnEb-npU"
 specifications:
-  - name: "Gwicht"
-    value: "24 kg pro Füssli"
+  - name: "Gewicht"
+    value: "24 kg pro Füess"
   - name: "Tragfähigkeit"
     value: "34 Tonne"
-  - name: "Verstellbereich"
-    value: "1'043 mm bis 1'448 mm"
+  - name: "Einstelligsbereich"
+    value: "1,043 mm bis 1,448 mm"
   - name: "Material"
-    value: "Hochwärtigs Stahli"
+    value: "Hochwäerte Schtahl"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Rabatte bi Massebestellig sind verfügbar. Kontaktier eus für Detail."
+pricingNotes: "Mengenrabatte verfügbar. Nimm Kontakt ufe für Detail."
 buyLink: "/contact"
 howToUse: |
-  1. Positionier das CF Füssli am Containerhörn
-  2. Aktivier de Verriegelungsmechanismus
-  3. Stell d'Höchi, wenn nötig, im Verstellbereich vo 1'043 mm bis 1'448 mm ii
-  4. Wiederhole das für all nöötige Ecken
-  5. Senk de Anhänger ab und fahre witer, währed de Container sicher uf de Füssli bliibt
+  1. Positionier dä CF Füess bi de Container-Eck-Castings
+  2. Betätige dä Verriegelungsmechanismus
+  3. Stell d Höchi a, wenn nödig, im Bereich vo 1,043 mm bis 1,448 mm
+  4. Wiederhol das für all nöitige Ecke
+  5. Senk dä Anhänger ab und fahri weg, so dass dä Container uf de Füess bliibt
 benefits:
-  - title: "Zytersparnis"
-    description: "Verringert d'Zyt fürs Versetze und Ulfahre vo Containern, will d'Container bim Ulfahre warte chönd."
-  - title: "Effizienz für d'Fahrer"
-    description: "D'Fahrer muesed nid lang warte bim Ulfahre, was ihne meh Ziit für anderi Ufträge verschafft."
-  - title: "Zusätzle Lagerplatz"
-    description: "Container chönd als zusätzle Lagerplatz brucht werde, wenn sie nid in de Bewegung sind."
-  - title: "Immer fahrbereit"
-    description: "Container sind jederzeit parat zum Vermove – fahrt eifach de Anhänger under de Container, und d'Reis goht witer."
-  - title: "Vielseitigi Applikatioune"
-    description: "Eignet sich für allgmeine Nutzig, Lagerig, Tankcontainer und verschiedeni Industriebereiche."
-  - title: "Kostöoptimierig"
-    description: "Optimiert d'Koste und d'Zyt, indem de Transport- und Lagerprozess vereinfacht wird."
+  - title: "Ziiterspare"
+    description: "Reduziert d Zit, wo zum Bewege und Uslade vo Container bruucht wird, da d Container wartend blybe chönd."
+  - title: "Effizienz vom Fahrer"
+    description: "D Fahrer muesse nöd warta bim Uslade, was ihne meh Ziit für andere Aufgabe verschafft."
+  - title: "Zusatzi Lager"
+    description: "Container chönd als zusätzlichi Lagerfläche bruucht werde, wenn se nöd im Transit sind."
+  - title: "Jederzi Mobilität"
+    description: "Container sind jederzit für de Transport parat – fahre eifach dä Anhänger unter dä Container und d Reis geit witer."
+  - title: "Vielseitigi Aawändig"
+    description: "Geeignet für allgemaini Bruuch, Lagerig, Tankcontainer und verschiedeni Branche."
+  - title: "Choschtoptimalierig"
+    description: "Optimiert d Choschte und d Zit, indem Transport- und Lagerigsabläuf vereinfacht werde."
 articleContent: |
   ## Was isch de ConFoot-leg CF?
 
-  De ConFoot-leg CF isch s Standardmodell vom Containerfüssli, wo dr Ablouf im Transport, Lagerig und in dr Logistik enorm vereinfacht. Die vielseitigi Lösig reduziert d'Zyt, wo fürs Versetze und Ulfahre vo Container brucht wird, will d'Container bim Ulfahre warte bliibe, und d'Fahrer muesed nid lang warte. So verwandleed sich Shipping Container in flexible Lagerplatze, wo jederziit parat für de Transport sind.
+  ConFoot-leg CF isch s Standard-Modell vo Containerfüess, wo dezue konzipiert isch, de Transport, d Lagerig und d Logistik z optimieren. Die vielseitigi Løsig reduziert d Zit, wo bruucht wird, um Container z bewege und uszulade, will d Container wartend glätte chönd, und drum muesse d Fahrer nöd laa warde. S CF-Modell verwandlet Schifffahrtscontainer in flexible Lagerigseneh, wo jederzit für de Transport parat bliibe.
 
-  ## Di wichtigschte Vorteilig für Transport und Logistik
+  ## Wichtigi Vorteiil für Transport und Logistik
 
-  De ConFoot-leg CF bringt erhebliche Betribsvorteil für Unternehmen, wo im Containertransport und in dr Logistik täti sind. Wird d'Zyt vo de Fahrer besser iigsetzt und d'Flotte optimal usegnützt, chönd Container abglade und grad witergfahrä werde – ohni kostspieligi Wartezyt bim Lade- oder Ulfahroversatz.
+  De ConFoot-leg CF biete erheblici betriebliche Vorteiil für Unternehmige, wo im Containertransport und in de Logistik tätsched. Durch d Möglichkeit, Container uf de Füess wartend z lah, chönd d Fahrerzäit und d Flottennutzung optimiert werde. D Fahrer chönd Container absetze und sofort zur nächschte Aufgabe witer, statt in teuri Warteziit bim Lade und Uslade z verfallen.
 
-  Usserde chönd Container mit CF Füssli, wenn sie nid im Transit sind, als wertvoll zusätzliche Lagerflächi diene. Sie sind jederzeit parat zum Vermove – fahrt eifach de Anhänger under den Container, und d'Reis goht witer. Die Flexibilität macht de CF zu en ideale Lösig für Unternehmen, wo ihre Logistikeffizienz und Lagerkapazität verbessere wend.
+  Zudem chönd Container mit CF-Füess als wertvoll zusaetzligi Lagerfläche diene, wenn se nöd im Transit sind. Sie bliibe jederzit transportierbar – fahre eifach e Anhänger unter dä Container, und d Reis geit witer. Die Vielseitigkeit macht s CF zu ere ideale Løsig für Unternehmige, wo ihre Logistikeffizienz und Lagerkapazität verbessere wend.
 
-  ## Wie das funktioniert
+  ## Wie's funktioniert
 
-  De ConFoot-leg CF wird sicher an de Containerhörner befestigt und biet stabili Unterstützig währendde Container zum Lade, Ulfahre oder zur Lagerig positioniert wird. D'Füssli hend en Verstellbereich vo 1'043 mm bis 1'448 mm, was flexible Positionierig i verschieden Betriebsumgebige erlaubt. Jed Füssli wiegt 24 kg, was de Handhabig für d'Bedienige vereinfacht, während s'Ganze e beachtliche Tragfähigkeit vo 34 Tonne ufwyse tuet.
+  De ConFoot-leg CF wird sicher an de Container-Eck-Castings befestigt und git e stabile Stütze, wänn dä Container fürs Lade, Uslade oder Lager igstellt wird. D Füess händ e Einstelligsbereich vo 1,043 mm bis 1,448 mm, was e vielseitigi Positionierig in verschieden betriebliche Umgäbig erlaubt. Jede Füess wiegt 24 kg, was s Handhabe für d Bediener erliich macht, und s System bietet e beträchtlichi Tragfähigkeit vo 34 Tonne.
 
-  D'Instalierig isch unkompliziert:
-  1. Positionier die CF Füssli an de Containerhörner
-  2. Schalt de Verriegelungsmechanismus ii, um d'Füssli z'sichere
-  3. Stell d'Höchi so ii, wie's für dini Bedürfnis passt
-  4. Senk de Anhänger ab und fahre witer, während de Container guet uf de Füssli ruht
+  De Installationsprozess isch eifach:
+  1. Platzier d CF-Füess bi de Container-Eck-Castings
+  2. Betätige d Verriegelig, um d Füess z sicheri
+  3. Stell d Höchi a, wie nödig, je nach dine spezifische Bedürfnis
+  4. Senk dä Anhänger ab und fahri weg, so dass dä Container sicher uf de Füess trage cha
 
-  Wann's Zit isch, de Container z'vermove, fahrt eifach de Anhänger zrugg under de Container, sichert den Container am Anhänger, nimm d'Füssli ab, und mach d'Reis witer.
+  Wänn s Ziit isch, dä Container z bewege, fahre eifach dä Anhänger zrugg unter ihn, sichere dä Container am Anhänger, nimm d Füess ab und mached d Reis witer.
 
-  ## Applikatioune vom ConFoot-leg CF
+  ## Aawändig vo ConFoot-leg CF
 
-  ### Transportfirmen
-  Transportfirmen profitiere massiv vo de Fähigkeit vom CF, d'Nutzung vo de Flotte z'optimieren. D'Fahrer chönd Container bi de Kunden absetze und sofort witerfahre, statt lang Wartezyt bim Lade/Ulfahre z'hend. Die Effizienz cha d'Produktivitäät vo de vorhandene Anhängerflotte spürbar erhöhe und d'Betriebskoste senke.
+  ### Transportunternehme
+  Transportunternehme profitiere erheblich vo de Fähigkeit vom CF, d Flottennutzung zu optimieren. D Fahrer chönd Container bi de Kundä absetze und sofort zur nächschte Aufgabe witer, statt in Warteziit für Lade-/Usladeoperatione verhaftet z sii. Die Effizienz cha de produktive Kapazität vo de bestehende Anhängerflotte beträchtlich erhöhe und d Betriebskoschte senke.
 
-  ### Lagerig und Distribution
-  Fir Lager- und Distributionsbetrieb bietet de CF en flexible Lösig zum Managen vo de Containerbewegige. Container chönd vorübergehend uf de Füssli in Lagerzone plaziert werde und so als zusätzle Bufferkapazität während de Stoßziite diene. Das reduziert d’Überfüllig an Ladeplätz und erlaubt es, d'Lade- und Ulfahroversätt effizienter z’plane.
+  ### Lagerig und Verteilig
+  Für Lagerigs- und Verteiligsoperatione biete s CF wertvolli Flexibilität bim Management vo Containerströme. Container chönd in temporäre Lagerbereich uf de Füess positioniert werde und so zusätzliche Pufferkapazität während peak Periodä schaffe. D diesanje Vorgehwiis reduziert d Überfrachtig an Ladebereichen und ermöglicht e effizienteri Planung vo Lade und Uslade.
 
   ### Produktionsbetriebe
-  Produktionsstandorte chönd Container mit CF Füssli als flexible zusätzlichen Lagerplatz für Rohstoff oder Fertigprodukte brucht. Wird die Container nah an de Produktionszone positioniert, sind d'Materialie schnäll zur Verfüegig, was d'Umhandlig vereinfacht und d'Produktionsprozesse verbessert.
+  Produktionsbetriebe chönd CF-aagrüsteti Container als flexible zusaetzligi Lager für Rohstoff oder fertigi Produkte bruuchen. Durch s Positioniere vo de Container nah an de Produktionsbereiche chönd d Materialien eifach zrugggriffa werde, was d Handhabigskoschte senkt und d Produktionseffizienz verbessert.
 
-  ### Einzelhandel
-  Im Einzelhandel chönd de CF für saisonali Lagerlösige verwendet werde, wo Container strategisch plaziert sind, um s'Inventar während de Stoßziite optimal z'managen. So staht kosteneffiziente zusätzliche Kapazität zur Verfüegig, ohni dass en dauerhafte Erweiterig vo de Betriebsfläche nötig wird.
+  ### Händlerbetrieb
+  Händler chönd d CF-Füess für saisonali Lagerigslösige bruuchen, mit Container, wo an strategische Standorte positioniert werde, um d Inventarverwaltung während peak Periodä z unterstütze. D diesanje Vorgehwiis bietet kosteneffektivi zusätzliche Kapazität, ohni dä Notwendigkeit vo permanente Erweiterig vo de Betriebssäti.
 
-  ## Technischi Spezifikatioune
+  ## Technischi Spezifikationen
 
   - **Tragfähigkeit**: 34 Tonne
-  - **Gwicht**: 24 kg pro Füssli
-  - **Verstellbereich**: 1'043 mm bis 1'448 mm
-  - **Material**: Hochwärtigs Stahli mit robustem Finish
-  - **Kompatibilität**: Standard Containerhörner
+  - **Gewicht**: 24 kg pro Füess
+  - **Einstelligsbereich**: 1,043 mm bis 1,448 mm
+  - **Material**: Hochwäerte Schtahl mit langlebiger Oberfläche
+  - **Kompatibilität**: Standard Container-Eck-Castings
 
-  De ConFoot-leg CF isch e praxisorientierti Lösig, wo d'Prozesse im Transport und in dr Lagerig optimiert, und biet Unternehmen e effektivi Mögligkeite, d'Koste und d'Zyt optimal z'nutze. Durch d'Möglichkeit, Container während em Ulfahre als zusätzlichen Lagerplatz z'verwände, wird d'Flexibilität im Umgang mit Containern erheblich verbessert.
+  De ConFoot-leg CF stellt e praxisnagi Løsig dar, um Transport- und Lagerigsoperatione z vereinfachen, und biete Unternehmige e Möglichkeit, d Choschte und d Zit optimal z nutze. Durch d Option, Container wartend z lah für Uslade und als zusätzlichi Lager z bruuchen, hilft s CF Betriebe, e höhere Effizienz und Flexibilität bim Umgang mit Container z erreiche.
 ---

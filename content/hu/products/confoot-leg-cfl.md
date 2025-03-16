@@ -1,90 +1,90 @@
 ---
 title: "ConFoot-leg CFL"
-subtitle: "Konténerláb keretes konténerekhez"
+subtitle: "Konténer láb keretezett konténerekhez"
 mainImage: "/images/products/confoot-leg-cfl-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfl-1.jpg"
   - "/images/products/confoot-leg-cfl-2.jpg"
   - "/images/products/confoot-leg-cfl-3.jpg"
-shortDescription: "A ConFoot-leg CFL kifejezetten keretes konténerekhez készült, tökéletesen illeszkedve a vázaikhoz, így lehetővé téve, hogy a konténereket folyadékok és egyéb anyagok tárolására használják."
-technicalDescription: "A CFL modell olyan gömb alakú konténerekhez lett megtervezve, amelyeket nagy nyomásállóságot igénylő folyadékok szállítására használnak, mivel a gömb forma a legjobban viseli a nyomást, de a szállíthatóság érdekében keretre van szüksége."
+shortDescription: "A ConFoot-leg CFL kifejezetten keretezett konténerekhez készült, tökéletesen illeszkedve a keretekhez, így lehetővé teszi, hogy a konténereket folyadékok és egyéb anyagok tárolására használják."
+technicalDescription: "A CFL modellt olyan gömb alakú konténerekhez tervezték, amelyeket olyan folyadékok szállítására használnak, melyek nagy nyomásállóságot igényelnek, mivel a gömb alak a legjobban viseli a nyomást, de a szállíthatóság érdekében keretek szükségesek körülötte."
 videoID: "C2KwnEb-npU"
 specifications:
   - name: "Súly"
     value: "lábanként 24 kg"
-  - name: "Teherbírás"
-    value: "30 tonna"
-  - name: "Állítási tartomány"
-    value: "1 043 mm és 1 448 mm között"
+  - name: "Terhelhetőség"
+    value: "30 t"
+  - name: "Állítható tartomány"
+    value: "1,043 mm-től 1,448 mm-ig"
   - name: "Anyag"
-    value: "Prémium minőségű acél"
+    value: "Magas minőségű acél"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Nagy mennyiségű kedvezmények elérhetők. Vegye fel velünk a kapcsolatot a részletekért."
+pricingNotes: "Tömegkedvezmények elérhetők. Részletekért kérjük, vegye fel velünk a kapcsolatot."
 buyLink: "/contact"
 howToUse: |
-  1. Helyezze el a CFL lábat a konténer vázának sarkában
+  1. Helyezze a CFL lábat a konténer keret sarkába
   2. Aktiválja a záró mechanizmust
-  3. Állítsa be a magasságot szükség szerint az 1 043 mm és 1 448 mm közötti tartományban
+  3. Állítsa be a magasságot, ha szükséges, a 1,043 mm és 1,448 mm közötti tartományban
   4. Ismételje meg minden szükséges sarkon
-  5. Engedje le a pótkocsit és vezessen el, így a konténer a lábakon marad
+  5. Engedje le a pótkocsit és hajtson el, így a konténer a lábakon marad
 benefits:
-  - title: "Tökéletes vázilleszkedés"
-    description: "Kifejezetten úgy tervezték, hogy tökéletesen illeszkedjenek a gömb konténerek vázaiba"
-  - title: "Folyadék tárolás"
-    description: "Lehetővé teszi, hogy a konténereket nagy nyomásálló folyadékok tárolására használják"
+  - title: "Tökéletes keretilleszkedés"
+    description: "Kifejezetten a gömb alakú konténerek kereteinek tökéletes illeszkedésére tervezték"
+  - title: "Folyadéktárolás"
+    description: "Lehetővé teszi, hogy a konténerek olyan folyadékok tárolására szolgáljanak, melyek nagy nyomásállóságot igényelnek"
   - title: "Speciális kialakítás"
-    description: "Kifejezetten a keretes konténerek egyedi igényeihez fejlesztették ki"
+    description: "Kifejezetten a keretezett konténerek egyedi igényeihez fejlesztették ki"
   - title: "Sokoldalú alkalmazások"
     description: "Alkalmas különböző iparágak számára, amelyek speciális konténer tárolást és kezelést igényelnek"
-  - title: "Kész mobilitás"
-    description: "A konténerek mindig készen állnak a mozgatásra – egyszerűen vezesse a pótkocsit a konténer alá a továbblépéshez"
-  - title: "Költségoptimalizálás"
-    description: "Optimalizálja a költségeket és az időfelhasználást, lehetővé téve a speciális konténer kezelését további berendezések nélkül"
+  - title: "Készen áll a mozgásra"
+    description: "A konténerek mindig készen állnak a mozgatásra – egyszerűen vezesse a pótkocsit a konténer alá az út folytatásához"
+  - title: "Költséghatékonyság"
+    description: "Optimalizálja a költségeket és az időráfordítást, lehetővé téve a speciális konténer kezelését extra berendezések nélkül"
 articleContent: |
   ## Mi az a ConFoot-leg CFL?
 
-  A ConFoot-leg CFL egy speciális konténerláb megoldás, amely kifejezetten keretes konténerekhez készült. Az általános szállítmányozási konténerekkel ellentétben a nagy nyomásállóságot igénylő, folyadékok szállítására használt gömb alakú konténerekhez keretre van szükség a szállíthatóság érdekében, mivel a gömb forma a legjobban viseli a nyomást. A CFL modell úgy került megtervezésre, hogy tökéletesen illeszkedjen ezekhez a vázakhoz, lehetővé téve, hogy ezeket a speciális konténereket folyadékok és egyéb, nyomásállóságot igénylő anyagok tárolására használják.
+  A ConFoot-leg CFL egy speciális konténerláb megoldás, amelyet kifejezetten keretezett konténerekhez terveztek. Az általános tengeri konténerekkel ellentétben a gömb alakú konténerek, amelyeket olyan folyadékok szállítására használnak, melyek nagy nyomásállóságot igényelnek, keretekkel kell rendelkezzenek a szállíthatóság érdekében, mivel a gömb alak a legjobban viseli a nyomást. A CFL modellt úgy alakították ki, hogy tökéletesen illeszkedjen ezekhez a keretekhez, lehetővé téve, hogy ezeket a speciális konténereket folyadékok és egyéb nyomásálló anyagok tárolására is használják.
 
-  ## Fő előnyök a speciális konténerkezeléshez
+  ## Fő előnyök a speciális konténer kezelésében
 
-  A ConFoot-leg CFL jelentős működési előnyöket kínál azoknak a vállalkozásoknak, amelyek keretes konténereket kezelnek, különösen azoknak, amelyeket folyadék szállítására és tárolására használnak. Azáltal, hogy lehetővé teszi ezen speciális konténerek lábakra helyezését, rugalmas tárolási megoldásokat hozhat létre folyadékok és egyéb, nyomásérzékeny anyagok számára, állandó infrastruktúra nélkül.
+  A ConFoot-leg CFL jelentős üzemeltetési előnyöket kínál a keretezett konténerekkel foglalkozó vállalkozások számára, különösen azoknak, amelyeket folyadékok szállítására és tárolására használnak. Azáltal, hogy lehetővé teszi ezen speciális konténerek lábakra helyezését, rugalmas tárolómegoldásokat hozhat létre folyadékok és egyéb nyomásérzékeny anyagok számára, anélkül, hogy állandó infrastruktúrára lenne szükség.
 
-  A CFL modell lehetővé teszi a vállalkozások számára, hogy optimalizálják a speciális konténer-műveleteiket, biztonságos támogatást nyújtva a keretes konténerek számára rakodás, kirakodás és tárolás alatt. Ez a sokoldalúság ideálissá teszi a CFL-t olyan iparágak számára, amelyek a nagy nyomásállóságú konténerekben történő folyadékok és egyéb anyagok szállítására és tárolására támaszkodnak.
+  A CFL modell lehetővé teszi a vállalkozások számára, hogy optimalizálják a speciális konténer-üzemeltetést, biztonságos módon támogassa a keretezett konténereket a rakodás, kirakodás és tárolás során. Ez a sokoldalúság ideálissá teszi a CFL-t azon iparágak számára, amelyek nyomásálló konténerekben gondolkodnak a folyadékok és egyéb anyagok szállítására és tárolására.
 
   ## Hogyan működik
 
-  A ConFoot-leg CFL biztonságosan rögzül a speciális konténerek vázaihoz, stabil támaszt biztosítva a konténer számára, miközben azt rakodás, kirakodás vagy tárolás céljából pozícionálják. A lábak 1 043 mm és 1 448 mm közötti állítási tartománnyal rendelkeznek, lehetővé téve a sokoldalú pozícionálást különböző üzemeltetési környezetekben. Lábanként 24 kg súlyúak, így könnyen kezelhetők az üzemeltetők számára, míg a rendszer 30 tonnás jelentős teherbírással rendelkezik.
+  A ConFoot-leg CFL biztonságosan rögzül a speciális konténerek kereteiben, stabil alátámasztást nyújtva, miközben a konténer rakodásra, kirakodásra vagy tárolásra van pozícionálva. A lábak 1,043 mm és 1,448 mm közötti állítható tartománnyal rendelkeznek, így változatos pozícionálást tesznek lehetővé különböző üzemeltetési környezetekben. Egy láb súlya 24 kg, így könnyen kezelhető az üzemeltetők számára, miközben a rendszer jelentős, 30 tonnás terhelhetőséget biztosít.
 
   A telepítési folyamat egyszerű:
-  1. Helyezze el a CFL lábakat a konténer vázsarkainál
-  2. Aktiválja a rögzítő mechanizmust a lábak biztonságos rögzítéséhez
-  3. Állítsa be a magasságot igényei szerint
-  4. Engedje le a pótkocsit és vezessen el, így a konténer biztonságosan a lábakon marad
+  1. Helyezze a CFL lábakat a konténer keret sarkaira
+  2. Aktiválja a záró mechanizmust a lábak rögzítéséhez
+  3. Állítsa be a magasságot az Ön egyedi igényeinek megfelelően
+  4. Engedje le a pótkocsit és hajtson el, így a konténer biztonságosan a lábakon marad
 
-  Amikor eljön az ideje a konténer mozgatásának, egyszerűen vezesse vissza a pótkocsit alá, rögzítse a konténert a pótkocsihoz, távolítsa el a lábakat, és folytassa az utat.
+  Amikor eljön az ideje a konténer mozgatásának, egyszerűen vezesse vissza a pótkocsit a konténer alá, rögzítse a konténert a pótkocsira, vegye le a lábakat, és folytassa az utat.
 
   ## A ConFoot-leg CFL alkalmazási területei
 
   ### Vegyipar
-  A vegyipar jelentős előnyöket élvez a CFL azon képességéből, hogy biztonságosan tartja a vegyszerek és folyékony anyagok tárolására és szállítására használt konténereket. Azáltal, hogy lehetővé teszi, hogy ezeket a speciális konténereket lábakra helyezze, a vállalatok rugalmas tárolási megoldásokat hozhatnak létre, amelyek megőrzik a nyomásérzékeny anyagok integritását, miközben optimalizálják a helykihasználást.
+  A vegyipar jelentős előnyöket élvez a CFL azon képességéből, hogy biztonságosan alátámasztja a vegyszerek és folyékony anyagok tárolására és szállítására használt konténereket. Azáltal, hogy lehetővé teszi ezen speciális konténerek lábakra helyezését, a vállalatok rugalmas tárolási megoldásokat hozhatnak létre, amelyek megőrzik a nyomásérzékeny anyagok integritását, miközben optimalizálják a helykihasználást.
 
-  ### Kőolaj- és gázipar
-  A kőolaj- és gázipar számára a CFL értékes rugalmasságot biztosít a különböző kőolajtermékekhez használt konténerek kezelésében. Az, hogy ezeket a konténereket biztonságosan lábakra lehet helyezni, hatékonyabbá teszi a rakodási és kirakodási műveleteket, valamint ideiglenes tárolókapacitást teremt a csúcsidőszakokban.
+  ### Olaj- és gázipar
+  Az olaj- és gázipar számára a CFL értékes rugalmasságot biztosít a különböző kőolajtermékek szállítására használt konténerek kezelésében. A konténerek lábakra helyezésének biztonságos képessége hatékonyabb rakodást és kirakodást tesz lehetővé, valamint ideiglenes tárolási kapacitást teremt a csúcsidőszakokban.
 
   ### Élelmiszer- és italipar
-  Az élelmiszer- és italipar a CFL lábakat használhatja a folyékony élelmiszertermékek szállítására és tárolására használt konténerek esetében. A rendszer stabilitása és megbízhatósága biztosítja, hogy ezeket az érzékeny anyagokat biztonságosan kezeljék és tárolják, anélkül, hogy szennyeződés vagy károsodás kockázata fennállna.
+  Az élelmiszer- és italipar a CFL lábakat alkalmazhatja olyan konténerekhez, melyeket folyékony élelmiszertermékek szállítására és tárolására használnak. A rendszer stabilitása és megbízhatósága biztosítja, hogy ezek az érzékeny anyagok biztonságosan kezelhetők és tárolhatók legyenek, szennyeződés vagy károsodás kockázata nélkül.
 
   ### Vízkezelés és -ellátás
-  A vízkezelési és -ellátási műveletek profitálhatnak a CFL azon képességéből, hogy támogassa a vízkezelő vegyszerek és egyéb folyékony anyagok tárolására és szállítására használt konténereket. Ez a képesség lehetővé teszi ezen alapvető erőforrások rugalmasabb és hatékonyabb kezelését.
+  A vízkezelési és -ellátási műveletek az előnyükre válthatnak a CFL azon képességéből, hogy alátámasztja azokat a konténereket, melyeket vízkezelő vegyszerek és egyéb folyékony anyagok tárolására és szállítására használnak. Ez a képesség lehetővé teszi ezen alapvető erőforrások rugalmasabb és hatékonyabb kezelését.
 
   ## Műszaki adatok
 
-  - **Teherbírás**: 30 tonna
+  - **Terhelhetőség**: 30 t
   - **Súly**: lábanként 24 kg
-  - **Állítási tartomány**: 1 043 mm és 1 448 mm között
-  - **Anyag**: Prémium minőségű acél tartós felülettel
-  - **Kompatibilitás**: Speciális keretes konténerek, különösen az olyanok, amelyeket folyadék szállítására terveztek
+  - **Állítható tartomány**: 1,043 mm-től 1,448 mm-ig
+  - **Anyag**: magas minőségű acél tartós bevonattal
+  - **Kompatibilitás**: Speciális keretezett konténerek, különösen azok, amelyek folyadék szállítására lettek tervezve
 
-  A ConFoot-leg CFL egy speciális megoldást jelent a keretes konténerek kezelésére, amely lehetővé teszi a vállalkozások számára a folyadékok és egyéb, nyomásállóságot igénylő anyagok szállítására használt gömb konténerekkel kapcsolatos műveletek optimalizálását. Azáltal, hogy lehetővé teszi ezen speciális konténerek biztonságos lábon történő tartását, a CFL segít növelni a hatékonyságot és a rugalmasságot a speciális konténerkezelési műveletek során.
+  A ConFoot-leg CFL egy speciális megoldást képvisel a keretezett konténerek kezelésére, amely lehetőséget biztosít a vállalkozások számára, hogy optimalizálják a folyadékok és egyéb nyomásálló anyagok tárolása, illetve szállítása során alkalmazott gömb alakú konténerekkel kapcsolatos műveleteiket. Azáltal, hogy lehetővé teszi ezen speciális konténerek lábak általi biztonságos alátámasztását, a CFL segít nagyobb hatékonyságot és rugalmasságot elérni a speciális konténer kezelés területén.
 ---

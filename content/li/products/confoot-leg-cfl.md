@@ -1,90 +1,90 @@
 ---
 title: "ConFoot-leg CFL"
-subtitle: "Container-bein veur ingekaderde containers"
+subtitle: "Containorbeene veur geframde containors"
 mainImage: "/images/products/confoot-leg-cfl-main.jpg"
 gallery:
   - "/images/products/confoot-leg-cfl-1.jpg"
   - "/images/products/confoot-leg-cfl-2.jpg"
   - "/images/products/confoot-leg-cfl-3.jpg"
-shortDescription: "De ConFoot-leg CFL is spesjalisj oetjoude veur ingekaderde containers. 't Past de kadringe perfekt, zodat containers gebruuk kin waere as opbergpleks veur vloeistófe en angere materialen."
-technicalDescription: "t CFL-model is ontworpen veur sferische containers die gebruukt waere veur 't vervoere van vloeistófe die bestendig moete zeen óp hoë druk. De sferische foarm draagt de druk am beste, mer d'r is wel kadering nodig óm de container verplaatsbaor te make."
+shortDescription: "De ConFoot-leg CFL is spesjafiek oetgoesjoe veur geframde containors, en passeert de frames perfect, zoda de containors gebruukj-loate kin waal as opslagcontainors veur vloeëndes en angere materialen."
+technicalDescription: "'t CFL-model is ènjsjineerd veur sferiese containors dee gebruukt waere veur 't vervoere van vloeëndes die 'n heech druck verdraage mötte, want de sferiese vorm draoj de druk best, mer doon 't frames rondom det oetmaakbaar um vervoersbaor te zeen."
 videoID: "C2KwnEb-npU"
 specifications:
-  - name: "Weight"
-    value: "24 kg per bein"
-  - name: "Load capacity"
+  - name: "Gewicht"
+    value: "24 kg per been"
+  - name: "Belastekapaciteit"
     value: "30 ton"
-  - name: "Adjustment range"
+  - name: "Aanpassingsbereik"
     value: "1.043 mm tot 1.448 mm"
-  - name: "Material"
-    value: "Hoogwaardige staal"
+  - name: "Materiaal"
+    value: "Hoagdraod staal"
 price: "3.600 EUR"
 priceVAT: "4.356 EUR"
-pricingNotes: "Bulk-korting is beskikbaor. Neim contact mit ós veur details."
+pricingNotes: "Hoeveelheidskorting besjt beschikbaar. Kon tact opnemme veur details."
 buyLink: "/contact"
 howToUse: |
-  1. Plaats 't CFL-bein bij de hoek van de containerkadering
-  2. Activeer 't slotmechanisme
-  3. Pas de höhte aan indien nodig binnen 't bereik van 1.043 mm tot 1.448 mm
-  4. Herhaal veur alle nodig hoeke
-  5. Laot de trailer dalen en rijd oet, zodat de container op de beine blijft steunen
+  1. Posisioneer 't CFL-been bie de hoeke van 't containerframe
+  2. Activeer 't slotsmeganisme
+  3. Stel de höögte in indien nodig, binnen 't bereik van 1.043 mm tot 1.448 mm
+  4. Doe dat same veur alle nodige hoeke
+  5. Laot de trailer zakke en riej door, zoda de container op de beenjes blieft
 benefits:
-  - title: "Perfecte kaderingpassing"
-    description: "Óntworpe um de kadering van sferische containers perfekt te passe"
-  - title: "Vloeistofopbering"
-    description: "Maakt 't mogelijk de container as opbergplek te gebruuk veur vloeistófe die bestendig zeen óp hoë druk"
-  - title: "Spesjalisj óntwerp"
-    description: "Oetjoude met 't oog veur de unike eise van ingekaderde containers"
-  - title: "Veelzijdich gebroek"
-    description: "Geschik veur angere bedryfssektore die spézjele containeropbering en -hantering vereis"
-  - title: "Altij klaor óm te bewegen"
-    description: "De container is altij gereed veur transport – rijd de trailer gewoon ónder de container om de reis voort te setten"
-  - title: "Kostoptimalisering"
-    description: "Optimaliseert de kosten en tijmsgebruik door gespecialiseerde containerhantering zónder extra apparatuur"
+  - title: "Perfect passend bie 't frame"
+    description: "Ontworpe um de frames van sferiese containors perfect te passeere"
+  - title: "Vloeëndesopslag"
+    description: "Maekt et mogelijk de containors te gebruuke as opslagcontainors veur vloeëndes die hoech druck verdraage mötte"
+  - title: "Spesjafiek Ontwerp"
+    description: "Ènsjineerd spesjafiek veur de unjieke vereiste vaan geframde containors"
+  - title: "Veelzijdige Toepassinge"
+    description: "Geschikt veur diverse industreës dee spezjale containeropslag en handling vereiste"
+  - title: "Reed mobilt"
+    description: "De containors zeen altied gereed um verplaot te weere – chic de trailer onder de container riejin um de reis voort te stelle"
+  - title: "Kostoptimalisatie"
+    description: "Optimaliseert kosten en tied, want et maakt spezjale containerhandling moontlik zonder extra apparatuer"
 articleContent: |
-  ## Wat is de ConFoot-leg CFL?
+  ## Wat is ConFoot-leg CFL?
 
-  De ConFoot-leg CFL is 'ne spézjele beinstöel óm containers te ondersteunen, oetjoude veur ingekaderde containers. In te kontrast mit standerd verscheppingscontainers, vereis sferische containers – gebruukt veur 't vervoere van vloeistófe die óch bestendig moete zeen óp hoë druk – kadringe, want de sferische foarm dracht de druk am beste. 't CFL-model is ontworpen um dez kadringe perfekt te passe, zodat deze spézjele containers as opbergcontainers gebruuk kin waere veur vloeistófe en angere materialen die drukbestendigheid vereis.
+  De ConFoot-leg CFL is 'n spezjale containerbeen-oplossing oetgoesjoe veur geframde containors. In tegenstelling tot standaard zeevrachcontainors, höbbe sferiese containors – dee gebruukt waere veur 't vervoere van vloeëndes die heech druck moette dragge – framees rondom nodig um vervoersbaor te zeen, want de sferiese vorm draoj de druk best. 't CFL-model is ènjsjineerd um de frames perfect te passeere, wat et mogelijk maakt de spezjale containors te gebruuke as opslagcontainors veur vloeëndes en angere materialen die druckweerstond nodig höbbe.
 
-  ## Belangrieke benefiete veur spézjele containerhantering
+  ## Belangrieke voordeele veur spezjale containerhandling
 
-  De ConFoot-leg CFL bied óngersjprokelijke operationele voordeile veur bedryfe die ingekaderde containers hantere, especielt de veur vloeistófvervoer en -opbering. Doordat dez spézjele containers op beine kins te platse, kinne bedryfsorganisaties flexibele opbergoplossinge make veur vloeistófe en angere druksensitieve materialen zónder vaste infrastructuur.
+  De ConFoot-leg CFL bied euleen insjtel boete operatiewe voordeele veur bedriefe dee omgaan mit geframde containors, in besjtal veur die gebruukt waere veur vloeëndetransport en -opslag. Dichs de spezjale containors op beenjes te kunne posisionere, kinste flexibele opslagoplossinge opbouwe veur vloeëndes en aanger druckgevoelige materialen, alles ohne dat ’n permanente infrastructuur nodig is.
 
-  't CFL-model stoat bedryfe toe um zien containeroperaties te optimalisere, want et bied 'ne veer veilige ondersteuning bie laden, lossen en opbergen. De veelzijdigheid ervan maak et 'n ideale oplossing veur industrieë die reken op 't vervoere en opbergen van vloeistófe en angere materialen die drukbestendig moete zeen.
+  't CFL-model laot bedriefe toe de operaties te optimaliseer, want et biedt 'n veilige manier um geframde containors te ondersteun bie laden, lossene en opslagperiodes. Deze veelzijdigheid maakt de CFL 'n ideële oplossing veur industreës dee op 't vervoer en de opslag van vloeëndes en aanger materialen, die druckbestendigheid vereiste, steunen.
 
-  ## Hoe 't waerk
+  ## Hoe werkt 't
 
-  De ConFoot-leg CFL word stevige vastgebonden aan de kadering van spézjele containers en biedt stabiele ondersteuning bie laden, lossen of opbergen. De beine höbbe 'n aanpassbere höhte van 1.043 mm tot 1.448 mm, wat versatile positionering in diverse operationele omgevinge mooglik maak. Elke bein weegt 24 kg, wat 't behandeldrievend maak voor operateurs, terwij 't systeem 'ne substantiele laadcapacity van 30 ton bied.
+  De ConFoot-leg CFL wordt stevig vastgesjlagen an de frames van de spezjale containors en bied stabiele ondersteuning tijdens 't positionere veur laden, lossene of opslag. De beenjes höbbe 'n aanpassingsbereik van 1.043 mm tot 1.448 mm, wat 'n flexibele posisionering in diverse operationele omgevings moogelik maakt. Ieder been weegt 24 kg, wat et behanbaar maakt veur de operateurs, en 't systeem draagt 'n substantiële belastekapaciteit van 30 ton.
 
-  De installasie-procedure is e'engk:
-  1. Plaats de CFL-beine bij de kaderinghoeke van de container
-  2. Activeer 't slotmechanisme um de beine vast te binde
-  3. Pas de höhte aan nao dien eige behoefte
-  4. Laot de trailer dalen en rijd oet, de container wordt zo veilig ondersteund op de beine
+  't Installatieproces is simpel:
+  1. Posisioneer de CFL-been bie de containerframehoeke
+  2. Activeer 't slotsmeganisme um de beenjes te bevestije
+  3. Stel de höögte in naer de specifieke vereiste
+  4. Laot de trailer zakke en riej door, zoda de container veilig ondersteund blieft op de beenjes
 
-  Als 't tied is um de container te verplaatsen, rijd dan de trailer ónder de container, bevestig de container aan de trailer, verwijder de beine en hervat de reis.
+  Als 't tied is um de container te verplaote, riej dan simpelweg de trailer terug onder de container, bevestig de container aan de trailer, verwijder de beenjes en ga door mit de reis.
 
-  ## Toepassings van ConFoot-leg CFL
+  ## Toepassinge van ConFoot-leg CFL
 
-  ### Chemiese industrie
-  De chemiese industrie profiteert merkbaar van de mogelijkheid van de CFL um containers veilig te ondersteunen die gebruukt waere veur 't opslaan en vervoere van chemische stoffen en vloeistófe materialen. Doordat deze spézjele containers op beine geplaatst kinne waere, kinne bedrijven flexibele opbergoplossinge make die de integriteit van druksensitieve materialen behouwe en de ruimte optimaal benutte.
+  ### Chemiese Industrie
+  De chemiese industrie profiteert aanzienlik van de CFL door 't vermogen om containors veilig te ondersteunje, dee gebruukt waere veur 't opslag en vervoer van chemische stoffen en vloeënde materialen. Door de spezjale containors op beenjes te kunnen posisionere, kinne bedriefe flexibele opslagoplossinge creere die de integriteit vaan druckgevoelige materialen behalde en de ruimt optimaal benut.
 
-  ### Olie- en gassector
-  Veur de olie- en gassector biedt de CFL waardevolle flexibelheid bie 't hanteren van containers die gebruukt waere veur diverse petroleumproducten. De mogelijkheid um dez containers veilig op beine te positionere, maakt laden en lossen efficiënter en creëert bovendien tijdelijke opslagcapaciteit tijdens piekperiodes in de bedrijfsvoering.
+  ### Olie- en Gasindustrie
+  Veur de olie- en gasindustrie biedt de CFL waardevolle flexibiliteit bie 't hanteren van containors dee gebruukt waere veur diverse petroleumproducten. 't Veer et mogelijk de containors veilig op beenjes te posisionere, wat effisjiente laad- en lossoperations en tievolle tijdelijke opslagmogelikheid in piekperiodes bied.
 
-  ### Voedsel- en drankenindustrie
-  De voedsel- en drankenindustrie kin de CFL-beine insjieten veur containers die gebruukt waere veur 't vervoere en opbergen van vloeistofvoedingsproducten. De stabiliteit en betrouwbaarheid van 't systeem zeure da deze gevoelige materialen veilig behandeld en opgebaar kinne waere zónder risico op besmetting of schade.
+  ### Voedsel- en Drankindustrie
+  De voedsel- en drankindustrie kin de CFL-been gebruuke veur containors dee gebruukt waere veur 't vervoer en opslag van vloeënde voedselproducten. De stabiliteit en betrouwbaarheid van 't systeem zorgje der veur dat deze gevoelige materialen veilig behandeld en opgeboude kinne waere, zonder risico op besmetting of schade.
 
-  ### Waterbehandeling en -voorziening
-  Waterbehandelings- en -voorzieningsoperaties kinne profiteere van de mogelijkheid van de CFL um containers te ondersteunen die gebruukt waere veur 't opslaan en vervoere van chemicaliën voor waterbehandeling en angere vloeistófe materialen. Deze capaciteit maakt 't mogelijk deze essensjele brónnen flexibeler en efficiënter te beheren.
+  ### Watervoorziening en -behandeling
+  Operaties in watervoorziening en -behandeling kinne profiëteere van de CFL, door 't vermogen um containors die gebruukt waere veur 't opslag en vervoer van watervoorzieningschemicaliën en angere vloeënde materialen, stevig te ondersteunen. Dit maakt 'n flexibel en effisjient beheer van deze essentiële hulpbronne mogelijk.
 
   ## Technische specificaties
 
-  - **Load Capacity**: 30 ton
-  - **Weight**: 24 kg per bein
-  - **Adjustment Range**: 1.043 mm tot 1.448 mm
-  - **Material**: Hoogwaardige staal met duurzame afwerking
-  - **Compatibility**: Spézjele ingekaderde containers, especielt die oetjoude waere veur vloeistofvervoer
+  - Belastekapaciteit: 30 ton
+  - Gewicht: 24 kg per been
+  - Aanpassingsbereik: 1.043 mm tot 1.448 mm
+  - Materiaal: Hoagdraod staal met duurzame afwerking
+  - Compatibiliteit: Spezjale geframde containors, bijsundere veur ontwerpen oetgoesjoe veur vloeëndetransport
 
-  De ConFoot-leg CFL representeert 'ne spézjele oplossing veur 't hanteren van ingekaderde containers. 't Bied bedryfe 'ne manier um de operaties te optimalisere bij het vervoere van sferische containers die bestendig zeen veur vloeistófe en angere drukgevoelige materialen. Doordat dez spézjele containers veilig op beine steune, helpt de CFL bedrijven um gróte effisjëntie en flexibelheid te bewerkstellige in de hantering van spézjele containeroperaties.
+  De ConFoot-leg CFL verteken 'n spezjale oplossing veur 't hanteren van geframde containors. Et biedt bedriefe 'n manier um hiej operaties te optimaliseer bie sferiese containors, dee gebruukt waere veur vloeënde en angere materialen die druckbestendigheid vereiste. Door de spezjale containors veilig op beenjes te ondersteunen, helpe de CFL bedriefe om insjtel meer effisjëntie en flexibiliteit te bezej in de handling van spezjale containors.
 ---

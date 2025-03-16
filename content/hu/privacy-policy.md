@@ -1,6 +1,6 @@
 ---
 title: "Adatvédelmi szabályzat"
-description: "Tájékoztatás a személyes adataid kezeléséről"
+description: "Tájékoztatás az Ön személyes adatainak kezeléséről"
 layout: "page"
 ---
 
@@ -8,120 +8,120 @@ layout: "page"
 
 ## A SZEMÉLYES ADATOK KEZELÉSÉNEK FELTÉTELEI
 
-Ezúton tájékoztatjuk Önt a személyes adatai kezeléséről az Európai Parlament és a Tanács 2016/679 rendelete (a továbbiakban: "GDPR") alapján, amely természetes személyek személyes adatainak kezeléséről és az ilyen adatok szabad áramlásáról, valamint 95/46/EK irányelv hatályon kívül helyezéséről szól.
+Ezúton tájékoztatjuk Önt a személyes adatai kezelésével kapcsolatos részletekről a Európai Parlament és a Tanács 2016/679/EU rendelete, a természetes személyek személyes adatainak kezelésével és ezen adatok szabad áramlásával kapcsolatos védelméről, valamint a 95/46/EK irányelv visszavonásáról (a továbbiakban: "GDPR") rendelkezései alapján.
 
-## Ki az Ön személyes adatai adatkezelője?
+## Ki az Ön személyes adatainak adatkezelője?
 
-Az üzleti vállalat HZ KONTEJNERY s.r.o., cégjegyzékszám: 03975177, jegyzékszám: C 240707 (bejegyzve a prágai Városi Bíróságon), székhely: Slavníkova 2357/9, Břevnov, 169 00 Praha 6, működési hely: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail: info@hz-containers.com (a továbbiakban: "adatkezelő").
+Az adatkezelő a HZ KONTEJNERY s.r.o. üzleti vállalat, cégjegyzékszám: 03975177, a Prágai Városi Bíróság által vezetett C 240707 számú cégjegyzék, székhely: Slavníkova 2357/9, Břevnov, 169 00 Prága 6, működési iroda: Průmyslová 154, 674 01 Třebíč, telefon: +420 608 830 863, e-mail cím: info@hz-containers.com.
 
-Nem neveztünk ki adatvédelmi tisztviselőt.
+Adatvédelmi tisztviselőt nem jelöltünk ki.
 
 ## Milyen személyes adatokat kezelünk?
 
-- Titulus, keresztnév és vezeték név, születési idő, személyi azonosító szám, adóazonosító jel, lakcím, székhely, kiszállítási cím (a továbbiakban "azonosítási adatok");
-- E-mail cím, telefonszám, fax (a továbbiakban "kapcsolattartási adatok");
-- Süti (cookie-k) és IP-cím (a továbbiakban "nem azonosított adatok").
+- Titulus, név és vezetéknév, születési idő, személyi azonosító szám, adóazonosító jel, lakcím, székhely címe, postázási cím (a továbbiakban: "azonosítási adatok");
+- E-mail cím, telefon, fax (a továbbiakban: "kapcsolattartási adatok");
+- Süti (cookie-k) és IP-cím (a továbbiakban: "nem azonosított adatok").
 
-## Mennyi ideig és miért kezeljük az Ön személyes adatait?
+## Milyen időtartamig és miért kezeljük az Ön személyes adatait?
 
-Személyes adatokat az Ön hozzájárulása alapján vagy anélkül is kezelünk, a személyes adatok kezelésének céljától függően. Amennyiben jogi személyről van szó, úgy a jogi személy képviselőjének azonosítási és kapcsolattartási adatait ugyanolyan módon kezeljük, mint a természetes személy adatait.
+Személyes adatokat az Ön hozzájárulásának meglétével vagy nélkül, a kezelés céljától függően kezelünk. Ha jogi személlyel üzleti kapcsolatban állunk, úgy a jogi személy képviselőjének azonosítási és kapcsolattartási adatait ugyanúgy kezeljük, mint egy természetes személy adatait.
 
 ### Az Ön hozzájárulásával kezelt személyes adatok
 
-Az Ön hozzájárulása alapján kezeljük az azonosítási és kapcsolattartási adatokat, annak érdekében, hogy:
-- Írásban (e-mailben vagy postai úton) elküldhessük ajánlatainkat;
-- Telefonon keresztül kommunikálhassunk az ajánlatainkkal kapcsolatban;
-- A regisztrált ügyfelek ismételt vásárlásokat hajthassanak végre.
+Az Ön hozzájárulását követően az azonosítási és kapcsolattartási adatokat az alábbiak céljából kezeljük:
+- Írásos ajánlataink elküldése (e-mailben vagy postai úton);
+- Telefonos úton történő kapcsolattartás ajánlatainkkal kapcsolatban;
+- Lehetőség nyújtása a regisztrált ügyfeleknek ismételt vásárlásokra.
 
-Ezen célok érdekében az azonosítási és kapcsolattartási adatokat a hozzájárulás visszavonásáig kezeljük.
+Ezen célokból az azonosítási és kapcsolattartási adatokat akkor is kezeljük, amíg vissza nem vonja hozzájárulását.
 
-Az Ön hozzájárulása alapján nem azonosított adatokat (weboldal látogatásakor) kezelünk annak érdekében, hogy:
-- A weboldalak helyes megjelenítését biztosítsuk;
-- A weboldal nem működő részeit javítsuk;
-- A weboldal forgalmát nyomon kövessük;
-- Statisztikákat és forgalmi jelentéseket készítsünk, illetve mérjük a reklám hatékonyságát.
+Hozzájárulása alapján a nem azonosított adatokat (weboldal-látogatás esetén) az alábbi célokból kezeljük:
+- A weboldalak helyes megjelenítése;
+- A weboldal nem működő részének javítása;
+- A weboldal forgalmának nyomon követése;
+- Statisztikák és forgalmi jelentések készítése, valamint a hirdetések hatékonyságának mérése.
 
-Ezen célok érdekében a hozzájárulás visszavonásáig kezeljük a nem azonosított adatokat (a hozzájárulás a böngészőben történő süti-tárolás engedélyezésével adható meg). Általánosságban nem hozzuk létre az online tevékenységek egyéni profilját, és a feldolgozott adatokat nem kapcsoljuk össze konkrét személlyel.
+Ezen célokból a nem azonosítható adatokat a hozzájárulás visszavonásáig kezeljük (a hozzájárulás a böngésző beállításán keresztül adható meg, amely lehetővé teszi a weboldal számára, hogy sütiket tároljon a végső eszközön). Általánosságban nem állítunk össze egyéni profilokat az online tevékenységekről; a kezelendő adatokat nem kapcsoljuk össze konkrét személlyel.
 
-### Az Ön hozzájárulása nélküli személyes adatok kezelése
+### Olyan személyes adatok, amelyeket az Ön hozzájárulása nélkül kezelünk
 
-Jogos érdekünk alapján, a szerződés megkötését célzó jogi lépések kapcsán, azonosítási és kapcsolattartási adatokat kezelünk annak érdekében, hogy:
-- Tájékoztatást adjunk a megkötendő szerződés jogviszonyának tárgyáról;
-- Rögzítsük a szerződés megkötésével kapcsolatos elvárásokat;
-- Szerződést kössünk;
-- Amennyiben egy azonos ajánlatot újból be kell nyújtani jóváhagyásra, felkutassuk azt.
+Jogos érdekünk alapján, illetve szerződéskötést célzó jogi eljárásokkal összefüggésben az azonosítási és kapcsolattartási adatokat az alábbi célból kezeljük:
+- Tájékoztatás a tervezett szerződéses jogviszony tárgyáról;
+- Igények rögzítése a megkötendő szerződéssel kapcsolatban;
+- Szerződés megkötése;
+- Amennyiben azonos ajánlat ismételt előterjesztésére kerül sor, ajánlatok keresése.
 
-Ezen célok érdekében az azonosítási és kapcsolattartási adatokat az ajánlat elfogadására vonatkozó határidő lejártától számított 1 évig, vagy ha nincs megadva határidő, az ajánlat benyújtásának napjától számított 1 évig kezeljük.
+Ezen célból az azonosítási és kapcsolattartási adatokat az ajánlat elfogadási határidejét követő 1 évig, vagy – ha nem kerül megadásra határidő – az ajánlat benyújtásának napjától kezeljük.
 
-Szerződés teljesítése alapján az alábbi célokat szolgálva kezeljük az azonosítási és kapcsolattartási adatokat:
-- A szerződéses jogviszonyból eredő jogok és kötelezettségek gyakorlása;
+A szerződés teljesítése alapján az azonosítási és kapcsolattartási adatokat az alábbi célokból kezeljük:
+- A szerződéses jogviszonyból eredő jogok és kötelezettségek érvényesítése;
 - A szerződés teljesítésével kapcsolatos kommunikáció;
-- A szerződés teljesítésével összefüggő részleges kiszállítás biztosítása (például szállítás);
-- Fizetési azonosítás;
-- Kérések kezelése (például panaszok).
+- A szerződés teljesítésével összefüggő részleges szállítás biztosítása (például fuvarozás);
+- Fizetés azonosítása;
+- Kérelmek kezelése (például panaszok).
 
-Ezen célok érdekében az azonosítási és kapcsolattartási adatokat a szerződéskötés napjától, vagy a szerződés szerinti áruk/szolgáltatások kiszállításától számított 3 évig, a későbbi időpontig kezeljük.
+Ezen célból az azonosítási és kapcsolattartási adatokat a szerződés megkötésétől, illetve az áruk vagy szolgáltatások leszállításától számított 3 évig kezeljük, attól függően, hogy melyik időpont következik be később.
 
-Jogos érdekünk alapján az azonosítási és kapcsolattartási adatokat az alábbi célokra kezeljük:
-- Jogi igényeink védelmére (esetleges bírósági vagy közigazgatási eljárások során);
-- Belső nyilvántartások és ellenőrzések vezetésére.
+Jogos érdekeink alapján az azonosítási és kapcsolattartási adatokat az alábbi célból kezeljük:
+- Jogi igényeink védelmének biztosítása (például esetleges bírósági vagy közigazgatási eljárások esetén);
+- Belső nyilvántartások és ellenőrzések vezetése.
 
-Ezen célok érdekében az azonosítási adatokat a törvény által megállapított elévülési időszakok lejártáig, azaz 10 évig, illetve az elévülési idő megszűnését követő 1 évig kezeljük abban az esetben, ha az adott elévülési idő végén igények merülnek fel, vagy egészen igényeink elévüléséig, ha az elévülési idő a megadott időszak alatt szünetelt vagy megszakadt.
+Ezen célból az azonosítási adatokat a törvény által előírt tárgyalási időszakok leteltéig kezeljük, azaz 10 évig, illetve a tárgyalási időszak lejárta utáni 1 évig azon igények esetében, amelyek a tárgyalási időszak végén kerülnek elő, vagy amennyiben igényeink elévülnek, ha a tárgyalási időszak a megadott időszak alatt felfüggesztésre vagy megszakításra kerül.
 
-Jogi kötelezettségeinknek való megfelelés érdekében olyan azonosítási és kapcsolattartási adatokat kezelünk, amelyekkel eleget tehetünk az alábbi jogszabályokból eredő kötelezettségeinknek:
-- 2012. évi 89. törvény (Polgári Törvénykönyv);
-- 1992. évi 634. törvény a fogyasztóvédelemről;
-- 2004. évi 235. törvény az általános forgalmi adóról;
-- 1991. évi 563. törvény a számvitelről.
+A jogszabályi kötelezettségek teljesítése miatt az azonosítási és kapcsolattartási adatokat az alábbi jogszabályokból eredő kötelezettségeink teljesítése céljából kezeljük:
+- A 2012. évi 89. törvény a Polgári Törvénykönyvről;
+- A 1992. évi 634. törvény a Fogyasztóvédelemről;
+- A 2004. évi 235. törvény az Általános Forgalmi Adóról;
+- Az 1991. évi 563. törvény a számvitelről.
 
-Ezen célok érdekében az azonosítási adatokat a jogviszony megszűnését követő 10 évig, vagy a vonatkozó eljárás befejeződéséig, ha az egy adott időszak alatt indult, és nem zárult le a megadott időszak előtt, kezeljük.
+Ezen célból az azonosítási adatokat a szerződéses jogviszony megszűnésétől számított 10 évig, vagy a megindított, de a megadott időszak előtt be nem fejezett eljárás fennállása esetén az eljárás lezárásáig kezeljük.
 
-## Kinek továbbítjuk az Ön személyes adatait?
+## Kinek adjuk át az Ön személyes adatait?
 
-A szerződés teljesítése érdekében a személyes adatokat átadhatjuk az adott szerződés teljesítésében részt vevő más szervezeteknek:
-- Fizetési rendszereket működtető szervezeteknek a fizetés biztosítása érdekében (bankok és fizetési intézmények);
-- Szállítmányozással foglalkozó szervezeteknek (szerződéses fuvarozók);
-- Beszállítóinknak, amennyiben a szerződés teljesítéséhez szükséges.
+A szerződés teljesítése kapcsán előfordulhat, hogy a személyes adatokat olyan egyéb szervezeteknek adjuk át, akik a szerződés teljesítésében részt vesznek:
+- Fizetési rendszereket üzemeltető szervezeteknek a fizetés biztosítása érdekében (bankok és pénzintézetek);
+- Fuvarozó szolgáltatóknak (szerződéses fuvarozók);
+- Beszállítóinknak, amennyiben az szükséges a szerződés teljesítéséhez.
 
-Jogos érdekünk és jogi kötelezettségeink teljesítése érdekében a személyes adatokat átadhatjuk egyéb szervezeteknek, például:
-- Könyvelőknek, adótanácsadóknak és könyvvizsgálóknak (számviteli és adótanácsadás);
-- Ügyvédeknek, közjegyzőknek, behajtó cégeknek, bírósági szakértőknek, tolmácsoknak (jogi igényeink védelme érdekében);
-- Biztosítótársaságoknak (biztosítási szerződés teljesítése érdekében);
+Jogos érdekeink és a jogszabályi kötelezettségek teljesítése érdekében előfordulhat, hogy a személyes adatokat olyan egyéb szervezeteknek adjuk át, mint például:
+- Könyvelők, adótanácsadók és könyvvizsgálók (számviteli és adótanácsadás);
+- Ügyvédek, közjegyzők, behajtó cégek, bírósági szakértők, tolmácsok (jogi igényeink védelme érdekében);
+- Biztosítótársaságok (biztosítási szerződés teljesítése érdekében);
 - Felhőszolgáltatók;
-- IT és hálózati technológiával foglalkozó beszállítóknak, rendszergazdáknak;
-- Bíróságoknak, állami közigazgatási szerveknek és egyéb közhatalmi szerveknek.
+- IT-technológiai és hálózati szolgáltatók, rendszergazdák;
+- Bíróságok, állami hivatalok és egyéb közigazgatási szervek.
 
-A hozzájárulás alapján nyert, nem azonosítható adatokat átadhatjuk egyéb szervezeteknek, mint például:
-- Reklámszolgáltatóknak és közösségi hálózatoknak;
-- Reklám- és marketing szolgáltatásokat nyújtóknak;
-- IT és hálózati technológiával foglalkozó beszállítóknak, rendszergazdáknak.
+A hozzájáruláson alapuló, nem azonosított adatokat olyan egyéb szervezeteknek is átadhatjuk, mint például:
+- Reklám- és közösségi hálózatok;
+- Reklám- és marketing szolgáltatásokat nyújtó cégek;
+- IT-technológiai és hálózati szolgáltatók, rendszergazdák.
 
-Az adatátadás során személyes adatait harmadik országokba is továbbíthatjuk, amelyek az Európai Gazdasági Térségen kívül esnek, ha ezek biztosítják a személyes adatok megfelelő szintű védelmét, vagy ha az adatátvételt végző fél vállalja, hogy megfelel az Európai Bizottság által kiadott standard szerződéses feltételeknek (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
+Az adatátadás keretében adhatjuk tovább személyes adatait harmadik, az Európai Gazdasági Térségen kívüli országokba is, amennyiben azok megfelelő szintű személyvédelmet biztosítanak, vagy ha az adatkezelés címzettje vállalja, hogy betartja az Európai Bizottság által kibocsátott szabvány szerződéses rendelkezéseket (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
 
-## Milyen forrásokból szerezzük be a személyes adatokat?
+## Milyen forrásból szerezzük meg a személyes adatokat?
 
-Jellemzően azokat a személyes adatokat kezeljük, amelyeket a szerződés megkötése során, vagy azzal kapcsolatos kommunikáció során szolgáltatott nekünk.
+Alapvetően olyan személyes adatokat kezelünk, amelyeket a szerződés megkötésével, vagy azzal összefüggésben történő kommunikáció során nyújtanak be hozzánk.
 
-További információkat beszerezhetünk bankoktól vagy fizetési szolgáltatóktól, például fizetési számlaszámokat.
+További információkat beszerezhetünk bankoktól vagy fizetési szolgáltatóktól, például fizetési számlaszámokat illetően.
 
-Bizonyos esetekben jogosultak vagyunk személyes adatokat beszerzni nyilvántartásokból, különösen jogos érdekünk érvényesítése céljából.
+Bizonyos esetekben jogosultak vagyunk nyilvános nyilvántartásokból is személyes adatokat beszerezni, különösen jogos érdekeinkkel összefüggésben.
 
-## Milyen jogok illetik meg Önt a személyes adatok kezelésével kapcsolatban?
+## Milyen jogok illetik Önt a személyes adatok kezelésével kapcsolatban?
 
-Kötelesek vagyunk tájékoztatni Önt a személyes adatok kezelésével kapcsolatban illetékes jogairól is. Minden, a személyes adatai kezelésével kapcsolatos kérdésben elérhet bennünket az info@hz-containers.com e-mail címen. Kéréseit haladéktalanul, de legkésőbb egy hónapon belül feldolgozzuk. Rendkívüli esetekben további két hónappal meghosszabbíthatjuk a határidőt, melyről szükség esetén tájékoztatjuk.
+Tájékoztatni kötelesek vagyunk arról is, hogy milyen jogok illetik Önt a személyes adatok kezelésével kapcsolatban. Minden, a személyes adataival kapcsolatos kérdésben fordulhat hozzánk az info@hz-containers.com e-mail címen. Megkeresését késedelem nélkül, de legkésőbb egy hónapon belül feldolgozzuk. Kivételes esetekben jogosultak vagyunk ezt az időszakot további két hónappal meghosszabbítani, melyről szükség esetén tájékoztatjuk.
 
-1. Ön jogosult arra, hogy betekintést nyerjen a személyes adataiba, azaz jogosult arra, hogy arról információt kapjon tőlünk, hogy (i) milyen személyes adatokat kezelünk Önről, (ii) milyen célból, (iii) meddig, (iv) honnan szerezzük azokat, (v) kinek továbbítjuk, (vi) kik kezelik azokat cégünkön kívül, (vii) hogy automatikus döntéshozatali eljárás, beleértve a profilalkotást, történik-e; (viii) milyen egyéb jogai illetik meg az adatai kezelésével kapcsolatban; ezért kérheti tőlünk annak megerősítését, hogy bizonyos személyes adatai kezelve vannak-e, és ha igen, joga van ezekhez a személyes adatokhoz hozzáférést kérni. Kérésére folyamatban lévő személyes adatokról másolatot is adunk – az első példány ingyenes, a további példányok díjkötelesek lehetnek. Természetesen a vontatott jogok és szabadságok érvényesülését nem sértjük;
+1. Ön jogosult arra, hogy hozzáférést kérjen az Önről kezelt személyes adatokhoz, azaz jogai között szerepel, hogy (i) tájékoztatást kapjon arról, hogy milyen személyes adatokat kezelünk Önről, (ii) milyen célból, (iii) meddig, (iv) honnan szerezzük azokat, (v) kinek adjuk át, (vi) kik végzik a kezelését mellettünk, (vii) az automatikus döntéshozatal, beleértve a profilalkotás tényét is, (viii) valamint hogy milyen egyéb jogok illetik Önt az adatok kezelésével kapcsolatban; ez alapján kérheti tőlünk annak megerősítését, hogy bizonyos személyes adatait kezeljük-e, és ha igen, akkor joga van ezekhez az adatokhoz hozzáférést kérni. Kérelem benyújtásakor kérhet egy másolatot a kezelendő személyes adatokból; az első másolatot díjmentesen, az esetleges további másolatokat díj ellenében biztosítjuk. Annak érdekében, hogy az Ön jogai és mások szabadságai ne sérüljenek;
 
-2. Ön jogosult a személyes adatok helyesbítésére vagy kiegészítésére, amennyiben azt pontatlannak vagy hibásnak találja;
+2. Ön jogosult a személyes adatok helyesbítésére vagy kiegészítésére, amennyiben pontatlannak vagy hibásnak találja azokat;
 
-3. Ön jogosult arra, hogy a személyes adatait töröltessük, amennyiben valamelyik ok fennáll: (i) már nincs szükségünk az adatokra a megjelölt kezelési célból; (ii) visszavonja a személyes adatok kezeléséhez adott hozzájárulását, és az adott személyes adatok kezeléséhez szükséges a hozzájárulás, illetve nincs egyéb jogalap a kezelésre; (iii) mi az Ön ellenvetése után megállapítjuk, hogy már nincs olyan jogos érdekünk, amely igazolná a kezelés folytatását; (iv) a személyes adatok kezelése megszűnt általánosan kötelező szabályozásoknak megfelelően. Ez nem vonatkozik arra az esetben, ha az adatokra a jogi igények megállapítása, gyakorlása vagy védelme érdekében szükségünk van;
+3. Ön jogosult arra, hogy töröltessük Önről a személyes adatokat, melyet haladéktalanul teljesítünk, ha valamelyik alábbi ok fennáll: (i) a személyes adatokra már nincs szükség a megjelölt kezelés céljának eléréséhez; (ii) visszavonja a személyes adatok kezeléséhez adott hozzájárulását, és az adott személyes adatok esetében a hozzájárulás elengedhetetlen, valamint nincs más jogalap a kezelésre; (iii) miután tiltakozott a személyes adatok kezelésével szemben jogos érdekeinken alapuló alkalommal, úgy találjuk, hogy már nincsenek jogos érdekeink, amelyek alátámasztanák a kezelés folytatását; (iv) a személyes adatok kezelése megszűnt általánosan kötelező szabályozásoknak megfelelő módon. Ez nem vonatkozik abban az esetben, ha a személyes adatokra a jogi igények megállapítása, érvényesítése vagy védelme céljából szükség van;
 
-4. Ön jogosult a személyes adatok kezelésének korlátozására, ami bizonyos esetekben azt jelenti, hogy kérheti, hogy az adatait megjelöljük, és egy ideig ne legyenek felhasználva a kezelésre; ezt akkor kötelesek vagyunk teljesíteni, ha: (i) a személyes adatokat pontatlannak tagadja, amíg meg nem állapodunk abban, hogy mely adatok helyesek; (ii) az adatokat nem megfelelő jogalap alapján kezeljük, és Ön a törlés helyett csak a kezelés korlátozását kéri; (iii) már nincs szükségünk az adatokra az eredetileg meghatározott kezelés céljából, de azok szükségesek a jogi igények megállapításához, gyakorlásához vagy védelméhez; (iv) ha Ön tiltakozik az adatkezelés ellen. Abban az időszakban, amíg megvizsgáljuk, hogy az Ön tiltakozása jogos-e, kötelesek vagyunk a személyes adatok kezelését korlátozni;
+4. Ön jogosult arra, hogy korlátozza a személyes adatok kezelését, ami bizonyos esetekben lehetővé teszi, hogy azt kérje, az adatait megjelöljük, és egy ideig ne kerüljenek feldolgozásra; kötelességünk eleget tenni ennek a kérésnek, ha: (i) tagadja a személyes adatok pontosságát, amíg meg nem egyeztetjük, hogy mely adatok helyesek; (ii) olyan jogalap nélkül kezeljük az adatokat, amely esetben Önhöz intézett kérésére törlés helyett csak a kezelés korlátozását kéri; (iii) a személyes adatokra már nincs szükség a megjelölt kezelés céljának eléréséhez, de Ön mégis azokat jogainak megállapítása, érvényesítése vagy védelme érdekében igényli; (iv) ha tiltakozik a kezelés ellen. Abban az időszakban, amíg megvizsgáljuk, hogy érvényes-e a tiltakozása, kötelesek vagyunk a személyes adatok kezelését korlátozni;
 
-5. Ön jogosult az adathordozhatóságra, azaz arra, hogy az Öntől begyűjtött, és a hozzájárulása vagy a szerződés teljesítése alapján kezelt összes személyes adatát megkapja tőlünk strukturált, általánosan használt, géppel olvasható formátumban;
+5. Ön jogosult az adathordozhatóságra, azaz arra, hogy Öntől kapott, illetve az Ön hozzájárulása vagy a szerződés teljesítése alapján kezelt összes személyes adatot strukturált, általánosan használt és géppel olvasható formátumban átadjuk;
 
-6. Ön jogosult tiltakozni az adatkezelés ellen, amennyiben azokat az adatkezelést jogos érdekünk alapján vagy az Ön által adott hozzájárulás alapján végezzük. Ebben az esetben az adatkezelést leállítjuk, hacsak nem áll fenn súlyos jogos érdekünk az adatkezelés folytatására;
+6. Ön jogosult tiltakozni a jogos érdekeinken alapuló, illetve a hozzájárulása alapján végzett személyes adatok kezelésével szemben. Ezen tiltakozás esetén abbahagyjuk a személyes adatok kezelését, kivéve, ha súlyos jogos érdekeink indokolják a kezelés folytatását;
 
-7. Ön jogosult bármikor visszavonni a személyes adatok kezeléséhez adott hozzájárulását;
+7. Ön bármikor visszavonhatja azt a hozzájárulását, amelyet a személyes adatok kezeléséhez adott;
 
-8. Ön jogosult panaszt tenni az illetékes felügyeleti hatóságnál. Ezt különösen akkor teheti meg, ha úgy véli, hogy személyes adatait jogosulatlanul vagy általánosan kötelező érvényű jogszabályokkal ellentétesen kezeljük. Panaszt tehet a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (www.uoou.cz).
+8. Ön jogosult panaszt tenni a megfelelő felügyeleti hatóságnál. Különösen abban az esetben élhet ezzel a jogával, ha úgy véli, hogy személyes adatait jogosulatlanul vagy általánosan kötelező, jogszabályokkal ellentétesen kezeljük. Panaszt tehet az Adatvédelmi Hatóságnál (www.uoou.cz).

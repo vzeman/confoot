@@ -9,72 +9,72 @@ layout: page
 
 ## 1. Úvod
 
-Vítejte u ConFoot ("my", "naše" nebo "nás"). Při přístupu na naše webové stránky, používání našich produktů či služeb souhlasíte s těmito Obchodními podmínkami ("Podmínky"). Přečtěte si prosím tyto Podmínky pozorně před tím, než začnete naše služby využívat.
+Vítejte na ConFoot ("my", "naše" nebo "nás"). Používáním nebo přístupem na naše webové stránky, produkty nebo služby souhlasíte s tím, že budete vázáni těmito Obchodními podmínkami ("Podmínky"). Před použitím našich služeb si prosím tyto Podmínky pečlivě přečtěte.
 
-## 2. Přijetí podmínek
+## 2. Přijetí Podmínek
 
-Přístupem na naše webové stránky, objednávkou našich produktů nebo používáním našich služeb potvrzujete, že jste si tyto Podmínky přečetli, porozuměli jim a souhlasíte s jejich dodržováním. Pokud s těmito Podmínkami nesouhlasíte, prosím, nepoužívejte naše služby.
+Používáním našich webových stránek, objednávkou našich produktů nebo využíváním našich služeb potvrzujete, že jste si tyto Podmínky přečetli, porozuměli jim a souhlasíte s nimi. Pokud s těmito Podmínkami nesouhlasíte, prosím nepoužívejte naše služby.
 
 ## 3. Produkty a služby
 
 ### 3.1 Informace o produktech
-Všechny popisy produktů, specifikace a cenové informace se mohou měnit bez předchozího upozornění. Usilujeme o to, aby všechny informace na našich webových stránkách byly správné, ale nemůžeme zaručit, že jsou bez chyb.
+Všechny popisy produktů, specifikace a informace o cenách se mohou bez upozornění změnit. Děláme veškeré rozumné kroky k tomu, aby byly všechny informace na našich webových stránkách přesné, ale nemůžeme zaručit, že všechny informace jsou bez chyb.
 
 ### 3.2 Objednávky a nákupy
-Všechny objednávky podléhají přijetí a dostupnosti. Vyhrazujeme si právo odmítnout jakoukoli objednávku či omezit množství. Ceny se mohou měnit bez předchozího upozornění.
+Všechny objednávky podléhají přijetí a dostupnosti. Vyhrazujeme si právo odmítnout jakoukoli objednávku nebo omezit množství. Ceny se mohou bez upozornění změnit.
 
 ## 4. Práva duševního vlastnictví
 
 ### 4.1 Vlastnictví
-Veškerý obsah na našich webových stránkách, včetně textů, grafik, log, obrázků a softwaru, je majetkem ConFoot nebo jeho dodavatelů obsahu a je chráněn mezinárodními zákony o autorských právech.
+Veškerý obsah na našich webových stránkách, včetně textů, grafik, log, obrázků a softwaru, je majetkem společnosti ConFoot nebo jejích dodavatelů obsahu a je chráněn mezinárodními autorskými zákony.
 
 ### 4.2 Omezení použití
-Bez našeho předchozího písemného souhlasu nesmíte naši duševní vlastnictví reprodukovat, distribuovat, upravovat, zobrazovat ani jej jinak využívat.
+Bez našeho předchozího písemného souhlasu nesmíte náš duševní majetek reprodukovat, distribuovat, modifikovat, zobrazovat ani jej používat.
 
-## 5. Chování uživatele
+## 5. Chování uživatelů
 
-Při používání našich webových stránek nebo služeb souhlasíte, že nebudete:
-- porušovat žádné platné zákony nebo předpisy,
-- zasahovat do práv ostatních,
-- ovlivňovat chod našich webových stránek nebo služeb,
-- poskytovat nepravdivé či zavádějící informace,
-- zapojovat se do činností, které by mohly poškodit naše systémy nebo ostatní uživatele.
+Při používání našich webových stránek nebo služeb souhlasíte s tím, že:
+- neporušíte žádné platné zákony nebo předpisy,
+- nezasáhnete do práv ostatních,
+- neovlivníte provoz našich webových stránek nebo služeb,
+- neposkytnete nepravdivé nebo zavádějící informace,
+- se nezapojíte do žádných činností, které by mohly poškodit naše systémy nebo ostatní uživatele.
 
 ## 6. Omezení odpovědnosti
 
-V maximálním rozsahu povoleném zákonem nebude ConFoot odpovědný za žádné nepřímé, náhodné, speciální, následné ani trestní škody, včetně, ale nikoli výhradně, za ztrátu zisku, dat, užívání nebo goodwillu.
+V maximálním rozsahu povoleném zákonem nebude ConFoot odpovědný za žádné nepřímé, náhodné, zvláštní, následné ani trestní škody, včetně, ale nikoli výhradně, ztráty zisku, dat, užití nebo pověsti.
 
 ## 7. Vyloučení záruk
 
-Naše produkty a služby jsou poskytovány "tak, jak jsou" bez jakýchkoli záruk – vyjádřených či předpokládaných – včetně, ale nikoli výhradně, předpokládaných záruk obchodovatelnosti, vhodnosti pro konkrétní účel nebo neporušení práv.
+Naše produkty a služby jsou poskytovány "tak, jak jsou", bez jakýchkoli záruk, výslovných či předpokládaných, včetně, ale nikoli výhradně, předpokládaných záruk obchodovatelnosti, vhodnosti pro konkrétní účel či neporušení práv.
 
 ## 8. Odškodnění
 
-Souhlasíte s tím, že odškodníte, obhájíte a udržíte ConFoot, jeho funkcionáře, ředitele, zaměstnance a zástupce v bezpečí před jakýmikoli nároky, závazky, škodami, ztrátami, náklady nebo výdaji vyplývajícími z vašeho používání našich služeb nebo porušení těchto Podmínek.
+Souhlasíte, že budete ConFoot, jeho funkcionáře, ředitele, zaměstnance a zástupce bránit, zprošťovat odpovědnosti a chránit před nároky, závazky, škodami, ztrátami, náklady nebo výdaji vzniklými v důsledku vašeho používání našich služeb nebo porušení těchto Podmínek.
 
-## 9. Informace o elektronické evidenci tržeb
+## 9. Informace o elektronických pokladních záznamech
 
-Podle českého zákona o elektronické evidenci tržeb je prodejce povinen vystavit kupujícímu účtenku. Současně je prodejce povinen registrovat přijatou platbu online u daňového správce; v případě technické závady pak nejpozději do 48 hodin.
+Podle českého zákona o elektronických pokladních záznamech je prodejce povinen vystavit kupujícímu účtenku. Zároveň je prodejce povinen registrovat přijatou platbu online u správce daně; v případě technické závady nejpozději do 48 hodin.
 
 ## 10. Řešení spotřebitelských sporů
 
-Český úřad inspekce obchodu dohlíží na dodržování zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů. Spotřebitelé mohou u tohoto orgánu podávat stížnosti související s uzavřením a plněním smluv.
+Státní zemědělská a spotřebitelská inspekce dohlíží na dodržování zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů. Spotřebitelé mohou podávat stížnosti týkající se uzavírání a plnění smluv u tohoto orgánu dohledu.
 
-Pokud mezi prodejcem a spotřebitelem vznikne spor ze uzavřené smlouvy, který nelze vyřešit dohodou, může spotřebitel podat návrh na mimosoudní vyrovnání sporu u České inspekce obchodu, Ústřední inspekce – oddělení ADR, se sídlem Štěpánská 15, 120 00 Praha 2, e-mail: adr@coi.cz, web: adr.coi.cz, která dohlíží na dodržování zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.
+Pokud vznikne spor mezi prodejcem a spotřebitelem z uzavřené smlouvy, který nelze vyřešit dohodou, může spotřebitel podat návrh na mimosoudní vyrovnání sporu České inspekci obchodu, Ústřední inspekční oddělení - Oddělení ADR, sídlící na adrese Štěpánská 15, 120 00 Praha 2, e-mail: adr@coi.cz, web: adr.coi.cz, která dohlíží na dodržování zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.
 
 ## 11. Rozhodné právo
 
-Tyto Podmínky se řídí a vykládají v souladu se zákony České republiky, bez ohledu na kolizní normy právních řádů.
+Tyto Podmínky se řídí právním řádem České republiky a budou jimi vykládány, bez ohledu na kolizní normy.
 
-## 12. Změny podmínek
+## 12. Změny Podmínek
 
-Vyhrazujeme si právo tyto Podmínky kdykoli upravit. Změny nabývají účinnosti okamžitě po zveřejnění na našich webových stránkách. Vaše pokračující používání našich služeb po provedení jakýchkoli změn znamená, že s upravenými Podmínkami souhlasíte.
+Vyhrazujeme si právo Tyto Podmínky kdykoli upravit. Změny nabudou účinnosti okamžitě po zveřejnění na našich webových stránkách. Pokračováním v užívání našich služeb po jakýchkoli změnách vyjadřujete souhlas s upravenými Podmínkami.
 
 ## 13. Kontaktní informace
 
 Pokud máte jakékoli dotazy ohledně těchto Podmínek, kontaktujte nás prosím na:
 
-HZ KONTEJNERY s.r.o.  
+**HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
 Česká republika

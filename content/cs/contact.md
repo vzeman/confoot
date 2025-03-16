@@ -6,22 +6,22 @@ description: Spojte se s týmem ConFoot ohledně dotazů, objednávek a podpory.
 
 ## Jsme tu, abychom vám pomohli
 
-Děkujeme za váš zájem o řešení nohou kontejnerů ConFoot. Náš tým je připraven vám pomoci s jakýmikoli dotazy, objednávkami či požadavky na podporu.
+Děkujeme za váš zájem o řešení kontejnerových nohou ConFoot. Náš tým je připraven vám pomoci s jakýmikoli dotazy, ohledně objednávek nebo podpory, které můžete mít.
 
 ## Proces objednávky
 
-Získání nohou kontejneru ConFoot je jednoduché:
+Objednání kontejnerových nohou ConFoot je jednoduché:
 
-1. **Dotaz**: Kontaktujte nás telefonicky nebo e-mailem a sdělte nám vaše požadavky.
-2. **Konzultace**: Náš tým vám pomůže vybrat to správné řešení ConFoot pro vaše potřeby.
-3. **Nabídka**: Na základě vašich požadavků vám poskytneme podrobnou cenovou nabídku.
-4. **Potvrzení objednávky**: Jakmile nabídku schválíte, potvrdíme vaši objednávku.
-5. **Výroba a přeprava**: Vaše objednávka bude zpracována a odeslána na vaši adresu.
-6. **Podpora**: Náš tým je k dispozici i po nákupu, pokud budete potřebovat další pomoc.
+1. **Poptávka**: Kontaktujte nás telefonicky nebo e-mailem se svými požadavky
+2. **Konzultace**: Náš tým vám pomůže vybrat správné řešení ConFoot pro vaše potřeby
+3. **Cenová nabídka**: Poskytneme vám podrobnou nabídku na základě vašich požadavků
+4. **Potvrzení objednávky**: Jakmile nabídku schválíte, potvrdíme vaši objednávku
+5. **Výroba a odeslání**: Vaše objednávka bude zpracována a odeslána na vaši adresu
+6. **Podpora**: Náš tým je k dispozici i po nákupu
 
-U velkoobjemových objednávek nebo speciálních požadavků nabízíme přizpůsobená řešení a ceny. Projednejte prosím své specifické potřeby přímo s naším obchodním oddělením.
+U velkoobjemových objednávek nebo speciálních požadavků nabízíme individuální řešení a cenovou nabídku. Prosím kontaktujte náš prodejní tým přímo za účelem projednání vašich specifických potřeb.
 
-## Kontaktní údaje
+## Kontaktní informace
 
 **HZ KONTEJNERY s.r.o.**  
 Sídlo: Slavníkova 2357/9, Břevnov (Praha 6)  
@@ -36,22 +36,24 @@ Průmyslová 154
 **Telefon:** +420 608 830 863  
 **Email:** [info@hz-containers.com](mailto:info@hz-containers.com)  
 **IČ:** 03975177, **DIČ:** CZ03975177  
-**Zapsáno v obchodním rejstříku:** Pod spisovou značkou C 240707, vedeném Městským soudem v Praze
+**Obchodní rejstřík:** Zapsáno v obchodním rejstříku pod sp. zn.: C 240707, vedeném Městským soudem v Praze
 
 ## Otevírací doba
 
-Pondělí - Pátek: 9:00 - 17:00 (CET/CEST)  
+Pondělí - Pátek: 9:00 - 17:00 (SEČ/SELČ)  
 Sobota - Neděle: Zavřeno
+
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 ## Technická podpora
 
-Pokud máte technické otázky nebo potřebujete podporu k produktům ConFoot, stáhněte si prosím naše uživatelské příručky:
+Pokud máte technické dotazy nebo potřebujete podporu k produktům ConFoot, stáhněte si prosím naše uživatelské příručky:
 - [Stáhnout uživatelskou příručku CF a CFP](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
 - [Stáhnout uživatelskou příručku CFU](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
 ## Potřebujete kontejner?
 
-Jestliže hledáte nákladní kontejnery, navštivte prosím naše prodejní webové stránky:
+Pokud hledáte nákup přepravních kontejnerů, navštivte prosím naši prodejní stránku:
 [www.hz-containers.com](https://www.hz-containers.com)
 
 Těšíme se na vaši zprávu!

@@ -1,57 +1,59 @@
 ---
-title: Kontakt os
+title: Kontak Ons
 layout: contact
-description: Hae 't contact mit 't ConFoot team um vraoge, bestellingen en support.
+description: Laot óch incontact kumpa mit ’t ConFoot-team veur vraagen, bestellungen en support.
 ---
 
-## We zön hie um te help
+## Wie Zin Hiers veur Hülp
 
-Bedank veur dien interesse in de ConFoot containerbeen-oplossinge. Ons team is krek gereed um die te help mit alle vraoge, bestellingvraag of supportbehoefte die doe oder höbs.
+Dankjewel veur dien belangstelling in de ConFoot containerpot-oplossinge. Ós team is klear um oe te helpe mit alle vraage, bestellingsinlichtinge of supportwenske dee doe höbs.
 
 ## Bestellingsproses
 
-Dao's dien ConFoot containerbeene kriege is simpel:
+’t Bestelle van dien ConFoot containerpoten is einfaoch:
 
-1. **Vraag**: Neem contact met ons op via telefoon of e-mail en vertel ons waal doe nodig höbs
-2. **Consultatie**: Ons team helpe die um de juiste ConFoot-oplossing te kieze die past bie dien needs
-3. **Offerte**: We stelle ein gedetaileerde offerte op basis vaan dien eis
-4. **Bestellingsbevestiging**: As doe de offerte goedkeurt, bevestige we dien bestelling
-5. **Produksie & Verzending**: Dien bestelling waort verwerk en verzonden nao dien locatie
-6. **Support**: Ons team blijft tot dien beschikking veur aanvuljende hulp na de aankoop
+1. **Navraag**: Neem contact mit ós op per foon of e-mail um dien wensen door te geve  
+2. **Overleg**: Ós team helpt oe de juiste ConFoot-oplossing te kies veur dien behoeftes  
+3. **Offerte**: Wie stelle oew 'ne gedetaileerde offerte samen op basis van dien wensen  
+4. **Bestellingsbevestiging**: Zónderdat doe de offerte goedkeur, bevestigge wie dien bestelling  
+5. **Productie & Verzending**: Dien bestelling word verwerk en verzonden nao dien locatie  
+6. **Support**: Ós team stót altied gereed veur nadiensteun
 
-Veur bulkbestellingen of speciële vereisinge biede we op maat gemaakte oplossinge en prijzen. Neem direct contact op mit ons verkoops-team um dien specifieke behoeftes te bespreke.
+Veer biede veur grootschalige bestellingen of spesjale behoeftes op maat gemaakte oplossinge en priese. Neem direkt contact op mit ós verkoopteam um dien specifieke wens te bespreke.
 
-## Kontaktinformasie
+## Kontakgegevens
 
 **HZ KONTEJNERY s.r.o.**  
-Hoofdkantoar: Slavníkova 2357/9, Břevnov (Praha 6)  
+Hoofdkantoor: Slavníkova 2357/9, Břevnov (Praha 6)  
 169 00 Praha  
-Tsjechie
+Tsjetsje Republiek
 
-**Bedrijfslokaal:**  
+**Operasjonskantoor:**  
 Průmyslová 154  
 674 01 Třebíč  
-Tsjechie
+Tsjetsje Republiek
 
-**Telefoon:** +420 608 830 863  
+**Foon:** +420 608 830 863  
 **E-mail:** [info@hz-containers.com](mailto:info@hz-containers.com)  
-**Bedryfs-ID:** IČ: 03975177, DIČ: CZ03975177  
-**Bedryfsregistraasje:** Inschriuëd in 't Handelsregister onder dossier nr.: C 240707, behalve deur 't Gemeentelijks Gerecht in Praha
+**Bedrijfs-ID:** IČ: 03975177, DIČ: CZ03975177  
+**Bedrijfsregistratie:** Ingeschreve in 't Handelsregister onder dossiernr.: C 240707, behouwe door de Gemeentekrachtsbank in Praha
 
-## Bedryfsuuren
+## Bedriejstieure
 
-Maandach - Vèndach: 9:00 - 17:00 (CET/CEST)  
-Zaterdag - Zondag: Geslotten
+Maandag - Vrydaach: 9:00 - 17:00 (CET/CEST)  
+Zaterdag - Zondag: Geslot
+
+{{< googlemap lat="49.2090954" lon="15.8932514" height="400px" zoom="15" >}}
 
 ## Technische Support
 
-Veur technische vraoge of support mit dien ConFoot-producten, kan doe oetsjlof onze gebroeks-manuals:
-- [Oetsjlof CF en CFP Gebroeksmanual](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
-- [Oetsjlof CFU Gebroeksmanual](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
+Veur technishe vraage of support mit dien ConFoot-producten, laet oe de gebruikshandleidingen downlaade:
+- [Downlaod CF en CFP Gebruikershandleiding](/wp-content/confoot_navod-k-pouziti_CZ.pdf)
+- [Downlaod CFU Gebruikershandleiding](/wp-content/confoot_CFU_navod-k-pouziti_CZ.pdf)
 
-## Nood an ein Container?
+## Hebbese 'ne Container Nodig?
 
-As doe shippingcontainers wilt aofkópe, gees dan nao onze verkoopswebsite:
+As doe 'ne transportcontainer wilt kepe, besoek dan ós verkoopswebsite:
 [www.hz-containers.com](https://www.hz-containers.com)
 
-We kieke der noa um te höre!
+Veer zien oet nao ’t horen van oe!

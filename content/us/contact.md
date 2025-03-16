@@ -12,11 +12,11 @@ Thank you for your interest in ConFoot container leg solutions. Our team is read
 
 Getting your ConFoot container legs is simple:
 
-1. **Inquiry**: Contact us via phone or email with your requirements  
-2. **Consultation**: Our team will help you select the right ConFoot solution for your needs  
-3. **Quotation**: We'll provide a detailed quote based on your requirements  
-4. **Order Confirmation**: Once you approve the quote, we'll confirm your order  
-5. **Production & Shipping**: Your order will be processed and shipped to your location  
+1. **Inquiry**: Contact us via phone or email with your requirements
+2. **Consultation**: Our team will help you select the right ConFoot solution for your needs
+3. **Quotation**: We'll provide a detailed quote based on your requirements
+4. **Order Confirmation**: Once you approve the quote, we'll confirm your order
+5. **Production & Shipping**: Your order will be processed and shipped to your location
 6. **Support**: Our team remains available for any post-purchase support
 
 For bulk orders or special requirements, we offer customized solutions and pricing. Please contact our sales team directly to discuss your specific needs.
@@ -53,7 +53,7 @@ For technical questions or support with your ConFoot products, please download o
 
 ## Need a Container?
 
-If you're looking to purchase shipping containers, please visit our sales website:  
+If you're looking to purchase shipping containers, please visit our sales website:
 [www.hz-containers.com](https://www.hz-containers.com)
 
 We look forward to hearing from you!

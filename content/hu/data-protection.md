@@ -9,7 +9,7 @@ layout: page
 
 ## Bevezetés
 
-A ConFoot elkötelezett amellett, hogy megvédje az ön személyes adatait és tiszteletben tartsa az ön magánéletét. Ez az Adatvédelmi Szabályzat ismerteti, hogyan gyűjtjük, használjuk, dolgozzuk fel és tároljuk a személyes adatait, amikor meglátogatja weboldalunkat, megvásárolja termékeinket vagy igénybe veszi szolgáltatásainkat.
+A ConFootnál elkötelezettek vagyunk abban, hogy megvédjük az Ön személyes adatait, és tiszteletben tartsuk a magánéletét. Ez az Adatvédelmi Szabályzat ismerteti, hogyan gyűjtjük, használjuk, dolgozzuk fel és tároljuk az Ön személyes adatait, amikor meglátogatja weboldalunkat, megvásárolja termékeinket, vagy igénybe veszi szolgáltatásainkat.
 
 ## Adatkezelő
 
@@ -18,83 +18,83 @@ Průmyslová 154
 674 01 Třebíč  
 Cseh Köztársaság
 
-Email: info@confoot.eu  
+E-mail: info@confoot.eu  
 Telefon: +420 568 850 850
 
-## Gyűjtött Adatok
+## Általunk Gyűjtött Adatok
 
 Az alábbi típusú személyes adatokat gyűjthetjük:
 
-### Ön által megadott információk:
-- Kapcsolattartási adatok (név, email cím, telefonszám, lakcím)
+### Általunk megadott információk:
+- Kapcsolati adatok (név, e-mail cím, telefonszám, postai cím)
 - Céges információk (vállalat neve, beosztás)
 - Rendelési és tranzakciós információk
-- Velünk folytatott kommunikáció (beleértve a megkereséseket és visszajelzéseket)
+- Velünk folytatott kommunikáció (beleértve az érdeklődéseket és a visszajelzéseket)
 
 ### Automatikusan gyűjtött információk:
-- Technikai adatok (IP-cím, böngésző típusa, eszközinformációk)
+- Technikai adatok (IP-cím, böngésző típusa, eszköz információ)
 - Használati adatok (hogyan használja weboldalunkat)
-- Süti (cookie) adatok (további részletekért lásd a Süti Szabályzatunkat)
+- Süti adatok (további részletekért lásd a Süti Szabályzatot)
 
-## Személyes Adatainak Felhasználása
+## Az Adatok Felhasználása
 
-Személyes adatait az alábbi célokra használjuk:
+Az Ön személyes adatait az alábbi célokra használjuk fel:
 
-- Termékeink és szolgáltatásaink nyújtása és kezelése
+- Termékeink és szolgáltatásaink biztosítása és kezelése
 - Rendeléseinek feldolgozása és teljesítése
-- Kapcsolattartás rendeléseiről vagy megkereséseiről
+- Kommunikáció az Ön részére a rendelésekkel vagy érdeklődésekkel kapcsolatban
 - Weboldalunk, termékeink és szolgáltatásaink fejlesztése
-- Jogi kötelezettségeknek való megfelelés
-- Jogos érdekek védelme
+- Jogi kötelezettségek teljesítése
+- Jogaink és érdekeink védelme
 
 ## A Feldolgozás Jogi Alapja
 
-A személyes adatait az alábbi jogalapok alapján dolgozzuk fel:
+Személyes adatait az alábbi jogi alapokon dolgozzuk fel:
 
-- Szerződés teljesítése (amikor a feldolgozás szükséges a rendelés teljesítéséhez)
-- Jogos érdek (szolgáltatásaink fejlesztése és ügyfélszolgálat nyújtása érdekében)
-- Jogi kötelezettség (az alkalmazandó törvények és szabályozások betartása érdekében)
-- Hozzájárulás (amikor ön kifejezetten beleegyezett a feldolgozásba)
+- Szerződés végrehajtása (amikor a feldolgozás szükséges a rendelés teljesítéséhez)
+- Jogos érdek (szolgáltatásaink fejlesztése és ügyfélszolgálat biztosítása érdekében)
+- Jogi kötelezettség (az alkalmazandó törvényeknek és rendeleteknek való megfelelés érdekében)
+- Hozzájárulás (amennyiben Ön kifejezetten hozzájárult a feldolgozáshoz)
 
-## Adatok Megőrzése
+## Adatmegőrzés
 
-Személyes adatait csak addig őrizzük meg, ameddig azokra az eredeti céloknak megfelelően szükség van, beleértve az esetleges jogi, számviteli vagy jelentési kötelezettségek teljesítését is.
+Személyes adatait csak addig őrizzük meg, ameddig az a gyűjtés célját szolgálja, beleértve minden jogi, könyvviteli vagy jelentési kötelezettség kielégítését is.
 
 ## Az Ön Jogai
 
-Az érvényben lévő adatvédelmi törvények alapján ön az alábbi jogokkal rendelkezik:
+Az alkalmazandó adatvédelmi törvények értelmében az alábbi jogokkal rendelkezik:
 
 - Jog a személyes adatokhoz való hozzáféréshez
 - Jog a pontatlan adatok helyesbítéséhez
-- Jog az adatok törléséhez („elfelejtéshez való jog”)
-- Jog az adatkezelés korlátozásához
+- Jog az adatok törléséhez ("elfeledtetéshez")
+- Jog az adatfeldolgozás korlátozásához
 - Jog az adathordozhatósághoz
-- Jog a feldolgozás elleni kifogás megtételéhez
+- Jog az adatfeldolgozás elleni tiltakozáshoz
 - Jog a hozzájárulás visszavonásához
-- Jog panaszkodni a felügyeleti hatóságnál
+- Jog panaszt tenni egy felügyeleti hatóságnál
 
-Amennyiben bármelyik jogát szeretné érvényesíteni, kérjük, vegye fel velünk a kapcsolatot az „Adatkezelő” szakaszban megadott elérhetőségek egyikén.
+Ezen jogok gyakorlása érdekében kérjük, lépjen velünk kapcsolatba az "Elérhetőségek" szekcióban megadott adatok segítségével.
 
 ## Adatbiztonság
 
-Megfelelő technikai és szervezési intézkedéseket vezetünk be személyes adatainak védelme érdekében, hogy megakadályozzuk az illetéktelen vagy jogellenes feldolgozást, véletlen elvesztést, megsemmisítést vagy károsodást.
+Megfelelő technikai és szervezeti intézkedéseket alkalmazunk annak érdekében, hogy személyes adatait illetéktelen vagy jogellenes feldolgozás, véletlen elvesztés, megsemmisítés vagy károsodás ellen megvédjük.
 
-## Nemzetközi Adatátutalások
+## Nemzetközi Átutalások
 
-Személyes adatai átvihetők és feldolgozhatók olyan országokban, amelyekben az adatvédelmi törvények eltérnek az ön lakóhelye szerinti ország törvényeitől.
+Az Ön személyes adatait átadhatjuk, illetve feldolgozhatjuk az Ön lakóhelyétől eltérő országokban. Ezekben az országokban az adatvédelmi törvények eltérhetnek az Ön országának jogszabályaitól.
 
-## Változások a Szabályzatban
+## A Szabályzat Változásai
 
-Időnként frissíthetjük ezt az Adatvédelmi Szabályzatot. A frissített verziót egy megváltozott "Utolsó frissítés" dátum jelzi, és a módosítások azonnal hatályosak lesznek, amint azok elérhetővé válnak.
+Időről időre frissíthetjük ezt az Adatvédelmi Szabályzatot. A frissített verzió a "Legutóbb frissítve" dátum módosításával lesz jelölve, és az új verzió azonnal hatályba lép, amint az elérhetővé válik.
 
-## Kapcsolati Információk
+## Elérhetőségek
 
-Ha kérdése van ezzel az Adatvédelmi Szabályzattal kapcsolatban, kérjük, vegye fel a kapcsolatot adatvédelmi tisztviselőnkkel az alábbi címen:
+Ha bármilyen kérdése van ezzel az Adatvédelmi Szabályzattal kapcsolatban, kérjük, vegye fel a kapcsolatot adatvédelmi tisztviselőnkkel az alábbi elérhetőségeken:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
 Cseh Köztársaság
 
-Email: info@confoot.eu  
+E-mail: info@confoot.eu  
 Telefon: +420 568 850 850

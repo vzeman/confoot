@@ -1,5 +1,3 @@
-Below is the text translated into U.S. English while preserving the original format:
-
 ---
 title: "Terms of Service"
 date: 2025-03-07T16:32:00+01:00
@@ -23,7 +21,7 @@ By accessing or using our website, ordering our products, or using our services,
 All product descriptions, specifications, and pricing information are subject to change without notice. We make reasonable efforts to ensure that all information on our website is accurate, but we cannot guarantee that all information is error-free.
 
 ### 3.2 Orders and Purchases
-All orders are subject to acceptance and product availability. We reserve the right to refuse any order or limit quantities. Prices are subject to change without notice.
+All orders are subject to acceptance and availability. We reserve the right to refuse any order or limit quantities. Prices are subject to change without notice.
 
 ## 4. Intellectual Property Rights
 
@@ -44,7 +42,7 @@ When using our website or services, you agree not to:
 
 ## 6. Limitation of Liability
 
-To the fullest extent permitted by law, ConFoot shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, use, or goodwill.
+To the fullest extent permitted by law, ConFoot shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to, loss of profits, data, use, or goodwill.
 
 ## 7. Warranty Disclaimer
 
@@ -56,13 +54,13 @@ You agree to indemnify, defend, and hold harmless ConFoot, its officers, directo
 
 ## 9. Electronic Sales Records Information
 
-According to Czech law on electronic sales records, the seller is obligated to issue a receipt to the buyer. Simultaneously, the seller is required to register the received payment with the tax administrator online; in case of technical failure, then no later than within 48 hours.
+According to the Czech law on electronic sales records, the seller is obligated to issue a receipt to the buyer. At the same time, the seller is required to register the received payment with the tax administrator online; in case of technical failure, then no later than within 48 hours.
 
 ## 10. Consumer Dispute Resolution
 
 The Czech Trade Inspection Authority supervises compliance with Act No. 634/1992 Coll., on Consumer Protection, as amended. Consumers may file complaints related to the conclusion and fulfillment of contracts with this supervisory body.
 
-If a dispute arises between the seller and the consumer from a concluded contract that cannot be resolved by agreement, the consumer may submit a proposal for an out-of-court settlement of the dispute to the Czech Trade Inspection Authority, Central Inspectorate - ADR Department, located at Štěpánská 15, 120 00 Prague 2, email: adr@coi.cz, web: adr.coi.cz, which supervises compliance with Act No. 634/1992 Coll., on Consumer Protection, as amended.
+If a dispute arises between the seller and the consumer from a concluded contract that cannot be resolved by agreement, the consumer may submit a proposal for out-of-court settlement of the dispute to the Czech Trade Inspection Authority, Central Inspectorate - ADR Department, located at Štěpánská 15, 120 00 Prague 2, email: adr@coi.cz, web: adr.coi.cz, which supervises compliance with Act No. 634/1992 Coll., on Consumer Protection, as amended.
 
 ## 11. Governing Law
 

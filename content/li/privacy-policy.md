@@ -1,127 +1,135 @@
 ---
-title: "Privacybeleed"
-description: "Informatie óvver de verwerking vaan diene persoanlij geve"
-layout: "page"
+title: "Privacybeleid"
+description: "Informatie euver 't behanlde van dien persoonlike gegevene"
+layout: "pagina"
 ---
 
-# Verwerking vaan Persoonsgeve
+# Behandeling van Persoonlike Gegevene
 
-## VOORWAARDS VEUR DE VERWERKING VAN PERSOONSGEVE
+## VOORWAARDEN VEUR 'T BEHANDELEN VAN PERSOONLIKE GEGEDENE
 
-Hie bieje wie die informaasje oet de verwerking vaan diene persoanlij geve, in oetting mit de Verordening (EU) 2016/679 vaan 't Europees Parlement en de Raad aangaon de beskerming vaan natuurlijke personen mit betrekking tot de verwerking vaan persoanlij geve en de vree verjiezing vaan dez geve, en de intrekking vaan Richtlijn 95/46/EC (hierna "GDPR").
+Hiejbie biede wie dich informatie euver 't behanlde van dien persoonlike gegevene, in overeenstemming mit Regeling (EU) 2016/679 van ’t Europees Parlement en de Raad óv de beskerming van natuurlike mênse in verband mit ’t behanlde van persoonlike gegevene en de vrije doorvoer van deeze gegevene, en ’t intrekken van Richtlijn 95/46/EC (hengne "GDPR").
 
-## Wie is de beheerder vaan diene persoanlij geve?
+## WA IS DE BESTJOERDER VAN DIEN PERSOONLIKE GEGEDENE?
 
-De ondernemig HZ KONTEJNERY s.r.o., ID Nr.: 03975177, Bestand Nr.: C 240707, inschreven bie 't Gemeentelijk Gerecht in Praag, zetel: Slavníkova 2357/9, Břevnov, 169 00 Praag 6, kantoar: Průmyslová 154, 674 01 Třebíč, telefone: +420 608 830 863, e-mailadres: info@hz-containers.com (hierna: "beheerder").
+’t Hânelende bédrief HZ KONTEJNERY s.r.o., ID-nummer: 03975177, dossiernummer: C 240707, geregistreerd bie t Gemeentelik Gerecht in Praag, zetel: Slavníkova 2357/9, Břevnov, 169 00 Praag 6, kantoar: Průmyslová 154, 674 01 Třebíč, tel.: +420 608 830 863, e-mailadres: info@hz-containers.com (hengne: "bestjoerder").
 
-Wie höbbe gin functionaris veur gegevensbeskerming aangesteld.
+Wie höbbe gin gegevensbeschermingsofficier aangesteld.
 
-## Welke persoanlij geve verwerkke wie?
+## WELKE PERSOONLIKE GEGEDENE VERWERKE WIE?
 
-- Titel, voarnaam en achternaam, geboortedatum, persoanlij identificatienummer, fiscaal identificatienummer, woonadres, vestigingsadres, bezorgadres (hierna "identificatiegeve");
-- E-mailadres, telefone, fax (hierna "contactgegevens");
-- Cookies en IP-adres (hierna "niet-geïdentificeerde geve").
+- Titel, neame en achternaom, geboortedatum, persoanlijk identificatienummer, belastingidentificatienummer, woonadres, geregistreerd kantoaradres, bezorgadres (hengne "identificatiegegevens");
+- E-mailadres, tel., fax (hengne "contactgegevens");
+- Cookies en IP-adres (hengne "niet-geïdentificeerde gegevens").
 
-## Hoelang en veur waal verwerkke wie diene persoanlij geve?
+## HOE LANG EN WAORUM VERWERKE WIE DIEN PERSOONLIKE GEGEDE?
 
-Wie verwerkke persoanlij geve mit of zeen dien toestemming, ôfhankelik van 't doel vaan de verwerking. Es wie wettelijk mit 'n rechtspersoon te make höbbe, verwerkke wie de identificatie- en contactgegevens vaan de vertegenwoardiger vaan die rechtspersoon op deselde wijse as bie 'n natuurlijk persoon.
+Wie verwerke persoonlike gegevene ónger of mit dien toestemming, afhankelj van et doele van de verwerking. In 't geval dat wie wettig verhoal mit ’n rechtspersoon, verwerke wie de identificatie- en contactgegevens van ’t verteenwoordiger van de rechtspersoon opde same weze es bie ’n natuurlik mens.
 
-### Persoanlij geve die wie verwerkke mit diene toestemming
+### PERSOONLIKE GEGEDE DIEN WIE VERWERKE MET DIEN TOESTEMMING
 
-Op basis vaan dien toestemming verwerkke wie de identificatie- en contactgegevens zodat wie:
-- Onze aanbiedinge schriftelik kónne versture (per e-mail of post);
-- Onze aanbiedinge per telefone kónne doorgeve;
-- Inschreve kèns inschakelje um herhaalbare aankope te make.
+Op basis van dien toestemming verwerkke wie de identificatie- en contactgegevens zodanig dat wie kinne:
+- Óm ós aanbod schriftelik te verzende (per e-mail of post);
+- Óm ós aanbod telefonisch te kommuniceere;
+- Óm geregistreerde klanten in de mójdigheid te stelle óm herhaalde aankeope te make.
 
-Veur deze doele verwerkke wie de identificatie- en contactgegevens tot dien toestemming ingetrokken is.
+Veur deze doelen verwerkke wie de identificatie- en contactgegevens tot dien toestemming ingetrokke wordt.
 
-Op basis vaan dien toestemming verwerkke wie niet-geïdentificeerde geve (tiedens 't bezoeke vaan websites) zodat wie:
-- Websites correct kónne weergave;
-- Niet-functionele dele vaan de website herstellen;
+Op basis van dien toestemming verwerkke wie ook niet-geïdentificeerde gegevens (bèy 't bèzoek van de website) zodanig dat wie kinne:
+- De website correct weergeve;
+- Niet-functionele dielen van de website herstellen;
 - 't Websiteverkeer monitoren;
-- Statistieke en verkeersrapporten make en de effectiviteit vaan de reclame op te mierken.
+- Statistieken en verkeersrapporten same stelle en de efficaciteit van de reclame mjete.
 
-Veur deze doele verwerkke wie de niet-geïdentificeerde geve tot dien toestemming ingetrokken is (toestemming kump door de browser in te stelle dat de website cookies op 't eindapparat mag opslaon). In ’t gegeneel make wie gin individuele profielen vaan online activiteiten; de verwerkte geve koppelen wie ni aan 'n specifieke persoon.
+Veur deze doelen verwerkke wie de niet-geïdentificeerde gegevens tot dien toestemming ingetrokke wordt (toestemming gegee-door ’t instelle van de browser da de website cookies op ’t eindtoestel kinne opslaon). In ’t algemeen make wie gin individuele profielen van online activiteiten – wie koppelde de verwerkte gegevens gin an ’n specifieke persoan.
 
-### Persoanlij geve die wie verwerkke zónder dien toestemming
+### PERSOONLIKE GEGEDE DIEN WIE VERWERKE ÓNDER DIEN TOESTEMMING
 
-Op basis vaan oos wettelijk belang en in verband mit juridische handelinge oet 't afslute vaan 'n contract, verwerkke wie de identificatie- en contactgegevens zodat wie:
-- Kunne communiceren over 't onderwerp vaan de juridische relatie oet 't contract dat oet te sluite is;
-- Vereiste registrere in verband mit 't contract dat oet te sluite is;
-- 'n Contract af te sluiten;
-- Aanbiedinge te speure as 'n identiek aanbod op ’t punt is óm op nieuw in te dien.
+Op basis van ons gerechtvaardigd belang, in verband mit wettelike handelinge ter afsluiting van ’n contract, verwerkke wie de identificatie- en contactgegevens zodanig dat wie kinne:
+- Kommuniceere euver ’t onderwerp van de wettelike relaasie van ’t te sluiten contract;
+- Vereiste vastlegge in verband mit ’t te sluiten contract;
+- ’n Contract afslote;
+- Oferens op soeke in ’t geval da ’n identiek aanbod noch einmaol ingediend wörde.
 
-Veur deze doele verwerkke wie de identificatie- en contactgegevens veur 'n periode van 1 jaor, gerekke vanaf 't verstrieke van de aanvaardingstermijn vaan 't aanbod, of vanaf de datum vaan 't indiene vaan 't aanbod es der gin termijn opgegeve is.
+Veur deze doelen verwerkke wie de identificatie- en contactgegevens veur ’n periode van 1 jaar, vanaf ’t verstrieke van de deadline veur de acceptatie van ’t aanbod of vanaf de datum van indienen da van ’t aanbod, indien gin deadline opgegeve is.
 
-Op basis vaan 't uitvoeren vaan 'n contract verwerkke wie de identificatie- en contactgegevens veur de doele:
-- 't Uitoeveze vaan rechten en verplichtinge voortkomme vaan de contractuele verhouding;
-- Communicatie over de uitvoering vaan 't afgesloten contract;
-- 't Zekerstelle van 'n gedeeltelijke levering in verband mit de uitvoering vaan 't afgesloten contract (bv. transport);
+Op basis van de uitvoering van ’n contract verwerkke wie de identificatie- en contactgegevens veur ’t doele:
+- ’t Uitoefene van rechte en verplichtinge die voortkomme uut de contractuele relaasie;
+- Kommunicatie euver de uitvoering under ’t afgesloten contract;
+- Zorge veur ’n gedeeltelike levering in verband mit de uitvoering under ’t afgesloten contract (bij ’t voorbeeld: transport);
 - Betalingsidentificatie;
-- Behandeling van verzoeken (bv. klachten).
+- ’t Afhandele van verzoeke (bij ’t voorbeeld: klachten).
 
-Veur deze doele verwerkke wie de identificatie- en contactgegevens veur 'n periode van 3 jaore, gerekke vanaf de datum vaan 't afslute vaan 't contract, of vanaf de datum vaan de levering vaan goederen of diensten oet 't afgesloten contract, waal 't later is.
+Veur deze doelen verwerkke wie de identificatie- en contactgegevens veur ’n periode van 3 jaar, vanaf de datum van afslote van ’t contract of vanaf de datum van levering van goederen of diensten under ’t afgesloten contract, wat later is.
 
-Op basis vaan oos wettelijk belang verwerkke wie de identificatie- en contactgegevens veur de doele:
-- 't Beschermje vaan oos wettelijke aanspraken (in potentiële gerechtelijke of administratiewe procedures);
-- Het voeren vaan interne registraties en controles.
+Op basis van ons gerechtvaardigd belang verwerkke wie de identificatie- en contactgegevens veur ’t doele:
+- ’t Beschermje van onze wettelike aansprake (in potentiele gerechtelijke of administratieve procedures);
+- ’t Uitvoere van interne registraties en controles.
 
-Veur deze doele verwerkke wie de identificatiegeve tot de verstrieke vaan de wettelijk vastgelegde verjeksingsperiodes, d.w.z. 10 jaore en 1 jaor nao de verstrieke met betrekking tot aanspraken die oetgedeid waere aan 't ein vaan de verjeksingsperiode of tot de verjeksing vaan oos aanspraken, es de verjeksingsperiode gespauzeerd of onderbroken is gedurende de genoemde periode.
+Veur deze doelen verwerkke wie de identificatiegegevens tot het verstrieke van de wettelijke verjaringstermijnen, dat wil zeggen 10 jaar en 1 jaar ná ’t verstrieke met betrekking tot aansprake die gemeld wörde aan ’t einde van de verjaringsperiode – of tot ’t verstrieke van onze aansprake indien de termijn gesuspendeerd of onderbroke wääd gedurende de opgezette periode.
 
-Vanwege naleving vaan wettelijk verplichtinge verwerkke wie de identificatie- en contactgegevens zodat wie kinne voldoen aan de verplichtinge voortkomme vaan de volgende wettelijke reglementasie:
-- Wet Nr. 89/2012 Coll., Burgerlijk Wetboek;
-- Wet Nr. 634/1992 Coll., aangaon de consumentenbescherming;
-- Wet Nr. 235/2004 Coll., aangaon de omzetbelasting;
-- Wet Nr. 563/1991 Coll., aangaon de boekhouding.
+Vanwege daum voldoen oan wettelike verplichtinge verwerkke wie de identificatie- en contactgegevens zodanig dat wie kinne voldoen aan de verplichtinge die voortkomme uut deze wettelike regelgevingen:
+- Wet nr. 89/2012 Coll., Burgerlijk Wetboek;
+- Wet nr. 634/1992 Coll., óv de Bescherming van Consumenten;
+- Wet nr. 235/2004 Coll., óv de Belasting op Toegevoegde Waarde;
+- Wet nr. 563/1991 Coll., óv de Boekhouding.
 
-Veur deze doele verwerkke wie de identificatiegeve veur 'n periode van 10 jaore, gerekke vanaf de beëindiging vaan de juridische relatie oet 't afgesloten contract of tot 't einde vaan de betreffende procedure, es deze gestart waere in de genoemde periode en ni voor de genoemde periode afgerond waere.
+Veur deze doelen verwerkke wie de identificatiegegevens veur ’n periode van 10 jaar vanaf de beëindiging van de wettelike relaasie uut ’t afgesloten contract of tot ’t einde van de betreffende procedure, indien gestart in de opgezette periode en gin afgerond veur da periode.
 
-## Aan wie transferere wie diene persoanlij geve?
+## AAN WIE VERZEJE WIE DIEN PERSOONLIKE GEGEDE DOOR?
 
-In verband mit de uitvoering vaan 't contract kinne wie persoanlij geve transferere aen angere entiteite die meewerke in de uitvoering mit 't afgesloten contract:
-- Entiteite die betaalsystemen exploiteere veur de uitvoering vaan de betaling (banken en betaalinstellingen);
-- Entiteite die transport verigeve (contractuele vervoerders);
-- Oos leveranters, es dat noedich is veur de uitvoering vaan 't afgesloten contract.
+In verband mit de uitvoering van ’t contract kinne wie persoonlike gegevene doorschuiven nao andere entiteite die meedoen ónger de uitvoering van ’t afgesloten contract:
+- Entiteite die betalingssysteeme bedrieje veur ’t verzekere van de betaling (banken en betalingsinstellingen);
+- Entiteite die transport leveren (contractuele vervoerders);
+- Onze leveranciers, indien dat neet nodich is veur de uitvoering under ’t afgesloten contract.
 
-In verband mit oos wettelijk belang en t'n nakome vaan wettelijk verplichtinge kinne wie persoanlij geve transferere aen angere entiteite, zoals:
-- Boekhouders, fiscaal adviseurs en auditors (boekhouding en fiscaal advies);
-- Advocaten, notarissen, incassobureaus, gerechtsexperts, tolken (bescherming vaan oos wettelijke aanspraken);
-- Verzekeringsmaatschappijen (uitvoering vaan 'n verzekeringscontract);
-- Cloud service providers;
-- IT-technologie- en netwerkaangeleveers en beheerders;
-- Gerecht, overheidsinstanties en angere publieke autoriteite.
+In verband mit ons gerechtvaardigd belang en um te voldoen aan wettelike verplichtinge kinne wie persoonlike gegevene doorschuiven nao andere entiteite, zoe as:
+- Accountants, belastingadviseurs en revisoren (boekhouding en belastingadvies);
+- Advocaten, notarissen, incassobureaus, gerechtelijke deskundigen en tolken (bescherming van onze wettelike aansprake);
+- Verzekeringsmaatschappijen (uitvoering under ’n verzekeringscontract);
+- Cloud-dienstverleners;
+- IT-technologie- en netwerkleveranciers en beheerders;
+- Gerechtbanken, overheidsinstanties en andere openbare autoriteiten.
 
-Niet-geïdentificeerde geve, die op basis vaan de toestemming verkregen waere, kinne transferere waere aen angere entiteite, zoals:
+Niet-geïdentificeerde gegevens verkregen op basis van toestemming kinne doorschuiven nao andere entiteite, zoe as:
 - Reclame- en sociale netwerke;
-- Leveranters vaan reclame- en marketingdiensten;
-- IT-technologie- en netwerkaangeleveers en beheerders.
+- Leveranciers van reclame- en marketingdiensten;
+- IT-technologie- en netwerkleveranciers en beheerders.
 
-As onderdeel vaan de transfer van geve kinne wie diene geve oetsjtoere aan derde landen biej de Europese Economische Ruimte die 'n adequaat niveau vaan bescherming vaan persoanlij geve garandeere, of es de ontvanger belooft te voldoen aon de standaard contractuele clausules die oetgegeven waere vaan de Europese Commissie (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
+As onderdeel van de gegevensoverdraging kinne wie ooch dien gegevene doorschuiven nao derde-landen buiten ’t Europees Economisch Gebied die ’n adequaat niveau van besjerming van persoonlike gegevene garandeere, of indien de ontvanger zich verbindt tot naleving van standaard contractuele clausules uitgegeven door de Europese Commissie (https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087).
 
-## Van waal kinne wie persoanlij geve bekriege?
+## VAN WAER HEEKT WIE PERSOONLIKE GEGEDE VERKRIEGE?
 
-Wie verwerkke in de regel persoanlij geve die aan ós verstrekt waere in verband mit 't afslute vaan 'n contract of tiedens 't contact mit ós.
+Gewoonlijk verwerkke wie persoonlike gegevene die aan ós aangeleverd wörde in verband mit ’t afslote van ’n contract of bie de kommunicatie mit ós.
 
-Wie kinne aanvullende informaasje verkryje van banken of betaaldienstverleners, zoals betaalkuntenummers.
+Wie kinne aanvullende informatie verkriëge van banken of betalingsdienstverleners, zoe as betalingsrekeningnummers.
 
-In 't gezuchte geval höbbe wie t-recht om persoanlij geve te verkrijgen aen openbare registers, vooral in verband mit oos wettelijk belang.
+In sommige gevalle hemme wie rech óm persoonlike gegevene te verkriëge óuter openbare registers, besonders in verband mit ons gerechtvaardigd belang.
 
-## Welke rekjes höbse es bij de verwerking vaan persoanlij geve?
+## WELKE RECHTEN HÖBS DIEN BIÉT 'T BEHANDELEN VAN PERSOONLIKE GEGEDE?
 
-Wie höbbe óch de verplichting die te inlichten euver diene rekjes in verband mit de verwerking vaan persoanlij geve. In alle aangelegenheide met de verwerking vaan diene persoanlij geve kinne/se dich oetlaote via 't e-mailadres info@hz-containers.com. Wie verwerkke dien verzoek zónder onnodige vertraging, mar binnen 't maximum van 'n maond. In uitzonderlijke gevallen kinne wie deze periode met nogt twee maonde verlengge, waover wie dich op de hoogte brenge es dat noedich is.
+Wie zien óch verplicht óm dich te informere euver dien rechten in verband mit ’t behanlde van persoonlike gegevene. In alle kwesties aangaon ’t behanlde van dien persoonlike gegevene kinne doe contact op nemme mit ós via t e-mailadres info@hz-containers.com. Wie zulle dien verzoek zónder onnodige vertraging behandele, mer binnen maximum één maand. In uitzonderlijke gevalle hemme wie rech óm deze periode te verlange met noch twie maanden, woveer wie dich zoe behoere inlichtere indien nodig.
 
-1. Deet höb de rekje op te verkieke tot persoanlij geve, dat wil zègge de rekje tot informatie kregen euver (i) welke persoanlij geve wie verwerkke vaan deew, (ii) veur waal, (iii) hoelang, (iv) woa’t wie 't bekriege, (v) aan wa wie 't transferere, (vi) wa veriek t’ ónger ós verwerkke, (vii) dat d’r geautomatiseerde besluitvorming plaotvindt, insjluitende profilering; (viii) welke angere rekjes deet höb met betrekking tot de verwerking; Daormè kinne de bij ós opvrage doen um te bevestije of ein of oet diene persoanlij geve verwerkke worde, en es dat zo is, höbse de rekje tot inkieke vaan diene persoanlij geve. Deet kinne op vrage um 'n kopie vaan de verwerkte persoanlij geve te krijje; wie versture de eerste kopie gratis, en bijkomende kopie tegen vergoeding. Bie 't vervullen vaan diene rekjes moete der op gelet worde dat de rekjes en vrijheide vaan angere neet negatief beinvloed waere.
+1. Doe höbs ’t recht op inzage in persoonlike gegevene, dat wil zègge dat doe informatie kinne verkriëge euver (i) welke persoonlike gegevene wie óv dich verwerkke, (ii) veur welk doele, (iii) veur hoe lang, (iv) woë wie se verkriëge, (v) aan waor wie se doorschuive, (vi) wie se behandele aon ’t aovend van ós, (vii) dat er automatisch beslissingsneming plaets, insleètende profilering; (viii) welke anger rechten doe höbs betreffende ’t behanlde; doe kinne ós beaftiginge vraoge óm te verifiëere of van dien persoonlike gegevene verwerk keure, en indien ges, doe höbs ’t recht óm inzage te krijje. Doe kinne ós ’n kopie vraoge van de verwerkte persoonlike gegevene; de eerste kopie zulle wie gratis verskaane, extra kopieën tegen ’n tarief. Óm de rechten en de vrijheide van anger persoone óngermaat te laote lèsse.
 
-2. Deet höb de rekje tot rectificatie of aanvulling vaan de persoanlij geve, es deet opmerkt dat wie geve verwerkke óngnauw of verkeerd.
+2. Doe höbs ’t recht op rectificatie of aanvulling van persoonlike gegevene indien doe sjoen dat wie se onnauwkeurig of verkeerd verwerkke.
 
-3. Deet höb de rekje um diene persoanlij geve te wissen, en dit zal wie zo rap mogelijk vreugen es een van de volgende grunde voldaan is: (i) wie höbbe diene persoanlij geve ni meer nodig veur 't aangegeven doel vaan de verwerking; (ii) deet intrekke vaan de toestemming oet die deet nodig is veur de verwerking en d’r is gin andere wettelijk reden óm de verwerking voort te zeen; (iii) nao 't opponere vaan de verwerking op basis vaan oos wettelijk belang kinne wie oetkomme dat wie gin wettelijk belang meh höbbe umde verwerking te boederen; (iv) de verwerking vaan persoanlij geve is óf ni langer in overeenstemming mit algemeen bindende regels. Dit past neet es wie de persoanlij geve nodig höbbe veur de bepaling, uitoeving of verdediging vaan wettelijke aanspraken.
+3. Doe höbs ’t recht óm dien persoonlike gegevene te wissen, waorwie wie dat zulle doen zónder onnodige vertraging indien één van de volgende redenen optrae:
+   (i) wie hedde de persoonlike gegevene gin meer nodig veur ’t oorspronkelijke doele;
+   (ii) doe trekst dien toestemming óm ’t behanlde van persoonlike gegevene en ’t geve aangaon gegevens waarvoor toestemming noodich is en der gin anger wettelike grond veur verwerking;
+   (iii) na doe bezwaar höbs dit te wijte óm ons gerechtvaardigd belang, en wie vaststelle dat dat belang niet meer opweegt;
+   (iv) ’t behanlde van de persoonlike gegevene is ónger algemene bindende regelgevingen gienige. Dit geldt nimms wenn wie de gegevene nog nodig höbbe veur ’t vaststelle, uitoefene of verdedije van wettelike aansprake.
 
-4. Deet höb de rekje tot beperking vaan de verwerking vaan de persoanlij geve, wat deet in bepaalde gevallen kinne vraoge da diene geve gemarke worde en ós ni volledig te verwerkke is um 'n bepaalde periode; wie motte dat naleve as: (i) deet de nauwkeid vaan de persoanlij geve betwijfel tot wie ós en 't overeengekomme is waat juist is; (ii) wie verwerkke de persoanlij geve ónger 't wettelijk basis, en in de plaats vaan wissen, deet enkel vraoge um beperking; (iii) wie höbbe de persoanlij geve ni meer nodig voor het aangegeven doel vaan de verwerking, mar deet wel nodig is veur de bepaling, uitoeving of verdediging vaan diene wettelijke aanspraken; (iv) es deet opponere tegen de verwerking. Veur de periode waorin wie beoordeele of deet opponatie gerechtvaardigd is, höbbe wie de verplichting de verwerking vaan diene persoanlij geve te beperken.
+4. Doe höbs ’t recht óm beperking veur ’t behanlde van persoonlike gegevene, wat doe in bepaalde gevalle in staat stuit te vraoge det dien gegevens gemarkeerd weure en gedurende ’n beperkte periode gin verder verwerkke wörde. Dit motte wie naleve als:
+   (i) doe de nauwkeurigheid van de persoonlike gegevene betwieve tot wie same samekome over wat correct is;
+   (ii) wie verwerkke de gegevens ónger ne sufficient wettelike grond en doe in plaot van wissing slechts ’t beperkke vraoge;
+   (iii) wie hedde de persoonlike gegevene gin meer nodig veur ’t oorspronkelijk doele, mer doe ze nodich höbs veur ’t vaststelle, uitoefene of verdedije van dien wettelike aansprake;
+   (iv) indien doe bezwaar höbs tegen ’t behanlde. Veur de periode waorbie wie nagaan of dien bezwaar gerechtvaardigd is, motte wie ’t behanlde van dien persoonlike gegevene beperkke.
 
-5. Deet höb de rekje tot gegevensoverdraagbaarheid, wat betekent dat deet de rekje höb om van ós al de persoanlij geve waet deet aan ós verstrekt höb en die wie verwerkke op basis vaan dien toestemming of in verband mit de uitvoering vaan 'n contract te krijgen; wie versture de gegevens in 'n gestructureerd, algemeen gebruuk en machiene-leesbaor formaat.
+5. Doe höbs ’t recht op gegevensoverdraagbaarheid, dat wil zègge dat doe alle persoonlike gegevene kinne verkriëge die doe ós aangeleverd höbs en die wie verwerkke op basis van dien toestemming of de uitvoering van ’n contract; wie zulle ze ómse in ’n gestructureerd, algemien gebruuk en machineleesbaar formaat ópmaakke.
 
-6. Deet höb de rekje um opponatie te gebruike tegen de verwerking vaan de persoanlij geve die plaatsvindt op basis vaan oos wettelijk belang, of es deet de toestemming gegeven höb um de verwerking te make. Wie stoppe de verwerking, tenzij wie ernstige wettelijk begrunde redenen höbbe um de verwerking voort te zeen.
+6. Doe höbs ’t recht um bezwaar te make tegen ’t behanlde van persoonlike gegevene dat plaatsvindt op basis van ons gerechtvaardigd belang of indien doe ós toestemming gedèns höbs óm de verwerking. Wie stoppe 't behanlde van de persoonlike gegevens, tenzij wie serieuze gerechtvaardigde gronde höbs óm dit toch voort te laate gaon.
 
-7. Deet höb de rekje um de toestemming die deet aan ós gegeven höb um de verwerking vaan de persoanlij geve te int te trekke, op elk moment.
+7. Doe höbs ’t recht um dien toestemming, die doe ós gegeven höbs veur ’t behanlde van persoonlike gegevene, op elk moment terug te trekke.
 
-8. Deet höb de rekje um 'n klacht in te diene bie de bezwaorige toezichthoudende instantie. Deet kinne deze rekje gebruike es deet van mening höb dat wie diene persoanlij geve verwerkke óf oet ontevoegd óf in conflict met algemeen bindende wettelijke regels. Deet kinne 'n klacht indiene bie 't Bureau veur Persoonsgevebeskerming (www.uoou.cz).
+8. Doe höbs ’t recht óm ’n klacht in te diene bie de betreffende toezichthoudende autoriteit. Doe kinne dit recht uitoefene, zeker indien doe gaove dat wie de persoonlike gegevene verwerkke zonder autorisatie of in strijd mit algemene bindende wettelike regelgevingen. Doe kinne ’n klacht indiene bie ’t Bureau veuro Persoonlijke Gegevensbescherming (www.uoou.cz).

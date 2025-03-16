@@ -1,100 +1,100 @@
 ---
-title: "Gegevensbescherming"
+title: "Databescherming"
 date: 2025-03-07T16:32:00+01:00
 draft: false
 layout: page
 ---
 
-# Bele ed veur Gegevensbescherming
+# Databeschermingsbeleid
 
 ## Inleiding
 
-By ConFoot höbbe we oet ‘t hart um dien persoanlike gegevens te behollen en dien pryvacy te respekteere. Dit Bele ed veur Gegevensbescherming legt oet hoee we dien persoanlike gegevens verzaamelle, gebruike, verwerke en opslaon as doe ós website bezoech, ós producten stoekj of ós diensten gebruukst.
+Bi ConFoot zien wie toegewieëd um dien persöönläke gegevens te beskermje en dien privacy te respekteere. Dit databeschermingsbeleid verduut hoe wie dien persöönläke gegevens verzámelje, gebruukke, verwerkke en bewaarje wère det doe de website bezeuke, onze produkte aekje of onze diensten gebruukke.
 
-## Gegevensbestuurder
+## Gegevensbeheerser
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
-Tsjechje
+Tsjechië
 
-E-mail: info@confoot.eu  
+Email: info@confoot.eu  
 Telefoon: +420 568 850 850
 
-## Gegevens die we verzaamelle
+## Gegevens die wie verzámelje
 
-We kinne de volgende types persoanlike gegevens verzaamelle:
+We kinne de volgende soorte persöönläke gegevens verzámelje:
 
-### Informatie die doe ós doorgeve:
-- Contactinformatie (naam, e-mailadres, telefoonnummmer, postadres)
-- Bedryfsinformatie (bedryfsnaam, functie)
-- Bestellings- en transactingegevens
-- Communicaties mit ós (inbegriepe vraage en feedback)
+### Informatie die se oons geveve:
+- Kontaktgegevens (naam, e-mailadres, telefoonnumer, postadres)
+- Bedrijfsgegevens (bedrijfsnaam, functie)
+- Bestellings- en transactiesinformatie
+- Communicatie mit oons (insluitende vraege en feedback)
 
-### Informatie die we automatisch verzaamelle:
-- Technische gegevens (IP-adres, browsertipe, apparaatinfo)
-- Gebruiksgegevens (hoee doe ós website gebruukst)
-- Cookiegegevens (sjoch ós Cookiebele ed veur details)
+### Informatie die wie automatisch verzámelje:
+- Technische gegevens (IP-adres, browsertype, toestelgegevens)
+- Gebruiksgegevens (hoe de website gebroeke)
+- Cookiegegevens (zie ons Cookiebeleid veur meer details)
 
-## Hoee we dien gegevens gebruike
+## Hoe wie dien gegevens gebruukke
 
-We gebruike dien persoanlike gegevens veur de volgende doelwies:
+Wie gebruukke dien persöönläke gegevens veur de volgende doeln:
 
-- Um ós producten en diensten te levert en te beheren
-- Um dien bestellingen te verwerkke en af te rondslaon
-- Um mit doe te communiceere oet dien bestellingen of vraage
-- Um ós website, producten en diensten te verbeite
-- Um te voldoen aan wettelikke verplichtinge
-- Um ós-re rechten en belange te beskermme
+- Veur 't levere en beheer van onze produkte en diensten
+- Veur 't verwerkke en nakome van dien bestellings
+- Veur 't mit de te kommuniceere over dien bestellings of vraege
+- Veur 't verbeetere van onze website, produkte en diensten
+- Veur 't naleve van wettelijke verplichtinge
+- Veur 't beskermje van onze rechs en belange
 
-## Juridische grondslag veur de verwerking
+## Juridische Grondslag veur verwerkking
 
-We verwerkke dien persoanlike gegevens op basis van de volgende wettelikke grondslage:
+Wie verwerkke dien persöönläke gegevens op basis van de volgende juridisch grondslaege:
 
-- Uitvoering van ‘n contract (waal de verwerking nodig is um ‘n bestelling af te rondslaon)
-- Legitime interese (um ós diensten te verbeite en klantondersteuning te biede)
-- Wettelikke verplichting (um te voldoen aan van toepassing zijnde wetten en reguleasies)
-- Toestemming (as doe ós expliciet ingeroegge höbs um de verwerking toe te staon)
+- Nakome van 'n contract (as verwerkking noedig is veur 't nakome van 'n bestelling)
+- Legitieme belange (veur 't verbeetere van onze diensten en 't veurziene van klanteondersteuning)
+- Wettelijke verplichting (veur 't naleve van gjeldende wetten en regels)
+- Toestemming (waal doe expres akkoor gegevve hebt veur de verwerkking)
 
-## Bewaartermyn veur gegevens
+## Bewaartermijn
 
-We bewaarje dien persoanlike gegevens doar zó lang as nodig is um de doelwies waor ’t verzaameld is te vervölje, inclusief veur ‘t voldoen aan wettelikke, boekhouwerse of raporteringse vereisings.
+Wie bewaare dien persöönläke gegevens alling zo lang as nodig is um de doeln te bereike waarvoor et verzámeld is, insluit in de doeln van 't voldoen aan wettelike, boekhoudkundige of rapportagevereisten.
 
-## Dien rechte
+## Dien Rechs
 
-Ónger de toepasselike gegevensbeschermingwetten höbs doe de volgende rechte:
+Ónger de gjeldende gegevensbeschermingswetten höbs de de volgende rechs:
 
-- 't Recht op inzage in dien persoanlike gegevens
-- 't Recht op corrigeere van onnauwkeurige gegevens
-- 't Recht op wisching ("recht um vergete te weze")
-- 't Recht op beperking van de verwerking
-- 't Recht op gegevensoverdraagbaarheid
-- 't Recht op bezwaar mit de verwerking
-- 't Recht op intrekking van toestemming
-- 't Recht um ‘n klacht in te diene bie ‘n toezichthouder
+- Recht um toegang te kriege tot dien persöönläke gegevens
+- Recht op rectificatie van onjuiste gegevens
+- Recht op wisking ("recht um vergetten te wä")
+- Recht op beperking van verwerkking
+- Recht op gegevensoverdraagbaorheid
+- Recht um bezwaar te make tegen verwerkking
+- Recht um de toestemming in te trekken
+- Recht um 'n klacht in te dienen bie 'ne toezichthoudende autoriteit
 
-Um eel van deze rechte te uitoefene, neem dan contact op mit ós via de details in ’t gedeelte “Contactgegevens.”
+Veur 't uitoefene van ein van deze rechs, kontakt de oons geméens de details in 't gedeelte "Contactinformatie".
 
-## Gegevensveiligheid
+## Gegevensbeveiliging
 
-We implementeere passende technische en organisatorische maatregelen um dien persoanlike gegevens te beskermme tegen ongeautoriseerde of onwettelikke verwerking, accidentele verlies, vernietiging of schade.
+Wie implementeere passende technische en organisatorische maatregelen um dien persöönläke gegevens te beskermje tegen ongeautoriseerde of onwettelijke verwerkking, toevalûs verlies, verwoesting of skade.
 
 ## Internationale Overdrachten
 
-Dien persoanlike gegevens kinne overbragt waere na en verwerkke waere in landen angers dan ’t land woar doe woons. Deze landen kinne gegevensbeschermingswetten höbbe die anders zeen as de wetten van dien eie land.
+Dien persöönläke gegevens kinne verplaatst en verwerkke wääre in landen angoen da geet de sitieëre. Deze landen kinne gegevensbeschermingswetten höbbe die óndersjiiën van de wetten van dien land.
 
-## Veranderinge in dit Bele ed
+## Aandere veur dit beleid
 
-We kinne dit Bele ed veur Gegevensbescherming van tied tot tied update. De geüpdate versie wörd aangedui mit ’n aangepaste “Laaste update” datum en treedt in werking zodra ’t beskikbaor is.
+Wie kinne dit databeschermingsbeleid van tied tot tied updaten. De upgedate versie wör aangedukt mit ein upgedate "Laatst bijgewerkt"-datum en werd effectief zodra et beskikbaor is.
 
-## Contactgegevens
+## Contactinformatie
 
-As doe vraage höbs euver dit Bele ed veur Gegevensbescherming, neem dan contact op mit ós gegevensbeschermingsfunctionaris:
+As de vraege höbs over dit databeschermingsbeleid, kontakt dan ós Data Protection Officer bie:
 
 **HZ KONTEJNERY s.r.o.**  
 Průmyslová 154  
 674 01 Třebíč  
-Tsjechje
+Tsjechië
 
-E-mail: info@confoot.eu  
+Email: info@confoot.eu  
 Telefoon: +420 568 850 850
