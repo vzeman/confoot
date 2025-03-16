@@ -1,7 +1,6 @@
-# Theme Name
+# ConFoot
 
-## Features
+ConFoot is a Hugo theme for [ConFoot](https://confoot.eu).
 
-## Installation
-
-## Configuration
+Website is operated by HZ-Containers.com
+Contact us at [info@hz-containers.com](mailto:info@hz-containers.com)
