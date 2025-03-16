@@ -16,3 +16,68 @@ a, button {
     display: inline-flex !important;
   }
 }
+
+/* Blog post table styles */
+.blog-content table,
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.blog-content table th,
+.blog-content table td,
+.prose table th,
+.prose table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.blog-content table th,
+.prose table th {
+  background-color: #2a5885;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.9rem;
+}
+
+.blog-content table tr:nth-child(even),
+.prose table tr:nth-child(even) {
+  background-color: #f8fafc;
+}
+
+.blog-content table tr:hover,
+.prose table tr:hover {
+  background-color: #f1f5f9;
+}
+
+.blog-content table tr:last-child td,
+.prose table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Responsive table styles */
+@media screen and (max-width: 768px) {
+  .blog-content table,
+  .prose table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    box-shadow: none;
+    border: 1px solid #e2e8f0;
+  }
+  
+  .blog-content table th,
+  .blog-content table td,
+  .prose table th,
+  .prose table td {
+    padding: 8px 10px;
+    font-size: 0.9rem;
+  }
+}
