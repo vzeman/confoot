@@ -22,6 +22,49 @@
       </div>
     </article>
     
+
+        <!-- Products Section -->
+        <section class="mt-16">
+          <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "our_products" | default "ConFoot Products" }}</h2>
+            <div class="products-grid">
+              {{ $productPages := where .Site.RegularPages "Section" "products" }}
+              {{ range first 3 $productPages }}
+                <div class="product-card">
+                  <div class="product-card-image">
+                    <a href="{{ .RelPermalink }}" class="block">
+                      <div class="overflow-hidden">
+                        {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "class" "transition-transform duration-500 hover:scale-105") }}
+                      </div>
+                    </a>
+                  </div>
+                  <div class="product-card-content">
+                    <h2 class="product-card-title">
+                      <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none;" class="hover:text-[#2a5885] transition-colors">{{ .Title }}</a>
+                    </h2>
+                    <h3 class="product-card-subtitle">{{ .Params.subtitle }}</h3>
+                    <div class="product-card-description">
+                      {{ .Params.shortDescription | markdownify }}
+                    </div>
+                    <div class="product-card-price">{{ .Params.price }} ({{ i18n "excl_vat" }})</div>
+                    <div class="product-card-price">{{ .Params.priceVAT }} ({{ i18n "vat_included" }})</div>
+                    <a href="{{ .RelPermalink }}" class="btn btn-primary">{{ i18n "learn_more" | default "Learn More" }}</a>
+                  </div>
+                </div>
+              {{ end }}
+            </div>
+            
+            <div class="text-center mt-10" style="margin-bottom: 2rem;">
+              <a href="{{ "products" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-6 py-3 rounded-md font-bold hover:bg-[#e6d675] transition-colors inline-flex items-center justify-center">
+                {{ i18n "view_all_products" | default "View All Products" }}
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </section>
+        
     <!-- Latest Blog Posts Section -->
     <section class="mt-16 pt-8 rounded-2xl p-8">
       <h2 class="text-2xl font-bold mb-6 text-center">{{ i18n "related_posts" | default "More Blog Posts" }}</h2>
@@ -60,47 +103,7 @@
       </div>
     </section>
     
-    <!-- Products Section -->
-    <section class="mt-16">
-      <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center mb-12">{{ i18n "our_products" | default "ConFoot Products" }}</h2>
-        <div class="products-grid">
-          {{ $productPages := where .Site.RegularPages "Section" "products" }}
-          {{ range first 3 $productPages }}
-            <div class="product-card">
-              <div class="product-card-image">
-                <a href="{{ .RelPermalink }}" class="block">
-                  <div class="overflow-hidden">
-                    {{ partial "lazyimg.html" (dict "src" (.Params.mainImage | relURL) "alt" .Title "class" "transition-transform duration-500 hover:scale-105") }}
-                  </div>
-                </a>
-              </div>
-              <div class="product-card-content">
-                <h2 class="product-card-title">
-                  <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none;" class="hover:text-[#2a5885] transition-colors">{{ .Title }}</a>
-                </h2>
-                <h3 class="product-card-subtitle">{{ .Params.subtitle }}</h3>
-                <div class="product-card-description">
-                  {{ .Params.shortDescription | markdownify }}
-                </div>
-                <div class="product-card-price">{{ .Params.price }} ({{ i18n "excl_vat" }})</div>
-                <div class="product-card-price">{{ .Params.priceVAT }} ({{ i18n "vat_included" }})</div>
-                <a href="{{ .RelPermalink }}" class="btn btn-primary">{{ i18n "learn_more" | default "Learn More" }}</a>
-              </div>
-            </div>
-          {{ end }}
-        </div>
-        
-        <div class="text-center mt-10" style="margin-bottom: 2rem;">
-          <a href="{{ "products" | relLangURL }}" style="background-color: #ffde15; text-decoration: none;" class="text-gray-800 px-6 py-3 rounded-md font-bold hover:bg-[#e6d675] transition-colors inline-flex items-center justify-center">
-            {{ i18n "view_all_products" | default "View All Products" }}
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </a>
-        </div>
-      </div>
-    </section>
+
   </div>
 
   <style>
