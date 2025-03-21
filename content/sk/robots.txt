@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for sk
 Sitemap: https://www.confoot.sk/sitemap.xml

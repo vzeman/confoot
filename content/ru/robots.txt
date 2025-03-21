@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for ru
 Sitemap: https://www.confoot.ru/sitemap.xml

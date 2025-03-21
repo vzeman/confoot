@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for si
 Sitemap: https://www.confoot.si/sitemap.xml

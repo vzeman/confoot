@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for cz
 Sitemap: https://www.confoot.cz/sitemap.xml

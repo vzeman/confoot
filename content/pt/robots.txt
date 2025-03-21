@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for pt
 Sitemap: https://www.confoot.pt/sitemap.xml

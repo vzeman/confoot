@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for eu
 Sitemap: https://www.confoot.eu/sitemap.xml

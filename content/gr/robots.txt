@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for gr
 Sitemap: https://www.confoot.gr/sitemap.xml

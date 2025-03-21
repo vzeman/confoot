@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap for li
 Sitemap: https://www.confoot.li/sitemap.xml
