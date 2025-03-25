@@ -18,8 +18,8 @@ specifications:
     value: "0–1,500 mm"
   - name: "Materiál"
     value: "Vysoce kvalitní ocel"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "159.500 Kč"
+priceVAT: "192.995 Kč"
 pricingNotes: "Dostupné slevy při větších objemech. Kontaktujte nás pro individuální nabídky."
 buyLink: "/contact"
 howToUse: |

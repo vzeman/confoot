@@ -18,8 +18,8 @@ specifications:
     value: "0–1,500 mm"
   - name: "Materijal"
     value: "Visokokvalitetni čelik"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "6.300 EUR"
+priceVAT: "7.623 EUR"
 pricingNotes: "Dostupni popusti na količinu. Kontaktirajte nas za prilagođene ponude."
 buyLink: "/contact"
 howToUse: |

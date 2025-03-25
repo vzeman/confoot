@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm a 1,448 mm"
   - name: "Material"
     value: "Acero de alta calidad"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Descuentos por volumen disponibles. Contacte con nosotros para más detalles."
 buyLink: "/contact"
 howToUse: |

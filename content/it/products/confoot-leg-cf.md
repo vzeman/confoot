@@ -18,8 +18,8 @@ specifications:
     value: "Da 1.043 mm a 1.448 mm"
   - name: "Materiale"
     value: "Acciaio di alta qualità"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Sconti volume disponibili. Contattaci per maggiori dettagli."
 buyLink: "/contact"
 howToUse: |

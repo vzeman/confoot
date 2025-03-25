@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm až 1,448 mm"
   - name: "Materiál"
     value: "Vysoko kvalitná oceľ"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Dostupné množstevné zľavy. Pre viac informácií kontaktujte náš predajný tím."
 buyLink: "/contact"
 howToUse: |

@@ -18,8 +18,8 @@ specifications:
     value: "1.043 mm bis 1.448 mm"
   - name: "Material"
     value: "Hochwertiger Stahl"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Mengenrabatte verfügbar. Bitte kontaktieren Sie unser Verkaufsteam für Details."
 buyLink: "/contact"
 howToUse: |

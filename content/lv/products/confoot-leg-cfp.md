@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm līdz 1,448 mm"
   - name: "Materiāls"
     value: "Augstas kvalitātes tērauds"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Pieejamas daudzlīmeņu atlaides. Lai iegūtu sīkāku informāciju, sazinieties ar mūsu pārdošanas komandu."
 buyLink: "/contact"
 howToUse: |

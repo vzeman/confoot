@@ -18,8 +18,8 @@ specifications:
     value: "1.043 mm până la 1.448 mm"
   - name: "Material"
     value: "Oțel de înaltă calitate"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Reduceri pentru volume disponibile. Contactați-ne pentru detalii."
 buyLink: "/contact"
 howToUse: |

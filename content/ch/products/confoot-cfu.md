@@ -18,8 +18,8 @@ specifications:
     value: "0–1'500 mm"
   - name: "Material"
     value: "Hochwertiger Stah"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "6.300 EUR"
+priceVAT: "7.623 EUR"
 pricingNotes: "Mengendiscount verfiegbar. Nimm Kontakt uf für individueelli Offerte."
 buyLink: "/contact"
 howToUse: |

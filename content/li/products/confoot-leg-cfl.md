@@ -18,8 +18,8 @@ specifications:
     value: "1.043 mm tot 1.448 mm"
   - name: "Materiaal"
     value: "Hoagdraod staal"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Hoeveelheidskorting besjt beschikbaar. Kon tact opnemme veur details."
 buyLink: "/contact"
 howToUse: |

@@ -18,8 +18,8 @@ specifications:
     value: "0–1,500 mm"
   - name: "Anyag"
     value: "Kiváló minőségű acél"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "6.300 EUR"
+priceVAT: "7.623 EUR"
 pricingNotes: "Mennyiségi kedvezmények elérhetők. Lépjen kapcsolatba velünk egyedi árajánlatért."
 buyLink: "/contact"
 howToUse: |

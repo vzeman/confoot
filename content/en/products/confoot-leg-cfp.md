@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm to 1,448 mm"
   - name: "Material"
     value: "High-grade steel"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Volume discounts available. Contact our sales team for details."
 buyLink: "/contact"
 howToUse: |

@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm iki 1,448 mm"
   - name: "Medžiaga"
     value: "Aukštos kokybės plienas"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Galimi kiekio nuolaidos. Kreipkitės į mūsų pardavimų komandą dėl išsamesnės informacijos."
 buyLink: "/contact"
 howToUse: |

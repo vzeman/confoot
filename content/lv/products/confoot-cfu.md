@@ -18,8 +18,8 @@ specifications:
     value: "0–1500 mm"
   - name: "Materials"
     value: "Augstas kvalitātes tērauds"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "6.300 EUR"
+priceVAT: "7.623 EUR"
 pricingNotes: "Pieejamas apjoma atlaides. Sazinieties ar mums individuālo piedāvājumu saņemšanai."
 buyLink: "/contact"
 howToUse: |

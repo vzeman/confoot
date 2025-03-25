@@ -18,8 +18,8 @@ specifications:
     value: "от 1 043 мм до 1 448 мм"
   - name: "Материал"
     value: "Высококачественная сталь"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Доступны скидки при больших объемах. Обратитесь в наш отдел продаж для получения подробной информации."
 buyLink: "/contact"
 howToUse: |

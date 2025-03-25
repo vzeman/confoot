@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm bis 1,448 mm"
   - name: "Material"
     value: "Hochwäerte Schtahl"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Mengenrabatte verfügbar. Nimm Kontakt ufe für Detail."
 buyLink: "/contact"
 howToUse: |

@@ -18,8 +18,8 @@ specifications:
     value: "1.043 mm tot 1.448 mm"
   - name: "Materiaal"
     value: "Hoogwaardige staal"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Volume-korting beskikbaor. Neem contact op veur details."
 buyLink: "/contact"
 howToUse: |

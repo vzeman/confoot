@@ -18,8 +18,8 @@ specifications:
     value: "0–1 500 mm"
   - name: "Materiál"
     value: "Oceľ vysokej kvality"
-price: "6.350 EUR"
-priceVAT: "7.684 EUR"
+price: "6.300 EUR"
+priceVAT: "7.623 EUR"
 pricingNotes: "Objemové zľavy k dispozícii. Kontaktujte nás pre individuálne cenové ponuky."
 buyLink: "/contact"
 howToUse: |

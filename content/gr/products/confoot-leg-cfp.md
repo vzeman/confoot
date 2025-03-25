@@ -18,8 +18,8 @@ specifications:
     value: "1,043 mm έως 1,448 mm"
   - name: "Υλικό"
     value: "Ατσάλι υψηλής ποιότητας"
-price: "3.600 EUR"
-priceVAT: "4.356 EUR"
+price: "3.500 EUR"
+priceVAT: "4.235 EUR"
 pricingNotes: "Διατίθενται εκπτώσεις για μεγάλες παραγγελίες. Επικοινωνήστε με την ομάδα πωλήσεών μας για λεπτομέρειες."
 buyLink: "/contact"
 howToUse: |
