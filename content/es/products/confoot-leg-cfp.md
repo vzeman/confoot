@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP está diseñado para muelles de carga, permitiendo asegurar el contenedor al muelle mientras se abren completamente las puertas contra los laterales."
 technicalDescription: "El modelo CFP permite cargar productos directamente desde la producción dentro del contenedor sin almacenamiento intermedio, y no se requiere ningún otro equipo de manipulación de contenedores."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "¿Qué es ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP está diseñado para muelles de carga, permitiendo que el contenedor se asegure al muelle mientras las puertas se abren completamente contra los lados.
+  - question: "¿Cómo funciona ConFoot-leg CFP?"
+    answer: |
+      El ConFoot-leg CFP asegura el contenedor al muelle, permitiendo una carga y descarga sin interrupciones directamente desde la producción. Este modelo elimina la necesidad de equipos adicionales de manipulación de contenedores, optimizando el proceso logístico.
 specifications:
   - name: "Peso"
     value: "24 kg por pata"

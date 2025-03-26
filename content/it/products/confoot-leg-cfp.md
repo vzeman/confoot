@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP è progettato per le banchine di carico, permettendo al container di essere fissato alla banchina mentre consente alle porte di aprirsi completamente lateralmente."
 technicalDescription: "Il modello CFP permette di caricare i prodotti direttamente dalla produzione nel container senza necessità di stoccaggio intermedio, e non è necessario utilizzare ulteriori attrezzature di movimentazione del container."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Che cos'è il ConFoot-leg CFP?"
+    answer: |
+      Il ConFoot-leg CFP è progettato per le banchine di carico, consentendo al container di essere fissato alla banchina mentre le porte possono aprirsi completamente contro i lati.
+  - question: "Come funziona il ConFoot-leg CFP?"
+    answer: |
+      Il ConFoot-leg CFP fissa il container alla banchina di carico, permettendo un carico e scarico senza interruzioni direttamente dalla produzione. Questo modello elimina la necessità di ulteriori attrezzature per la movimentazione dei container, ottimizzando il processo logistico.
 specifications:
   - name: "Peso"
     value: "24 kg per piede"

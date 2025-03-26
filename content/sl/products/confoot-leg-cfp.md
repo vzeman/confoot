@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP je zasnovan za nakladne prostore, kar omogoča pritrditev kontejnerja na pristanišče, hkrati pa omogoča popolno odpiranje vrat ob straneh."
 technicalDescription: "Model CFP omogoča, da se izdelki naložijo neposredno iz proizvodnje v kontejner brez vmesnega skladiščenja, brez potrebe po drugi opremi za rokovanje s kontejnerji."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Kaj je ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP je zasnovan za nakladalne rampe, omogoča varno pritrditev zabojnika na rampo, medtem ko se vrata lahko popolnoma odprejo ob straneh.
+  - question: "Kako deluje ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP varno pritrdi zabojnik na nakladalno rampo, omogoča nemoteno nakladanje in razkladanje neposredno iz proizvodnje. Ta model odpravlja potrebo po dodatni opremi za ravnanje z zabojniki, optimizira logistični proces.
 specifications:
   - name: "Teža"
     value: "24 kg na nogo"

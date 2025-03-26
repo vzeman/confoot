@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP este proiectat pentru docuri de încărcare, permițând containerului să fie fixat la andoc și ușilor să se deschidă complet pe laterale."
 technicalDescription: "Modelul CFP permite încărcarea produselor direct din producție în container, fără depozitare intermediară, iar nicio altă echipare pentru manipularea containerelor nu este necesară."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Ce este ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP este proiectat pentru docurile de încărcare, permițând containerului să fie fixat la doc în timp ce ușile se pot deschide complet spre laterale.
+  - question: "Cum funcționează ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP fixează containerul la docul de încărcare, permițând încărcarea și descărcarea neîntreruptă direct din producție. Acest model elimină necesitatea echipamentelor suplimentare de manipulare a containerelor, optimizând procesul logistic.
 specifications:
   - name: "Greutate"
     value: "24 kg per picior"

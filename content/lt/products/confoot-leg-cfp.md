@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP sukurtas krovimo zonoms, leidžiantis konteineriui būti pritvirtintam prie doko ir suteikiantis galimybę durims visiškai atsidaryti šonais."
 technicalDescription: "CFP modelis leidžia produktus krauti tiesiogiai iš gamybos į konteinerį be tarpinio saugojimo, nereikalaujant jokios kitos konteinerių tvarkymo įrangos."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Kas yra ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP yra skirtas krovimo rampoms, leidžiantis saugiai pritvirtinti konteinerį prie rampos, tuo pačiu leidžiant durims pilnai atsidaryti į šonus.
+  - question: "Kaip veikia ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP saugiai pritvirtina konteinerį prie krovimo rampos, leidžiant sklandžiai pakrauti ir iškrauti tiesiai iš gamybos. Šis modelis pašalina papildomos konteinerių tvarkymo įrangos poreikį, optimizuodamas logistikos procesą.
 specifications:
   - name: "Svoris"
     value: "24 kg už atramą"

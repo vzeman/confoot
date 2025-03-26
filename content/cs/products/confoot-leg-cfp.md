@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP je navržen pro nakládací rampy, umožňuje bezpečné upevnění kontejneru k rampě a současně umožňuje, aby se dveře plně otevřely do stran."
 technicalDescription: "Model CFP umožňuje nakládání produktů přímo z výroby do kontejneru bez nutnosti meziskladování, a není potřeba žádné další zařízení pro manipulaci s kontejnery."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Co je ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP je navržen pro nakládací rampy, umožňuje bezpečné upevnění kontejneru k rampě a zároveň úplné otevření dveří do stran.
+  - question: "Jak funguje ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP zajišťuje kontejner k nakládací rampě a umožňuje plynulé nakládání a vykládání přímo z výroby. Tento model eliminuje potřebu dalšího manipulačního zařízení a optimalizuje logistický proces.
 specifications:
   - name: "Hmotnost"
     value: "24 kg na nohu"

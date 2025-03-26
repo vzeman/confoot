@@ -9,6 +9,13 @@ gallery:
 shortDescription: "A ConFoot-leg CFP rakodó dokkokhoz készült, lehetővé téve, hogy a konténer biztonságosan rögzíthető legyen a dokknál, miközben az ajtók teljesen kinyithatók az oldaluk mentén."
 technicalDescription: "A CFP modell lehetővé teszi, hogy a termékek közvetlenül a gyártásból tölthetők be a konténerbe köztes tárolás nélkül, és további konténerkezelő berendezésre nincs szükség."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Mi a ConFoot-leg CFP?"
+    answer: |
+      A ConFoot-leg CFP rakodórámpákhoz lett tervezve, lehetővé téve a konténer biztonságos rögzítését a rámpához, miközben az ajtók teljesen kinyithatók az oldalak felé.
+  - question: "Hogyan működik a ConFoot-leg CFP?"
+    answer: |
+      A ConFoot-leg CFP biztonságosan rögzíti a konténert a rakodórámpához, lehetővé téve a zökkenőmentes be- és kirakodást közvetlenül a gyártásból. Ez a modell kiküszöböli a további konténerkezelő berendezések szükségességét, optimalizálva a logisztikai folyamatot.
 specifications:
   - name: "Súly"
     value: "24 kg lábanként"

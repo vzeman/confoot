@@ -9,6 +9,13 @@ gallery:
 shortDescription: "O ConFoot-leg CFP foi projetado para docas de carga, permitindo que o contentor seja fixado à doca enquanto possibilita que as portas se abram completamente para os lados."
 technicalDescription: "O modelo CFP permite que os produtos sejam carregados diretamente da produção para o contentor sem armazenamento intermediário, não sendo necessário nenhum outro equipamento de manuseio de contentores."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "O que é o ConFoot-leg CFP?"
+    answer: |
+      O ConFoot-leg CFP é projetado para docas de carregamento, permitindo que o contêiner seja fixado à doca enquanto as portas podem ser totalmente abertas contra as laterais.
+  - question: "Como funciona o ConFoot-leg CFP?"
+    answer: |
+      O ConFoot-leg CFP fixa o contêiner à doca de carregamento, permitindo carregamento e descarregamento sem interrupções diretamente da produção. Este modelo elimina a necessidade de equipamentos adicionais de manipulação de contêineres, otimizando o processo logístico.
 specifications:
   - name: "Peso"
     value: "24 kg por pé"

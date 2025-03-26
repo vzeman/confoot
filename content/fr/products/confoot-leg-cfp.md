@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP est conçu pour les quais de chargement, permettant de fixer le conteneur au quai tout en autorisant l'ouverture complète des portes sur les côtés."
 technicalDescription: "Le modèle CFP permet de charger directement les produits depuis la production dans le conteneur sans stockage intermédiaire, et aucun autre équipement de manutention de conteneurs n'est nécessaire."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Qu'est-ce que le ConFoot-leg CFP ?"
+    answer: |
+      Le ConFoot-leg CFP est conçu pour les quais de chargement, permettant au conteneur d'être fixé au quai tout en permettant aux portes de s'ouvrir complètement contre les côtés.
+  - question: "Comment fonctionne le ConFoot-leg CFP ?"
+    answer: |
+      Le ConFoot-leg CFP fixe le conteneur au quai, permettant un chargement et un déchargement sans interruption directement depuis la production. Ce modèle élimine le besoin d'équipements supplémentaires de manutention des conteneurs, optimisant ainsi le processus logistique.
 specifications:
   - name: "Poids"
     value: "24 kg par jambe"

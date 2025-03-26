@@ -9,6 +9,13 @@ gallery:
 shortDescription: "De ConFoot-leg CFP is oetgezaod veur laodingsbakke, det de container vast gemaak kin waere aon 't pier terwiele det de deure volstóndig opengae ónger de zije."
 technicalDescription: "t CFP-model maak et meugelik de producte direkts van de productie in 't container te laode, zónder tussentijdse opslach, en gein aandrao containerbehandelingsmaterieel is nodig."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Was ist der ConFoot-leg CFP?"
+    answer: |
+      Der ConFoot-leg CFP ist für Laderampen konzipiert und ermöglicht es, den Container sicher an der Rampe zu befestigen, während die Türen vollständig an den Seiten geöffnet werden können.
+  - question: "Wie funktioniert der ConFoot-leg CFP?"
+    answer: |
+      Der ConFoot-leg CFP sichert den Container an der Laderampe und ermöglicht ein nahtloses Be- und Entladen direkt aus der Produktion. Dieses Modell macht zusätzliche Containerhandhabungsgeräte überflüssig und optimiert den Logistikprozess.
 specifications:
   - name: "Gewicht"
     value: "24 kg per poot"
@@ -51,7 +58,7 @@ articleContent: |
 
   De ConFoot-leg CFP biedt bellangrijke operationele voordeile veur bedrieven det geregeld transportcontainers laode en lossn. Door de containers direkts vast te make aon 't laodebakpier kinse de trailers vrieë veur aandrao taken, dien vloot optimaal benutte en wachttijden verminde. Producte kinne direkts vaan de productie in de container gelóade wääre, det dien logistieke proses vereenvoudigt en handlingkosten verlaagt.
 
-  Euverigens kinne containers mit CFP-poten as flexibele extra opslachruimte gebroek waere es ze neet in transito zien. Se blieve altied klaor óm verplaatst te waere – geit gewoan ne trailer ónder de container in, en de reis gaat voort zónder tussentijdse hanteerstappen. Deze veelzijdigheid mak de CFP 'n ideale oplossing veur bedrieven det de effiëntheid van hun laodebak en opslachcapaciteit willen vermeerderen.
+  Euverigens kinne containers mit CFP-poten as flexibele extra opslachruimte gebroek waere es ze neot in transito zien. Se blieve altied klaor óm verplaatst te waere – geit gewoan ne trailer ónder de container in, en de reis gaat voort zónder tussentijdse hanteerstappen. Deze veelzijdigheid mak de CFP 'n ideale oplossing veur bedrieven det de effiëntheid van hun laodebak en opslachcapaciteit willen vermeerderen.
 
   ## Hoe 't Wèrkt
 

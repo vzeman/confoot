@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP dizajniran je za utovne prostore, omogućujući da se kontejner osigura uz dok pri čemu se vrata potpuno otvaraju prema stranama."
 technicalDescription: "CFP model omogućava da se proizvodi učitaju izravno iz proizvodnje u kontejner bez međuskladištenja, te nije potrebna nikakva dodatna oprema za rukovanje kontejnerima."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Što je ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP je dizajniran za utovarnu rampu, omogućujući kontejneru da bude sigurno pričvršćen na rampu dok se vrata mogu potpuno otvoriti prema stranama.
+  - question: "Kako radi ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP osigurava kontejner na utovarnoj rampi, omogućujući neometano utovarivanje i istovarivanje izravno iz proizvodnje. Ovaj model eliminira potrebu za dodatnom opremom za rukovanje kontejnerima, optimizirajući logistički proces.
 specifications:
   - name: "Težina"
     value: "24 kg po nozi"

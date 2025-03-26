@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP ir izstrādāts uzlādes zonām, ļaujot konteineram tikt nostiprinātam pie doka, vienlaikus nodrošinot, ka durvis var pilnībā atvērties pret sāniem."
 technicalDescription: "CFP modelis ļauj produktus ielādēt tieši no ražošanas konteinerā, bez starpreglabāšanas, un nav nepieciešama cita konteineru apstrādes iekārta."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Kas ir ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP ir paredzēts iekraušanas rampām, ļaujot konteineru droši nostiprināt pie rampas, vienlaikus ļaujot durvīm pilnībā atvērties pret sāniem.
+  - question: "Kā darbojas ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP droši nostiprina konteineru pie iekraušanas rampas, nodrošinot netraucētu iekraušanu un izkraušanu tieši no ražošanas. Šis modelis novērš nepieciešamību pēc papildu konteineru apstrādes aprīkojuma, optimizējot loģistikas procesu.
 specifications:
   - name: "Svars"
     value: "24 kg par kāju"

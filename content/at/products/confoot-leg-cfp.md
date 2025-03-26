@@ -9,6 +9,13 @@ gallery:
 shortDescription: "Der ConFoot-leg CFP ist speziell für Ladebuchten konzipiert und ermöglicht es, den Container am Dock zu sichern, während die Türen vollständig seitlich geöffnet werden können."
 technicalDescription: "Das CFP-Modell erlaubt das direkte Beladen des Containers aus der Produktion ohne Zwischenlagerung – ganz ohne zusätzlich benötigte Container-Handhabungsgeräte."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "Was ist ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP ist für Laderampen konzipiert und ermöglicht es, den Container sicher an der Rampe zu befestigen, während die Türen vollständig an den Seiten geöffnet werden können.
+  - question: "Wie funktioniert ConFoot-leg CFP?"
+    answer: |
+      Der ConFoot-leg CFP sichert den Container an der Laderampe und ermöglicht ein nahtloses Be- und Entladen direkt aus der Produktion. Dieses Modell macht zusätzliche Containerhandhabungsgeräte überflüssig und optimiert den Logistikprozess.
 specifications:
   - name: "Gewicht"
     value: "24 kg pro Bein"
