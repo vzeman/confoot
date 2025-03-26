@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL je dizajniran posebno za okvirne kontejnere, savršeno pristajući na okvire kako bi se omogućila upotreba kontejnera kao spremišta za tekućine i druge materijale."
 technicalDescription: "Model CFL izrađen je za sferne kontejnere koji se koriste za transport tekućina koje zahtijevaju izdržljivost visokog tlaka, budući da sferni oblik najbolje podnosi tlak, ali zahtijeva okvire oko sebe kako bi bio transportabilan."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Što je ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL je dizajniran posebno za okvirne kontejnere, savršeno pristajući na okvire kako bi se omogućila upotreba kontejnera kao spremišta za tekućine i druge materijale.
+  - question: "Kako funkcionira ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL se sigurno prilagođava okvirima sfernih kontejnera, pružajući stabilnu podršku dok omogućuje korištenje kontejnera kao spremišta tekućina pod visokim tlakom. Noge su dizajnirane da izdrže tlak i pruže stabilnu osnovu za transport.
 specifications:
   - name: "Težina"
     value: "24 kg po nozi"

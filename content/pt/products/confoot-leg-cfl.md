@@ -9,6 +9,13 @@ gallery:
 shortDescription: "O ConFoot-leg CFL foi projetado especificamente para contêineres com estrutura, adaptando-se perfeitamente às armações para permitir que os contêineres sejam usados como reservatórios para líquidos e outros materiais."
 technicalDescription: "O modelo CFL é desenvolvido para contêineres esféricos utilizados no transporte de líquidos que exigem alta resistência à pressão, já que a forma esférica suporta a pressão de maneira ideal, mas precisa de armações ao redor para ser transportável."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "O que é o ConFoot-leg CFL?"
+    answer: |
+      O ConFoot-leg CFL foi projetado especificamente para contêineres com estrutura, adaptando-se perfeitamente às armações para permitir que os contêineres sejam usados como reservatórios para líquidos e outros materiais.
+  - question: "Como funciona o ConFoot-leg CFL?"
+    answer: |
+      O ConFoot-leg CFL adapta-se com segurança às armações dos contêineres esféricos, fornecendo um suporte estável enquanto permite que o contêiner seja usado como reservatório para líquidos sob alta pressão. As pernas são projetadas para suportar a pressão e proporcionar uma base estável para o transporte.
 specifications:
   - name: "Peso"
     value: "24 kg por pé"

@@ -7,8 +7,15 @@ gallery:
   - "/images/products/confoot-leg-cfl-2.jpg"
   - "/images/products/confoot-leg-cfl-3.jpg"
 shortDescription: "ConFoot-leg CFL este proiectat special pentru containerele cu cadru, adaptându-se perfect la cadre pentru a permite folosirea containerelor ca spații de depozitare pentru lichide și alte materiale."
-technicalDescription: "Modelul CFL este conceput pentru containere sferice utilizate la transportul lichidelor ce necesită rezistența la presiuni ridicate, întrucât forma sferică distribuie cel mai bine presiunea, dar necesită cadre de susținere pentru a putea fi transportate."
+technicalDescription: "Modelul CFL este conceput pentru containere sferice utilizate la transportul lichidelor ce necesită rezistență la presiuni ridicate, întrucât forma sferică distribuie cel mai bine presiunea, dar necesită cadre de susținere pentru a putea fi transportate."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Ce este ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL este proiectat special pentru containerele cu cadru, adaptându-se perfect la cadre, astfel încât containerele să poată fi folosite ca spații de depozitare pentru lichide și alte materiale.
+  - question: "Cum funcționează ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL se adaptează în mod sigur la cadrele containerelor sferice, oferind un suport stabil și permițând folosirea containerului ca rezervor pentru lichide sub presiune ridicată. Picioarele sunt proiectate pentru a rezista la presiune și a asigura o bază stabilă pentru transport.
 specifications:
   - name: "Greutate"
     value: "24 kg per picior"

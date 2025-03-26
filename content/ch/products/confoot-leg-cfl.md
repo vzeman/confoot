@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL isch speziell gmacht fir rahmti Container – es passt exakt in d'Rahm, sodass d'Container als Lagerbehälter für Flüssigkeite und anderi Material bruucht werde chönne."
 technicalDescription: "S CFL-Modell isch uf sferischi Container usgerichtet, wo für de Transport vo Flüssigkeite, wo en hohe Druckaushaltig sueched, verwendet werde. D'sferischi Form tragt de Druck am beschte, aber drum brauche si en Rahm, damit si transportabel sind."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Was isch de ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL isch speziell gmacht fir rahmti Container – es passt exakt in d'Rahm, sodass d'Container als Lagerbehälter für Flüssigkeite und anderi Material bruucht werde chönne.
+  - question: "Wie funktioniert de ConFoot-leg CFL?"
+    answer: |
+      De ConFoot-leg CFL passt sicher in de Rahm vo sferischi Container und bietet stabili Halt, während er als Hochdruck-Flüssigkeitsspeicher bruucht wird. D'Chstöck sind so konstruiert, dass si de Druck aushalte und e stabili Basis für de Transport biete.
 specifications:
   - name: "Gewicht"
     value: "24 kg pro Chstock"

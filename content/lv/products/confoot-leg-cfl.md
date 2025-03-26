@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL ir izstrādāts īpaši ietvertiem konteineriem, precīzi pielāgojoties ietvariem, lai konteineri varētu tikt izmantoti kā uzglabāšanas konteineri šķidrumiem un citiem materiāliem."
 technicalDescription: "CFL modelis ir inženieriski izstrādāts sfēriskajiem konteineriem, kas tiek izmantoti šķidrumu pārvadāšanai un kuru darbība pie augsta spiediena prasa ietvarus, jo sfēriskā forma vislabāk iztur spiedienu, taču, lai to būtu iespējams pārvadāt, nepieciešami papildus ietvari."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Kas ir ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL ir izstrādāts īpaši ietvertiem konteineriem, precīzi pielāgojoties ietvariem, lai konteineri varētu tikt izmantoti kā uzglabāšanas konteineri šķidrumiem un citiem materiāliem.
+  - question: "Kā darbojas ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL droši pielāgojas sfērisku konteineru ietvariem, nodrošinot stabilu atbalstu, vienlaikus ļaujot konteineram izmantot kā augsta spiediena šķidrumu uzglabāšanas vienību. Kājas ir izstrādātas, lai izturētu spiedienu un nodrošinātu stabilu pamatu transportēšanai.
 specifications:
   - name: "Svars"
     value: "24 kg katrai kājai"

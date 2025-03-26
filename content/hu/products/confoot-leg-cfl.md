@@ -9,6 +9,13 @@ gallery:
 shortDescription: "A ConFoot-leg CFL kifejezetten keretezett konténerekhez készült, tökéletesen illeszkedve a keretekhez, így lehetővé teszi, hogy a konténereket folyadékok és egyéb anyagok tárolására használják."
 technicalDescription: "A CFL modellt olyan gömb alakú konténerekhez tervezték, amelyeket olyan folyadékok szállítására használnak, melyek nagy nyomásállóságot igényelnek, mivel a gömb alak a legjobban viseli a nyomást, de a szállíthatóság érdekében keretek szükségesek körülötte."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Mi a ConFoot-leg CFL?"
+    answer: |
+      A ConFoot-leg CFL kifejezetten keretezett konténerekhez készült, tökéletesen illeszkedve a keretekhez, így lehetővé teszi, hogy a konténereket folyadékok és egyéb anyagok tárolására használják.
+  - question: "Hogyan működik a ConFoot-leg CFL?"
+    answer: |
+      A ConFoot-leg CFL biztonságosan illeszkedik a gömb alakú konténerek kereteihez, stabil támaszt nyújtva, miközben lehetővé teszi a konténer használatát magas nyomású folyadéktárolóként. A lábak úgy vannak kialakítva, hogy ellenálljanak a nyomásnak és stabil alapot biztosítsanak a szállításhoz.
 specifications:
   - name: "Súly"
     value: "lábanként 24 kg"

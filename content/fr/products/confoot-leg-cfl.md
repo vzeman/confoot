@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL est conçu spécifiquement pour les conteneurs encadrés, s'adaptant parfaitement aux cadres afin de permettre l'utilisation des conteneurs comme réservoirs de stockage pour des liquides et d'autres matériaux."
 technicalDescription: "Le modèle CFL est conçu pour des conteneurs sphériques utilisés pour le transport de liquides nécessitant une résistance à haute pression, car la forme sphérique supporte la pression de manière optimale tout en nécessitant des cadres environnants pour être transportable."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Qu'est-ce que le ConFoot-leg CFL ?"
+    answer: |
+      Le ConFoot-leg CFL est conçu spécifiquement pour les conteneurs encadrés, s'adaptant parfaitement aux cadres afin de permettre l'utilisation des conteneurs comme réservoirs de stockage pour des liquides et d'autres matériaux.
+  - question: "Comment fonctionne le ConFoot-leg CFL ?"
+    answer: |
+      Le ConFoot-leg CFL s'adapte en toute sécurité aux cadres des conteneurs sphériques, offrant un support stable tout en permettant l'utilisation du conteneur comme réservoir de stockage de liquides sous haute pression. Les pieds sont conçus pour supporter la pression et fournir une base stable pour le transport.
 specifications:
   - name: "Poids"
     value: "24 kg par pied"

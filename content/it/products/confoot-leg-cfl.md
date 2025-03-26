@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL è progettato specificamente per container con telaio, adattandosi perfettamente ai telai per consentire che i container possano essere usati come contenitori per il deposito di liquidi e altri materiali."
 technicalDescription: "Il modello CFL è ingegnerizzato per container sferici utilizzati per il trasporto di liquidi che richiedono un’elevata resistenza alla pressione, poiché la forma sferica distribuisce al meglio la pressione ma necessita di telai intorno per essere trasportabile."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Che cos'è il ConFoot-leg CFL?"
+    answer: |
+      Il ConFoot-leg CFL è progettato specificamente per container con telaio, adattandosi perfettamente ai telai per consentire che i container possano essere usati come contenitori per il deposito di liquidi e altri materiali.
+  - question: "Come funziona il ConFoot-leg CFL?"
+    answer: |
+      Il ConFoot-leg CFL si adatta in modo sicuro ai telai dei container sferici, fornendo un supporto stabile mentre consente l'uso del container come serbatoio di liquidi ad alta pressione. Le gambe sono progettate per resistere alla pressione e fornire una base stabile per il trasporto.
 specifications:
   - name: "Peso"
     value: "24 kg per gamba"

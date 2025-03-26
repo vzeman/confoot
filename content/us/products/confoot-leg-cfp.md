@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFP is designed for loading docks, enabling the container to be secured to the dock while allowing the doors to open fully against the sides."
 technicalDescription: "The CFP model allows products to be loaded directly from production into the container without intermediate storage, and no other container handling equipment is needed."
 videoID: "da7h7VgJHgs"
+faq:
+  - question: "What is ConFoot-leg CFP?"
+    answer: |
+      ConFoot-leg CFP is designed for loading docks, enabling the container to be secured to the dock while allowing the doors to open fully against the sides.
+  - question: "How does ConFoot-leg CFP work?"
+    answer: |
+      The ConFoot-leg CFP secures the container to the dock, allowing for seamless loading and unloading directly from production. This model eliminates the need for additional container handling equipment, streamlining the logistics process.
 specifications:
   - name: "Weight"
     value: "24 kg per leg"

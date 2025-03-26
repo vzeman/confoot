@@ -9,6 +9,13 @@ gallery:
 shortDescription: "Der ConFoot-leg CFL ist speziell für gerahmte Container entwickelt worden und passt perfekt zu deren Rahmen, sodass Container als Lagerbehälter für Flüssigkeiten und andere Materialien genutzt werden können."
 technicalDescription: "Das CFL-Modell wurde speziell für kugelförmige Container konstruiert, die für den Transport von Flüssigkeiten mit hoher Druckfestigkeit eingesetzt werden. Da die kugelförmige Gestalt den Druck optimal verteilt, benötigen diese Container jedoch einen Rahmen, um transportfähig zu sein."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Was ist der ConFoot-leg CFL?"
+    answer: |
+      Der ConFoot-leg CFL ist speziell für gerahmte Container entwickelt worden und passt perfekt zu deren Rahmen, sodass Container als Lagerbehälter für Flüssigkeiten und andere Materialien genutzt werden können.
+  - question: "Wie funktioniert der ConFoot-leg CFL?"
+    answer: |
+      Der ConFoot-leg CFL passt sicher in den Rahmen von kugelförmigen Containern und bietet stabilen Halt, während er als Hochdruck-Flüssigkeitsspeicher genutzt wird. Die Beine sind so konstruiert, dass sie den Druck aushalten und eine stabile Basis für den Transport bieten.
 specifications:
   - name: "Gewicht"
     value: "24 kg pro Bein"

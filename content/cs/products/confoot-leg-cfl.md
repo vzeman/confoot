@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL je navržena speciálně pro rámové kontejnery, dokonale se přizpůsobí rámům, což umožňuje využití kontejnerů jako skladů pro kapaliny a další materiály."
 technicalDescription: "Model CFL je navržen pro sférické kontejnery, které se používají k přepravě kapalin vyžadujících odolnost vůči vysokému tlaku, jelikož sférický tvar tlak nejlépe rozkládá, ale vyžaduje okolní rámy, aby byl kontejner přepravitelný."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Co je ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL je navržena speciálně pro rámové kontejnery, dokonale se přizpůsobí rámům, což umožňuje využití kontejnerů jako skladů pro kapaliny a další materiály.
+  - question: "Jak funguje ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL se bezpečně přizpůsobí rámům sférických kontejnerů, poskytuje stabilní podporu a umožňuje využití kontejneru jako vysokotlakého úložiště kapalin. Nohy jsou navrženy tak, aby vydržely tlak a poskytovaly stabilní základnu pro přepravu.
 specifications:
   - name: "Hmotnost"
     value: "24 kg za nohu"

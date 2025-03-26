@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL yra specialiai sukurtas rėminiams konteineriams; jis puikiai tinka rėmams, leidžiant konteineriams būti naudojami kaip saugyklos skysčiams ir kitoms medžiagoms."
 technicalDescription: "CFL modelis yra suprojektuotas sferiniams konteineriams, naudojamiems pervežti skysčius, kuriems reikia didelio slėgio atsparumo, nes sferinė forma geriausiai paskirsto slėgį, tačiau tam, kad būtų galima juos transportuoti, būtina juos aprėpti rėmų sistema."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Kas yra ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL yra specialiai sukurtas rėminiams konteineriams; jis puikiai dera su rėmais, leidžiant konteineriams būti naudojamiems kaip saugyklos skysčiams ir kitoms medžiagoms.
+  - question: "Kaip veikia ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL saugiai prisitaiko prie sferinių konteinerių rėmų, suteikdamas stabilų palaikymą ir leidžiančias konteineriams būti naudojamiems kaip aukšto slėgio skysčių indai. Kojos yra suprojektuotos atlaikyti spaudimą ir užtikrinti stabilų pagrindą transportavimui.
 specifications:
   - name: "Svoris"
     value: "24 kg už koją"
