@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CFL is designed specifically for framed containers, fitting the frames perfectly to allow containers to be used as storage containers for liquids and other materials."
 technicalDescription: "The CFL model is engineered for spherical containers that are used for transporting liquids requiring endurance of high pressure, as the spheric form carries the pressure best but needs frames around it to be transportable."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "What is ConFoot-leg CFL?"
+    answer: |
+      ConFoot-leg CFL is a specialized container leg solution designed specifically for framed containers. Unlike standard shipping containers, spherical containers used for transporting liquids requiring high pressure endurance need frames around them to be transportable, as the spheric form carries the pressure best. The CFL model is engineered to fit these frames perfectly, allowing these specialized containers to be used as storage containers for liquids and other materials that require pressure resistance.
+  - question: "How does ConFoot-leg CFL work?"
+    answer: |
+      The ConFoot-leg CFL attaches securely to container corner castings, providing stable support while the container is positioned for loading, unloading, or storage. The legs feature an adjustment range of 1,043 mm to 1,448 mm, allowing for versatile positioning in various operational environments. Each leg weighs 24 kg, making them manageable for operators to handle, while the system provides a substantial load capacity of 30 tons.
 specifications:
   - name: "Weight"
     value: "24 kg per leg"

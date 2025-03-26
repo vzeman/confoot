@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF is our standard model container leg that reduces the time required to move and unload containers, allowing containers to be left waiting for unloading so drivers don't have to wait."
 technicalDescription: "The CF model enables containers to be used as additional storage while remaining ready to be moved at any time - simply drive the trailer under the container, and the journey continues."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "What is ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF is our standard model container leg that reduces the time required to move and unload containers, allowing containers to be left waiting for unloading so drivers don't have to wait.
+  - question: "How does ConFoot-leg CF work?"
+    answer: |
+      The ConFoot-leg CF attaches securely to container corner castings, providing stable support while the container is positioned for loading, unloading, or storage. The legs feature an adjustment range of 1,043 mm to 1,448 mm, allowing for versatile positioning in various operational environments. Each leg weighs 24 kg, making them manageable for operators to handle, while the system provides a substantial load capacity of 34 tons.
 specifications:
   - name: "Weight"
     value: "24 kg per leg"

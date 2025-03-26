@@ -1,0 +1,15 @@
+{{ if .Params.faq }}
+<div class="faq-section p-8 mt-8">
+  <h2 class="text-2xl font-bold mb-6">{{ i18n "frequently_asked_questions" | default "Frequently Asked Questions" }}</h2>
+  <div class="faq-items space-y-6">
+    {{ range .Params.faq }}
+      <div class="faq-item bg-gray-50 rounded-lg p-6">
+        <h3 class="text-lg font-semibold mb-2">{{ .question }}</h3>
+        <div class="faq-answer text-gray-700">
+          {{ .answer | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

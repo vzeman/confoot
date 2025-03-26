@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU is a height adjustable container foot that allows you to adjust container height from ground level to 1.5 meter, with no additional equipment needed for container handling."
 technicalDescription: "The ConFoot CFU is engineered with high-grade steel and features our patented locking mechanism for secure attachment to container corner castings. It allows flexible use of containers in different environments and for various purposes."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "What is ConFoot CFU?"
+    answer: |
+      ConFoot CFU is a height adjustable container foot that allows you to adjust container height from ground level to 1.5 meter, with no additional equipment needed for container handling.
+  - question: "How does ConFoot CFU work?"
+    answer: |
+      The ConFoot CFU attaches directly to container corner castings, providing a stable base for loading, unloading, and temporary storage. Its adjustable design ensures flexibility in positioning containers at the optimal height for your specific needs. The system consists of several parts with individual piece weight under 25 kg, making it manageable for operators to handle, while the total leg weight when assembled is 46 kg. The straightforward attachment mechanism allows for quick deployment and removal, significantly reducing the time and resources needed for container handling operations.
 specifications:
   - name: "Weight"
     value: "46 kg when assembled (individual piece weight under 25 kg)"
