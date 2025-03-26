@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF ir mūsu standarta modeļa konteineru kāja, kas samazina laiku, kas nepieciešams konteineru pārvietošanai un izkraušanai, ļaujot konteineriem gaidīt izkrašanu, tādējādi autovadītājiem nav jāgaida."
 technicalDescription: "CF modelis ļauj konteinerus izmantot kā papildu krātuvi, vienlaikus saglabājot to gatavību pārvietošanai jebkurā laikā – vienkārši novadiet piekabi zem konteinera, un ceļojums turpinās."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Kas ir ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF ir mūsu standarta modeļa konteineru kāja, kas samazina laiku, kas nepieciešams konteineru pārvietošanai un izkraušanai, ļaujot konteineriem gaidīt izkrašanu, tādējādi autovadītājiem nav jāgaida.
+  - question: "Kā darbojas ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF droši piestiprinās konteinera stūra stiprinājumiem, nodrošinot stabilu atbalstu, kamēr konteiners tiek novietots ielādei, izkraušanai vai krātuvei. Kājām ir regulēšanas diapazons no 1,043 mm līdz 1,448 mm, kas ļauj tās pielāgot dažādām operatīvām vidēm.
 specifications:
   - name: "Svars"
     value: "24 kg uz kāju"
@@ -50,7 +57,7 @@ articleContent: |
 
   ConFoot-leg CF nodrošina būtiskas operatīvās priekšrocības uzņēmumiem, kas nodarbojas ar konteineru pārvadājumiem un loģistiku. Ļaujot konteineriem tikt atstātiem uz kājām, gaidot izkrašanu, jūs varat optimizēt autovadītāju laiku un flotes izmantošanu. Autovadītāji var nolaist konteinerus un uzreiz turpināt nākamo uzdevumu, novēršot dārgas gaidīšanas periodus ielādes un izkraušanas operāciju laikā.
 
-  Turklāt konteineri, aprīkoti ar CF kājām, var kalpot kā vērtīga papildu krātuves telpa, kad tie nav transportēti. Tie vienmēr ir gatavi pārvietošanai – vienkārši novadiet piekabi zem konteinera, un ceļojums turpinās. Šī daudzpusība padara CF par ideālu risinājumu uzņēmumiem, kuri vēlas uzlabot savas loģistikas efektivitāti un krātuves kapacitāti.
+  Turklāt konteineri, aprīkoti ar CF kājām, var kalpot kā vērtīga papildu krātuves telpa, kad tie nav transportēti. Tie vienmēr ir gatavi pārvietošanai – vienkārši novadiet piekabi zem konteinera, lai turpinātu ceļojumu. Šī daudzpusība padara CF par ideālu risinājumu uzņēmumiem, kuri vēlas uzlabot savas loģistikas efektivitāti un krātuves kapacitāti.
 
   ## Kā tas darbojas
 
@@ -86,5 +93,5 @@ articleContent: |
   - Materiāls: Augstas klases tērauds ar izturīgu apdari
   - Savietojamība: Standarta kravu konteineru stūra stiprinājumi
 
-  ConFoot-leg CF ir praktisks risinājums, kas racionalizē pārvadājumu un krātuves operācijas, piedāvājot uzņēmumiem iespēju optimizēt izmaksas un laika izmantošanu. Ļaujot konteineriem gaidīt izkrašanu un izmantot tos kā papildu krātuvi, CF palīdz uzņēmumiem sasniegt lielāku efektivitāti un elastību konteineru apstrādes procesos.
+ConFoot-leg CF ir praktisks risinājums, kas racionalizē pārvadājumu un krātuves operācijas, piedāvājot uzņēmumiem iespēju optimizēt izmaksas un laika izmantošanu. Ļaujot konteineriem gaidīt izkrašanu un izmantot tos kā papildu krātuvi, CF palīdz uzņēmumiem sasniegt lielāku efektivitāti un elastību konteineru apstrādes procesos.
 ---

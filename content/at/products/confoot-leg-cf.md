@@ -9,6 +9,13 @@ gallery:
 shortDescription: "Der ConFoot-leg CF ist unser Standardmodell eines Containerbeins, das die für das Bewegen und Entladen von Containern benötigte Zeit reduziert, indem Container zum Entladen stehen gelassen werden können, sodass die Fahrer nicht warten müssen."
 technicalDescription: "Das CF-Modell ermöglicht es, Container als zusätzlichen Stauraum zu nutzen und gleichzeitig jederzeit transportbereit zu bleiben – fahren Sie einfach den Anhänger unter den Container, und die Fahrt geht weiter."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Was ist der ConFoot-leg CF?"
+    answer: |
+      Der ConFoot-leg CF ist unser Standardmodell eines Containerbeins, das die für das Bewegen und Entladen von Containern benötigte Zeit reduziert, indem Container zum Entladen stehen gelassen werden können, sodass die Fahrer nicht warten müssen.
+  - question: "Wie funktioniert der ConFoot-leg CF?"
+    answer: |
+      Der ConFoot-leg CF wird sicher an den Eckblechen des Containers befestigt und bietet stabilen Halt, während der Container zum Be-, Entladen oder zur Lagerung positioniert wird. Die Beine verfügen über einen Einstellbereich von 1.043 mm bis 1.448 mm, was eine vielseitige Positionierung in unterschiedlichen Einsatzumgebungen ermöglicht. Jedes Bein wiegt 24 kg, was die Handhabung für die Bediener erleichtert, während das System eine beträchtliche Tragfähigkeit von 34 Tonnen aufweist.
 specifications:
   - name: "Gewicht"
     value: "24 kg pro Bein"

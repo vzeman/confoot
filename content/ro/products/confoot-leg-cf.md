@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF este modelul nostru standard de picior pentru containere, care reduce timpul necesar pentru mutarea și descărcarea containerelor, permițând ca acestea să rămână așteptând descărcarea, astfel încât șoferii să nu fie nevoiți să aștepte."
 technicalDescription: "Modelul CF permite ca containerele să fie utilizate ca spațiu suplimentar de depozitare, rămânând totodată pregătite pentru a fi mutate în orice moment – pur și simplu conduceți remorca sub container, iar călătoria continuă."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Ce este ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF este modelul nostru standard de picior pentru containere, care reduce timpul necesar pentru mutarea și descărcarea containerelor, permițând ca acestea să rămână așteptând descărcarea, astfel încât șoferii să nu fie nevoiți să aștepte.
+  - question: "Cum funcționează ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF se atașează în siguranță la colțarele containerului, oferind suport stabil în timp ce containerul este poziționat pentru încărcare, descărcare sau depozitare. Picioarele au o gamă de ajustare de la 1.043 mm la 1.448 mm, permițând poziționarea versatilă în diferite medii operaționale.
 specifications:
   - name: "Greutate"
     value: "24 kg per picior"

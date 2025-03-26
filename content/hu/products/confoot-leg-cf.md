@@ -9,6 +9,13 @@ gallery:
 shortDescription: "A ConFoot-leg CF a szabványos konténerláb modellünk, amely csökkenti a konténerek mozgatásához és kirakodásához szükséges időt, lehetővé téve, hogy a konténereket kirakodásra várva hagyják, így a sofőröknek nem kell várakozniuk."
 technicalDescription: "A CF modell lehetővé teszi, hogy a konténereket további tárolóként használják, miközben bármikor készen állnak a mozgatásra – egyszerűen vezesse a pótkocsit a konténer alá, és az út folytatódik."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Mi a ConFoot-leg CF?"
+    answer: |
+      A ConFoot-leg CF a szabványos konténerláb modellünk, amely csökkenti a konténerek mozgatásához és kirakodásához szükséges időt, lehetővé téve, hogy a konténereket kirakodásra várva hagyják, így a sofőröknek nem kell várakozniuk.
+  - question: "Hogyan működik a ConFoot-leg CF?"
+    answer: |
+      A ConFoot-leg CF biztonságosan rögzül a konténer sarokelemeihez, stabil támaszt biztosítva, miközben a konténert berakodáshoz, kirakodáshoz vagy tároláshoz pozicionálják. A lábak 1.043 mm-től 1.448 mm-ig terjedő beállítási tartománnyal rendelkeznek, ami sokoldalú elhelyezést tesz lehetővé különböző működési környezetekben.
 specifications:
   - name: "Súly"
     value: "24 kg lábonként"
@@ -48,7 +55,7 @@ articleContent: |
 
   ## Fő előnyök a szállítás és logisztika területén
 
-  A ConFoot-leg CF jelentős működési előnyöket kínál a konténerszállítással és logisztikával foglalkozó vállalkozások számára. Azáltal, hogy lehetővé teszi, hogy a konténereket a lábakon várakozva hagyják a kirakodásra, optimalizálható a sofőrök ideje és a járműflotta kihasználtsága. A sofőrök leadhatják a konténereket, és azonnal folytathatják következő feladatukat, megszüntetve a rakodási és kirakodási műveletek során jelentkező költséges várakozási időket.
+  A ConFoot-leg CF jelentős működési előnyöket kínál a konténerszállítással és logisztikával foglalkozó vállalkozások számára. Azáltal, hogy lehetővé teszi, hogy a konténereket a lábakon várakozva hagyják a kirakodásra, optimalizálható a sofőrök ideje és a járműflotta kihasználtsága. A sofőrök leadhatják a konténereket, és azonnal folytathatják következő feladatukat ahelyett, hogy a rakodási és kirakodási műveletekre várakoznának. Ez a hatékonyság nagymértékben növelheti a meglévő pótkocsi flották termelékenységét és csökkentheti a működési költségeket.
 
   Ezen kívül, a CF lábakkal felszerelt konténerek értékes további tárolóhelyként is szolgálhatnak, amikor nem úton vannak. Bármikor készen állnak a mozgatásra – egyszerűen vezessen egy pótkocsit a konténer alá, és folytassa az utat. Ez a sokoldalúság ideálissá teszi a CF-et azok számára, akik javítani kívánják logisztikai hatékonyságukat és tárolási kapacitásukat.
 

@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF isch üses Standard-Modell vo Containerfüess, wo d Zit reduziert, wo bruucht wird, um Container z bewege und uszulade. Dä Vorteil isch, dass d Container wartend glätte chönd, so dass d Fahrer nöd laam warde."
 technicalDescription: "S CF-Modell erlaabt, dass Container als zusätzlichi Lager bruucht werde chönd und jederzit für de Transport parat bliibe – fahre eifach dä Anhänger unter dä Container, und d Reis geit witer."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Was isch de ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF isch üses Standard-Modell vo Containerfüess, wo d Zit reduziert, wo bruucht wird, um Container z bewege und uszulade. Dä Vorteil isch, dass d Container wartend glätte chönd, so dass d Fahrer nöd laam warde.
+  - question: "Wie funktioniert de ConFoot-leg CF?"
+    answer: |
+      De ConFoot-leg CF wird sicher an de Eckbeschläg vom Container befestigt und bietet stabile Halt, während de Container zum Be-, Entlade oder zur Lagerig positioniert wird. D Füess verfüged über en Istellbereich vo 1.043 mm bis 1.448 mm, was en vielsitigi Positionierig in unterschiedliche Isatzumgebige ermöglicht.
 specifications:
   - name: "Gewicht"
     value: "24 kg pro Füess"

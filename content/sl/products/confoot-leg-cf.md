@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF je naš standardni model noge kontejnerja, ki skrajša čas premikanja in razklada kontejnerjev, saj lahko kontejnerje pustimo, da čakajo na razklad, s čimer vozniki ne potrebujejo čakati."
 technicalDescription: "Model CF omogoča, da se kontejnerji uporabljajo kot dodatni skladiščni prostor, hkrati pa so vedno pripravljeni za premik – preprosto izvedite prikolico pod kontejnerjem in pot se nadaljuje."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Kaj je ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF je naš standardni model noge kontejnerja, ki skrajša čas premikanja in razklada kontejnerjev, saj lahko kontejnerje pustimo, da čakajo na razklad, s čimer vozniki ne potrebujejo čakati.
+  - question: "Kako deluje ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF se varno pritrdi na kotne pritrdilne elemente kontejnerja, kar zagotavlja stabilno oporo, medtem ko je kontejner postavljen za nalaganje, razkladanje ali skladiščenje. Noge imajo nastavljiv razpon od 1.043 mm do 1.448 mm, kar omogoča večnamensko postavitev v različnih operativnih okoljih.
 specifications:
   - name: "Teža"
     value: "24 kg na nogo"

@@ -9,6 +9,13 @@ gallery:
 shortDescription: "Le ConFoot-leg CF est notre modèle standard de patte de conteneur qui réduit le temps nécessaire au déplacement et au déchargement des conteneurs, permettant ainsi de laisser les conteneurs en attente de déchargement pour que les conducteurs n'aient pas à patienter."
 technicalDescription: "Le modèle CF permet d'utiliser les conteneurs comme espace de stockage supplémentaire tout en restant prêts à être déplacés à tout moment - il suffit de garer la remorque sous le conteneur et de poursuivre le trajet."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Qu'est-ce que le ConFoot-leg CF ?"
+    answer: |
+      Le ConFoot-leg CF est notre modèle standard de patte de conteneur qui réduit le temps nécessaire au déplacement et au déchargement des conteneurs, permettant ainsi de laisser les conteneurs en attente de déchargement pour que les conducteurs n'aient pas à patienter.
+  - question: "Comment fonctionne le ConFoot-leg CF ?"
+    answer: |
+      Le ConFoot-leg CF se fixe solidement sur les chapeaux d'angle des conteneurs, offrant un support stable pendant que le conteneur est positionné pour le chargement, le déchargement ou le stockage. Les pattes disposent d'une plage d'ajustement de 1 043 mm à 1 448 mm, permettant un positionnement polyvalent dans divers environnements opérationnels. Chaque patte pèse 24 kg, ce qui les rend maniables pour les opérateurs, tout en offrant une capacité de charge substantielle de 34 tonnes.
 specifications:
   - name: "Poids"
     value: "24 kg par patte"

@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF è il nostro modello standard di piede per container che riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciarli in attesa di scarico in modo che gli autisti non debbano attendere."
 technicalDescription: "Il modello CF consente di utilizzare i container come spazio di stoccaggio aggiuntivo, rimanendo pronti ad essere spostati in qualsiasi momento: basta posizionare il rimorchio sotto il container e il viaggio continua."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Cos'è ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF è il nostro modello standard di piede per container che riduce il tempo necessario per spostare e scaricare i container, consentendo di lasciarli in attesa di scarico in modo che gli autisti non debbano attendere.
+  - question: "Come funziona ConFoot-leg CF?"
+    answer: |
+      Il ConFoot-leg CF si fissa saldamente ai cast angolari dei container, offrendo un supporto stabile mentre il container viene posizionato per il carico, lo scarico o lo stoccaggio. I piedi vantano un intervallo regolabile da 1.043 mm a 1.448 mm, permettendo un posizionamento versatile in vari ambienti operativi. Ogni piede pesa 24 kg, rendendoli maneggevoli per gli operatori, mentre il sistema offre una notevole capacità di carico di 34 tonnellate.
 specifications:
   - name: "Peso"
     value: "24 kg per piede"

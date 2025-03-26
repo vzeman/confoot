@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF je náš štandardný model nohy kontajnera, ktorý skracuje čas potrebný na premiestnenie a vykládku kontajnerov, čím umožňuje nechať kontajnery čakajúce na vykládku, aby vodiči nemuseli čakať."
 technicalDescription: "Model CF umožňuje využitie kontajnerov ako dodatočného úložného priestoru, pričom zostávajú pripravené na presun kedykoľvek – stačí zatiahnuť príves pod kontajner a cesta pokračuje."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Čo je ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF je náš štandardný model nohy kontajnera, ktorý skracuje čas potrebný na premiestnenie a vykládku kontajnerov, čím umožňuje nechať kontajnery čakajúce na vykládku, aby vodiči nemuseli čakať.
+  - question: "Ako funguje ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF sa bezpečne pripevňuje k rohovým kovaniam kontajnera, poskytujúc stabilnú oporu, zatiaľ čo kontajner je umiestnený na nakládku, vykládku alebo skladovanie. Nohy majú rozsah nastavenia od 1 043 mm do 1 448 mm, čo umožňuje všestranné umiestnenie v rôznych prevádzkových prostrediach.
 specifications:
   - name: "Hmotnosť"
     value: "24 kg na nohu"

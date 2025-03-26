@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF yra mūsų standartinis konteinerio kojų modelis, kuris sutrumpina konteinerių pervežimo ir iškraunimo laiką, leidžiant konteineriams palikti laukiančius iškraunimo, kad vairuotojams nereikėtų laukti."
 technicalDescription: "CF modelis leidžia konteinerius naudoti kaip papildomą saugojimo erdvę, tuo pačiu metu visada būdamas pasirengęs pervežimui – tiesiog pastumkite priekabą po konteineriu, ir kelionė tęsiasi."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Kas yra ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF yra mūsų standartinis konteinerio kojų modelis, kuris sutrumpina konteinerių pervežimo ir iškraunimo laiką, leidžiant konteineriams palikti laukiančius iškraunimo, kad vairuotojams nereikėtų laukti.
+  - question: "Kaip veikia ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF tvirtai pritvirtinamas prie konteinerio kampo surinkimo elementų, suteikdamas stabilų palaikymą, kai konteineris yra pozicionuojamas kraunimui, iškraunimui ar saugojimui. Kojos turi reguliavimo diapazoną nuo 1,043 mm iki 1,448 mm, leidžiančią jas pritaikyti įvairiomis darbo sąlygomis. Kiekviena koja sveria 24 kg, todėl jas lengva tvarkyti, o sistema užtikrina reikšmingą 34 tonų krovinio talpą.
 specifications:
   - name: "Svoris"
     value: "24 kg už koją"

@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF is óngs standerd model kontèinerbeen, det de tied veur 't verschieve en onlaade van kontèiners vermienigt. De kontèiners kinne op wach blieve veur onlaade, zodat de sjauffeurs neet te wachten."
 technicalDescription: "Het CF-model maak et meuglijk de kontèiners as extra oppslag te gebruike, terwijl ze altied gereed blieve um te verschieve – laot de trailer ónger de kontèiner rije en de reis gaat door."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "Wat is ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF is óngs standerd model kontèinerbeen, det de tied veur 't verschieve en onlaade van kontèiners vermienigt. De kontèiners kinne op wach blieve veur onlaade, zodat de sjauffeurs neet te wachten.
+  - question: "Wie wirkt ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF wordt veilig aan de hoekbeslagen van de kontèiner bevestigd en biedt stabiele steun terwijl de kontèiner voor laden, lossen of opslag wordt gepositioneerd. De benen hebben een instelbereik van 1.043 mm tot 1.448 mm, wat veelzijdige positionering in verschillende operationele omgevingen mogelijk maakt.
 specifications:
   - name: "Gewig"
     value: "24 kg per been"
@@ -48,7 +55,7 @@ articleContent: |
 
   ## Belangrieke Voordeile veur Transport en Logistiek
 
-  De ConFoot-leg CF bied erhebbele operationele voordelen veur bedrieven die in kontèinertransport en logistiek betrokke zeen. Doer 't meugelijk te make dat kontèiners op been te laote wach veur onlaade, kin de tied van de sjauffeur optimaliseerd waere en 't gebruik van de vloot vermeerderd. De sjauffeurs kinne kontèiners afleveren en dadelik verder op reis, in plaats van te wachten tijdens laad- en losoperaties.
+  De ConFoot-leg CF bied erhebbele operationele voordelen veur bedrieven die in kontèinertransport en logistiek betrokke zeen. Doer 't meuglijk te make dat kontèiners op been te laote wach veur onlaade, kin de tied van de sjauffeur optimaliseerd waere en 't gebruik van de vloot vermeerderd. De sjauffeurs kinne kontèiners afleveren en dadelik verder op reis, in plaats van te wachten tijdens laad- en losoperaties.
 
   Dêrnevaore kinne kontèiners met CF-beens as waardevolle extra oppslag ruum fungere as se neet in verkeer zien. Ze bint altied gereed um te verschieve – laot simpelweg de trailer ónger de kontèiner rije en de reis gaat door. Deze veelzijdigheid maak de CF ’n ideale oplossing veur bedrieven die de logistieke efficiëntie en oppslagcapaciteit willen verbeteren.
 

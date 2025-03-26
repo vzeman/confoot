@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF es nuestro modelo estándar de pata para contenedores que reduce el tiempo requerido para mover y descargar contenedores, permitiendo que estos queden en espera de descarga para que los conductores no tengan que esperar."
 technicalDescription: "El modelo CF permite utilizar los contenedores como almacenamiento adicional mientras se mantienen listos para ser trasladados en cualquier momento; simplemente conduzca el remolque debajo del contenedor y el viaje continúa."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "¿Qué es ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF es nuestro modelo estándar de pata para contenedores que reduce el tiempo requerido para mover y descargar contenedores, permitiendo que estos queden en espera de descarga para que los conductores no tengan que esperar.
+  - question: "¿Cómo funciona ConFoot-leg CF?"
+    answer: |
+      El ConFoot-leg CF se adhiere de forma segura a los cascos de esquina del contenedor, proporcionando un soporte estable mientras el contenedor se posiciona para la carga, descarga o almacenamiento. Las patas cuentan con un rango de ajuste de 1,043 mm a 1,448 mm, permitiendo una posición versátil en diversos entornos operativos. Cada pata pesa 24 kg, lo que facilita su manejo por parte de los operadores, mientras que el sistema ofrece una considerable capacidad de carga de 34 toneladas.
 specifications:
   - name: "Peso"
     value: "24 kg por pata"

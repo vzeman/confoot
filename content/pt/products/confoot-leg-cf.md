@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot-leg CF é o nosso modelo padrão de pé para contêiner, que reduz o tempo necessário para mover e descarregar contêineres, permitindo que estes fiquem aguardando a descarga para que os motoristas não precisem esperar."
 technicalDescription: "O modelo CF possibilita que os contêineres sejam utilizados como armazenamento adicional enquanto permanecem prontos para serem movidos a qualquer momento – basta posicionar o reboque sob o contêiner e a viagem continua."
 videoID: "C2KwnEb-npU"
+faq:
+  - question: "O que é o ConFoot-leg CF?"
+    answer: |
+      ConFoot-leg CF é o nosso modelo padrão de pé para contêiner, que reduz o tempo necessário para mover e descarregar contêineres, permitindo que estes fiquem aguardando a descarga para que os motoristas não precisem esperar.
+  - question: "Como funciona o ConFoot-leg CF?"
+    answer: |
+      O ConFoot-leg CF se fixa de forma segura nas peças de canto do contêiner, proporcionando suporte estável enquanto o contêiner é posicionado para carga, descarga ou armazenamento. Os pés apresentam uma faixa de ajuste de 1.043 mm a 1.448 mm, permitindo um posicionamento versátil em diversos ambientes operacionais.
 specifications:
   - name: "Peso"
     value: "24 kg por pé"
