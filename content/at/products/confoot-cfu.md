@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU ist ein höhenverstellbarer Containerfuß, der es ermöglicht, die Containerhöhe von Bodenhöhe bis 1,5 Meter anzupassen – ganz ohne zusätzliche Ausrüstung für den Containerbetrieb."
 technicalDescription: "Der ConFoot CFU ist aus hochwertigem Stahl konstruiert und verfügt über unseren patentierten Verriegelungsmechanismus für eine sichere Befestigung an den Containereckgussstücken. Er ermöglicht den flexiblen Einsatz von Containern in unterschiedlichen Umgebungen und für verschiedene Zwecke."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Was ist ConFoot CFU?"
+    answer: |
+      ConFoot CFU ist ein höhenverstellbarer Containerfuß, der es ermöglicht, die Containerhöhe von Bodenhöhe bis 1,5 Meter anzupassen – ganz ohne zusätzliche Ausrüstung für den Containerbetrieb.
+  - question: "Wie funktioniert ConFoot CFU?"
+    answer: |
+      Der ConFoot CFU wird direkt an den Containereckgussstücken befestigt und bietet so eine stabile Basis für das Be- und Entladen sowie für die Zwischenlagerung. Sein verstellbares Design gewährleistet eine flexible Positionierung der Container in der optimalen Höhe für Ihre spezifischen Anforderungen. Das System besteht aus mehreren Teilen, deren Einzelgewicht weniger als 25 kg beträgt, was die Handhabung durch die Bediener erleichtert, während das gesamte Bein bei Montage 46 kg wiegt. Der unkomplizierte Befestigungsmechanismus ermöglicht eine schnelle Inbetriebnahme und Entfernung, wodurch die für Containerhandhabungsoperationen benötigte Zeit und Ressourcen erheblich reduziert werden.
 specifications:
   - name: "Gewicht"
     value: "46 kg bei Montage (Einzelteile wiegen weniger als 25 kg)"

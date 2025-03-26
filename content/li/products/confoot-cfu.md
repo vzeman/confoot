@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU is 'n hoogte-verstelbaor containervoet die 't mogelijk maak de hoogte van 't container te verstelle van de grond tot 1,5 meeter, zuver dat geine aanvullende apparatuur nodig is bie containerhandling."
 technicalDescription: "De ConFoot CFU is gefabriceerd van hoogwaardig staal en beschikt óch ónger oos gepatenteerde slotingsmekanisme veur 't veilig verbinden aan containerhoeke. 't Zorgt veur flexibel gebruuk van containers in versjillende omgevingen en veur diverse doeleinden."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Wat is ConFoot CFU?"
+    answer: |
+      ConFoot CFU is 'n hoogte-verstelbaor containervoet die 't mogelijk maak de hoogte van 't container te verstelle van de grond tot 1,5 meeter, zuver dat geine aanvullende apparatuur nodig is bie containerhandling.
+  - question: "Hoe werkt ConFoot CFU?"
+    answer: |
+      De ConFoot CFU wordt direkt bevestigd aon de containerhoeke, en biedt 'n stabiele basis veur laden, lossen en tijdelijke opslag. Door zien verstelbaore ontwerp kan de container in 't optimale hoogte gepositioneerd weure veur specifieke behoefte. 't Bestaat oet meerdere delen die elk minder dan 25 kg wegen, wat 't hanteren vereenvoudigt, terwij 't totaalgewicht as samen 46 kg is. 't Eenvoudige bevestigingsmekanisme maak 't mogelijk de poten rap vast te zetten en weer te verwijderen, waodoor de tijd en middelen bie containerhandlingsoperaties sterk afneme.
 specifications:
   - name: "Gewich"
     value: "46 kg as samegesèt (elk deil is minder dan 25 kg)"

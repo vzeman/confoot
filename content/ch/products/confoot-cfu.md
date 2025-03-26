@@ -7,8 +7,15 @@ gallery:
   - "/images/products/confoot-leg-cfu-2.jpg"
   - "/images/products/confoot-leg-cfu-3.jpg"
 shortDescription: "ConFoot CFU isch e höchi aapassbarä Containerfüess, wo der ermöglicht, d'Höchi vom Container vo Bomä bis zu 1,5 Meter aazpasse – ganz ohni zusätzlichi Uusrüestig fürs Containerhandling."
-technicalDescription: "D'ConFoot CFU isch us hochwertigem Stah gstalte und het en patenteerten Schliessmechanismus, wo für e sichere Befestigung an de Container-Eckguss sorgt. Si ermöglicht en flexibli Bruch vo Containere i unterschiedlichä Umgebige und für verschideni Zwecks."
+technicalDescription: "D'ConFoot CFU isch us hochwertigem Stah gstalte und het en patenteeten Schliessmechanismus, wo für e sichere Befestigung an de Container-Eckguss sorgt. Si ermöglicht en flexibli Bruch vo Containere i unterschiedlichä Umgebige und für verschideni Zwecks."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Was isch ConFoot CFU?"
+    answer: |
+      ConFoot CFU isch e höchi aapassbarä Containerfüess, wo der ermöglicht, d'Höchi vom Container vo Bomä bis zu 1,5 Meter aazpasse – ganz ohni zusätzlichi Uusrüestig fürs Containerhandling.
+  - question: "Wie funktionieret ConFoot CFU?"
+    answer: |
+      De ConFoot CFU wird direkt an de Container-Eckguss befestigt, wo e stabii Basis für d'Lade, d'Entlade und temporari Lagerig biete tuet. Sim aapassbari Design sorgt für Flexibilität bim Positioniere vo de Container uf de optimalä Höchi für din spezifische Bedarf. S'System besteht uus mehrere Teile, wobei jedäs einzelne Teil unter 25 kg wiegt – das erleichtert de Bediener d'Hantierä, während s'gmainschte Gewicht vo de Füüess, wenn montiert, 46 kg isch. Dr eifachi Befestigungsmechanismus erlaubt schnälls Uisätzä und Abnäh, wodurch d'Zyt und d'Ressourcä fürs Containerhandling erheblich reduziert wärde.
 specifications:
   - name: "Weight"
     value: "46 kg, wenn montiert (jedes Teil unter 25 kg)"
@@ -97,5 +104,4 @@ articleContent: |
   - **Kompatibilität**: Standard Versand-Container-Eckguss
 
   De ConFoot CFU stellt en bedeutende Fortschritt i de Containerhandling-Technologie dar und bietet e Lösig, wo Höchi-Aapassbarkeit, Vielseitigkeit und betrieblichi Einfachheit i einem einzigä Produkt vereint.
-
 ---

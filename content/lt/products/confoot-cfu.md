@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU yra reguliuojama konteinerio kojelė, leidžianti sureguliuoti konteinerio aukštį nuo žemės iki 1,5 metro, nereikalaujant papildomos įrangos konteinerių tvarkymui."
 technicalDescription: "ConFoot CFU pagaminta iš aukštos kokybės plieno ir aprūpinta mūsų patentuotu užrakinimo mechanizmu, užtikrinančiu saugų pritvirtinimą prie konteinerio kampų tvirtinimo elementų. Ji leidžia konteinerius lanksčiai naudoti skirtingose aplinkose ir įvairiems tikslams."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Kas yra ConFoot CFU?"
+    answer: |
+      ConFoot CFU yra reguliuojama konteinerio kojelė, leidžianti sureguliuoti konteinerio aukštį nuo žemės iki 1,5 metro, nereikalaujant papildomos įrangos konteinerių tvarkymui.
+  - question: "Kaip veikia ConFoot CFU?"
+    answer: |
+      ConFoot CFU tiesiogiai pritvirtinamas prie konteinerio kampų tvirtinimo elementų, suteikdamas stabilų pagrindą krovimui, iškrovimui ir laikiniam saugojimui. Jo reguliuojamas dizainas užtikrina konteinerių pozicionavimą optimaliu aukščiu pagal jūsų poreikius. Sistema susideda iš kelių dalių, kurių atskirų dalių svoris yra mažesnis nei 25 kg, todėl ją lengviau tvarkyti operatoriams, o surinktų kojų bendras svoris yra 46 kg. Paprasta prijungimo sistema leidžia greitai įdiegti ir pašalinti, žymiai sumažinant konteinerių tvarkymo operacijoms reikalingą laiką ir išteklius.
 specifications:
   - name: "Svoris"
     value: "46 kg surinktose (atskirų dalių svoris mažesnis nei 25 kg)"

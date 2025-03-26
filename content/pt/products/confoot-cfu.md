@@ -41,6 +41,13 @@ benefits:
     description: "Permite o uso flexível de containers em diferentes ambientes e para diversos fins."
   - title: "Fluxo de Trabalho Aprimorado"
     description: "Agiliza os processos de manuseio de containers, melhorando a eficiência operacional."
+faq:
+  - question: "O que é o ConFoot CFU?"
+    answer: |
+      O ConFoot CFU é um pé de container ajustável em altura que permite ajustar a altura do container, do nível do solo até 1,5 metro, sem a necessidade de equipamentos adicionais para o manuseio do container.
+  - question: "Como funciona o ConFoot CFU?"
+    answer: |
+      O ConFoot CFU é fixado diretamente às ferragens de canto do container, fornecendo uma base estável para carga, descarga e armazenamento temporário. Seu design ajustável garante flexibilidade no posicionamento dos containers na altura ideal para suas necessidades específicas. O sistema é composto por várias peças com peso individual inferior a 25 kg, facilitando o manuseio pelos operadores, enquanto o peso total da perna, quando montada, é de 46 kg. O mecanismo de fixação simples permite uma implantação e remoção rápidas, reduzindo significativamente o tempo e os recursos necessários para as operações de manuseio de containers.
 articleContent: |
   ## O que é o ConFoot CFU?
 

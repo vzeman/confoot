@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU es una pata de contenedor ajustable en altura que te permite ajustar la altura del contenedor desde el nivel del suelo hasta 1,5 metros, sin necesidad de equipos adicionales para el manejo del contenedor."
 technicalDescription: "El ConFoot CFU está diseñado con acero de alta calidad y cuenta con nuestro mecanismo de bloqueo patentado para una fijación segura a los casquetes de las esquinas del contenedor. Permite el uso flexible de contenedores en diferentes entornos y para diversos propósitos."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "¿Qué es ConFoot CFU?"
+    answer: |
+      ConFoot CFU es una pata de contenedor ajustable en altura que te permite ajustar la altura del contenedor desde el nivel del suelo hasta 1,5 metros, sin necesidad de equipos adicionales para el manejo del contenedor.
+  - question: "¿Cómo funciona ConFoot CFU?"
+    answer: |
+      El ConFoot CFU se fija directamente a los casquetes de las esquinas del contenedor, proporcionando una base estable para la carga, descarga y almacenamiento temporal. Su diseño ajustable asegura flexibilidad al posicionar los contenedores a la altura óptima para tus necesidades específicas. El sistema consta de varias partes con un peso individual por pieza inferior a 25 kg, lo que facilita su manejo por los operadores, mientras que el peso total de la pata cuando está ensamblada es de 46 kg. El mecanismo de fijación sencillo permite una rápida instalación y retirada, reduciendo significativamente el tiempo y los recursos necesarios para las operaciones de manejo de contenedores.
 specifications:
   - name: "Peso"
     value: "46 kg cuando está ensamblado (peso individual de cada pieza inferior a 25 kg)"

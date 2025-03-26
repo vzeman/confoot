@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU je nastaviteľná noha kontajnera, ktorá umožňuje nastaviť výšku kontajnera od úrovne zeme až do 1,5 metra, bez potreby ďalšieho vybavenia pre manipuláciu s kontajnermi."
 technicalDescription: "ConFoot CFU je vyrobená z vysoko kvalitnej ocele a disponuje naším patentovaným zámkovacím mechanizmom pre bezpečné pripevnenie k rohovým kotviacim prvkom kontajnera. Umožňuje flexibilné využitie kontajnerov v rôznych prostrediach a na rôzne účely."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Čo je ConFoot CFU?"
+    answer: |
+      ConFoot CFU je nastaviteľná noha kontajnera, ktorá umožňuje nastaviť výšku kontajnera od úrovne zeme až do 1,5 metra, bez potreby ďalšieho vybavenia pre manipuláciu s kontajnermi.
+  - question: "Ako funguje ConFoot CFU?"
+    answer: |
+      ConFoot CFU sa pripája priamo na rohové kotviace prvky kontajnera, čím poskytuje stabilnú oporu pre nakladanie, vykladanie a dočasné skladovanie. Jeho nastaviteľný dizajn zaisťuje flexibilitu pri umiestňovaní kontajnerov na optimálnu výšku pre vaše špecifické potreby. Systém pozostáva z niekoľkých častí s hmotnosťou jednotlivých častí menej ako 25 kg, čo umožňuje jednoduchú manipuláciu operátorom, pričom celková hmotnosť nohy po zostavení je 46 kg. Jednoduchý mechanizmus pripevnenia umožňuje rýchle nasadenie a odstránenie, čím sa výrazne skracuje čas a zdroje potrebné pre operácie manipulácie s kontajnermi.
 specifications:
   - name: "Hmotnosť"
     value: "46 kg po zostavení (hmotnosť jednotlivých častí menej ako 25 kg)"

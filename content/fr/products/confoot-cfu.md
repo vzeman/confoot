@@ -41,6 +41,13 @@ benefits:
     description: "Permet une utilisation flexible des conteneurs dans différents environnements et à diverses fins"
   - title: "Flux de travail optimisé"
     description: "Rationalise les processus de manipulation des conteneurs, améliorant l'efficacité opérationnelle"
+faq:
+  - question: "Qu'est-ce que le ConFoot CFU ?"
+    answer: |
+      ConFoot CFU est un pied de conteneur réglable en hauteur qui vous permet d'ajuster la hauteur du conteneur du niveau du sol jusqu'à 1,5 mètre, sans nécessiter d'équipement supplémentaire pour la manipulation des conteneurs.
+  - question: "Comment fonctionne le ConFoot CFU ?"
+    answer: |
+      Le ConFoot CFU se fixe directement sur les châssis d'angle du conteneur, offrant une base stable pour le chargement, le déchargement et le stockage temporaire. Son design réglable garantit une flexibilité pour positionner les conteneurs à la hauteur optimale pour vos besoins spécifiques. Le système se compose de plusieurs pièces dont le poids individuel est inférieur à 25 kg, ce qui le rend facile à manipuler pour les opérateurs, tandis que le poids total du pied assemblé est de 46 kg. Le mécanisme de fixation simple permet une mise en service et un retrait rapides, réduisant considérablement le temps et les ressources nécessaires aux opérations de manipulation des conteneurs.
 articleContent: |
   ## Qu'est-ce que le ConFoot CFU ?
 

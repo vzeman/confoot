@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU ir augstumu regulējama konteinera kāja, kas ļauj pielāgot konteinera augstumu no zemes līmeņa līdz 1,5 metriem, kam nav nepieciešams papildu aprīkojums konteinera apstrādei."
 technicalDescription: "ConFoot CFU izgatavots no augstas kvalitātes tērauda un aprīkots ar mūsu patentēto bloķēšanas mehānismu drošai stiprināšanai uz konteinera stūrveida stiprinājumiem. Tas nodrošina elastīgu konteineru izmantošanu dažādos vidēs un dažādiem mērķiem."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Kas ir ConFoot CFU?"
+    answer: |
+      ConFoot CFU ir augstumu regulējama konteinera kāja, kas ļauj pielāgot konteinera augstumu no zemes līmeņa līdz 1,5 metriem, kam nav nepieciešams papildu aprīkojums konteinera apstrādei.
+  - question: "Kā darbojas ConFoot CFU?"
+    answer: |
+      ConFoot CFU tiek piestiprināts tieši pie konteinera stūrveida stiprinājumiem, nodrošinot stabilu pamatu ielādei, izkraušanai un pagaidu uzglabāšanai. Tā regulējams dizains nodrošina elastību, novietojot konteinerus optimālā augstumā atbilstoši jūsu vajadzībām. Sistēma sastāv no vairākiem elementiem, kuru individuālais svars nepārsniedz 25 kg, padarot to viegli pārvaldāmu operātoriem, savukārt kopējais kāju svars, kad salikts, ir 46 kg. Vienkāršais stiprināšanas mehānisms ļauj ātri uzstādīt un noņemt ierīci, būtiski samazinot laiku un resursus, kas nepieciešami konteinera apstrādes operācijām.
 specifications:
   - name: "Svars"
     value: "46 kg, kad salikts (atsevišķa detaļa svars mazāks par 25 kg)"
@@ -53,7 +60,7 @@ articleContent: |
   ## ConFoot CFU pielietojums
   
   ### Transporta uzņēmumi
-  ConFoot CFU izceļas transporta operācijās, kur nepieciešama augstuma regulēšana un elastība. Transporta uzņēmumi var izmantot CFU kājas, lai viegli ielādētu, izkrautu un novietotu konteinerus, bez papildu smaga aprīkojuma, tā vienkāršojot operācijas un samazinot iekārtu izmaksas.
+  ConFoot CFU izceļas transporta operācijās, kur nepieciešama augstuma regulēšana un elastība. Transporta uzņēmumi var izmantot CFU kājas, lai viegli ielādētu, izkrautu un novietotu konteinerus, bez papildu smaga aprīkojuma, tādējādi samazinot operacionālās izmaksas un atkarību no specializēta aprīkojuma.
   
   ### Aizsardzības spēki
   Aizsardzības spēkiem CFU nodrošina pārnesamu un daudzpusīgu risinājumu ātrai konteinera bāzētu iekārtu izvietošanai dažādos reljefa un vides apstākļos. Augstuma regulēšanas iespēja ļauj optimāli novietot pat nevienmērīgā virsmā.
@@ -82,7 +89,7 @@ articleContent: |
   Neskatoties uz tā robusto konstrukciju un 20 tonnu slodzes kapacitāti, CFU ir izstrādāts ar operatoru ērtības prātā. Atsevišķu elementu svars nepārsniedz 25 kg, kas padara tā salikšanu un novietošanu vieglu.
   
   ### Daudzpusīgas pielietojuma iespējas
-  CFU dizains padara to piemērotu plašam nozares un pielietojumu lokam, sākot no loģistikas un ražošnas līdz aizsardzībai un humanitārajai palīdzībai.
+  CFU dizains padara to piemērotu plašam nozares un pielietojumu lokam, sākot no loģistikas un ražošanas līdz aizsardzībai un humanitārajai palīdzībai.
   
   ### Darbības elastība
   Nodrošinot, ka konteineri var tikt izmantoti dažādos vidēs un dažādiem mērķiem, CFU paplašina standarta kravas konteineru lietošanas iespējas, pārsniedzot tradicionālās transporta un uzglabāšanas funkcijas.

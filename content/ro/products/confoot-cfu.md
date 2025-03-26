@@ -41,6 +41,13 @@ benefits:
     description: "Permite utilizarea flexibilă a containerelor în diferite medii și pentru diverse scopuri"
   - title: "Flux de lucru optimizat"
     description: "Simplifică procesele de manipulare a containerelor, îmbunătățind eficiența operațională"
+faq:
+  - question: "Ce este ConFoot CFU?"
+    answer: |
+      ConFoot CFU este un picioar de container reglabil în înălțime, care vă permite să ajustați înălțimea containerului de la nivelul solului până la 1,5 metri, fără a necesita echipament suplimentar pentru manipulare.
+  - question: "Cum funcționează ConFoot CFU?"
+    answer: |
+      ConFoot CFU se atașează direct la monturile de colț ale containerului, oferind o bază stabilă pentru încărcare, descărcare și depozitare temporară. Designul său reglabil asigură flexibilitate în poziționarea containerelor la înălțimea optimă pentru nevoile dumneavoastră specifice. Sistemul este compus din mai multe piese, fiecare având o greutate sub 25 kg, ceea ce îl face ușor de manevrat de către operatori, în timp ce greutatea totală a picioarelor, când este asamblat, este de 46 kg. Mecanismul simplu de atașare permite o implementare și demontare rapidă, reducând semnificativ timpul și resursele necesare pentru operațiunile de manipulare a containerelor.
 articleContent: |
   ## Ce este ConFoot CFU?
 

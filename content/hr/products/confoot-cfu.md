@@ -41,6 +41,13 @@ benefits:
     description: "Omogućuje fleksibilnu upotrebu kontejnera u različitim okruženjima i za razne svrhe"
   - title: "Poboljšani tijek rada"
     description: "Pojednostavljuje procese rukovanja kontejnerima, poboljšavajući operativnu učinkovitost"
+faq:
+  - question: "Što je ConFoot CFU?"
+    answer: |
+      ConFoot CFU je visinski podesiva noga kontejnera koja vam omogućuje podešavanje visine kontejnera od razine tla do 1,5 metara, bez dodatne opreme potrebne za rukovanje kontejnerom.
+  - question: "Kako funkcionira ConFoot CFU?"
+    answer: |
+      ConFoot CFU se direktno pričvršćuje na kutne odljeve kontejnera, pružajući stabilnu podlogu za utovar, istovar i privremeno skladištenje. Njegov podesivi dizajn osigurava fleksibilnost pri pozicioniranju kontejnera na optimalnu visinu prema vašim specifičnim potrebama. Sustav se sastoji od nekoliko dijelova, gdje težina pojedinačnog dijela iznosi manje od 25 kg, što olakšava rukovanje operatorima, dok ukupna težina noge kad je sastavljena iznosi 46 kg. Jednostavan mehanizam pričvršćivanja omogućuje brzo postavljanje i uklanjanje, značajno smanjujući vrijeme i resurse potrebne za operacije rukovanja kontejnerima.
 articleContent: |
   ## Što je ConFoot CFU?
 

@@ -9,6 +9,13 @@ gallery:
 shortDescription: "A ConFoot CFU egy magasságállítható konténertalp, amely lehetővé teszi a konténer magasságának beállítását a földszinttől 1,5 méterig, további eszközök nélkül a konténer mozgatásához."
 technicalDescription: "A ConFoot CFU kiváló minőségű acélból készült, és patentált zárási mechanizmussal rendelkezik a konténer sarkában lévő öntött elemek biztonságos rögzítéséhez. Lehetővé teszi a konténerek rugalmas használatát különböző környezetekben és célokra."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Mi az a ConFoot CFU?"
+    answer: |
+      A ConFoot CFU egy magasságállítható konténertalp, amely lehetővé teszi a konténer magasságának beállítását a földszinttől 1,5 méterig, további eszközök nélkül a konténer mozgatásához.
+  - question: "Hogyan működik a ConFoot CFU?"
+    answer: |
+      A ConFoot CFU közvetlenül rögzül a konténer sarkán található öntött elemekhez, stabil alapot biztosítva a rakodáshoz, lerakodáshoz és ideiglenes tároláshoz. Állítható kialakításának köszönhetően a konténerek az optimális magasságban helyezhetők el az adott igényekhez igazodva. A rendszer több, egyenként 25 kg alatti súlyú elemből áll, így a kezelők számára könnyen mozgatható, míg az összeszerelt láb tömege 46 kg. Az egyszerű rögzítési mechanizmus gyors telepítést és eltávolítást tesz lehetővé, jelentősen csökkentve a konténerkezelési műveletekhez szükséges időt és erőforrásokat.
 specifications:
   - name: "Tömeg"
     value: "46 kg összeszerelve (egyedi elemek súlya kevesebb, mint 25 kg)"

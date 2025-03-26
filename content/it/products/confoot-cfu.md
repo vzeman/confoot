@@ -9,6 +9,13 @@ gallery:
 shortDescription: "ConFoot CFU è un piede per container regolabile in altezza che consente di modificare l'altezza del container dal livello del suolo fino a 1,5 metri, senza necessità di attrezzature aggiuntive per la movimentazione."
 technicalDescription: "Il ConFoot CFU è realizzato in acciaio di alta qualità e presenta il nostro meccanismo di bloccaggio brevettato per un fissaggio sicuro ai castelli d'angolo del container. Consente un utilizzo flessibile dei container in diversi ambienti e per vari scopi."
 videoID: "HDhFIRA-oZU"
+faq:
+  - question: "Che cos'è il ConFoot CFU?"
+    answer: |
+      ConFoot CFU è un piede per container regolabile in altezza che consente di modificare l'altezza del container dal livello del suolo fino a 1,5 metri, senza necessità di attrezzature aggiuntive per la movimentazione.
+  - question: "Come funziona il ConFoot CFU?"
+    answer: |
+      Il ConFoot CFU si fissa direttamente ai castelli d'angolo del container, offrendo una base stabile per il carico, scarico e lo stoccaggio temporaneo. Il suo design regolabile garantisce flessibilità nel posizionamento dei container all'altezza ottimale secondo le esigenze specifiche. Il sistema è composto da diversi pezzi con un peso individuale inferiore a 25 kg, il che facilita la movimentazione da parte degli operatori, mentre il peso totale del piedino assemblato è di 46 kg. Il semplice meccanismo di fissaggio consente un dispiegamento e una rimozione rapidi, riducendo significativamente i tempi e le risorse necessarie per le operazioni di movimentazione dei container.
 specifications:
   - name: "Peso"
     value: "46 kg assemblato (peso dei singoli pezzi inferiore a 25 kg)"

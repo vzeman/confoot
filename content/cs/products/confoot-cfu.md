@@ -41,6 +41,13 @@ benefits:
     description: "Umožňuje flexibilní využití kontejnerů v různých prostředích a pro různé účely"
   - title: "Zlepšený pracovní tok"
     description: "Zefektivňuje postupy při manipulaci s kontejnery, čímž zvyšuje provozní efektivitu"
+faq:
+  - question: "Co je ConFoot CFU?"
+    answer: |
+      ConFoot CFU je nastavitelná noha kontejneru, která vám umožňuje nastavit výšku kontejneru od úrovně země až do 1,5 metru, aniž by bylo potřeba dalšího vybavení pro manipulaci s kontejnery.
+  - question: "Jak funguje ConFoot CFU?"
+    answer: |
+      ConFoot CFU se upevňuje přímo na rohové ocely kontejneru, čímž poskytuje stabilní základ pro nakládání, vykládání a dočasné skladování. Jeho nastavitelný design zajišťuje flexibilitu při umisťování kontejnerů na optimální výšku pro vaše specifické potřeby. Systém se skládá z několika dílů, jejichž hmotnost jednotlivých částí je do 25 kg, což usnadňuje manipulaci operátorům, zatímco celková hmotnost nohy při sestavení je 46 kg. Jednoduchý mechanismus upevnění umožňuje rychlé nasazení a odstranění, čímž se výrazně snižuje čas a prostředky potřebné pro operace manipulace s kontejnery.
 articleContent: |
   ## Co je ConFoot CFU?
 
