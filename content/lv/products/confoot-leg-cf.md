@@ -93,5 +93,5 @@ articleContent: |
   - Materiāls: Augstas klases tērauds ar izturīgu apdari
   - Savietojamība: Standarta kravu konteineru stūra stiprinājumi
 
-ConFoot-leg CF ir praktisks risinājums, kas racionalizē pārvadājumu un krātuves operācijas, piedāvājot uzņēmumiem iespēju optimizēt izmaksas un laika izmantošanu. Ļaujot konteineriem gaidīt izkrašanu un izmantot tos kā papildu krātuvi, CF palīdz uzņēmumiem sasniegt lielāku efektivitāti un elastību konteineru apstrādes procesos.
+  ConFoot-leg CF ir praktisks risinājums, kas racionalizē pārvadājumu un krātuves operācijas, piedāvājot uzņēmumiem iespēju optimizēt izmaksas un laika izmantošanu. Ļaujot konteineriem gaidīt izkrašanu un izmantot tos kā papildu krātuvi, CF palīdz uzņēmumiem sasniegt lielāku efektivitāti un elastību konteineru apstrādes procesos.
 ---
